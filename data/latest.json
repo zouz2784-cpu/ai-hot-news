@@ -108,111 +108,6 @@
   ],
   "products": [
     {
-      "title": "Grok Imagine图像生成功能正式发布",
-      "summary": "Grok Imagine\n现已正式发布\n所有人都可使用\n\n基于我们最新的文本到图像模型\n能够生成逼真、高质量的图像\n支持多种宽高比\n\n现在可在 X 上使用",
-      "url": "https://x.com/elonmusk/status/2055912040481599793",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "time": "2026-05-17T07:23:22.000Z"
-    },
-    {
-      "title": "手机端ChatGPT应用集成Codex构建功能",
-      "summary": "你可以在手机端通过ChatGPT应用中的Codex直接构建项目",
-      "url": "https://x.com/gdb/status/2055882172884763012",
-      "source": "X：Greg Brockman (@gdb)",
-      "time": "2026-05-17T05:24:41.000Z"
-    },
-    {
-      "title": "Zerostack--一款采用纯Rust语言编写、受Unix启发的编程代理",
-      "summary": "Zerostack是一款采用纯Rust语言编写、受Unix哲学启发的编程代理工具，已正式发布1.0.0版本并在Rust包管理平台crates.io上提供。该发布在技术社区Hacker News上获得115点关注，反映出开发者对其的高度兴趣。Rust语言以内存安全和性能见称，Unix设计强调简洁与模块化，Zerostack结合两者优势，旨在提升编程效率，为代码辅助领域带来新选择。",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-05-17T00:46:13.673Z"
-    },
-    {
-      "title": "Codex新增键盘快捷键自定义功能",
-      "summary": "不知为何我们选择周六发布更新，但Codex确实迎来了一系列优化。\n\n这些改进让使用体验愉悦许多，实在不该拖到周二再公布。\n\n键盘快捷键现已支持自定义。\n\n根据实际工作方式配置Codex，通过设置调整快捷键，不必再迁就默认设定。",
-      "url": "https://x.com/thsottiaux/status/2055735802894954612",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-05-16T19:43:03.000Z"
-    },
-    {
-      "title": "按需定制快捷键，优化工作流效率",
-      "summary": "处理大家的反馈让我们感到太有趣了。\n（请继续反馈。）\n键盘快捷键现已支持自定义。\n围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。",
-      "url": "https://x.com/OpenAIDevs/status/2055717793841221796",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "time": "2026-05-16T18:31:30.000Z"
-    },
-    {
-      "title": "Notion推出开发者平台及CLI工具",
-      "summary": "Notion正式推出开发者平台，核心组件包括Notion CLI终端工具、Workers计算服务、数据库同步功能以及多种Agent工具与API。平台旨在让开发者更便捷地在Notion基础设施上运行代码、连接外部数据源并构建自动化工作流。未来，即使非开发者也能通过AI Agent在Notion上构建应用。",
-      "url": "https://x.com/oran_ge/status/2055539910212460878",
-      "source": "X：Oran Ge (@oran_ge)",
-      "time": "2026-05-16T06:44:39.000Z"
-    },
-    {
-      "title": "Claude Code v2.1.143 版本更新：插件管理与用户体验增强",
-      "summary": "Claude Code 发布 v2.1.143 版本，重点增强了插件管理功能，包括强制执行插件依赖关系，并新增了插件市场的预估上下文成本显示。为方便直接编辑工作副本，增加了 `worktree.bgIsolation： \"none\"` 设置。多项体验得到改进：后台会话唤醒后保留模型与努力级别设置；Windows PowerShell 工具默认绕过执行策略；`claude agents` 命令新增多个参数以配置默认会话。此外，本次更新修复了大量错误，包括修复损坏的 `.credentials.json` 文件导致 CLI 启动卡住、Windows Terminal 中的右键粘贴问题、后台会话错误",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "time": "2026-05-15T22:28:22.000Z"
-    },
-    {
-      "title": "Krea 2正式上线面向专业用户",
-      "summary": "从今天起，Krea 2 正式为 Pro 用户上线。",
-      "url": "https://x.com/krea_ai/status/2055371934452642107",
-      "source": "X：Krea AI (@krea_ai)",
-      "time": "2026-05-15T19:37:10.000Z"
-    },
-    {
-      "title": "语义代码审查工具clawpatch发布",
-      "summary": "🩹 clawpatch 0.1.0 已上线：\n\nClawpatch 将代码库映射成语义功能切片，审查其中的错误和质量问题，并记录经过验证的明确修复尝试。\n\n您会发现它能发现的问题之多令人惊讶。\nnpm install -g clawpatch\nhttps：//clawpatch.ai",
-      "url": "https://x.com/steipete/status/2055364630709448970",
-      "source": "X：Peter Steinberger (@steipete)",
-      "time": "2026-05-15T19:08:09.000Z"
-    },
-    {
-      "title": "Runway Agent一键生成完整广告",
-      "summary": "Runway Agent 让你仅需一次会话，就能从产品照片和想法转变为完全制作完成的广告。\n立即通过下方链接开始体验。",
-      "url": "https://x.com/runwayml/status/2055364605979869229",
-      "source": "X：Runway (@runwayml)",
-      "time": "2026-05-15T19:08:03.000Z"
-    },
-    {
-      "title": "OpenRouter BYOK三大升级 支持多密钥轮换",
-      "summary": "OpenRouter BYOK 三项重大升级 🔑\n\n1/ 可在同一工作空间为同一服务商添加多个密钥，并设置调用顺序。\n\n便于在速率限制间轮换、区分开发与生产凭证，或在团队账户间分配使用量！",
-      "url": "https://x.com/OpenRouter/status/2055305259287801865",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-05-15T15:12:14.000Z"
-    },
-    {
-      "title": "X平台开源\"For You\"信息流推荐算法",
-      "summary": "X平台在GitHub开源了其\"For You\"信息流的最新推荐算法。该算法融合来自已关注账号的内容和通过相似性搜索发现的网络外内容，并利用基于Grok架构的Phoenix Transformer模型进行统一评分。模型通过分析用户近期互动，同时预测点赞、回复、转发等多种互动概率，并综合成最终相关性分数。排序过程包括候选内容收集、上下文信息补充、AI模型评分、多样性调整及垃圾信息过滤等步骤。此次开源提供了完整的可运行管道、预训练模型、内容理解服务及内置广告混合模块，核心计算完全由Transformer模型驱动。",
-      "url": "https://x.com/cb_doge/status/2055280665583898691",
-      "source": "X：cb_doge (@cb_doge)",
-      "time": "2026-05-15T13:34:30.000Z"
-    },
-    {
-      "title": "OpenClaw新版本速度提升约3.5倍",
-      "summary": "最新版OpenClaw速度提升约3.5倍 🦞\n\n我们每6小时通过真实消息渠道（此处使用Telegram，采用全新的机器人间通信）对所有已发布的npm版本进行端到端RTT测试。不再有静默回归。\n\n所有运行器均在@useblacksmith CI上运行。\n在您察觉之前捕捉减速问题。",
-      "url": "https://x.com/openclaw/status/2055273947537490422",
-      "source": "X：OpenClaw (@openclaw)",
-      "time": "2026-05-15T13:07:48.000Z"
-    },
-    {
-      "title": "Pixverse模板：让你成为全场焦点",
-      "summary": "Pixverse让你成为焦点~\n用Pixverse网页版的音乐会聚光灯模板制作吧！",
-      "url": "https://x.com/PixVerse_/status/2055245210184200497",
-      "source": "X：PixVerse (@PixVerse_)",
-      "time": "2026-05-15T11:13:37.000Z"
-    },
-    {
-      "title": "开源3D生成工具包：单张图片快速构建可交互3D世界",
-      "summary": "开发者@neilsonks开源了一套专为Claude Code设计的完整3D生成工具包。该工具能将输入的单张图片自动拆解，生成包含环境、网格、物理、灯光和音频的全套可交互3D场景。其流程首先利用图像与3D生成技术提取物体并生成高质量网格，随后移除物体以得到静态背景，最后为整个场景添加物理模拟、实时灯光和环境音效。配套查看器支持对生成物体的点击编辑与一键导出。此工具将以往需数天的2D转3D工作流程缩短至几分钟，适用于游戏开发、世界构建和产品可视化等项目。项目已在GitHub开源。",
-      "url": "https://x.com/berryxia/status/2055086814009180316",
-      "source": "X：Berry Xia (@berryxia)",
-      "time": "2026-05-15T00:44:12.000Z"
-    },
-    {
       "title": "Vivago Video Agent",
       "summary": "\n            Skip the prompting. Produce consistently compelling videos. \n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/viva",
@@ -248,9 +143,30 @@
       "time": "今日"
     },
     {
+      "title": "Agentic Website Builder 2.0 by Lokuma",
+      "summary": "\n            Design, build, and run your site with a design agent harness\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agent-Sin",
+      "summary": "\n            AI agent that handles repeated tasks through reusable skills\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-sin",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Repaint",
       "summary": "\n            Rebuild your existing website with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Atter AI",
+      "summary": "\n            AI transcription app that turns meetings into action items\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -269,21 +185,56 @@
       "time": "今日"
     },
     {
-      "title": "Agent-Sin",
-      "summary": "\n            AI agent that handles repeated tasks through reusable skills\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-sin",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
+      "summary": "腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线实时评论、标注反馈和版本对比等协作功能，其微信小程序即将上线。",
+      "url": "https://www.ithome.com/0/951/677.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-18T02:43:58.000Z"
     },
     {
-      "title": "Atter AI",
-      "summary": "\n            AI transcription app that turns meetings into action items\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "一键生成韩国棒球AI视频模板爆火",
+      "summary": "那个热狗需要自己的座位\n\n【引用 @MrDasOnX】：这可能是最简单的病毒式AI编辑。\n\nPixVerse → 上传自拍 → 即时生成韩国棒球镜头视频\n\n无需指令。无需编辑。\n只需一键点击。\n\n@PixVerse_ 上的K-Baseball Sprint模板太疯狂了。",
+      "url": "https://x.com/PixVerse_/status/2056198882321904098",
+      "source": "X：PixVerse (@PixVerse_)",
+      "time": "2026-05-18T02:23:10.000Z"
+    },
+    {
+      "title": "阿里云推出HappyHorse视频生成模型",
+      "summary": "电影级AI现已到来。🐎💨\n\nHappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实感画面--在统一工作流中体验视频生成的未来。没有阻碍。只有纯粹性能。\n\n🔥 限时优惠：8折。观看演示并立即开始创作。\n\n立即访问：https：//int.alibabacloud.com/m/1000412936/",
+      "url": "https://x.com/alibaba_cloud/status/2056182152681644176",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "time": "2026-05-18T01:16:41.000Z"
+    },
+    {
+      "title": "Grok Imagine图像生成功能正式发布",
+      "summary": "Grok Imagine\n现已正式发布\n所有人都可使用\n\n基于我们最新的文本到图像模型\n能够生成逼真、高质量的图像\n支持多种宽高比\n\n现在可在 X 上使用",
+      "url": "https://x.com/elonmusk/status/2055912040481599793",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "time": "2026-05-17T07:23:22.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "The haves and have nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -334,27 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-      "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
-      "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-      "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
-      "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "突发！OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
       "summary": "OpenAI宣布进行史上最大规模重组，将ChatGPT、Codex和API三大核心产品线合并为统一组织。联合创始人兼总裁Greg Brockman正式全面接管产品战略，成为实际掌权者，而ChatGPT原负责人Nick Turley被调离核心岗位。此次重组旨在整合资源，聚焦\"智能体时代\"，并秘密开发集成多项功能的\"超级应用\"桌面端产品。与此同时，竞争对手Anthropic估值飙升至9000亿美元，使OpenAI面临严峻挑战。",
       "url": "https://www.ithome.com/0/951/258.htm",
@@ -391,6 +321,62 @@
     }
   ],
   "industry": [
+    {
+      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 72\n# Comments: 5",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "source": "Hacker News",
+      "time": "Sun, 17 May 2026 23:10:09 +0000"
+    },
+    {
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 82\n# Comments: 42",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "source": "Hacker News",
+      "time": "Sun, 17 May 2026 21:56:40 +0000"
+    },
+    {
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 164\n# Comments: 140",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "source": "Hacker News",
+      "time": "Sun, 17 May 2026 21:45:30 +0000"
+    },
+    {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
+      "url": "https://github.com/MinishLab/semble",
+      "source": "Hacker News",
+      "time": "Sun, 17 May 2026 15:37:07 +0000"
+    },
+    {
+      "title": "AI is a technology not a product",
+      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 380\n# Comments: 165",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "source": "Hacker News",
+      "time": "Sun, 17 May 2026 13:11:20 +0000"
+    },
+    {
+      "title": "I don't think AI will make your processes go faster",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 542\n# Comments: 376",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "source": "Hacker News",
+      "time": "Sun, 17 May 2026 12:13:45 +0000"
+    },
+    {
+      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd\nComments URL: https://news.ycombinator.com/item?id=48168159\nPoints: 89\n# Comments: 94",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "source": "Hacker News",
+      "time": "Sun, 17 May 2026 12:03:04 +0000"
+    },
+    {
+      "title": "人机快递分拣对决直播",
+      "summary": "Figure 直播机器人 VS 人类\n\n挑战\n\n快递分拣任务\n\n目前人类稍稍领先…😌",
+      "url": "https://x.com/xiaohu/status/2056172740873511139",
+      "source": "X：小互 (@xiaohu)",
+      "time": "2026-05-18T00:39:17.000Z"
+    },
     {
       "title": "Figure人形机器人连续自主运行四天，迈向实用化关键一步",
       "summary": "Figure公司的F.03人形机器人已进入第四天不间断自主运行测试，在真实仓库环境中24/7连续工作直至出现故障。测试核心在于评估机器人执行抓取、搬运、分拣等任务的长期耐力，并收集故障数据、维护需求及安全恢复机制等信息。这标志着人形机器人从展示单次动作的\"能动\"阶段，进入了考验持续工作能力的\"能干\"实用化关键阶段。",
@@ -439,65 +425,16 @@
       "url": "https://www.ithome.com/0/951/144.htm",
       "source": "IT之家（RSS）",
       "time": "2026-05-15T15:06:10.000Z"
-    },
-    {
-      "title": "戛纳倒计时 | Kling AI大会主讲阵容揭晓！",
-      "summary": "2026年戛纳电影节Kling AI大会将汇聚三位世界级电影制作人，展示他们运用Kling AI技术创作的标杆作品。中国动画导演魏立将分享AI生成动画《Born of the Tide》；Jon Erwin将解析为Amazon Prime制作的剧集《House of David》；Eekjun Yang则将介绍院线电影《RAPHAEL》的创作过程。三位讲者将深入探讨Kling AI在电影制作中的幕后应用，共同探索AI为影视创作带来的新可能性。活动定于2026年5月18日15：30至17：30，在戛纳影节宫主舞台举行。",
-      "url": "https://x.com/Kling_ai/status/2055302191129473502",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "time": "2026-05-15T15:00:02.000Z"
-    },
-    {
-      "title": "Databricks将GPT-5.5引入企业智能体工作流",
-      "summary": "Databricks宣布在企业智能体工作流中集成GPT-5.5模型。这一决策基于该模型在OfficeQA Pro专业基准测试中取得的突破性性能表现，创造了新的行业标杆。GPT-5.5的引入将提升企业自动化流程的准确性与效率。",
-      "url": "https://openai.com/index/databricks",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-05-15T00:00:00.000Z"
-    },
-    {
-      "title": "Anthropic的Mythos AI在五天内协助发现并利用两个未知macOS内核漏洞",
-      "summary": "据《华尔街日报》报道，Anthropic的Mythos AI工具在短短五天内，成功帮助研究人员发现了两个此前未知的macOS内核漏洞，并将其串联成一个完整的权限提升攻击链。该攻击针对操作系统最底层的核心，通过组合多个漏洞和技术，绕过了苹果的内存完整性保护机制，访问了本应受保护的系统区域。这凸显出现代macOS的防御重点已从单纯防止漏洞发现，转向增加漏洞利用难度。Mythos在此类研究中展现出强大能力，因为它能协助形成假设、分析代码行为、推理底层约束并建议利用路径，从而大幅加速传统上依赖手动、试错的研究过程。",
-      "url": "https://x.com/rohanpaul_ai/status/2055071152511594832",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-05-14T23:41:58.000Z"
-    },
-    {
-      "title": "OpenEvidence覆盖65%美国医生，shadow AI模式引关注",
-      "summary": "OpenEvidence已覆盖65%的美国医生，4月单月临床场景使用达2700万次，平均每位医生每月使用41次。平台由医生个人通过执业编号在手机上注册，医院最初不知情，Mount Sinai的AI负责人称此为shadow AI，表示其早在基层普及。医院后来才追签企业合作，OpenEvidence强调这是美国医疗史上首次让大多数医生自愿采用单一技术平台的突破。合作伙伴包括NEJM、JAMA、NCCN和Wiley，为此提供了支持。",
-      "url": "https://x.com/frxiaobei/status/2054981573150449754",
-      "source": "X：小北 (@frxiaobei)",
-      "time": "2026-05-14T17:46:01.000Z"
-    },
-    {
-      "title": "AI 热潮引发民怨：七成美国民众反对家门口建数据中心",
-      "summary": "盖洛普调查显示，高达七成美国民众反对在住宅附近建设数据中心，反对率较去年大幅上升，抵触情绪甚至超过对核电站的接受度。全美已有69个辖区出台暂停令，多地项目因抗议和监管纠纷延期。数据中心建设推高批发电价，导致用电成本激增，并引发空气污染、水资源消耗等担忧。尽管白宫要求AI企业承担配套成本，但仅为无约束力承诺，未来审批将更严苛。",
-      "url": "https://www.ithome.com/0/950/598.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-14T12:09:52.000Z"
-    },
-    {
-      "title": "OpenAI遭集体诉讼，被指通过追踪代码向Meta等泄露用户查询隐私",
-      "summary": "南加州联邦法院已受理针对OpenAI的集体诉讼，指控其在ChatGPT网站中嵌入Facebook Pixel等代码，侵犯用户隐私。当用户提交查询时，查询主题会作为浏览器标题与含Facebook唯一ID的cookies一并实时发送给Meta。OpenAI虽称仅分享\"有限标识符\"用于广告，但原告认为查询主题本身即高度敏感的个人信息。此案揭示免费AI服务的潜在代价：用户每一次查询及数字身份可能成为被交易的产品，与许多用户为逃避追踪而选择ChatGPT的初衷形成讽刺对比。",
-      "url": "https://x.com/AYi_AInotes/status/2054856518185439662",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "time": "2026-05-14T09:29:05.000Z"
-    },
-    {
-      "title": "百度推进智能体布局，以日活为关键指标",
-      "summary": "百度推进智能体组合以拥抱智能体时代，主张将日活跃智能体作为关键指标\nhttps：//www.prnewswire.com/news-releases/baidu-advances-agent-portfolio-to-embrace-the-agent-era-champions-daily-active-agents-as-key-metric-302771383.html",
-      "url": "https://x.com/Baidu_Inc/status/2054815977477738549",
-      "source": "X：百度 Baidu (@Baidu_Inc)",
-      "time": "2026-05-14T06:48:00.000Z"
-    },
-    {
-      "title": "MiMo V2.5 Pro 获设计竞技场季军",
-      "summary": "MiMo V2.5 Pro 在 @DesignArena 上刚刚获得第三名！🎉\n\nMiMo V2.5 Pro （Thinking） 在总排行榜上比 MiMo-V2.5 提升了 8 个名次，在前端编码任务中达到与 Claude Sonnet 4.6 相同的性能水平。\n\n衷心祝贺 @XiaomiMiMo 团队取得这些进步！",
-      "url": "https://x.com/XiaomiMiMo/status/2054797221250683199",
-      "source": "X：小米 MiMo (@XiaomiMiMo)",
-      "time": "2026-05-14T05:33:28.000Z"
     }
   ],
   "paper": [
+    {
+      "title": "Anthropic Claude 5天攻破Apple M5 macOS内核漏洞：5年数十亿防线，被AI一举击穿",
+      "summary": "Anthropic的Claude Mythos Preview在5天内，协助安全团队Calif成功构建并演示了首个公开的、针对Apple M5芯片macOS内核的内存破坏提权利用链。该攻击绕过了苹果耗时5年、投入数十亿美元打造的MIE硬件级内存完整性防护，从普通用户权限通过纯数据操作即可获得root权限。苹果已在后续更新中修复漏洞并致谢。此事件标志着AI驱动的安全研究能力已能极速突破顶尖硬件防护，显著改变了攻防的速度与平衡。",
+      "url": "https://x.com/berryxia/status/2056043674446995887",
+      "source": "X：Berry Xia (@berryxia)",
+      "time": "2026-05-17T16:06:26.000Z"
+    },
     {
       "title": "研究揭示LLM智能体记忆重写机制损害可靠性",
       "summary": "伊利诺伊大学与清华大学等机构的研究发现，LLM智能体虽能从经验中学习，但其通过LLM将原始经历压缩成书面教训的记忆重写机制会损害记忆可靠性。在网页购物、模拟世界及ARC风格谜题等任务测试中，反复重写记忆会导致错误分组、规则过度泛化或过拟合，使智能体遗忘细节或混淆任务类型。例如，GPT-4在无记忆时可100%解决小型ARC-AGI问题集，而建立记忆并流式更新后，性能降至约54%。研究主张智能体记忆系统应重视原始经历作为关键证据，而非自动将所有经验重写为摘要，保留原始证据并选择性摘要效果更佳。",
@@ -518,6 +455,13 @@
       "url": "https://x.com/berryxia/status/2055444087684407505",
       "source": "X：Berry Xia (@berryxia)",
       "time": "2026-05-16T00:23:53.000Z"
+    },
+    {
+      "title": "突破舒适区：面向RLVR的高效策略引导探索框架NudgeRL",
+      "summary": "强化学习与可验证奖励范式面临探索效率瓶颈。为此，研究团队提出NudgeRL框架，其核心是\"策略助推\"技术，通过为每次策略采样注入轻量级策略级上下文，引导模型产生多样化推理轨迹，无需依赖昂贵的外部监督。该框架进一步提出一个统一目标，将奖励分解为上下文间与上下文内组件，并通过蒸馏目标将有效行为迁移回基础策略。在五个高难度数学基准测试中，NudgeRL的表现优于标准GRPO方法，其效果相当于后者使用高达8倍采样预算的结果，且平均表现超过了依赖特权信息的Oracle引导基线，证明了结构化探索的高效性与可扩展性。",
+      "url": "https://arxiv.org/abs/2605.15726",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-15T00:00:00.000Z"
     },
     {
       "title": "AI自主研究实现突破：智能体在nanoGPT优化赛道上超越人类基准",
@@ -588,76 +532,6 @@
       "url": "https://x.com/EpochAIResearch/status/2053995435870892048",
       "source": "X：Epoch AI (@EpochAIResearch)",
       "time": "2026-05-12T00:27:27.000Z"
-    },
-    {
-      "title": "Learning to Explore： 通过探索感知策略优化扩展智能体推理能力",
-      "summary": "研究提出了一种探索感知的强化学习框架，使LLM智能体能够在不确定性高时才进行自适应探索。该方法通过变分推理设计了细粒度奖励函数，评估探索性行动对改善未来决策的潜力，并引入探索感知分组机制，在优化过程中将探索行动与任务完成行动分离。实验表明，该方法在一系列基于文本和GUI的智能体基准测试中取得了持续的性能提升。相关代码与模型已在GitHub和HuggingFace平台开源。",
-      "url": "https://arxiv.org/abs/2605.08978",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-12T00:00:00.000Z"
-    },
-    {
-      "title": "解决循环：语言和推理的吸引子模型",
-      "summary": "吸引子模型解决了循环Transformer训练不稳定、成本高和深度固定的问题。它通过主干模块生成初始输出嵌入，吸引子模块迭代优化固定点，并利用隐式微分计算梯度，使训练内存与有效深度无关，迭代次数自适应收敛。在语言建模中，相比标准Transformer，困惑度最高降低46.6%，下游任务准确率最高提升19.7%，训练成本更低；一个770M参数的模型性能优于1.3B参数Transformer。在推理任务中，仅2700万参数模型在约1000个示例下，于Sudoku-Extreme和Maze-Hard上准确率分别达91.4%和93.1%，优于Claude、GPT o3等前沿模型。模型还展现出均衡内化现",
-      "url": "https://arxiv.org/abs/2605.12466",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-12T00:00:00.000Z"
-    },
-    {
-      "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
-      "summary": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity cov",
-      "url": "http://arxiv.org/abs/2605.15199v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
-      "summary": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models during reasoning, but this is computationally expensive and architecturally non-trivial. Recent alterna",
-      "url": "http://arxiv.org/abs/2605.15198v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
-      "summary": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their decoders often remain unconditional. We observe that this architectural asymmetry leads to significant ",
-      "url": "http://arxiv.org/abs/2605.15196v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
-      "summary": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we propose building grounded simulations that replay real-world events in the order they occurred. We ",
-      "url": "http://arxiv.org/abs/2605.15188v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
-      "summary": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite their strong performance in static scene perception, these models remain limited in responding to dyn",
-      "url": "http://arxiv.org/abs/2605.15186v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
-      "summary": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video evaluation pipelines rely heavily on human judgment or learned graders, which can be subjective and wea",
-      "url": "http://arxiv.org/abs/2605.15185v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
-      "summary": "Mechanistic interpretability aims to break models into meaningful parts; verifying that two such parts implement the same computation is a prerequisite. Existing similarity measures evaluate either empirical behaviour, leaving them blind to out-of-distribution mechanisms, or basis-dependent paramete",
-      "url": "http://arxiv.org/abs/2605.15183v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
-      "summary": "Scaling Scientific Machine Learning (SciML) toward universal foundation models is bottlenecked by negative transfer: the simultaneous co-training of disparate partial differential equation (PDE) regimes can induce gradient conflict, unstable optimization, and plasticity loss in dense neural operator",
-      "url": "http://arxiv.org/abs/2605.15179v1",
-      "source": "arXiv",
-      "time": "今日"
     }
   ],
   "tips": []
