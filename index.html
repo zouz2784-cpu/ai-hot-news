@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI HOT 晨报 · 实时动态版</title>
+<style>
+  :root {
+    --orange-100: #fff3e0; --orange-200: #ffe0b2; --orange-400: #ffa726;
+    --orange-500: #ff9800; --orange-600: #fb8c00;
+    --red-400: #ef5350; --red-500: #f44336; --red-600: #e53935;
+    --purple-600: #8e24aa; --purple-400: #ab47bc;
+    --green-500: #4caf50; --green-600: #43a047;
+    --blue-500: #2196f3; --blue-600: #1976d2;
+    --grad-hero: linear-gradient(135deg,#ff6b35 0%,#f7c59f 40%,#ff4e50 80%,#c0392b 100%);
+    --text-primary: #1a1a2e; --text-secondary: #4a4a6a; --text-muted: #8a8aaa;
+    --bg-main: #f8f6f4; --bg-card: #ffffff; --border: #f0e8e0;
+    --shadow-sm: 0 2px 8px rgba(255,107,53,0.08);
+    --shadow-md: 0 4px 20px rgba(255,107,53,0.14);
+    --radius-sm: 8px; --radius-md: 14px; --radius-lg: 20px;
+    --font: -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth;font-size:16px}
+  body{font-family:var(--font);background:var(--bg-main);color:var(--text-primary);line-height:1.6;min-height:100vh}
+
+  /* ── HERO ── */
+  .hero{background:var(--grad-hero);padding:2.8rem 1.5rem 3.2rem;position:relative;overflow:hidden}
+  .hero::before{content:'';position:absolute;top:-80px;right:-100px;width:360px;height:360px;border-radius:50%;background:rgba(255,255,255,0.07)}
+  .hero::after{content:'';position:absolute;bottom:-60px;left:-80px;width:260px;height:260px;border-radius:50%;background:rgba(255,255,255,0.05)}
+  .hero-inner{max-width:1100px;margin:0 auto;position:relative;z-index:1}
+  .hero-badge{display:inline-flex;align-items:center;gap:6px;background:rgba(255,255,255,0.2);border:1px solid rgba(255,255,255,0.35);color:#fff;padding:4px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;margin-bottom:0.85rem;backdrop-filter:blur(8px)}
+  .hero-badge::before{content:'🔥'}
+  .hero-title{font-size:clamp(2rem,5vw,3rem);font-weight:900;color:#fff;line-height:1.15;letter-spacing:-0.02em;text-shadow:0 2px 20px rgba(0,0,0,0.15)}
+  .hero-subtitle{color:rgba(255,255,255,0.85);font-size:1rem;margin-top:0.5rem;font-weight:400}
+  .hero-stats{display:flex;flex-wrap:wrap;gap:0.75rem;margin-top:1.8rem}
+  .stat-card{background:rgba(255,255,255,0.17);border:1px solid rgba(255,255,255,0.28);backdrop-filter:blur(12px);border-radius:var(--radius-md);padding:0.8rem 1.1rem;text-align:center;color:#fff;min-width:120px;flex:1 1 115px;transition:transform 0.2s,background 0.2s}
+  .stat-card:hover{transform:translateY(-3px);background:rgba(255,255,255,0.25)}
+  .stat-num{font-size:2.2rem;font-weight:900;line-height:1;letter-spacing:-0.03em}
+  .stat-num.total{font-size:2.8rem}
+  .stat-label{font-size:0.68rem;opacity:0.85;margin-top:3px;font-weight:500;letter-spacing:0.02em}
+
+  /* ── LIVE INDICATOR ── */
+  .live-indicator{display:inline-flex;align-items:center;gap:6px;background:rgba(76,175,80,0.2);border:1px solid rgba(76,175,80,0.4);color:#fff;padding:4px 12px;border-radius:100px;font-size:0.7rem;font-weight:600;margin-left:12px}
+  .live-dot{width:8px;height:8px;background:#4caf50;border-radius:50%;animation:pulse 2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.5}}
+
+  /* ── STICKY NAV ── */
+  .sticky-nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,0.93);backdrop-filter:blur(16px);border-bottom:1px solid var(--border);box-shadow:0 1px 12px rgba(255,107,53,0.07)}
+  .nav-inner{max-width:1100px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.4rem;overflow-x:auto;scrollbar-width:none}
+  .nav-inner::-webkit-scrollbar{display:none}
+  .nav-label{font-size:0.68rem;font-weight:700;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;white-space:nowrap;margin-right:0.4rem;flex-shrink:0}
+  .nav-link{display:flex;align-items:center;gap:5px;padding:4px 12px;border-radius:100px;text-decoration:none;font-size:0.78rem;font-weight:600;color:var(--text-secondary);white-space:nowrap;transition:background 0.18s,color 0.18s;flex-shrink:0;border:1px solid transparent}
+  .nav-link:hover{background:var(--orange-100);color:var(--red-500);border-color:var(--orange-200)}
+  .nav-count{background:var(--orange-100);color:var(--orange-600);border-radius:100px;padding:1px 7px;font-size:0.63rem;font-weight:800}
+  .nav-link.active{background:linear-gradient(90deg,#ff6b35,#f44336);color:#fff;border-color:transparent}
+  .refresh-btn{display:flex;align-items:center;gap:5px;padding:6px 14px;border-radius:100px;text-decoration:none;font-size:0.78rem;font-weight:600;background:linear-gradient(90deg,#4caf50,#43a047);color:#fff;border:none;cursor:pointer;transition:transform 0.18s,opacity 0.18s;margin-left:auto;flex-shrink:0}
+  .refresh-btn:hover{transform:scale(1.04);opacity:0.9}
+  .refresh-btn:disabled{opacity:0.6;cursor:not-allowed}
+
+  /* ── MAIN ── */
+  .main{max-width:1100px;margin:0 auto;padding:2rem 1.5rem 4rem}
+
+  /* ── SECTION ── */
+  .section{margin-bottom:2.8rem;opacity:0;transform:translateY(24px);transition:opacity 0.55s ease,transform 0.55s ease}
+  .section.visible{opacity:1;transform:translateY(0)}
+  .section-header{display:flex;align-items:center;gap:12px;margin-bottom:1.1rem;padding-bottom:0.8rem;border-bottom:2px solid var(--border)}
+  .section-icon{width:33px;height:33px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:1rem;flex-shrink:0}
+  .section-title{font-size:1.08rem;font-weight:800;color:var(--text-primary);letter-spacing:-0.01em}
+  .section-cnt{margin-left:auto;font-size:0.7rem;font-weight:700;color:var(--text-muted);background:var(--orange-100);padding:2px 10px;border-radius:100px;flex-shrink:0}
+
+  .s-models .section-icon{background:linear-gradient(135deg,#ff6b35,#ff4e50)}
+  .s-ph .section-icon{background:linear-gradient(135deg,#f7971e,#ffd200)}
+  .s-biz .section-icon{background:linear-gradient(135deg,#6a1b9a,#ab47bc)}
+  .s-products .section-icon{background:linear-gradient(135deg,#e53935,#b71c1c)}
+  .s-industry .section-icon{background:linear-gradient(135deg,#0288d1,#1976d2)}
+  .s-paper .section-icon{background:linear-gradient(135deg,#00695c,#26a69a)}
+
+  /* ── CARD GRID ── */
+  .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:0.95rem}
+  .card-grid.compact{grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0.8rem}
+
+  /* ── CARD ── */
+  .card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-md);padding:1.15rem 1.1rem 0.9rem;box-shadow:var(--shadow-sm);transition:box-shadow 0.22s,transform 0.22s,border-color 0.22s;display:flex;flex-direction:column;gap:0.55rem;position:relative;opacity:0;transform:translateY(12px)}
+  .card.loaded{opacity:1;transform:translateY(0)}
+  .card:hover{box-shadow:var(--shadow-md);transform:translateY(-3px);border-color:var(--orange-200)}
+  .card-seq{position:absolute;top:-9px;left:-9px;width:26px;height:26px;background:linear-gradient(135deg,#ff6b35,#f44336);color:#fff;border-radius:50%;font-size:0.62rem;font-weight:800;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(255,107,53,0.4)}
+  .card-source-row{display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+  .source-chip{display:inline-flex;align-items:center;gap:3px;background:var(--orange-100);color:#b34800;border-radius:100px;padding:1px 9px;font-size:0.63rem;font-weight:700;max-width:185px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex-shrink:0}
+  .card-time{font-size:0.63rem;color:var(--text-muted);margin-left:auto;white-space:nowrap}
+  .card-title{font-size:0.88rem;font-weight:700;color:var(--text-primary);line-height:1.45;letter-spacing:-0.01em}
+  .card-summary{font-size:0.78rem;color:var(--text-secondary);line-height:1.55;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .card-footer{margin-top:auto;padding-top:0.4rem;border-top:1px solid var(--border);display:flex;align-items:center;justify-content:flex-end}
+  .read-btn{display:inline-flex;align-items:center;gap:4px;padding:4px 12px;border-radius:100px;background:linear-gradient(90deg,#ff6b35,#f44336);color:#fff;font-size:0.7rem;font-weight:700;text-decoration:none;transition:opacity 0.18s,transform 0.18s,box-shadow 0.18s;box-shadow:0 2px 10px rgba(255,107,53,0.32);white-space:nowrap}
+  .read-btn:hover{opacity:0.9;transform:scale(1.04);box-shadow:0 4px 14px rgba(255,107,53,0.44)}
+  .read-btn::after{content:'↗';font-size:0.7rem}
+  .source-badge{display:inline-block;background:var(--orange-100);color:var(--orange-600);border-radius:100px;padding:1px 8px;font-size:0.6rem;font-weight:700}
+
+  /* ── COMPACT CARD ── */
+  .card-compact{padding:0.95rem 0.95rem 0.8rem;gap:0.45rem}
+  .card-compact .card-title{font-size:0.82rem}
+  .card-compact .card-summary{font-size:0.73rem;-webkit-line-clamp:2}
+  .card-compact .card-seq{top:-8px;left:-8px;width:23px;height:23px;font-size:0.58rem}
+
+  /* ── SOURCE NOTE ── */
+  .source-note{background:linear-gradient(90deg,#fff8f0,#fff3e0);border:1px solid var(--orange-200);border-radius:var(--radius-md);padding:0.9rem 1.2rem;margin-bottom:2rem;font-size:0.77rem;color:var(--text-secondary);line-height:1.65}
+  .source-note strong{color:var(--red-500)}
+  .source-note a{color:var(--orange-600);font-weight:600;text-decoration:none}
+  .source-note a:hover{text-decoration:underline}
+
+  /* ── SUB-CATEGORY LABEL ── */
+  .sub-label{font-size:0.75rem;font-weight:700;color:var(--text-secondary);margin:1rem 0 0.55rem;letter-spacing:0.02em;padding-bottom:0.4rem;border-bottom:1px dashed var(--border)}
+
+  /* ── FOOTER ── */
+  .footer{text-align:center;padding:2rem 1.5rem 3rem;color:var(--text-muted);font-size:0.75rem;line-height:1.8;border-top:1px solid var(--border)}
+  .footer a{color:var(--orange-600);text-decoration:none;font-weight:600}
+  .footer a:hover{text-decoration:underline}
+
+  /* ── RESPONSIVE ── */
+  @media(max-width:640px){
+    .hero{padding:2rem 1rem 2.8rem}
+    .hero-stats{gap:0.6rem}
+    .stat-card{min-width:80px;padding:0.65rem 0.75rem}
+    .stat-num{font-size:1.6rem}
+    .stat-num.total{font-size:2rem}
+    .main{padding:1.4rem 0.85rem 3rem}
+    .card-grid,.card-grid.compact{grid-template-columns:1fr}
+  }
+
+  /* ── ANIMATIONS ── */
+  @keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+  .card,.stat-highlight{animation:fadeUp 0.4s ease both}
+</style>
+</head>
+<body>
+
+<!-- ── HERO ── -->
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-badge">AI HOT · 晨报增强版 <span class="live-indicator"><span class="live-dot"></span>每日更新</span></div>
+    <h1 class="hero-title">今日 AI 速递</h1>
+    <p class="hero-subtitle" id="lastUpdate">正在加载数据...</p>
+    <div class="hero-stats" id="heroStats">
+      <div class="stat-card"><div class="stat-num total" id="totalCount">--</div><div class="stat-label">📰 今日总条数</div></div>
+      <div class="stat-card"><div class="stat-num" style="font-size:1.8rem" id="modelCount">--</div><div class="stat-label">🤖 模型发布</div></div>
+      <div class="stat-card"><div class="stat-num" style="font-size:1.8rem" id="phCount">--</div><div class="stat-label">🛍️ Product Hunt</div></div>
+      <div class="stat-card"><div class="stat-num" style="font-size:1.8rem" id="bizCount">--</div><div class="stat-label">💰 AI 商业化</div></div>
+      <div class="stat-card"><div class="stat-num" style="font-size:1.8rem" id="productCount">--</div><div class="stat-label">🚀 产品发布</div></div>
+      <div class="stat-card"><div class="stat-num" style="font-size:1.8rem" id="industryCount">--</div><div class="stat-label">📈 行业动态</div></div>
+      <div class="stat-card"><div class="stat-num" style="font-size:1.8rem" id="paperCount">--</div><div class="stat-label">📄 论文研究</div></div>
+    </div>
+  </div>
+</header>
+
+<!-- ── STICKY NAV ── -->
+<nav class="sticky-nav" role="navigation" aria-label="版块导航">
+  <div class="nav-inner">
+    <span class="nav-label">跳转</span>
+    <a class="nav-link" href="#models">🤖 模型 <span class="nav-count" id="navModels">0</span></a>
+    <a class="nav-link" href="#ph">🛍️ PH <span class="nav-count" id="navPH">0</span></a>
+    <a class="nav-link" href="#biz">💰 商业化 <span class="nav-count" id="navBiz">0</span></a>
+    <a class="nav-link" href="#products">🚀 产品 <span class="nav-count" id="navProducts">0</span></a>
+    <a class="nav-link" href="#industry">📈 行业 <span class="nav-count" id="navIndustry">0</span></a>
+    <a class="nav-link" href="#paper">📄 论文 <span class="nav-count" id="navPaper">0</span></a>
+  </div>
+</nav>
+
+<!-- ── MAIN ── -->
+<main class="main">
+
+  <!-- 数据源说明 -->
+  <div class="source-note">
+    <strong>📡 数据来源：</strong>
+    <strong>AIHOT API</strong>（精选 IT之家/X/36氪）+
+    <strong>Product Hunt RSS</strong>（全球 AI 产品首发）+
+    <strong>Hacker News</strong>（技术社区热点）+
+    <strong>arXiv</strong>（最新学术论文）。
+    数据每日自动更新（通过自动化任务）。
+  </div>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- SECTION 1: 模型发布/更新 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section s-models" id="models">
+    <div class="section-header">
+      <div class="section-icon">🤖</div>
+      <span class="section-title">模型发布/更新</span>
+      <span class="section-cnt" id="secModels">0 条</span>
+    </div>
+    <div class="card-grid" id="modelsGrid"></div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- SECTION 2: Product Hunt AI 产品 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section s-ph" id="ph">
+    <div class="section-header">
+      <div class="section-icon">🛍️</div>
+      <span class="section-title">Product Hunt · 最新 AI 产品</span>
+      <span class="section-cnt" id="secPH">0 条</span>
+    </div>
+    <div class="card-grid compact" id="phGrid"></div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- SECTION 3: AI 商业化 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section s-biz" id="biz">
+    <div class="section-header">
+      <div class="section-icon">💰</div>
+      <span class="section-title">AI 商业化 · 融资 & 市场洞察</span>
+      <span class="section-cnt" id="secBiz">0 条</span>
+    </div>
+    <div class="card-grid" id="bizGrid"></div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- SECTION 4: 产品发布/更新 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section s-products" id="products">
+    <div class="section-header">
+      <div class="section-icon">🚀</div>
+      <span class="section-title">产品发布/更新</span>
+      <span class="section-cnt" id="secProducts">0 条</span>
+    </div>
+    <div class="card-grid" id="productsGrid"></div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- SECTION 5: 行业动态 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section s-industry" id="industry">
+    <div class="section-header">
+      <div class="section-icon">📈</div>
+      <span class="section-title">行业动态</span>
+      <span class="section-cnt" id="secIndustry">0 条</span>
+    </div>
+    <div class="card-grid" id="industryGrid"></div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- SECTION 6: 论文研究 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <section class="section s-paper" id="paper">
+    <div class="section-header">
+      <div class="section-icon">📄</div>
+      <span class="section-title">论文研究</span>
+      <span class="section-cnt" id="secPaper">0 条</span>
+    </div>
+    <div class="card-grid" id="paperGrid"></div>
+  </section>
+
+</main>
+
+<!-- ── FOOTER ── -->
+<footer class="footer">
+  <p>📡 AI HOT 实时动态版 · 数据来源：AIHOT API + Product Hunt + Hacker News + arXiv</p>
+  <p>🔄 数据每日自动更新 · 最后更新时间：<span id="footerTime">--</span></p>
+  <p style="margin-top:0.5rem"><a href="https://aihot.virxact.com" target="_blank">访问 AIHOT</a> · <a href="https://www.producthunt.com" target="_blank">Product Hunt</a> · <a href="https://news.ycombinator.com" target="_blank">Hacker News</a></p>
+</footer>
+
+<script>
+// ==================== 工具函数 ====================
+function escapeHtml(text) {
+  if (!text) return '';
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function createCard(item, seq, section) {
+  const isCompact = section === 'ph';
+  const cardClass = isCompact ? 'card card-compact' : 'card';
+
+  const url = item.url && item.url !== '#' ? item.url : '#';
+  const linkText = url.includes('arxiv.org') ? 'arXiv' : (url.includes('producthunt') ? '查看' : '原文');
+
+  return `
+    <article class="${cardClass}" style="animation-delay:${seq * 0.05}s">
+      <div class="card-seq">${seq}</div>
+      <div class="card-source-row">
+        <span class="source-chip">${escapeHtml(item.source || 'AIHOT')}</span>
+        <span class="card-time">${escapeHtml(item.time || '未知')}</span>
+      </div>
+      <h2 class="card-title">${escapeHtml(item.title || '')}</h2>
+      <p class="card-summary">${escapeHtml(item.summary || '')}</p>
+      <div class="card-footer">
+        <a class="read-btn" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${linkText}</a>
+      </div>
+    </article>
+  `;
+}
+
+function updateStats(allData) {
+  const phProducts = allData.products.filter(p => p.source === 'Product Hunt');
+  const otherProducts = allData.products.filter(p => p.source !== 'Product Hunt');
+
+  document.getElementById('totalCount').textContent =
+    allData.models.length + phProducts.length + allData.biz.length + otherProducts.length + allData.industry.length + allData.paper.length;
+  document.getElementById('modelCount').textContent = allData.models.length;
+  document.getElementById('phCount').textContent = phProducts.length;
+  document.getElementById('bizCount').textContent = allData.biz.length;
+  document.getElementById('productCount').textContent = otherProducts.length;
+  document.getElementById('industryCount').textContent = allData.industry.length;
+  document.getElementById('paperCount').textContent = allData.paper.length;
+
+  // 更新导航
+  document.getElementById('navModels').textContent = allData.models.length;
+  document.getElementById('navPH').textContent = phProducts.length;
+  document.getElementById('navBiz').textContent = allData.biz.length;
+  document.getElementById('navProducts').textContent = otherProducts.length;
+  document.getElementById('navIndustry').textContent = allData.industry.length;
+  document.getElementById('navPaper').textContent = allData.paper.length;
+}
+
+function renderSection(gridId, data, sectionName) {
+  const grid = document.getElementById(gridId);
+  const secCnt = document.getElementById('sec' + sectionName);
+
+  if (!data || data.length === 0) {
+    grid.innerHTML = '<p style="color:#999;padding:1rem">暂无数据</p>';
+    secCnt.textContent = '0 条';
+    return;
+  }
+
+  let html = '';
+  data.forEach((item, i) => {
+    html += createCard(item, i + 1, gridId);
+  });
+
+  grid.innerHTML = html;
+  secCnt.textContent = data.length + ' 条';
+
+  // 添加加载动画
+  setTimeout(() => {
+    grid.querySelectorAll('.card').forEach((card, i) => {
+      setTimeout(() => card.classList.add('loaded'), i * 50);
+    });
+  }, 100);
+}
+
+function updateLastUpdate() {
+  const now = new Date();
+  const timeStr = now.toLocaleString('zh-CN');
+  document.getElementById('lastUpdate').textContent = timeStr + ' · 每日更新';
+  document.getElementById('footerTime').textContent = timeStr;
+}
+
+// ==================== 嵌入数据（从JSON文件读取）====================
+async function loadData() {
+  try {
+    const response = await fetch('data/latest.json');
+    if (!response.ok) throw new Error('Failed to load data');
+    const allData = await response.json();
+
+    // 分离 Product Hunt 和其他产品
+    const phProducts = allData.products.filter(p => p.source === 'Product Hunt');
+    const otherProducts = allData.products.filter(p => p.source !== 'Product Hunt');
+
+    // 渲染所有版块
+    renderSection('modelsGrid', allData.models, 'Models');
+    renderSection('phGrid', phProducts, 'PH');
+    renderSection('bizGrid', allData.biz, 'Biz');
+    renderSection('productsGrid', otherProducts, 'Products');
+    renderSection('industryGrid', allData.industry, 'Industry');
+    renderSection('paperGrid', allData.paper, 'Paper');
+
+    // 更新统计
+    updateStats(allData);
+    updateLastUpdate();
+
+    // 触发可见动画
+    document.querySelectorAll('.section').forEach(section => {
+      section.classList.add('visible');
+    });
+
+  } catch (error) {
+    console.error('数据加载失败:', error);
+    document.getElementById('lastUpdate').textContent = '数据加载失败，请刷新页面';
+  }
+}
+
+// ==================== 初始化 ====================
+document.addEventListener('DOMContentLoaded', () => {
+  loadData();
+
+  // 滚动动画
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.1 });
+
+  document.querySelectorAll('.section').forEach(section => {
+    observer.observe(section);
+  });
+});
+</script>
+</body>
+</html>
