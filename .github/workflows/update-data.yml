@@ -1,0 +1,72 @@
+name: Daily AI News Update
+
+on:
+  schedule:
+    # 每天 UTC 23:00 运行（北京时间早上7点）
+    - cron: '0 23 * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          pip install aiohttp feedparser certifi
+
+      - name: Fetch latest AI news
+        run: |
+          python fetch_ai_data.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/latest.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "📭 No new data to commit"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "📬 New data found, will commit"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          TIMESTAMP=$(date -u -d '+8 hours' '+%Y-%m-%d %H:%M' 2>/dev/null || date -u '+%Y-%m-%d %H:%M')
+          git commit -m "🔄 自动更新 AI 资讯数据 - ${TIMESTAMP} CST"
+          git push
+          echo "✅ Data pushed successfully"
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## 🤖 AI 资讯更新结果" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/latest.json ]; then
+            MODELS=$(python -c "import json; d=json.load(open('data/latest.json')); print(len(d.get('models',[])))")
+            PRODUCTS=$(python -c "import json; d=json.load(open('data/latest.json')); print(len(d.get('products',[])))")
+            BIZ=$(python -c "import json; d=json.load(open('data/latest.json')); print(len(d.get('biz',[])))")
+            INDUSTRY=$(python -c "import json; d=json.load(open('data/latest.json')); print(len(d.get('industry',[])))")
+            PAPER=$(python -c "import json; d=json.load(open('data/latest.json')); print(len(d.get('paper',[])))")
+            echo "| 版块 | 条目数 |" >> $GITHUB_STEP_SUMMARY
+            echo "|------|--------|" >> $GITHUB_STEP_SUMMARY
+            echo "| 🤖 模型发布 | ${MODELS} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 🛍️ 产品发布 | ${PRODUCTS} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 💰 AI 商业化 | ${BIZ} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 📈 行业动态 | ${INDUSTRY} |" >> $GITHUB_STEP_SUMMARY
+            echo "| 📄 论文研究 | ${PAPER} |" >> $GITHUB_STEP_SUMMARY
+          fi
