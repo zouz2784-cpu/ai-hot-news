@@ -108,9 +108,44 @@
   ],
   "products": [
     {
-      "title": "Vivago Video Agent",
-      "summary": "\n            Skip the prompting. Produce consistently compelling videos. \n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/viva",
+      "title": "Searchad.ai",
+      "summary": "\n            Run Apple Search Ads by Chatting with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/searchad-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Voiser AI",
+      "summary": "\n             Human-like AI voiceovers in 140+ languages\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Triggered Agents by Adaptive",
+      "summary": "\n            AI agents that run automatically on business events\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/triggered-agents-by-adaptive",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "SizzleAir",
+      "summary": "\n            Thermal assistant for fanless MacBook Airs\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/sizzleair",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "LandingHero AI",
+      "summary": "\n            24/7 Salesperson on Your Website\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/landinghero-ai-2",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agentspan",
+      "summary": "\n            Open-source runtime for durable AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentspan",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -122,9 +157,9 @@
       "time": "今日"
     },
     {
-      "title": "Agentmemory",
-      "summary": "\n            Persistent memory for Claude Code, Codex & coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-memory-dev",
+      "title": "Vivago Video Agent",
+      "summary": "\n            Skip the prompting. Produce consistently compelling videos. \n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/viva",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,51 +171,16 @@
       "time": "今日"
     },
     {
+      "title": "Agentmemory",
+      "summary": "\n            Persistent memory for Claude Code, Codex & coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-memory-dev",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Loova Agents",
       "summary": "\n            Your AI director for creating cinematic videos with ease\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/loova-agents",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Agentic Website Builder 2.0 by Lokuma",
-      "summary": "\n            Design, build, and run your site with a design agent harness\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Agent-Sin",
-      "summary": "\n            AI agent that handles repeated tasks through reusable skills\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-sin",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Repaint",
-      "summary": "\n            Rebuild your existing website with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Atter AI",
-      "summary": "\n            AI transcription app that turns meetings into action items\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Cleo AI",
-      "summary": "\n            AI Product Operator for AI-native teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/cleo-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AgentRail",
-      "summary": "\n            A local control plane for AI coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentrail",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -215,6 +215,34 @@
   ],
   "biz": [
     {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Kin Health raises $9M to build an AI notetaker for patients",
+      "summary": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+      "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
       "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
@@ -236,7 +264,7 @@
       "time": "今日"
     },
     {
-      "title": "The haves and have nots of the AI gold rush",
+      "title": "The haves and have-nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
       "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "source": "TechCrunch",
@@ -253,34 +281,6 @@
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "The offline desk gadget that actually got me to sit up straight",
-      "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
-      "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
-      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
-      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -322,53 +322,74 @@
   ],
   "industry": [
     {
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 72\n# Comments: 5",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 13\n# Comments: 10",
+      "url": "https://arxiv.org/abs/2601.10160",
       "source": "Hacker News",
-      "time": "Sun, 17 May 2026 23:10:09 +0000"
+      "time": "Mon, 18 May 2026 21:29:13 +0000"
     },
     {
-      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 82\n# Comments: 42",
-      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 68\n# Comments: 15",
+      "url": "https://odyssey.ml/introducing-agora-1",
       "source": "Hacker News",
-      "time": "Sun, 17 May 2026 21:56:40 +0000"
+      "time": "Mon, 18 May 2026 18:43:30 +0000"
     },
     {
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 164\n# Comments: 140",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "title": "Haiku OS runs on M1 Macs now",
+      "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 254\n# Comments: 84",
+      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
       "source": "Hacker News",
-      "time": "Sun, 17 May 2026 21:45:30 +0000"
+      "time": "Mon, 18 May 2026 18:30:55 +0000"
     },
     {
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
-      "url": "https://github.com/MinishLab/semble",
+      "title": "We let AIs run radio stations",
+      "summary": "Hey HN!I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools ",
+      "url": "https://andonlabs.com/blog/andon-fm",
       "source": "Hacker News",
-      "time": "Sun, 17 May 2026 15:37:07 +0000"
+      "time": "Mon, 18 May 2026 18:12:18 +0000"
     },
     {
-      "title": "AI is a technology not a product",
-      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 380\n# Comments: 165",
-      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\nComments URL: https://news.ycombinator.com/item?id=48182754\nPoints: 715\n# Comments: 366",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "source": "Hacker News",
-      "time": "Sun, 17 May 2026 13:11:20 +0000"
+      "time": "Mon, 18 May 2026 17:38:22 +0000"
     },
     {
-      "title": "I don't think AI will make your processes go faster",
-      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 542\n# Comments: 376",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "summary": "https://finance.yahoo.com/markets/crypto/articles/iran-start...\n\nComments URL: https://news.ycombinator.com/item?id=48182592\nPoints: 232\n# Comments: 356",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
       "source": "Hacker News",
-      "time": "Sun, 17 May 2026 12:13:45 +0000"
+      "time": "Mon, 18 May 2026 17:25:54 +0000"
     },
     {
-      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd\nComments URL: https://news.ycombinator.com/item?id=48168159\nPoints: 89\n# Comments: 94",
-      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "title": "Anthropic acquires Stainless",
+      "summary": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless\nComments URL: https://news.ycombinator.com/item?id=48182281\nPoints: 330\n# Comments: 232",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "source": "Hacker News",
-      "time": "Sun, 17 May 2026 12:03:04 +0000"
+      "time": "Mon, 18 May 2026 17:01:21 +0000"
+    },
+    {
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "summary": "Hi HN, I'm Hang, cofounder of InsForge (YC P26). InsForge is an open-source Heroku for AI coding agents: a backend platform designed for coding agents to deploy, operate, and debug end-to-end. Open source under Apache 2.0 (https://github.com/InsForge/InsForge). Quick demo here (https://youtu.be/7Bax",
+      "url": "https://github.com/InsForge/InsForge",
+      "source": "Hacker News",
+      "time": "Mon, 18 May 2026 15:40:42 +0000"
+    },
+    {
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai\nComments URL: https://news.ycombinator.com/item?id=48181125\nPoints: 385\n# Comments: 183",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "source": "Hacker News",
+      "time": "Mon, 18 May 2026 15:24:19 +0000"
+    },
+    {
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks\nComments URL: https://news.ycombinator.com/item?id=48178378\nPoints: 102\n# Comments: 28",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "source": "Hacker News",
+      "time": "Mon, 18 May 2026 11:51:05 +0000"
     },
     {
       "title": "人机快递分拣对决直播",
@@ -404,27 +425,6 @@
       "url": "https://x.com/kimmonismus/status/2055571960260645125",
       "source": "X：Kim (@kimmonismus)",
       "time": "2026-05-16T08:52:00.000Z"
-    },
-    {
-      "title": "OpenAI 与马耳他合作，向所有公民提供 ChatGPT Plus",
-      "summary": "OpenAI 与马耳他政府达成合作，将向该国所有公民免费提供 ChatGPT Plus 订阅服务。此次合作旨在扩大人工智能技术的普及范围，并包含面向公民的 AI 技能实践培训，以帮助民众负责任地使用 AI。该计划是国家级大规模推广 ChatGPT Plus 的首例，预计将提升马耳他全民的 AI 素养与应用能力。",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-05-16T00:00:00.000Z"
-    },
-    {
-      "title": "微软研究院发布AI新工具与模型",
-      "summary": "微软研究院的新工具、模型、代码库和论文现已发布。\n\n使用AI和智能体？值得关注：\n• MSR AI Frontiers的MagenticLite\n• 智能体化GitHub工作流\n• 验证优先智能体\n• 意义匹配微调\n• AI转型与经济发展",
-      "url": "https://x.com/MSFTResearch/status/2055303919497089337",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "time": "2026-05-15T15:06:54.000Z"
-    },
-    {
-      "title": "英国多部门联合警告：当前最先进 AI 模型网络攻击能力已远超专业人员，企业应做好防范措施",
-      "summary": "英国财政部、英格兰银行及金融行为监管局联合警告，当前最先进的AI模型已具备远超普通专业人员的网络攻击能力，其攻击速度更快、范围更广、成本更低。若被恶意利用，将严重威胁企业运营安全、客户数据、金融市场稳定性乃至整个金融体系。英格兰银行行长安德鲁·贝利此前已点名Anthropic的Mythos产品，网络安全专家亦警告此类AI可能强化复杂攻击，对银行业及金融技术体系构成新挑战。",
-      "url": "https://www.ithome.com/0/951/144.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-15T15:06:10.000Z"
     }
   ],
   "paper": [
