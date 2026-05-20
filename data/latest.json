@@ -1,123 +1,130 @@
 {
   "models": [
     {
-      "title": "社区协作再创佳绩，vLLM支持万亿级模型",
-      "summary": "又一次Day0协作，又一次社区胜利。感谢@vllm_project团队始终可靠的支持~ 🫡🫡",
-      "url": "https://x.com/AntLingAGI/status/2055689329339760829",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "time": "2026-05-16T16:38:23.000Z"
+      "title": "Gemini Omni发布：物理推理与多模态生成新突破",
+      "summary": "Gemini Omni不仅能构建逼真的场景，还能推理接下来应该发生什么。它结合了对物理的直观理解与Gemini在历史、科学和文化背景方面的知识。\n今日起，通过@Geminiapp + Google Flow和@YouTube Shorts，向全球Google AI Plus、Pro和Ultra订阅用户推出视频生成功能。",
+      "url": "https://x.com/sundarpichai/status/2056816915717443862",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "time": "2026-05-19T19:19:01.000Z"
     },
     {
-      "title": "Ring-2.6-1T开源并上线OpenRouter，专为智能体工作流设计",
-      "summary": "Ring-2.6-1T模型现已开源，并上线OpenRouter平台，5月底前享有75%折扣。该模型由AntLingAGI开发，是一个为现实世界智能体构建的万亿级推理模型，其核心设计目标不仅是回答问题，更是执行任务。它专注于规划步骤、使用工具、维持上下文和完成复杂工作流，具备强大的智能体执行能力和高推理模式，并采用了Async RL与IcePop训练方法。",
-      "url": "https://x.com/AntLingAGI/status/2055681163033997815",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "time": "2026-05-16T16:05:56.000Z"
+      "title": "Gemini Omni：从任意输入创造内容的新模型",
+      "summary": "到现在，你可能已经听说了 Gemini Omni，这是我们新推出的模型，旨在从任意输入（从视频开始）创造任何内容。\n但……这有什么大不了的？\n让我们来分解一下 🧵👇",
+      "url": "https://x.com/GoogleAI/status/2056816653770625406",
+      "source": "X：Google AI (@GoogleAI)",
+      "time": "2026-05-19T19:17:58.000Z"
     },
     {
-      "title": "SANA-WM：一个用于生成1分钟720p视频的26亿级开源世界模型",
-      "summary": "NVIDIA研究团队发布了SANA-WM，这是一个参数规模达26亿的开源世界模型，专门用于生成长达1分钟、分辨率为720p的视频。该模型已在GitHub页面开源，旨在推动高质量长视频生成的研发。其在Hacker News社区获得了107点热度，显示出业界对该技术进展的关注。",
-      "url": "https://nvlabs.github.io/Sana/WM",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-05-16T15:25:59.778Z"
+      "title": "谷歌发布Gemini Omni多模态生成模型",
+      "summary": "介绍Gemini Omni，我们的新模型，可以从任何输入创建任何内容，首先从视频开始。\n\n借助Gemini Omni，您可以将图像、视频和文本作为输入组合，并生成基于Gemini现实世界知识的高质量视频。#GoogleIO",
+      "url": "https://x.com/GeminiApp/status/2056814052039356806",
+      "source": "X：Gemini (@GeminiApp)",
+      "time": "2026-05-19T19:07:38.000Z"
     },
     {
-      "title": "MiniMax M2.7模型上线OrcaRouter平台",
-      "summary": "M2.7已在@OrcaRouter上线--可通过单一OpenAI兼容API访问。\n\n今天就来试试吧！🐋",
-      "url": "https://x.com/MiniMax_AI/status/2055331545402245246",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "time": "2026-05-15T16:56:41.000Z"
-    },
-    {
-      "title": "SenseNova发布增强版信息图表生成模型SenseNova-U1-8B-MoT-Infographic",
-      "summary": "SenseNova近日推出专为信息图表生成设计的增强模型SenseNova-U1-8B-MoT-Infographic。该模型能够根据指令生成多种视觉格式内容，包括海报、图表、食谱卡、明信片以及学术风格的arXiv页面等。在性能方面，模型在BizGenEval（困难版）和IGenBench（Q-ACC）两项基准测试上表现突出，相比其基础U1模型分别提升了6.8分和18.2分。目前，该模型已在Hugging Face平台开源，并提供了超过100个多样化的生成示例，供开发者和研究者参考与试用。",
-      "url": "https://x.com/SenseTime_AI/status/2055315819165597702",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "time": "2026-05-15T15:54:11.000Z"
-    },
-    {
-      "title": "inclusionAI/ARGenSeg-8B",
-      "summary": "包容性AI团队发布ARGenSeg-8B模型，致力于通过开源和开放科学推动人工智能的进步与普及。该举措强调技术民主化，使更广泛的社区能够参与AI研发与应用。开源策略将促进协作创新，加速AI工具在多元场景中的落地，降低技术门槛，推动产业生态的开放发展。",
-      "url": "https://huggingface.co/inclusionAI/ARGenSeg-8B",
-      "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
-      "time": "2026-05-15T02:33:52.000Z"
-    },
-    {
-      "title": "Granite Embedding Multilingual R2：开源多语言嵌入模型，具备32K上下文与领先检索性能",
-      "summary": "IBM Granite团队在Hugging Face发布了Granite Embedding Multilingual R2多语言文本嵌入模型。该模型采用Apache 2.0开源协议，上下文长度扩展至32K令牌，参数量低于1亿。在MTEB基准的检索评估中，它取得了同规模模型的最佳性能，尤其擅长多语言混合检索，为开发者提供了高效、轻量且可商用的嵌入解决方案。",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "title": "OlmoEarth v1.1： 更高效的模型家族",
+      "summary": "Ai2（Allen Institute for AI）在Hugging Face平台发布了OlmoEarth模型家族的1.1版本。此次更新重点提升了模型的计算效率与运行性能，通过优化的模型架构与训练策略，使OlmoEarth v1.1在保持或增强任务表现的同时，显著降低了推理所需的计算资源与时间成本。这一改进旨在让该开源模型更适用于资源受限的部署场景，推动大规模语言模型的普惠应用。",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "source": "Hugging Face：Blog（RSS）",
-      "time": "2026-05-14T18:55:01.000Z"
+      "time": "2026-05-19T18:38:09.000Z"
     },
     {
-      "title": "SenseNova U1技术报告发布，基于MoE架构开放模型权重",
-      "summary": "由联合创始人兼首席科学家李沐博士领导的团队发布了SenseNova U1技术报告，详细阐述了其架构、训练方案与创新突破。此次开源同步发布了基于混合专家模型（MoE）的新权重，旨在推动AI领域的透明度、可复现性与进一步创新。团队希望通过开放共享促进整个社区的技术发展。",
-      "url": "https://x.com/SenseTime_AI/status/2054876860711149780",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "time": "2026-05-14T10:49:56.000Z"
+      "title": "Gemini Omni：迈向AGI的世界模型",
+      "summary": "真正的\"哇\"时刻是 Gemini Omni。一个迈向 AGI 的世界模型。\n\n它可以从任何输入创建任何内容。这太疯狂了。",
+      "url": "https://x.com/kimmonismus/status/2056802929957568881",
+      "source": "X：Kim (@kimmonismus)",
+      "time": "2026-05-19T18:23:26.000Z"
     },
     {
-      "title": "inclusionAI/Ring-2.6-1T",
-      "summary": "inclusionAI发布了Ring-2.6-1T模型。该模型在Claw-Eval基准测试中取得了两项关键评估结果：在通用能力评估（General）上得分为58.4，在多轮对话评估（Multi Turn）上得分为86.8。这些分数已记录在相应的评估结果排行榜中。",
-      "url": "https://huggingface.co/inclusionAI/Ring-2.6-1T",
-      "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
-      "time": "2026-05-14T08:10:02.000Z"
+      "title": "I/O 2026： 欢迎来到自主的 Gemini 时代",
+      "summary": "Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026",
+      "source": "Google Blog：AI（RSS）",
+      "time": "2026-05-19T17:45:00.000Z"
     },
     {
-      "title": "Kimi K2.6登顶金融智能体基准榜首",
-      "summary": "Kimi K2.6 现已成为 Finance Agent Benchmark V2 开源权重排名第一。\n\n【引用 @ValsAI】：AI 能胜任金融分析师的工作吗？",
-      "url": "https://x.com/Kimi_Moonshot/status/2054803169994272819",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "time": "2026-05-14T05:57:06.000Z"
+      "title": "谷歌 Gemini Omni 全能模型发布：可从任意输入生成任意输出，一句话让 AI 修改视频",
+      "summary": "在2026年谷歌I/O开发者大会上，谷歌正式推出Gemini Omni模型。该模型代表了Gemini家族迄今最全面的能力，\"Omni\"意为全能，能够无缝处理文本、图像、音频和视频等多种信息模态，实现\"从任何输入生成任何输出\"。其核心亮点在于支持对话式编辑，用户可通过自然语言指令轻松修改视频元素。同时，谷歌发布了首款衍生模型Gemini Omni Flash，现已在Gemini App、Google Flow和YouTube Shorts中可用，后续将提供API服务。",
+      "url": "https://www.ithome.com/0/952/519.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-19T17:26:55.000Z"
     },
     {
-      "title": "AI角色实现记忆共情与主动交互",
-      "summary": "如果AI角色能够记忆、共情并主动交互呢？✨\n\n交互式AI的未来已来。无论您是为游戏、虚拟AI伴侣还是自适应学习进行开发，Qwen-Character都能打造沉浸式角色扮演体验，推动参与度加深50%以上并提升用户终身价值\n\n👉 观看完整视频了解运作原理：https：//int.alibabacloud.com/m/1000412854/\n\n#AlibabaCloud #Qwen #QwenCharacter #ModelStudio #AI",
-      "url": "https://x.com/alibaba_cloud/status/2054653031472414864",
+      "title": "谷歌发布Gemini Omni Flash，Pro版即将推出",
+      "summary": "谷歌 I/O 🔥：GEMINI OMNI FLASH 已发布，现已在 GEMINI 和 GOOGLE FLOW 上可用。\n\nGEMINI OMNI PRO 即将推出 🤩",
+      "url": "https://x.com/testingcatalog/status/2056787680944406538",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "time": "2026-05-19T17:22:51.000Z"
+    },
+    {
+      "title": "Gemini Omni发布：多模态生成新突破",
+      "summary": "我们推出Gemini Omni：这是迈向一个能从任何内容生成任何内容的模型的第一步--从视频开始。\n它结合了Gemini的智能与我们的生成式媒体系统--代表了在世界理解、多模态和编辑方面的飞跃🧵",
+      "url": "https://x.com/GoogleDeepMind/status/2056786446636212467",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "time": "2026-05-19T17:17:56.000Z"
+    },
+    {
+      "title": "Gemini Omni发布，迈向AGI新进展",
+      "summary": "\"迈向AGI的进展\"：Gemini Omni\n\n- 世界模型\n-Gemini Omni官方发布！！\n\n它可以从任何输入创建任何内容！！！",
+      "url": "https://x.com/kimmonismus/status/2056786433458000041",
+      "source": "X：Kim (@kimmonismus)",
+      "time": "2026-05-19T17:17:53.000Z"
+    },
+    {
+      "title": "地平线开源 HoloMotion-1 4 亿参数机器人小脑大模型，可实现舞蹈、健身、搬箱子等动作",
+      "summary": "地平线机器人实验室发布了其开源的人形机器人全身控制模型 HoloMotion-1。这是一个拥有 4 亿参数的\"小脑\"大模型，通过 MoE 稀疏激活与 KV-cache 推理机制，在端侧实现了约 300FPS 的实时推理能力。该模型利用互联网视频、光学动捕、VR 遥操作等多种来源的动作数据进行训练，并在真实机器人上成功展示了舞蹈、爬行、健身、搬箱子等复杂动作的零样本迁移能力。相关代码与技术报告已公开。",
+      "url": "https://www.ithome.com/0/952/354.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-19T08:08:57.000Z"
+    },
+    {
+      "title": "Qwen3.7预览版登陆竞技场，阿里视觉排名升至第五",
+      "summary": "🚀🚀Qwen3.7预览版登陆竞技场！\n\n⚡️⚡️Qwen3.7-Plus-Preview来了。阿里巴巴现在在视觉领域排名第五。🎨\n\n迫不及待要发布Qwen3.7系列模型了！敬请期待！@arena",
+      "url": "https://x.com/alibaba_cloud/status/2056570869548478592",
       "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "time": "2026-05-13T20:00:30.000Z"
+      "time": "2026-05-19T03:01:19.000Z"
     },
     {
-      "title": "Krea 2发布访问码，限量体验",
-      "summary": "Krea 2 访问码发放！\n\nK2-PRFUF8 / K2-NRWW9E / K2-CAP48S - 每个码可使用50次。\n\n访问链接如下 👇\n\n【引用 @krea_ai】：this is Krea 2.\n\nour first foundation model， built completely from scratch for aesthetic diversity and stylistic control.\n\nlearn more and get early access 👇",
-      "url": "https://x.com/krea_ai/status/2054611917365526793",
-      "source": "X：Krea AI (@krea_ai)",
-      "time": "2026-05-13T17:17:08.000Z"
+      "title": "首个实时多agent世界模型发布，人类可与AI同屏互动",
+      "summary": "奥德赛实验室推出Agora-1，这是全球首个实时多agent世界模型，允许多人与AI同时在同一个模拟世界中实时互动并相互影响。该模型以经典游戏GoldenEye死亡竞赛为演示场景，提供可玩研究预览，用户现在即可体验与AI共同参与动态生成的模拟世界。这标志着从单人生成视频向多人共享\"活世界\"的转变，长期来看可能重塑游戏、模拟、教育、机器人及AI协作等领域，使人类从旁观者变为与AI共同生活的参与者。",
+      "url": "https://x.com/berryxia/status/2056548546544124240",
+      "source": "X：Berry Xia (@berryxia)",
+      "time": "2026-05-19T01:32:36.000Z"
     },
     {
-      "title": "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南",
-      "summary": "SenseNova-U1 技术报告详尽披露了构建前沿原生多模态模型的方法，核心包括原生多模态统一建模、无损视觉接口、联合自回归与像素空间流匹配训练、以及原生混合专家骨干网络。报告提供了六阶段训练方案、强化学习后训练与蒸馏的完整实践指南。其开源版本 SenseNova-U1-A3B-MoT 基于混合专家架构，仅激活30亿参数，实现了高效快速的性能。相关资源已全面开放，涵盖技术报告、模型权重、代码和演示平台。",
-      "url": "https://x.com/SenseTime_AI/status/2054446490420924558",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "time": "2026-05-13T06:19:47.000Z"
+      "title": "介绍 Ettin Reranker 系列",
+      "summary": "通过开源和开放科学的方式推动人工智能的发展与普及。该机构正式发布了 Ettin Reranker 系列模型，这是一组用于重排序的开源工具，旨在降低先进AI技术的使用门槛，促进技术普惠。",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "source": "Hugging Face：Blog（RSS）",
+      "time": "2026-05-19T00:00:00.000Z"
     },
     {
-      "title": "Hy3预览版登陆GMI，开源最强模型领跑",
-      "summary": "Hy3 预览版现已登陆 @gmi_cloud。🙌",
-      "url": "https://x.com/TencentHunyuan/status/2054403079433572357",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "time": "2026-05-13T03:27:17.000Z"
-    },
-    {
-      "title": "Step Image Edit 2图像模型发布，性能领先且高效",
-      "summary": "Step Image Edit 2模型正式发布。这是一个35亿参数的图像模型，在指令式图像编辑的权威基准KRIS-Bench中，于综合、事实和概念类别均排名第一，性能超越参数量为其5-6倍的模型。其核心能力包括文生图、基于指令的图像编辑、精准的中英双语文字渲染以及保持主体一致性的风格迁移。该模型生成速度快，单次编辑成本低，目前已上线Stepfun开放平台。",
-      "url": "https://x.com/StepFun_ai/status/2054282965652471918",
-      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "time": "2026-05-12T19:30:00.000Z"
+      "title": "推出Gemini Omni多模态AI模型",
+      "summary": "谷歌推出原生多模态AI模型Gemini Omni，能够整合视频、图像、音频和文本等多种输入，生成高质量视频内容。其核心能力是通过自然语言对话进行视频编辑，并能保持角色一致性、物理规律与场景连贯性。首个模型Gemini Omni Flash已上线，未来将支持图像和音频输出。Gemini Omni结合了对物理世界的直觉理解与丰富的知识库，支持从写实到叙事的创意生成，并可通过多轮对话持续编辑视频，而不丢失原始场景上下文。",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-05-17T19:50:57.000Z"
     }
   ],
   "products": [
     {
-      "title": "Searchad.ai",
-      "summary": "\n            Run Apple Search Ads by Chatting with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/searchad-ai",
+      "title": "Thinnest AI",
+      "summary": "\n            Build Voice AI Agents in 100+ languages for ₹1.5/min\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/thinnest-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Voiser AI",
-      "summary": "\n             Human-like AI voiceovers in 140+ languages\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+      "title": "Trainer",
+      "summary": "\n            Train AI agents by recording your screen\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/trainer-2",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "CaseGap AI",
+      "summary": "\n            Find law firm revenue leaks, then fix them\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/casegap-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,16 +143,30 @@
       "time": "今日"
     },
     {
-      "title": "LandingHero AI",
-      "summary": "\n            24/7 Salesperson on Your Website\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/landinghero-ai-2",
+      "title": "Agentspan",
+      "summary": "\n            Open-source runtime for durable AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentspan",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Agentspan",
-      "summary": "\n            Open-source runtime for durable AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentspan",
+      "title": "Searchad.ai",
+      "summary": "\n            Run Apple Search Ads by Chatting with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/searchad-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Voiser AI",
+      "summary": "\n             Human-like AI voiceovers in 140+ languages\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "LandingHero AI",
+      "summary": "\n            24/7 Salesperson on Your Website\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/landinghero-ai-2",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -157,290 +178,311 @@
       "time": "今日"
     },
     {
-      "title": "Vivago Video Agent",
-      "summary": "\n            Skip the prompting. Produce consistently compelling videos. \n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/viva",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "在OpenClaw中使用Grok",
+      "summary": "5月22日，xAI宣布，其用户现可在开源个人助理OpenClaw中直接使用Grok模型。所有持有SuperGrok或X Premium订阅的用户均可使用该功能。OpenClaw是一个开源的、本地优先的智能助手，可在多种硬件上运行并保持跨会话记忆，同时能接入WhatsApp、Telegram等多款主流通讯平台。用户通过简单安装和登录，即可在自有设备上运行OpenClaw，并通过其界面或关联的聊天工具与Grok交互。此举进一步扩展了Grok的应用场景，未来还将推出更多开源代理与集成支持。",
+      "url": "https://x.ai/news/grok-openclaw",
+      "source": "xAI：News（网页）",
+      "time": "2026-05-22T00:00:00.000Z"
     },
     {
-      "title": "ChatGPT for Personal Finance",
-      "summary": "\n            Personal finance guidance powered by ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Ramp利用Gemini API构建高级财务代理",
+      "summary": "通过使用Gemini API中的新托管代理功能，@Ramp在无需接触后端基础设施的情况下构建了其高级财务代理。\n\n了解更多 ↓",
+      "url": "https://x.com/googleaidevs/status/2056874010265485341",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "time": "2026-05-19T23:05:53.000Z"
     },
     {
-      "title": "Agentmemory",
-      "summary": "\n            Persistent memory for Claude Code, Codex & coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-memory-dev",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Claude Code v2.1.145版本更新",
+      "summary": "本次更新为Claude Code工具带来了多项功能增强与问题修复。新功能包括：新增JSON格式的会话列表命令以便脚本化操作，并在OTEL追踪中完善了Agent父子关系。插件浏览界面现可预览详细信息。在稳定性方面，修复了权限提示被绕过的安全问题、MCP参数校验错误、终端窗口调整后的显示冻结，以及非ASCII名称导致的API调用失败等问题。同时改进了Read工具的文件超限处理，并优化了任务列表排序和状态栏信息显示等交互细节，整体提升了工具的易用性与可靠性。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.145",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "time": "2026-05-19T21:31:07.000Z"
     },
     {
-      "title": "Loova Agents",
-      "summary": "\n            Your AI director for creating cinematic videos with ease\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/loova-agents",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "谷歌推出全新AI智能搜索框，支持多模态交互",
+      "summary": "谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。",
+      "url": "https://x.com/GoogleAI/status/2056845506601718271",
+      "source": "X：Google AI (@GoogleAI)",
+      "time": "2026-05-19T21:12:37.000Z"
     },
     {
-      "title": "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
-      "summary": "腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线实时评论、标注反馈和版本对比等协作功能，其微信小程序即将上线。",
-      "url": "https://www.ithome.com/0/951/677.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-18T02:43:58.000Z"
-    },
-    {
-      "title": "一键生成韩国棒球AI视频模板爆火",
-      "summary": "那个热狗需要自己的座位\n\n【引用 @MrDasOnX】：这可能是最简单的病毒式AI编辑。\n\nPixVerse → 上传自拍 → 即时生成韩国棒球镜头视频\n\n无需指令。无需编辑。\n只需一键点击。\n\n@PixVerse_ 上的K-Baseball Sprint模板太疯狂了。",
-      "url": "https://x.com/PixVerse_/status/2056198882321904098",
-      "source": "X：PixVerse (@PixVerse_)",
-      "time": "2026-05-18T02:23:10.000Z"
-    },
-    {
-      "title": "阿里云推出HappyHorse视频生成模型",
-      "summary": "电影级AI现已到来。🐎💨\n\nHappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实感画面--在统一工作流中体验视频生成的未来。没有阻碍。只有纯粹性能。\n\n🔥 限时优惠：8折。观看演示并立即开始创作。\n\n立即访问：https：//int.alibabacloud.com/m/1000412936/",
-      "url": "https://x.com/alibaba_cloud/status/2056182152681644176",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "time": "2026-05-18T01:16:41.000Z"
-    },
-    {
-      "title": "Grok Imagine图像生成功能正式发布",
-      "summary": "Grok Imagine\n现已正式发布\n所有人都可使用\n\n基于我们最新的文本到图像模型\n能够生成逼真、高质量的图像\n支持多种宽高比\n\n现在可在 X 上使用",
-      "url": "https://x.com/elonmusk/status/2055912040481599793",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "time": "2026-05-17T07:23:22.000Z"
+      "title": "更智能的 Google AI Edge Gallery：MCP 集成、通知和会话连续性",
+      "summary": "Google AI Edge Gallery 应用在安卓平台上扩展了设备端 AI 能力，通过引入对开源模型上下文协议（MCP）的实验性支持，使得 Gemma 4 模型能够协调处理跨 Google Workspace 和 Google Maps 等外部数据源的复杂任务。此次更新添加了\"定时通知\"技能，用于实现日常事务的自动化管理，并新增了持久化聊天记录功能，允许用户近乎即时地恢复长会话上下文。该平台依托开源工具包，积极鼓励社区开发者通过其 GitHub 仓库构建并分享专注实用的工作流、提示配置与工具集成。",
+      "url": "https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity",
+      "source": "Google Developers Blog（RSS）",
+      "time": "2026-05-19T20:25:57.486Z"
     }
   ],
   "biz": [
     {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Kin Health raises $9M to build an AI notetaker for patients",
-      "summary": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
-      "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The haves and have-nots of the AI gold rush",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
-      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "突发！OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
-      "summary": "OpenAI宣布进行史上最大规模重组，将ChatGPT、Codex和API三大核心产品线合并为统一组织。联合创始人兼总裁Greg Brockman正式全面接管产品战略，成为实际掌权者，而ChatGPT原负责人Nick Turley被调离核心岗位。此次重组旨在整合资源，聚焦\"智能体时代\"，并秘密开发集成多项功能的\"超级应用\"桌面端产品。与此同时，竞争对手Anthropic估值飙升至9000亿美元，使OpenAI面临严峻挑战。",
-      "url": "https://www.ithome.com/0/951/258.htm",
+      "title": "Kimi最新融资获国资与央企加注，估值半年翻四倍",
+      "summary": "月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。",
+      "url": "https://www.ithome.com/0/952/336.htm",
       "source": "IT之家（RSS）",
-      "time": "2026-05-16T06:55:45.000Z"
+      "time": "2026-05-19T07:39:15.000Z"
     },
     {
-      "title": "Anthropic估值与营收飙升",
-      "summary": "Anthropic简况：\n\n估值：\n2026年2月：3500亿美元\n2026年5月：9000亿美元\n\n三个月内增长近3倍。\n\n年度经常性收入：\n2025年底：90亿美元\n2026年5月底：450亿美元\n\n五个月内增长近5倍。\n\n天啊。 via FT",
-      "url": "https://x.com/kimmonismus/status/2055222524774846576",
-      "source": "X：Kim (@kimmonismus)",
-      "time": "2026-05-15T09:43:28.000Z"
-    },
-    {
-      "title": "为 OpenAI 累计投入超 1000 亿美元，纳德拉称微软当年投资时\"没人愿意下注\"",
-      "summary": "在\"马斯克诉奥尔特曼\"庭审中，微软企业发展负责人确认，微软对OpenAI的累计投入已超过1000亿美元，其中包括130亿美元原始投资及大量Azure基础设施成本。此次合作已为微软带来约300亿美元营收。CEO纳德拉表示，微软是在\"没人愿意下注\"时承担了风险。双方已续签非独家协议，微软不再支付收入分成，并将OpenAI的分成上限设为到2030年累计380亿美元，此举较原协议节省约970亿美元。此外，微软正评估收购AI初创公司以补强人才，并调整资源投向自研模型与超级智能领域。",
-      "url": "https://www.ithome.com/0/950/728.htm",
+      "title": "谷歌联手黑石组建 AI 云公司：50 亿美元起步，2027 年冲刺 500 兆瓦",
+      "summary": "谷歌与黑石集团宣布合作成立一家新的AI云服务公司，黑石率先投入50亿美元股权资本，结合后续杠杆，总投资规模预计约250亿美元。该公司计划依托谷歌自研的TPU芯片和云基础设施，与CoreWeave等算力服务商展开竞争，并争取在2027年上线容量达500兆瓦的数据中心，相当于一座中等城市的用电规模。此举标志着谷歌迄今最大规模的对外芯片商业化尝试，将加剧与英伟达等公司在AI算力市场的角逐。",
+      "url": "https://www.ithome.com/0/952/097.htm",
       "source": "IT之家（RSS）",
-      "time": "2026-05-15T02:27:28.000Z"
+      "time": "2026-05-19T01:52:20.000Z"
     },
     {
-      "title": "Anthropic与盖茨基金会达成2亿美元合作，聚焦全球健康与教育",
-      "summary": "Anthropic与盖茨基金会建立为期四年、总额2亿美元的合作，通过资金、Claude使用额度及技术支持，共同推进全球健康、生命科学、教育及经济流动项目。合作重点包括改善中低收入国家约46亿人口的基本医疗，利用AI加速疫苗与疗法研发，并开发公共卫生数据集等公共产品。在教育领域，双方将为美国、撒哈拉以南非洲和印度的K-12学生开发AI教学工具。经济流动方面则关注提升小农户生产力及美国职业技能认证。首批成果预计今年晚些时候发布。",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "title": "Anthropic收购SDK平台Stainless",
+      "summary": "Anthropic正在收购@stainlessapi，这是一个SDK和MCP服务器平台，自我们API早期以来就为所有Anthropic SDK提供支持。\n\n阅读更多：https：//www.anthropic.com/news/anthropic-acquires-stainless",
+      "url": "https://x.com/AnthropicAI/status/2056419620643541012",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "time": "2026-05-18T17:00:18.000Z"
+    },
+    {
+      "title": "百度核心AI业务Q1营收超136亿元",
+      "summary": "我们的AI业务在2026年第一季度持续扩大规模。\n百度核心AI驱动业务收入超过136亿元人民币，同比增长49%，延续了多季度的增长趋势。该业务首次占百度通用业务收入的一半以上。\n本季度还体现了AI云基础设施、AI应用和Apollo Go的持续增长势头。\n完整报告：https：//bit.ly/3RMmact",
+      "url": "https://x.com/Baidu_Inc/status/2056375547400503355",
+      "source": "X：百度 Baidu (@Baidu_Inc)",
+      "time": "2026-05-18T14:05:10.000Z"
+    },
+    {
+      "title": "Anthropic收购SDK与MCP服务器工具开发商Stainless",
+      "summary": "Anthropic宣布收购SDK与MCP服务器工具开发商Stainless。Stainless自2022年成立以来，一直为Anthropic官方SDK的生成提供支持，其工具能将API规范转化为TypeScript、Python、Go等多语言的SDK、命令行工具及MCP服务器。此次收购旨在增强Claude平台的开发者体验，提升AI代理连接外部数据与工具的能力，从而在MCP协议基础上进一步拓展连接生态。",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "source": "Anthropic：Newsroom（网页）",
-      "time": "2026-05-14T15:29:57.112Z"
-    },
-    {
-      "title": "消息称 Anthropic 正就以超 9000 亿美元投前估值筹集至少 300 亿美元谈判",
-      "summary": "据报道，AI公司Anthropic正就新一轮融资进行初步谈判，目标是以超过9000亿美元的投前估值筹集至少300亿美元资金。这有望成为该公司迄今最大规模的融资轮次，交易最快可能在本月底完成。此前，Anthropic在今年2月完成了300亿美元的G轮融资，投后估值为3800亿美元，并从谷歌和亚马逊获得了150亿美元的投资承诺。为应对高昂的算力成本，公司计划于今年晚些时候进行首次公开募股（IPO）。",
-      "url": "https://www.ithome.com/0/949/715.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-13T03:48:15.000Z"
+      "time": "2026-05-17T16:00:00.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 13\n# Comments: 10",
-      "url": "https://arxiv.org/abs/2601.10160",
+      "title": "Remove AI Watermarks",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks\nComments URL: https://news.ycombinator.com/item?id=48200569\nPoints: 67\n# Comments: 40",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
       "source": "Hacker News",
-      "time": "Mon, 18 May 2026 21:29:13 +0000"
+      "time": "Tue, 19 May 2026 22:30:31 +0000"
     },
     {
-      "title": "Agora-1: The Multi-Agent World Model",
-      "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 68\n# Comments: 15",
-      "url": "https://odyssey.ml/introducing-agora-1",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/\nComments URL: https://news.ycombinator.com/item?id=48198291\nPoints: 147\n# Comments: 68",
+      "url": "https://openai.com/index/advancing-content-provenance/",
       "source": "Hacker News",
-      "time": "Mon, 18 May 2026 18:43:30 +0000"
+      "time": "Tue, 19 May 2026 19:34:30 +0000"
     },
     {
-      "title": "Haiku OS runs on M1 Macs now",
-      "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 254\n# Comments: 84",
-      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai\nComments URL: https://news.ycombinator.com/item?id=48197995\nPoints: 144\n# Comments: 34",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
       "source": "Hacker News",
-      "time": "Mon, 18 May 2026 18:30:55 +0000"
+      "time": "Tue, 19 May 2026 19:14:12 +0000"
     },
     {
-      "title": "We let AIs run radio stations",
-      "summary": "Hey HN!I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools ",
-      "url": "https://andonlabs.com/blog/andon-fm",
+      "title": "Google changes its search box",
+      "summary": "https://www.nytimes.com/2026/05/19/business/google-seach-bar..., https://archive.ph/XI1sQhttps://techcrunch.com/2026/05/19/google-search-as-you-know-...https://www.theverge.com/tech/932970/google-search-ai-update...\n\nComments URL: https://news.ycombinator.com/item?id=48197370\nPoints: 314\n# Comments:",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "source": "Hacker News",
-      "time": "Mon, 18 May 2026 18:12:18 +0000"
+      "time": "Tue, 19 May 2026 18:34:27 +0000"
     },
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\nComments URL: https://news.ycombinator.com/item?id=48182754\nPoints: 715\n# Comments: 366",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "summary": "Article URL: https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html\nComments URL: https://news.ycombinator.com/item?id=48194614\nPoints: 102\n# Comments: 37",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
       "source": "Hacker News",
-      "time": "Mon, 18 May 2026 17:38:22 +0000"
+      "time": "Tue, 19 May 2026 15:27:53 +0000"
     },
     {
-      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-      "summary": "https://finance.yahoo.com/markets/crypto/articles/iran-start...\n\nComments URL: https://news.ycombinator.com/item?id=48182592\nPoints: 232\n# Comments: 356",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "title": "I’ve joined Anthropic",
+      "summary": "https://xcancel.com/karpathy/status/2056753169888334312https://www.axios.com/2026/05/19/anthropic-openai-karpathy-a..., https://archive.ph/h6T3X\n\nComments URL: https://news.ycombinator.com/item?id=48194352\nPoints: 1109\n# Comments: 460",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
       "source": "Hacker News",
-      "time": "Mon, 18 May 2026 17:25:54 +0000"
+      "time": "Tue, 19 May 2026 15:07:45 +0000"
     },
     {
-      "title": "Anthropic acquires Stainless",
-      "summary": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless\nComments URL: https://news.ycombinator.com/item?id=48182281\nPoints: 330\n# Comments: 232",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "summary": "Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments.I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.What it does:- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models runni",
+      "url": "https://github.com/antoinezambelli/forge",
       "source": "Hacker News",
-      "time": "Mon, 18 May 2026 17:01:21 +0000"
+      "time": "Tue, 19 May 2026 12:23:07 +0000"
     },
     {
-      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
-      "summary": "Hi HN, I'm Hang, cofounder of InsForge (YC P26). InsForge is an open-source Heroku for AI coding agents: a backend platform designed for coding agents to deploy, operate, and debug end-to-end. Open source under Apache 2.0 (https://github.com/InsForge/InsForge). Quick demo here (https://youtu.be/7Bax",
-      "url": "https://github.com/InsForge/InsForge",
-      "source": "Hacker News",
-      "time": "Mon, 18 May 2026 15:40:42 +0000"
+      "title": "创新一周年：庆祝Google Cloud x NVIDIA开发者社区达到10万会员",
+      "summary": "Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10万。社区为开发者提供先进AI基础设施与资源支持，包括LLM优化、GPU加速数据分析等专项学习路径及专家网络研讨会。第二年计划将进一步扩展，推出实践实验室、工程活动及聚焦代理式AI增长的专项内容。",
+      "url": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community",
+      "source": "Google Developers Blog（RSS）",
+      "time": "2026-05-19T21:25:58.418Z"
     },
     {
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai\nComments URL: https://news.ycombinator.com/item?id=48181125\nPoints: 385\n# Comments: 183",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "source": "Hacker News",
-      "time": "Mon, 18 May 2026 15:24:19 +0000"
+      "title": "Gemini月活用户超9亿，回顾年度重大功能发布",
+      "summary": "每月有超过9亿用户使用Gemini应用。\n\n这一增长的重要部分源于我们快速的发布节奏。以下是过去一年我们推出的一些最重要功能的回顾。🧵 #GoogleIO",
+      "url": "https://x.com/GeminiApp/status/2056799436052017597",
+      "source": "X：Gemini (@GeminiApp)",
+      "time": "2026-05-19T18:09:33.000Z"
     },
     {
-      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks\nComments URL: https://news.ycombinator.com/item?id=48178378\nPoints: 102\n# Comments: 28",
-      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-      "source": "Hacker News",
-      "time": "Mon, 18 May 2026 11:51:05 +0000"
+      "title": "Google I/O 2026",
+      "summary": "在Google I/O 2026大会上，Google宣布了多项旨在让AI更普惠、更实用的更新。这些发布聚焦于提升人工智能的辅助能力，使其能够服务更广泛的用户群体。大会涵盖了AI在开发者工具、用户应用以及日常生活场景中的具体改进，强调通过技术优化实现更自然、更便捷的人机交互体验。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
+      "source": "Google Blog：AI（RSS）",
+      "time": "2026-05-19T17:45:00.000Z"
     },
     {
-      "title": "人机快递分拣对决直播",
-      "summary": "Figure 直播机器人 VS 人类\n\n挑战\n\n快递分拣任务\n\n目前人类稍稍领先…😌",
-      "url": "https://x.com/xiaohu/status/2056172740873511139",
-      "source": "X：小互 (@xiaohu)",
-      "time": "2026-05-18T00:39:17.000Z"
-    },
-    {
-      "title": "Figure人形机器人连续自主运行四天，迈向实用化关键一步",
-      "summary": "Figure公司的F.03人形机器人已进入第四天不间断自主运行测试，在真实仓库环境中24/7连续工作直至出现故障。测试核心在于评估机器人执行抓取、搬运、分拣等任务的长期耐力，并收集故障数据、维护需求及安全恢复机制等信息。这标志着人形机器人从展示单次动作的\"能动\"阶段，进入了考验持续工作能力的\"能干\"实用化关键阶段。",
-      "url": "https://x.com/berryxia/status/2055786570570137989",
-      "source": "X：Berry Xia (@berryxia)",
-      "time": "2026-05-16T23:04:47.000Z"
-    },
-    {
-      "title": "美国开始出现人工智能相关岗位的大规模裁员",
-      "summary": "美国人工智能相关岗位正出现大规模裁员。根据彭博社报道，受AI影响的职位开始经历严重的就业岗位流失。这一趋势表明AI技术对劳动力市场的冲击已从理论讨论进入现实阶段，具体裁员数字和涉及的行业领域在进一步显现中。",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-05-16T19:58:00.612Z"
-    },
-    {
-      "title": "杭州基地启用，机器人有了国家级职业技能训练场",
-      "summary": "国家人工智能应用中试基地（具身智能）5月16日在浙江杭州挂牌启用，为机器人提供国家级职业技能训练场。该基地是集场景体验、技术展示、研发合作、产业赋能于一体的综合性平台，旨在推动具身智能技术从实验室迈向现实应用。杭州市于5月1日施行首部具身智能机器人地方性法规，支持核心研发、平台建设和场景开放。目前杭州已集聚机器人产业相关企业700余家，2025年具身智能产业集群产值达1068亿元。",
-      "url": "https://www.ithome.com/0/951/390.htm",
+      "title": "谷歌每月处理超 3200 万亿 Token，同比增长 7 倍",
+      "summary": "在2026年谷歌I/O开发者大会上，谷歌宣布其AI业务关键指标大幅增长。2026年5月，谷歌每月处理的Token数量超过3200万亿，同比增长达7倍。其Gemini App月度活跃用户已突破9亿，同比增长超过一倍，每日请求量增长超7倍。此外，Nano Banana模型已累计生成超过500亿张图片。",
+      "url": "https://www.ithome.com/0/952/518.htm",
       "source": "IT之家（RSS）",
-      "time": "2026-05-16T13:46:46.000Z"
+      "time": "2026-05-19T17:14:39.000Z"
     },
     {
-      "title": "研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统",
-      "summary": "三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。该攻击采用纯数据攻击方式，无需操纵指针，仅通过非特权用户的标准系统调用即可获取根权限。完整技术报告将在苹果发布补丁后公开。",
-      "url": "https://x.com/kimmonismus/status/2055571960260645125",
-      "source": "X：Kim (@kimmonismus)",
-      "time": "2026-05-16T08:52:00.000Z"
+      "title": "谷歌IO大会首日：创新与技术突破",
+      "summary": "欢迎来到 #GoogleIO 的第一天。\n\n我们将分享 @Google 的最新创新、产品更新和技术突破。\n\n请就座前排，观看直播 → https：//goo.gle/499OxaJ",
+      "url": "https://x.com/GoogleDeepMind/status/2056782550924996816",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "time": "2026-05-19T17:02:27.000Z"
+    },
+    {
+      "title": "Google I/O 开发者大会日程公布",
+      "summary": "Google I/O 开发者大会即将开始！\n\n✧ 上午10：00 - 主题演讲\n✧ 下午1：30 - 开发者主题演讲\n✧ 下午3：30 - Google AI 新动态\n✧ 下午4：30 - 与 @GoogleDeepMind 和 @Antigravity 共同扩展开发者生态系统\n\n时间为太平洋时间。\nhttps：//x.com/i/events/2053241348807864323",
+      "url": "https://x.com/googleaidevs/status/2056767412255805521",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "time": "2026-05-19T16:02:18.000Z"
+    },
+    {
+      "title": "Andrej加入Anthropic，马斯克也点赞",
+      "summary": "Andrej加入了Anthropic。\n连Elon都忍不住称赞Anthropic。\nAnthropic今天在Google I/O上真是气场全开。",
+      "url": "https://x.com/Yuchenj_UW/status/2056764450712256753",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "time": "2026-05-19T15:50:32.000Z"
+    },
+    {
+      "title": "安德烈·卡帕西加入Anthropic",
+      "summary": "AI领域知名专家安德烈·卡帕西于2026年5月19日宣布加入人工智能安全公司Anthropic。卡帕西此前曾是特斯拉自动驾驶AI负责人及OpenAI联合创始人，此次加盟标志着顶尖人才向AI安全与对齐研究领域的新一轮流动，进一步提升了Anthropic在行业内的研发实力与关注度。该消息发布后迅速引发广泛讨论，在技术社区获得高关注度。",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-05-19T15:33:04.992Z"
     }
   ],
   "paper": [
     {
-      "title": "Anthropic Claude 5天攻破Apple M5 macOS内核漏洞：5年数十亿防线，被AI一举击穿",
-      "summary": "Anthropic的Claude Mythos Preview在5天内，协助安全团队Calif成功构建并演示了首个公开的、针对Apple M5芯片macOS内核的内存破坏提权利用链。该攻击绕过了苹果耗时5年、投入数十亿美元打造的MIE硬件级内存完整性防护，从普通用户权限通过纯数据操作即可获得root权限。苹果已在后续更新中修复漏洞并致谢。此事件标志着AI驱动的安全研究能力已能极速突破顶尖硬件防护，显著改变了攻防的速度与平衡。",
-      "url": "https://x.com/berryxia/status/2056043674446995887",
-      "source": "X：Berry Xia (@berryxia)",
-      "time": "2026-05-17T16:06:26.000Z"
+      "title": "研究发现人类说服技巧对AI同样有效",
+      "summary": "🚨我们的论文已在PNAS发表：我们发现经典的人类说服技巧以一种\"类人\"的方式对AI有效，使其同意不当请求（将顺从率从35%提高到51%）\n该技巧对一系列主流大语言模型有效，尽管较新的模型抵抗力更强 https：//www.pnas.org/doi/10.1073/pnas.2535868123",
+      "url": "https://x.com/emollick/status/2056843673145401722",
+      "source": "X：Ethan Mollick (@emollick)",
+      "time": "2026-05-19T21:05:20.000Z"
     },
     {
-      "title": "研究揭示LLM智能体记忆重写机制损害可靠性",
-      "summary": "伊利诺伊大学与清华大学等机构的研究发现，LLM智能体虽能从经验中学习，但其通过LLM将原始经历压缩成书面教训的记忆重写机制会损害记忆可靠性。在网页购物、模拟世界及ARC风格谜题等任务测试中，反复重写记忆会导致错误分组、规则过度泛化或过拟合，使智能体遗忘细节或混淆任务类型。例如，GPT-4在无记忆时可100%解决小型ARC-AGI问题集，而建立记忆并流式更新后，性能降至约54%。研究主张智能体记忆系统应重视原始经历作为关键证据，而非自动将所有经验重写为摘要，保留原始证据并选择性摘要效果更佳。",
-      "url": "https://x.com/rohanpaul_ai/status/2055919204591902771",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-05-17T07:51:50.000Z"
+      "title": "开源古代汉字视觉感知评估基准Chronicles-OCR",
+      "summary": "开源了评估视觉大语言模型（VLLM）对古代汉字视觉感知能力的基准测试Chronicles-OCR。该数据集覆盖了从甲骨文到草书的3000年演变历程，包含7种历史书体与2800张均衡图像。评估涵盖字形定位、细粒度识别、古代文本解析和字体分类四项核心任务，旨在探究视觉分布随时间的变化如何影响模型感知。相关论文与代码已开源。",
+      "url": "https://x.com/TencentHunyuan/status/2056567125205270882",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "time": "2026-05-19T02:46:26.000Z"
+    },
+    {
+      "title": "小米斩获 CVPR 2026 NTIRE 赛事三项奖项",
+      "summary": "近日，小米在 CVPR 2026 NTIRE 图像恢复与增强赛事中获得三项大奖。小米玄戒多媒体算法团队凭借自研SPANV2方法，以综合得分4.43夺得高效超分辨率赛道冠军，实现了画质与速度的均衡提升。小米大模型应用团队通过双阶段级联框架与单步扩散技术，获得人像修复赛道冠军；并在反光消除赛道通过骨干网络升级与知识蒸馏等策略获得亚军，主观评分达4.31分，多项客观指标位列第一。",
+      "url": "https://www.ithome.com/0/952/050.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-18T23:22:40.000Z"
+    },
+    {
+      "title": "加速遗传线索以逆转细胞衰老",
+      "summary": "生物学家利用Co-Scientist这一工具，成功发现能够使人类细胞年轻化的新型因子。该研究通过人工智能加速了遗传线索的探索过程，为逆转细胞衰老领域提供了新的关键因素。这一发现标志着利用技术手段干预生物老化进程取得了实质性进展。",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-05-18T18:21:39.000Z"
+    },
+    {
+      "title": "StableVLA：无需额外数据的鲁棒视觉-语言-动作模型",
+      "summary": "视觉-语言-动作模型在面对训练数据未涵盖的视觉干扰时性能显著下降。为此，本文提出一种基于信息论的轻量级适配器模块（IB-Adapter），能从视觉输入中选择性过滤噪声，且无需额外数据或增强策略。该适配器以少于1000万的额外参数，平均提升性能30%。实验表明，即使骨干网络参数仅为0.5B（较现有7B模型小14倍），StableVLA在合成与真实视觉损坏场景下的长时程任务中，仍能达到与大模型相当的鲁棒性，并超越OpenPi基线。",
+      "url": "https://arxiv.org/abs/2605.18287",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-18T00:00:00.000Z"
+    },
+    {
+      "title": "训练后 MoE 可通过自蒸馏跳过一半专家",
+      "summary": "本文提出零专家自蒸馏适应框架，将训练完成的静态混合专家模型转换为高效动态模型。该方法通过在每个混合专家层注入零输出专家，并利用原始模型作为冻结教师进行两阶段自蒸馏适应，以实现稳定的架构转换。在两个大型开源模型及11个基准测试上的实验表明，该方法能消除超过50%的专家计算量，同时仅带来极小的准确率损失，并显著提升端到端推理速度。",
+      "url": "https://arxiv.org/abs/2605.18643",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-18T00:00:00.000Z"
+    },
+    {
+      "title": "从可运行到可交付：基于多智能体测试驱动的开发范式用于从需求生成全栈Web应用",
+      "summary": "针对编码智能体生成的Web应用超70%不满足需求的问题，本文提出TDDev框架。该框架通过三阶段实现自动化闭环：先将需求转化为结构化测试，再通过浏览器模拟交互验证应用，最后将故障转化为修复报告。首次针对Web应用生成的TDD实证研究发现，引入TDD基础设施可提升质量34-48个百分点。关键结论是最佳协议需与模型生成风格匹配，不匹配将完全抵消TDD优势并最多增加25倍Token消耗。用户研究证实，该框架使人工干预降为零，开发转向自主反馈优化。",
+      "url": "https://arxiv.org/abs/2605.17242",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-17T00:00:00.000Z"
+    },
+    {
+      "title": "OProver：一个统一的智能体化形式定理证明框架",
+      "summary": "OProver是首个将智能体化证明过程深度整合到定理证明器训练中的统一框架，而非仅在推理时应用。该框架通过持续预训练和迭代式后训练进行优化，每次迭代均执行智能体化证明，并将新验证的证明索引至OProofs数据集和检索记忆中。OProofs数据集规模庞大，包含1.77M个Lean语句和6.86M个经编译器验证的证明。基于此，OProver-32B模型在MiniF2F、ProverBench和PutnamBench三个基准测试上取得了最优的Pass@32成绩，展现了超越此前所有开源全证明证明器的性能。",
+      "url": "https://arxiv.org/abs/2605.17283",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-17T00:00:00.000Z"
     },
     {
       "title": "Δ-Mem：适用于大型语言模型的高效在线内存",
@@ -448,6 +490,27 @@
       "url": "https://arxiv.org/abs/2605.12357",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-05-16T13:49:59.872Z"
+    },
+    {
+      "title": "寻找新型传染病背后的分子开关",
+      "summary": "Clare Bryant教授利用Co-Scientist这一工具，针对新兴传染病背后的基因触发因素进行研究，旨在揭示驱动这些疾病出现的分子开关机制。这项工作有望帮助快速识别潜在的新发传染病威胁，为疾病监测与早期预警提供新的技术路径。",
+      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-05-16T08:16:06.000Z"
+    },
+    {
+      "title": "加速肝脏疾病机制的发现",
+      "summary": "研究者 Filippo Menolascina 使用 AI 工具 Co-Scientist，旨在寻找新的肝脏疾病治疗方法，并解释现有药物为何仅对部分患者有效。该研究聚焦于加速对疾病机制的理解，以推动更精准的治疗方案开发。",
+      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-05-16T08:00:15.000Z"
+    },
+    {
+      "title": "WeatherNext如何帮助美国国家飓风中心更好预测飓风Melissa在牙买加的历史性登陆",
+      "summary": "WeatherNext AI模型协助气象预报员为社区在飓风Melissa登陆前提供了前所未有的准备时间。该模型通过提升预测准确性与提前量，帮助牙买加等地成功应对了这场历史性的飓风事件，显著增强了灾害预警的时效性。",
+      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-05-16T03:14:17.000Z"
     },
     {
       "title": "智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛",
@@ -464,74 +527,11 @@
       "time": "2026-05-15T00:00:00.000Z"
     },
     {
-      "title": "AI自主研究实现突破：智能体在nanoGPT优化赛道上超越人类基准",
-      "summary": "Prime Intellect 近期在AI研究自动化领域取得重要进展。他们让Claude Code与Codex智能体完全自主运行于nanoGPT速度挑战的优化器赛道，利用闲置算力完成了近万次实验，消耗约1.4万H200小时。最终，Claude Code将记录提升至2930步，超越了2990步的人类基准。实验显示，智能体在系统整合社区主流优化方法、进行超参数扫描和策略组合方面效率极高，但在要求真正创新的\"新颖性检查\"环节未能突破基线。该项目将所有实验记录、日志和代码开源，使得AI自主研究从概念转化为可复现的现实。",
-      "url": "https://x.com/berryxia/status/2055074608261578949",
-      "source": "X：Berry Xia (@berryxia)",
-      "time": "2026-05-14T23:55:42.000Z"
-    },
-    {
       "title": "教视觉-语言模型说\"电影语言\"",
       "summary": "研究团队与百余名专业创作者历时一年，构建了一个视频描述生成流程，其核心在于扩展精细化的人类-AI协同监督，而非单纯扩大模型规模。该研究（入选CVPR 2026亮点论文）指出，当前主流视频生成模型在理解和生成具有电影感的专业运镜（如希区柯克式滑动变焦、精确的焦点转移或荷兰角镜头）时存在明显不足，常产出通用或焦点错误的画面。这项工作揭示了一条通过提升监督质量来增强模型\"电影语言\"表达能力的新路径。",
       "url": "https://blog.ml.cmu.edu/2026/05/13/teaching-vision-language-models-to-speak-cinema",
       "source": "CMU：Machine Learning Blog",
       "time": "2026-05-14T03:06:13.000Z"
-    },
-    {
-      "title": "NousResearch推出Token Superposition Training技术，显著加速大语言模型预训练",
-      "summary": "NousResearch发布了Token Superposition Training（TST），这是一种改进标准大语言模型预训练流程的方法。该技术无需改变模型架构、优化器、分词器或训练数据，即可在相同计算量（FLOPs）下实现2-3倍的训练时间加速。其核心是在训练的前三分之一阶段，让模型读取并预测连续的token包，对输入嵌入进行平均，并使用改进的交叉熵损失预测下一个token包；剩余训练时间则恢复为标准的下一个token预测。推理阶段的模型与传统预训练产生的模型完全相同。该方法已在270M、600M、3B的密集模型以及10B至1B的混合专家模型规模上得到验证。",
-      "url": "https://x.com/SiliconFlowAI/status/2054755824309076359",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "time": "2026-05-14T02:48:58.000Z"
-    },
-    {
-      "title": "MemLens：大型视觉语言模型多模态长时记忆基准测试",
-      "summary": "研究团队推出MEMLENS基准，系统评估大型视觉语言模型在多模态多轮对话中的长时记忆能力。该基准包含789个问题，涵盖五大记忆能力，并在四种标准上下文长度下测试。评估27个长上下文模型和7个记忆增强代理后发现：长上下文模型在短对话中表现良好但随对话延长性能下降；记忆代理长度稳定性好但损失视觉保真度。多轮推理任务将多数系统性能限制在30%以下，表明需结合长上下文注意力与结构化多模态检索的混合架构。",
-      "url": "https://arxiv.org/abs/2605.14906",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-14T00:00:00.000Z"
-    },
-    {
-      "title": "迈向自我进化的智能文献检索系统",
-      "summary": "针对传统检索无法理解复杂意图、而前沿大语言模型成本高且存在幻觉的问题，研究团队提出了自我进化的智能文献检索系统PaSaMaster。该系统通过迭代式意图分析、检索与排序，将文献检索转变为动态演进的过程，并采用三项关键设计：利用排序证据揭示信息缺口以优化搜索；将检索定义为意图-论文相关性排序任务，从根本上杜绝虚假文献；通过分离规划与检索来提升效率，仅用大模型理解意图，而将大规模检索与评分交由轻量模型处理。在涵盖38个学科的基准测试中，该系统将传统关键词检索的F1分数提升15.6倍，完全消除了文献幻觉，且性能超越GPT-5.2达30%，计算成本仅为后者的1%。",
-      "url": "https://arxiv.org/abs/2605.14306",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-14T00:00:00.000Z"
-    },
-    {
-      "title": "通过简单统一的扩展实现奥赛金牌级推理",
-      "summary": "本文提出一种将预训练推理模型转化为严格奥赛求解器的统一方法。该方法首先采用反向困惑度课程进行监督微调，以灌输严谨的证明搜索与自我检查行为；随后通过两阶段强化学习流程扩展这些能力，最终结合测试时扩展提升性能。基于此方案训练的30B参数模型SU-01，在仅使用约34万条短轨迹微调和200步强化学习后，能稳定处理超过10万token的长轨迹难题，并在IMO、USAMO、IPhO等数学与物理奥赛中达到金牌级表现，同时展现出向数学物理之外科学领域的强推理泛化能力。",
-      "url": "https://arxiv.org/abs/2605.13301",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-13T00:00:00.000Z"
-    },
-    {
-      "title": "检索廉价，代码为王：基于可执行程序的多跳推理检索增强生成",
-      "summary": "针对多跳检索增强生成（RAG）中推理过程隐式、检索漂移及错误难以自查的问题，研究团队提出PyRAG框架，将多跳推理任务重构为程序合成与执行过程。该框架将推理步骤编写为可执行的Python程序，通过显式调用检索与问答工具实现多步计算，使中间状态变量化、反馈确定化，并生成完整可检查的推理轨迹。该方法无需额外训练即可支持基于编译器的自我修复与执行驱动的自适应检索。在PopQA、HotpotQA等五个问答基准测试中，PyRAG在无需训练和强化学习训练两种设定下均显著优于基线模型，尤其在组合式多跳数据集上提升显著。相关资源已开源。",
-      "url": "https://arxiv.org/abs/2605.12975",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-13T00:00:00.000Z"
-    },
-    {
-      "title": "AgentLens：揭示软件工程智能体评估中的\"幸运通过\"问题",
-      "summary": "当前软件工程智能体评估仅依赖最终补丁是否通过测试的二元信号，掩盖了解决方案质量的差异。研究分析了2，614条轨迹，发现在可评估的1，815条通过轨迹中，10.7%属于\"幸运通过\"，表现为回归循环、盲目重试等问题。为此，研究团队提出了用于过程级评估的AgentLens框架，并发布了标注质量分数、冗余信号等信息的AgentLens-Bench数据集。基于质量分数，通过轨迹被划分为幸运、扎实和理想三个等级，不同模型的幸运通过率介于0.5%至23.2%之间。若按质量分数而非通过率排名，部分模型的排名变化显著。相关资源已开源。",
-      "url": "https://arxiv.org/abs/2605.12925",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-13T00:00:00.000Z"
-    },
-    {
-      "title": "ExploitGym：AI智能体能否将安全漏洞转化为真实攻击？",
-      "summary": "由伯克利RDI、马克斯·普朗克安全与隐私研究所、Anthropic、OpenAI及谷歌等机构研究人员组成的团队，发布了名为ExploitGym的新基准测试。该测试包含898个真实漏洞，要求AI智能体根据漏洞描述生成完整的漏洞利用程序。结果显示，前沿AI模型已能成功利用相当数量的漏洞，即使在启用ASLR等标准防御措施后，部分攻击仍能成功。这证明AI已具备自主将漏洞转化为实际攻击的能力，该技术具有双重用途：既可帮助防御者评估漏洞严重性，也可能降低攻击者的技术门槛。",
-      "url": "https://rdi.berkeley.edu/blog/exploitgym",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "time": "2026-05-12T16:00:00.000Z"
-    },
-    {
-      "title": "FrontierMath评测发现致命错误，将更新修正后分数",
-      "summary": "我们正在对FrontierMath的Tiers 1-4进行AI辅助审查。\n这已标记出约三分之一题目存在致命错误，\n且我们相信大多数标记是有效的。\n在完成全面人工审核后，\n我们将在修正的数据集上发布更新后的分数。",
-      "url": "https://x.com/EpochAIResearch/status/2053995435870892048",
-      "source": "X：Epoch AI (@EpochAIResearch)",
-      "time": "2026-05-12T00:27:27.000Z"
     }
   ],
   "tips": []
