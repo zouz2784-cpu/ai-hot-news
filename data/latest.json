@@ -1,11 +1,25 @@
 {
   "models": [
     {
-      "title": "Aleph 2.0 与 Edit Studio",
-      "summary": "正式发布 Aleph 2.0 及配套的 Edit Studio 创作工具。此次更新实现了创作流程的全面整合，将内容生成、编辑与后期制作集中于统一平台。新版本显著优化了多模态内容的处理效率，并提供了从构思到成品的一站式解决方案，旨在为创作者提供更流畅、集成的数字内容制作体验。",
-      "url": "https://app.runwayml.com/generate?mode=edit",
-      "source": "Runway：Changelog（网页）",
-      "time": "2026-05-21T18:36:25.024Z"
+      "title": "首个基于华为昇腾910B NPU全栈训练的1.58比特开源大模型BitCPM-CANN发布",
+      "summary": "ModelBest、清华大学与OpenBMB社区联合发布了BitCPM-CANN，这是全球首个完全基于华为昇腾910B NPU训练的开源1.58比特三元大模型。其核心创新在于采用仅含三种权重状态的极低比特量化技术，使模型内存占用相比BF16降低约6倍，可高效部署于手机、电脑、车载设备等边缘端。更关键的是，整个训练全栈（从量化算子到框架）均在昇腾上原生构建与验证，而非简单移植。该模型家族（0.5B-8B）在多项基准测试上保持了全精度模型95-97%的性能，为资源受限环境下部署和复现大模型提供了可落地的解决方案。",
+      "url": "https://x.com/rohanpaul_ai/status/2057833050692800926",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-05-22T14:36:46.000Z"
+    },
+    {
+      "title": "网易有道\"子曰4\"多模态模型、语音合成模型全量开源",
+      "summary": "网易有道宣布将其\"子曰\"大模型4.0的多模态模型与语音合成模型面向全球全量开源。其中，多模态模型（27B参数）专注于教育场景，在处理高难度视觉数理问题上达到行业顶尖水平，纯文本中文数理难题准确率为81.4%。该模型通过思维链优化，将输出长度压缩43.2%，有效降低了推理成本。同时开源的语音合成模型支持跨语种音色与情感迁移克隆，3秒内即可完成零样本复制，准确度超97%，并支持包括中、英、日、韩在内的14种语言。",
+      "url": "https://www.ithome.com/0/954/124.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-22T09:45:01.000Z"
+    },
+    {
+      "title": "智谱GLM-5.1高速版发布：刷新全球大模型API速度纪录",
+      "summary": "5月22日，智谱向部分企业客户推出了旗舰大模型GLM-5.1的高速版API\"GLM-5.1-highspeed\"。该版本输出速度达400 tokens/s，刷新了全球大模型API速度上限。关键突破在于，它首次在国产大模型中实现了旗舰级能力与低延迟的结合，打破了\"高速模型即轻量模型\"的传统。该版本由智谱GLM团队与TileRT团队合作，通过系统级优化确保了速度的生产级稳定性，适用于AI编程、实时语音交互等场景。",
+      "url": "https://www.ithome.com/0/953/717.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-22T02:02:46.000Z"
     },
     {
       "title": "LongCat-Video-Avatar-1.5：升级版音频驱动数字人视频生成框架",
@@ -20,6 +34,13 @@
       "url": "https://x.com/TencentHunyuan/status/2057384034544804136",
       "source": "X：腾讯混元 (@TencentHunyuan)",
       "time": "2026-05-21T08:52:32.000Z"
+    },
+    {
+      "title": "Aleph 2.0 与 Edit Studio",
+      "summary": "正式发布 Aleph 2.0 及配套的 Edit Studio 创作工具。此次更新实现了创作流程的全面整合，将内容生成、编辑与后期制作集中于统一平台。新版本显著优化了多模态内容的处理效率，并提供了从构思到成品的一站式解决方案，旨在为创作者提供更流畅、集成的数字内容制作体验。",
+      "url": "https://app.runwayml.com/generate?mode=edit",
+      "source": "Runway：Changelog（网页）",
+      "time": "2026-05-20T16:00:00.000Z"
     },
     {
       "title": "Stability AI 推出音频模型 Stability Audio 3.0，可生成最长 6 分钟专业级歌曲",
@@ -83,41 +104,48 @@
       "url": "https://x.com/kimmonismus/status/2056802929957568881",
       "source": "X：Kim (@kimmonismus)",
       "time": "2026-05-19T18:23:26.000Z"
-    },
-    {
-      "title": "I/O 2026： 欢迎来到自主的 Gemini 时代",
-      "summary": "Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026",
-      "source": "Google Blog：AI（RSS）",
-      "time": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "title": "谷歌 Gemini Omni 全能模型发布：可从任意输入生成任意输出，一句话让 AI 修改视频",
-      "summary": "在2026年谷歌I/O开发者大会上，谷歌正式推出Gemini Omni模型。该模型代表了Gemini家族迄今最全面的能力，\"Omni\"意为全能，能够无缝处理文本、图像、音频和视频等多种信息模态，实现\"从任何输入生成任何输出\"。其核心亮点在于支持对话式编辑，用户可通过自然语言指令轻松修改视频元素。同时，谷歌发布了首款衍生模型Gemini Omni Flash，现已在Gemini App、Google Flow和YouTube Shorts中可用，后续将提供API服务。",
-      "url": "https://www.ithome.com/0/952/519.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-19T17:26:55.000Z"
-    },
-    {
-      "title": "谷歌发布Gemini Omni Flash，Pro版即将推出",
-      "summary": "谷歌 I/O 🔥：GEMINI OMNI FLASH 已发布，现已在 GEMINI 和 GOOGLE FLOW 上可用。\n\nGEMINI OMNI PRO 即将推出 🤩",
-      "url": "https://x.com/testingcatalog/status/2056787680944406538",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "time": "2026-05-19T17:22:51.000Z"
     }
   ],
   "products": [
     {
-      "title": "Tycoon AI",
-      "summary": "\n            Run one-person companies entirely with AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tycoon-us",
+      "title": "motionvid.ai",
+      "summary": "\n            Your AI Motion & Video Editor\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/motionvid-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "mailX by mailwarm",
-      "summary": "\n            Email deliverability toolkit for humans and AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
+      "title": "Nota: AI Notes & Voice",
+      "summary": "\n            Turn voice, scans, sketches, and text into notes with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "JAMtime.ai",
+      "summary": "\n            Just tell your guitar pedal how to sound\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/jamtime-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Nugget AI",
+      "summary": "\n            Turn customer interviews into your product roadmap\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/nugget-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "SuprSend AI",
+      "summary": "\n            AI-first platform for multi-channel notifications\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/suprsend",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Tycoon AI",
+      "summary": "\n            Run one-person companies entirely with AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tycoon-us",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,146 +157,118 @@
       "time": "今日"
     },
     {
-      "title": "CaseGap AI",
-      "summary": "\n            Find law firm revenue leaks, then fix them\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/casegap-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "v2.1.147版本更新",
-      "summary": "本次更新引入了`Workflow`工具，支持确定性多智能体编排（默认关闭）。将`/simplify`命令重命名为`/code-review`，现可报告代码正确性问题并支持生成GitHub PR内联评论。改进了自动更新器（增加重试与错误报告）、大文件diff渲染性能，并优化了提示历史记录以避免重复条目。修复了多个关键问题，包括企业登录限制未生效、Windows下的PowerShell工具与终端闪烁问题、插件系统及shell快照的bug，并增强了沙箱安全性与终端兼容性。",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.147",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "time": "2026-05-21T20:39:22.000Z"
-    },
-    {
-      "title": "ChatGPT现已支持在PowerPoint中直接创建编辑演示文稿",
-      "summary": "你是否曾这样想过：我真的不想做这个PPT。\n\n好消息：ChatGPT现在可以直接在PowerPoint中创建和编辑演示文稿。\n\n在PowerPoint中直接构建、更新、理解和优化演示文稿，同时保持幻灯片可编辑。\n\n目前处于测试阶段，我们期待您的反馈 👀",
-      "url": "https://x.com/ChatGPTapp/status/2057560276384563560",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "time": "2026-05-21T20:32:52.000Z"
-    },
-    {
-      "title": "Gemini扩展应用连接，支持更多服务",
-      "summary": "Gemini现在可以连接更多应用，包括@OpenTable、@Canva和@Instacart。\n\n无论您是预订餐厅、制作传单还是订购杂货，Gemini不仅能查找信息，还能通过连接的应用帮助您无缝采取行动。",
-      "url": "https://x.com/GeminiApp/status/2057550225863246236",
-      "source": "X：Gemini (@GeminiApp)",
-      "time": "2026-05-21T19:52:55.000Z"
-    },
-    {
-      "title": "Datasette Agent",
-      "summary": "Datasette Agent是Datasette推出的首个可扩展AI助手，为用户提供对话式界面以查询数据，并支持通过插件生成图表。该工具基于其LLM Python库构建，是LLM与Datasette整合的重要成果。目前提供图表生成、AI图像创建和沙箱代码执行等官方插件。它既可运行于Gemini 3.1 Flash-Lite等云端模型，也支持通过LM Studio连接本地开源模型，具备可靠的工具调用与查询能力。",
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent",
-      "source": "Simon Willison 博客",
-      "time": "2026-05-21T19:52:19.000Z"
-    },
-    {
-      "title": "Viggle推出3D格斗派对游戏Fight Anyone 3D",
-      "summary": "介绍Fight Anyone 3D🥊一款3D派对格斗游戏，可能是上班时玩起来最爽的游戏。\n\n上传任何人的照片 → 一个可玩的3D格斗角色，带有语音、个性+招牌动作，由Viggle自研游戏引擎+模型打造。\n\n公测期间100%免费+赠送20张礼品卡。玩得越多，赢得越多！\n\n和同事对战。和朋友对战。和任何人对战。链接+教程+更多内容见下方推文串 ↓",
-      "url": "https://x.com/ViggleAI/status/2057541072419520634",
+      "title": "动作捕捉与角色动画制作更轻松",
+      "summary": "动作捕捉和角色动画制作从未如此简单。\n\n持续构建，更多功能即将推出！",
+      "url": "https://x.com/ViggleAI/status/2057947352195858568",
       "source": "X：Viggle AI (@ViggleAI)",
-      "time": "2026-05-21T19:16:33.000Z"
+      "time": "2026-05-22T22:10:58.000Z"
     },
     {
-      "title": "Codex实现全天候跨设备安全操控Mac",
-      "summary": "Codex随时随地，无处不在。\n现在您的Mac无需解锁，Codex即可使用您的电脑。\n通过手机，Codex可以安全地使用您Mac上的应用程序，即使屏幕关闭且处于锁定状态。\nhttps：//developers.openai.com/codex/app/computer-use#locked-use",
-      "url": "https://x.com/OpenAIDevs/status/2057536706778378692",
+      "title": "v2.1.149 更新摘要",
+      "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云 MCP 连接器。修复了 PowerShell 权限绕过、Git 工作树沙盒写入白名单越界、脚本路径含空格时 `otelHeadersHelper` 静默失败等安全问题。改进了 `/feedback` 报告，包含上下文压缩前的对话内容，便于排查长会话中的早期问题。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "time": "2026-05-22T22:09:29.000Z"
+    },
+    {
+      "title": "Claude自动模式新增Pro计划与模型支持",
+      "summary": "自动模式的两项更新：\n\n· 现已在Pro计划中提供\n· 现已支持Sonnet 4.6，以及Opus 4.7\n\n按下Shift+tab，让Claude运行。",
+      "url": "https://x.com/ClaudeDevs/status/2057946803685974482",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "time": "2026-05-22T22:08:47.000Z"
+    },
+    {
+      "title": "新增差异标记样式设置选项",
+      "summary": "已发布剪纸功能：外观设置中新增差异标记样式。\n\n在查看差异时更喜欢经典的 + / - 标记？现在你可以选择使用它们，而不仅仅是彩色差异条。\n\n默认设置保持不变，除非你主动选择启用。",
+      "url": "https://x.com/OpenAIDevs/status/2057918624841728349",
       "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "time": "2026-05-21T18:59:12.000Z"
+      "time": "2026-05-22T20:16:49.000Z"
     },
     {
-      "title": "Codex周四更新：Appshots功能上线",
-      "summary": "又是Codex周四，我们带来了更新。\n首先是Appshots，一种将你工作上下文引入Codex的新方式。\n在Mac上，按Command-Command即可将应用窗口附加到Codex线程。Codex会获取窗口的截图和文本，包括屏幕上不可见的内容。\nAppshots已在Mac各计划中推出，企业版访问权限即将上线。",
-      "url": "https://x.com/OpenAIDevs/status/2057530207976989179",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "time": "2026-05-21T18:33:23.000Z"
+      "title": "ChatGPT语音模式实现表单语音填写",
+      "summary": "用对话处理文书工作更轻松。\n\n借助ChatGPT的图像功能和语音模式，您可以上传表单，说出要填写的内容，即可获得填写完成的版本。",
+      "url": "https://x.com/ChatGPTapp/status/2057908052968521902",
+      "source": "X：ChatGPT (@ChatGPTapp)",
+      "time": "2026-05-22T19:34:48.000Z"
     },
     {
-      "title": "合作伙伴如何运用Opus强化网络安全",
-      "summary": "多家企业正利用Claude Opus模型强化网络安全防御。Wiz通过其Red Agent，每周对超过15万个生产资产进行持续渗透测试，发现数千个高风险漏洞且误报率为零。Palo Alto Networks在不到三周内完成了相当于一年的渗透测试工作量。埃森哲将安全测试覆盖率从约10%提升至80%以上，涉及1600个应用和50万+个API，扫描周期从3-5天缩短至1小时内。应用主要围绕三个方向：开展大规模攻击性测试、缩短漏洞发现与修复的间隔，以及将受控AI系统部署到生产环境。",
-      "url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-05-21T17:43:01.640Z"
+      "title": "Warp现已支持OpenRouter接入",
+      "summary": "OpenRouter现已在@warpdotdev中得到支持！❤️\n\n工程师Dagm Assefa展示了如何连接DeepSeek和OpenRouter。\n\n文档：https：//docs.warp.dev/agent-platform/inference/custom-inference-endpoint/ 🔖",
+      "url": "https://x.com/OpenRouter/status/2057875517391667492",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-05-22T17:25:31.000Z"
     },
     {
-      "title": "Claude现已支持更多安全合规工具",
-      "summary": "Anthropic宣布为Claude企业版及平台新增28项安全与合规工具集成。这些集成均通过Claude Compliance API实现，允许企业安全团队统一获取Claude的对话内容与活动事件，从而将其纳入现有的DLP、SIEM等监控与合规流程。新增合作伙伴包括Cloudflare、CrowdStrike、Microsoft Purview等28家供应商，覆盖数据安全、身份验证等多个关键领域，帮助企业快速将Claude接入现有安全平台，实现跨组织工具的统一治理与可视化监控。",
-      "url": "https://claude.com/blog/compliance-api-security-partners",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-05-21T17:43:01.640Z"
+      "title": "谷歌I/O大会发布AI代理全套开发工具链",
+      "summary": "谷歌在I/O开发者大会宣布，系统性构建面向AI代理（Agent）的开发与部署工具链。核心更新包括：独立桌面应用Antigravity 2.0及其命令行工具、SDK面世；Google AI Studio新增Kotlin支持，可一键开发安卓应用并发布，同时推出移动端App。此外，Gemini API推出托管代理服务，实现一键部署；WebMCP作为开放标准在Chrome 149中推出，允许网页向代理暴露工具；Chrome DevTools也开放给AI代理以自动化调试。企业级客户可直接连接Google Cloud项目，而DeepMind的科学技能包则加速特定领域研究。此举标志着谷歌正全面打造从开发、接",
+      "url": "https://x.com/GoogleAI/status/2057871583843135978",
+      "source": "X：Google AI (@GoogleAI)",
+      "time": "2026-05-22T17:09:53.000Z"
     },
     {
-      "title": "Gemini每日简报助你高效规划一天",
-      "summary": "用Daily Brief开启高效一天。\nGemini现在能主动将最重要的事项整理成易于理解的待办清单，让你在早餐结束前就为一天做好准备。",
-      "url": "https://x.com/GeminiApp/status/2057500470147698936",
-      "source": "X：Gemini (@GeminiApp)",
-      "time": "2026-05-21T16:35:13.000Z"
-    },
-    {
-      "title": "发布 Kotlin版ADK与Android版ADK 0.1.0：在Android及其他平台构建AI Agent",
-      "summary": "Google发布了面向开发者的新工具包：Kotlin版ADK与Android版ADK 0.1.0。这两个工具包旨在帮助开发者构建AI Agent。其中，Kotlin版ADK将代理工作流引入后端项目开发；Android版ADK则专注于移动端应用，提供了构建AI代理所需的特定功能。此次发布为开发者提供了在Android生态及更广泛平台创建AI应用的官方工具基础。",
-      "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents",
-      "source": "Google Developers Blog（RSS）",
-      "time": "2026-05-21T16:33:06.339Z"
+      "title": "DeepSeek-V4-Pro永久降价公告",
+      "summary": "我们将优惠永久化！🎉\n\n享受使用 DeepSeek-V4-Pro 构建的乐趣，将您的创新想法变为现实！🚀",
+      "url": "https://x.com/deepseek_ai/status/2057854261699195173",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "time": "2026-05-22T16:01:03.000Z"
     }
   ],
   "biz": [
     {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
-      "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
-      "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "title": "Spotify’s AI bet: more of everything, less of what you want",
+      "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
+      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-      "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
-      "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony,",
+      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "summary": "The partnership is a potential testing ground for both companies to gauge the appetite for an India-focused chatbot.",
+      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "黄仁勋：AI 基建年度开支要冲到 4 万亿美元！",
+      "summary": "英伟达发布2027财年Q1财报，营收816亿美元，同比增长85%，净利润583亿美元，翻两倍多，市值达5.7万亿美元，已超德国2026年GDP预测。黄仁勋预测，超大规模云厂商的AI基建年度开支将从当前的1万亿美元，增长至3-4万亿美元，远超华尔街预期。财报同时显示，数据中心业务营收752亿美元，占比超九成。值得注意的是，AI基建的高能耗正推高居民电费，数据中心用电成本转嫁效应已初步显现。",
+      "url": "https://www.ithome.com/0/954/223.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-22T22:30:03.000Z"
     },
     {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "DeepSeek 推进 700 亿元融资，梁文锋承诺坚持开发开源 AI 模型而非追求短期商业化目标",
+      "summary": "DeepSeek正推进700亿元人民币的巨额融资，估值约450亿美元。创始人梁文锋承诺将继续开源开发AI模型，不追求短期商业化，目标是技术升级与通用人工智能。腾讯、IDG资本等接近参投，梁文锋个人可能注资200亿元。若成功将创下中国科技初创公司首轮融资纪录。",
+      "url": "https://www.ithome.com/0/953/832.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-22T04:30:38.000Z"
     },
     {
       "title": "Anthropic即将成为首个盈利的AI实验室",
@@ -311,123 +311,151 @@
       "url": "https://www.ithome.com/0/953/021.htm",
       "source": "IT之家（RSS）",
       "time": "2026-05-20T10:15:47.000Z"
-    },
-    {
-      "title": "Kimi最新融资获国资与央企加注，估值半年翻四倍",
-      "summary": "月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。",
-      "url": "https://www.ithome.com/0/952/336.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-19T07:39:15.000Z"
     }
   ],
   "industry": [
     {
-      "title": "加州州长纽森签署首创性行政令，为应对AI可能带来的劳动力市场冲击做准备",
-      "summary": "加州州长纽森签署行政令，首次将AI引发的失业问题正式列为公共政策议题，要求各部门研究遣散费、就业保险及员工持股等保障措施。该命令认识到AI可能渐进式替代岗位任务，而非一次性取代整个职位，因此计划建立新的劳动力数据看板，以更早捕捉行业受到的冲击。政策核心在于探讨如何将AI带来的生产力红利，通过股权、薪酬支持等方式在企业与员工间进行更公平的分配。同时指出，单纯的职业培训可能无法解决被AI彻底取代的岗位所带来的根本性就业错配问题。",
-      "url": "https://x.com/rohanpaul_ai/status/2057555054387949848",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-05-21T20:12:07.000Z"
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "summary": "Article URL: https://github.com/anomalyco/models.dev\nComments URL: https://news.ycombinator.com/item?id=48241172\nPoints: 83\n# Comments: 11",
+      "url": "https://github.com/anomalyco/models.dev",
+      "source": "Hacker News",
+      "time": "Fri, 22 May 2026 20:26:07 +0000"
     },
     {
-      "title": "谷歌DeepMind在亚太启动AI气候加速器",
-      "summary": "亚太地区经济增长迅速，但极易受到气候变化影响，且现有绿色技术发展速度跟不上环境风险的增长。为此，Google DeepMind宣布启动首届专注于\"AI for the Planet\"的加速器计划。该计划为期三个月，面向亚太地区的初创企业、研究团队和非营利组织，旨在利用前沿人工智能技术解决自然、气候、农业和能源等领域的挑战。入选组织将获得专家指导、定制化支持，并可集成Google AI的前沿模型。计划将从新加坡的线下训练营开始，现已开放注册。",
-      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-05-21T19:46:42.000Z"
+      "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "summary": "Article URL: https://arxiv.org/abs/2605.22001\nComments URL: https://news.ycombinator.com/item?id=48239786\nPoints: 29\n# Comments: 4",
+      "url": "https://arxiv.org/abs/2605.22001",
+      "source": "Hacker News",
+      "time": "Fri, 22 May 2026 18:46:07 +0000"
     },
     {
-      "title": "Intuit将裁员逾3000人，以重新聚焦人工智能",
-      "summary": "软件公司Intuit宣布将裁员超过3000人，作为其战略重组的一部分。此次裁员旨在将公司资源重新聚焦于人工智能（AI）领域的发展，以适应技术趋势并提升长期竞争力。裁员规模约占其全球员工总数的10%。",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-05-21T04:35:50.680Z"
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "summary": "Article URL: https://www.kanbots.dev/\nComments URL: https://news.ycombinator.com/item?id=48239413\nPoints: 146\n# Comments: 85",
+      "url": "https://www.kanbots.dev/",
+      "source": "Hacker News",
+      "time": "Fri, 22 May 2026 18:17:57 +0000"
     },
     {
-      "title": "首部100%AI生成电影亮相戛纳，剑指2026院线",
-      "summary": "AI电影项目RAPHAEL在戛纳亮相。该片由Mateo AI Studio与韩国MBC C&I的AI内容实验室联合开发，全程使用Kling AI视频模型进行制作，旨在实现独特的视觉效果与差异化的观影体验。项目计划于2026年登陆院线，其大规模制作旨在证明纯AI电影制作的工业可行性，标志着AI原生院线电影新趋势的开端。",
-      "url": "https://x.com/Kling_ai/status/2057295321831539054",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "time": "2026-05-21T03:00:02.000Z"
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "summary": "Article URL: https://www.1940airterminal.org/news/liquidation-of-simulators\nComments URL: https://news.ycombinator.com/item?id=48238568\nPoints: 73\n# Comments: 23",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "source": "Hacker News",
+      "time": "Fri, 22 May 2026 17:05:32 +0000"
     },
     {
-      "title": "FSD正式登陆中国大陆市场",
-      "summary": "FSD来了…\n\n官宣进入大陆…",
-      "url": "https://x.com/xiaohu/status/2057279976467218765",
-      "source": "X：小互 (@xiaohu)",
-      "time": "2026-05-21T01:59:03.000Z"
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/\nComments URL: https://news.ycombinator.com/item?id=48238429\nPoints: 104\n# Comments: 26",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "source": "Hacker News",
+      "time": "Fri, 22 May 2026 16:54:31 +0000"
     },
     {
-      "title": "SpaceX与Anthropic合作提供大规模AI算力服务",
-      "summary": "正如最近与@AnthropicAI扩大合作所展示的，@SpaceX正在大规模提供AI算力服务。\n\n我们正在与其他公司进行类似合作的讨论。\n\n随着时间的推移，特别是通过轨道数据中心，我们预计将以极高的规模提供AI服务。",
-      "url": "https://x.com/elonmusk/status/2057228707606196434",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "time": "2026-05-20T22:35:20.000Z"
+      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "summary": "Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset (https://github.com/superset-sh/superset), an open-source agentic IDE for running coding agents like Claude Code, Codex, OpenCode etc in parallel.Demo: https://www.youtube.com/watch?v=YWDHn7gUwfgTry it: https://superset.sh/We’re three engin",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "Hacker News",
+      "time": "Fri, 22 May 2026 14:53:55 +0000"
     },
     {
-      "title": "Gemini与XPRIZE联合举办全球黑客松",
-      "summary": "用Gemini构建，改变世界🌍\n\n我们正与@xprize合作，发起一场全球黑客松，旨在利用我们全新的智能体工具解决现实世界的挑战。\n\n点击加入：https：//www.geminixprize.com/",
-      "url": "https://x.com/googleaidevs/status/2057166550243872920",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "time": "2026-05-20T18:28:20.000Z"
+      "title": "I’m Writing Again",
+      "summary": "Article URL: https://www.cringely.com/2026/05/21/im-writing-again/\nComments URL: https://news.ycombinator.com/item?id=48236501\nPoints: 83\n# Comments: 22",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "source": "Hacker News",
+      "time": "Fri, 22 May 2026 14:36:27 +0000"
     },
     {
-      "title": "谷歌的人工智能正遭到操纵。这家搜索巨头正在悄然反击",
-      "summary": "谷歌的AI系统正面临被操纵的风险。为应对这一挑战，这家科技巨头已悄然启动防御措施，以保护其AI生成内容的结果免受恶意干扰。此举旨在确保搜索和AI服务的可靠性与可信度，反映了当前人工智能安全领域日益增长的对抗性问题。谷歌在未公开宣传的情况下，正在通过技术手段加强对其AI系统的防护。",
-      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-05-20T16:20:07.607Z"
+      "title": "Project Glasswing：初步更新",
+      "summary": "上月启动的Project Glasswing项目，旨在利用先进AI模型保障关键软件安全。通过约50家合作伙伴使用Claude Mythos Preview模型，已在全球关键系统中发现超过10，000个高危或严重漏洞。多家合作伙伴报告漏洞发现效率提升超过十倍。例如，Cloudflare在关键路径系统发现2，000个漏洞；Mozilla在Firefox 150中发现并修复271个漏洞，数量远超前代模型。项目还扫描了千余个支撑互联网的开源项目，独立验证准确率达90.6%。这标志着AI网络安全能力进入新阶段，漏洞发现速度已远超人工。",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "source": "Anthropic：Newsroom（网页）",
+      "time": "2026-05-22T19:57:01.055Z"
     },
     {
-      "title": "Qwen 2026大会：AI原生云架构蓝图发布",
-      "summary": "Qwen Conference 2026：主题演讲议程\n\nAI原生云、Agent原生云架构、推理的未来，以及多模态视觉技术发布。没有冗余内容，只有面向全球规模的工程蓝图。\n\n注册：https：//click.qwencloud.com/m/20000000190/",
-      "url": "https://x.com/alibaba_cloud/status/2057046828692934749",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "time": "2026-05-20T10:32:36.000Z"
-    },
-    {
-      "title": "欧盟委员会发布《欧盟人工智能法》高风险AI系统分类指导草案并开启公众咨询",
-      "summary": "欧盟委员会于2026年5月19日发布了关于《欧盟人工智能法》第六条项下高风险AI系统分类的指导草案。该草案旨在为AI系统的提供商、部署者及市场监管机构提供明确的分类标准，以确保在欧盟范围内执法的一致性。分类主要依据AI系统的预期用途，例如作为受监管产品的组件或用于特定高风险场景。草案也规定了部分豁免条件，例如仅执行辅助性任务时可能不被视为高风险。公众咨询期至206月23日。",
-      "url": "https://www.dataguidance.com/news/eu-commission-publishes-draft-guidelines-classifying",
-      "source": "DataGuidance：Artificial Intelligence（网页）",
-      "time": "2026-05-20T07:53:27.780Z"
-    },
-    {
-      "title": "OpenAI向所有YC创业公司提供200万美元API投资",
-      "summary": "OpenAI宣布向Y Combinator当前批次的每家创业公司提供价值200万美元的API信用额度投资，以换取股权。此举旨在为初创公司提供AI算力资源，支持下一代创新。这让人联想到Sam Altman在YC合伙人时期，Yuri Milner向每家创业公司提供投资的先例。OpenAI希望通过此举释放创业者潜力，推动AI应用创新。",
-      "url": "https://x.com/gdb/status/2056948285038887255",
-      "source": "X：Greg Brockman (@gdb)",
-      "time": "2026-05-20T04:01:02.000Z"
-    },
-    {
-      "title": "消息称微软内部示警：GitHub 面临生存级风险，AI 编程工具削弱托管必要性",
-      "summary": "微软内部发出警告，称其代码托管平台GitHub正面临\"生存级风险\"。主要原因是Cursor、Claude Code等AI编程助手兴起，改变了开发者工作流，削弱了持续将代码上传至GitHub的必要性。为统一工具链并控制成本，微软已要求部分团队在2026年6月底前停止试用Claude Code，转而使用自有工具GitHub Copilot CLI。同时，OpenAI曾考虑自建替代平台，也加剧了对GitHub地位的潜在威胁。",
-      "url": "https://www.ithome.com/0/952/645.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-20T02:39:19.000Z"
-    },
-    {
-      "title": "Gemini月活用户超9亿，回顾年度重大功能发布",
-      "summary": "每月有超过9亿用户使用Gemini应用。\n\n这一增长的重要部分源于我们快速的发布节奏。以下是过去一年我们推出的一些最重要功能的回顾。🧵 #GoogleIO",
-      "url": "https://x.com/GeminiApp/status/2056799436052017597",
-      "source": "X：Gemini (@GeminiApp)",
-      "time": "2026-05-19T18:09:33.000Z"
-    },
-    {
-      "title": "Google I/O 2026",
-      "summary": "在Google I/O 2026大会上，Google宣布了多项旨在让AI更普惠、更实用的更新。这些发布聚焦于提升人工智能的辅助能力，使其能够服务更广泛的用户群体。大会涵盖了AI在开发者工具、用户应用以及日常生活场景中的具体改进，强调通过技术优化实现更自然、更便捷的人机交互体验。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
+      "title": "回顾Google I/O 2026对话环节",
+      "summary": "在2026年Google I/O开发者大会上，对话环节聚焦于未来科技趋势。行业领导者围绕人工智能、量子计算、机器人学以及创造力等核心议题展开了深入探讨，旨在勾勒这些前沿领域的技术演进路径与发展蓝图。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
       "source": "Google Blog：AI（RSS）",
-      "time": "2026-05-19T17:45:00.000Z"
+      "time": "2026-05-22T18:00:00.000Z"
     },
     {
-      "title": "谷歌每月处理超 3200 万亿 Token，同比增长 7 倍",
-      "summary": "在2026年谷歌I/O开发者大会上，谷歌宣布其AI业务关键指标大幅增长。2026年5月，谷歌每月处理的Token数量超过3200万亿，同比增长达7倍。其Gemini App月度活跃用户已突破9亿，同比增长超过一倍，每日请求量增长超7倍。此外，Nano Banana模型已累计生成超过500亿张图片。",
-      "url": "https://www.ithome.com/0/952/518.htm",
+      "title": "Suno AI创作夏日神曲《波多黎各》爆火",
+      "summary": "今年夏天的热门歌曲是用 Suno 制作的。☀️非常感谢 @GMA 让这首病毒式传播的《Puerto Rico》歌曲被更多人看到！还有谁的脑海里也一直回响着这首歌？🇵🇷🎶",
+      "url": "https://x.com/suno/status/2057858423664894196",
+      "source": "X：Suno (@suno)",
+      "time": "2026-05-22T16:17:36.000Z"
+    },
+    {
+      "title": "GitHub 连续第三年被 Gartner® 魔力象限TM 评为企业级 AI 编程代理领域的领导者",
+      "summary": "Gartner 最新发布的魔力象限报告中，GitHub 连续第三年被列为\"领导者\"象限，该评估专注于企业级 AI 编程代理领域。GitHub 表示，其致力于构建一个开放、安全且由 AI 驱动的平台，以赋能每一位开发者并定义软件开发的未来。此次评选进一步巩固了 GitHub 在 AI 辅助开发工具市场的领先地位。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row",
+      "source": "GitHub Blog",
+      "time": "2026-05-22T16:10:21.000Z"
+    },
+    {
+      "title": "Cursor 被评为 2026 年 Gartner 企业级 AI 编码代理魔力象限领导者",
+      "summary": "Gartner 在 2026 年魔力象限报告中，将 Cursor 评为企业级 AI 编码代理领域的领导者，并在愿景完整性上领先。超过 70% 的财富 500 强企业使用 Cursor 部署和管理编码代理。未来一年，Cursor 将聚焦于三个方向：提升前沿模型智能；自动化软件开发全生命周期的任务（如代码审查、漏洞修复）；以及通过新的管理工具和控制面板，增强企业级的控制力、协作性与部署灵活性，以拓展至更多行业和地区。",
+      "url": "https://cursor.com/blog/cursor-leads-gartner-mq-2026",
+      "source": "Cursor Blog",
+      "time": "2026-05-22T12:00:00.000Z"
+    },
+    {
+      "title": "国家发改委：加快具身智能训练基础设施建设，让机器人不仅能上赛场，还能\"进工厂、进商场、进家庭\"",
+      "summary": "国家发改委在5月22日新闻发布会上表示，人形机器人在半程马拉松比赛中表现显著提升，速度更快、更灵活、更自主，参赛队伍从20余支增至百余支，完赛队伍从6支增至40余支，反映具身智能创新活力增强和产业规模扩大。下一步，发改委将加快具身智能训练基础设施建设，推动机器人融入工厂、商场、家庭等场景，并建设应用中试基地以加速技术落地。",
+      "url": "https://www.ithome.com/0/954/126.htm",
       "source": "IT之家（RSS）",
-      "time": "2026-05-19T17:14:39.000Z"
+      "time": "2026-05-22T09:46:08.000Z"
+    },
+    {
+      "title": "18 年老粉与微软 GitHub 决裂：我希望它更好，但我更想编程",
+      "summary": "全球最大的代码托管平台GitHub正面临严重危机。资深开发者Mitchell Hashimoto公开与平台决裂，因频繁崩溃影响编程。近几个月，花旗银行、英特尔等巨头因持续故障表达不满，OpenAI探索自建方案。更严重的是，3800多个内部仓库遭黑客入侵，源代码被公开叫卖。同时，微软取消GitHub CEO职位，将其并入CoreAI团队，导致大量技术骨干流失。这个承载1.5亿开发者的平台，正以惨烈方式站在生死存亡的十字路口。",
+      "url": "https://www.ithome.com/0/953/977.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-22T08:10:33.000Z"
+    },
+    {
+      "title": "DeepSeek V4 Flash登顶周榜",
+      "summary": "DeepSeek V4 Flash已登顶周排行榜",
+      "url": "https://x.com/OpenRouter/status/2057703179882749985",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-05-22T06:00:43.000Z"
     }
   ],
   "paper": [
+    {
+      "title": "AlphaProof Nexus：用形式化验证驱动AI数学证明搜索",
+      "summary": "Google DeepMind提出了AlphaProof Nexus系统，它将大型语言模型与Lean形式化验证工具相结合。该系统允许LLM在生成证明的过程中，不断读取Lean的编译错误并进行修正，还可调用更强的工具辅助解决子问题。这一机制迫使模型将每一步逻辑都转化为可编译、可验证的代码，从而将其角色从\"令人信服的叙述者\"转变为\"候选方案生成器\"。在针对353个Erdős问题和492个开放猜想的测试中，系统成功解决了9个Erdős问题并证明了44个序列猜想。该研究展示了形式化验证在暴露AI逻辑错误、建立\"人类提问-模型探索-验证器把关\"新分工中的关键作用。",
+      "url": "https://x.com/rohanpaul_ai/status/2057954067146781151",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-05-22T22:37:39.000Z"
+    },
+    {
+      "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人",
+      "summary": "加州大学圣地亚哥分校研究首次实证现代AI可通过图灵测试。研究表明，在获得特定提示后，GPT-4.5在5至15分钟的对话中被误认为人类的概率高达73%，显著超过真人。LLaMa-3.1-405B的判定率（56%）与真人相当，而GPT-4o和ELIZA仅约20%。研究指出提示词至关重要，它使AI能模仿人类语气、幽默感甚至易错性等社会行为特征。这一发现迫使人们重新思考图灵测试的意义，并凸显了大语言模型在网络信任与安全方面构成的潜在挑战。",
+      "url": "https://www.ithome.com/0/953/705.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-22T01:22:11.000Z"
+    },
+    {
+      "title": "VSAS-Bench：视觉流式辅助模型的实时评估基准",
+      "summary": "现有视觉语言模型框架主要在离线场景下评估性能，但实时视觉助手所依赖的流式模型还需考量额外指标，如反映响应时效性的\"主动性\"和捕捉随时间推移响应稳定性的\"一致性\"。为此，研究团队提出了VSAS-Bench，这是一个新的评估基准，专门针对流式视觉语言模型在实时交互任务中的表现，填补了当前评估方法在动态、持续生成场景下的空白。",
+      "url": "https://machinelearning.apple.com/research/vsas-bench-streaming-assistant",
+      "source": "Apple Machine Learning Research（RSS）",
+      "time": "2026-05-22T00:00:00.000Z"
+    },
+    {
+      "title": "从推理链到可验证子问题：课程强化学习实现LLM推理的信用分配",
+      "summary": "针对基于结果的强化学习在处理困难推理问题时因正确样本稀少而效率低下的问题，本文提出子问题课程强化学习框架。该框架从参考推理链中提取可验证子问题，并将最终子问题固定为原始问题，从而将部分解题进展转化为可验证的学习信号。其通过在子问题位置独立归一化奖励并分配优势值，实现了更细粒度的信用分配。实验表明，SCRL显著提升了模型在多个数学推理基准上的性能，有效增强了在复杂问题上的探索与推理能力。",
+      "url": "https://arxiv.org/abs/2605.22074",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-21T00:00:00.000Z"
+    },
+    {
+      "title": "RiT：在表示空间中使用原生扩散变换器已足够",
+      "summary": "本研究探讨预训练表示空间在流匹配学习中的优势。比较像素、SD-VAE与DINOv2特征后发现，尽管像素与DINOv2的内在维度相近，但DINOv2在几何统计特性（如有效秩、协方差条件等）上表现更优，使回归过程更稳定。基于此，我们提出了表示图像变换器（RiT），它使用冻结的DINOv2特征，通过x-prediction目标训练一个原生扩散变换器。在ImageNet 256×256生成任务上，RiT性能优于参数量更多的DiT^DH-XL模型，且生成的常微分方程仅需少量步骤即可高效求解。",
+      "url": "https://arxiv.org/abs/2605.21981",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-21T00:00:00.000Z"
+    },
     {
       "title": "ZCube：超大规模大模型推理的网络优化",
       "summary": "针对超大规模大模型推理，ZCube网络架构通过取消Spine层、将Leaf交换机分组并全互联等创新设计，有效解决了推理网络的拥塞问题。该架构在集群实测中，实现了交换机与光模块资本支出减少33%、GPU平均推理吞吐提升15%，同时将首token延迟的P99值大幅降低40.6%，在降低成本的同时显著提升了推理性能。",
@@ -497,41 +525,6 @@
       "url": "https://arxiv.org/abs/2605.18287",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-05-18T00:00:00.000Z"
-    },
-    {
-      "title": "训练后 MoE 可通过自蒸馏跳过一半专家",
-      "summary": "本文提出零专家自蒸馏适应框架，将训练完成的静态混合专家模型转换为高效动态模型。该方法通过在每个混合专家层注入零输出专家，并利用原始模型作为冻结教师进行两阶段自蒸馏适应，以实现稳定的架构转换。在两个大型开源模型及11个基准测试上的实验表明，该方法能消除超过50%的专家计算量，同时仅带来极小的准确率损失，并显著提升端到端推理速度。",
-      "url": "https://arxiv.org/abs/2605.18643",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-18T00:00:00.000Z"
-    },
-    {
-      "title": "从可运行到可交付：基于多智能体测试驱动的开发范式用于从需求生成全栈Web应用",
-      "summary": "针对编码智能体生成的Web应用超70%不满足需求的问题，本文提出TDDev框架。该框架通过三阶段实现自动化闭环：先将需求转化为结构化测试，再通过浏览器模拟交互验证应用，最后将故障转化为修复报告。首次针对Web应用生成的TDD实证研究发现，引入TDD基础设施可提升质量34-48个百分点。关键结论是最佳协议需与模型生成风格匹配，不匹配将完全抵消TDD优势并最多增加25倍Token消耗。用户研究证实，该框架使人工干预降为零，开发转向自主反馈优化。",
-      "url": "https://arxiv.org/abs/2605.17242",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-17T00:00:00.000Z"
-    },
-    {
-      "title": "OProver：一个统一的智能体化形式定理证明框架",
-      "summary": "OProver是首个将智能体化证明过程深度整合到定理证明器训练中的统一框架，而非仅在推理时应用。该框架通过持续预训练和迭代式后训练进行优化，每次迭代均执行智能体化证明，并将新验证的证明索引至OProofs数据集和检索记忆中。OProofs数据集规模庞大，包含1.77M个Lean语句和6.86M个经编译器验证的证明。基于此，OProver-32B模型在MiniF2F、ProverBench和PutnamBench三个基准测试上取得了最优的Pass@32成绩，展现了超越此前所有开源全证明证明器的性能。",
-      "url": "https://arxiv.org/abs/2605.17283",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-05-17T00:00:00.000Z"
-    },
-    {
-      "title": "Δ-Mem：适用于大型语言模型的高效在线内存",
-      "summary": "研究人员提出了Δ-Mem，一种专为大型语言模型设计的高效在线内存系统。该系统通过仅存储和更新模型激活的增量变化，而非完整的激活状态，显著降低了内存占用。实验表明，Δ-Mem能将内存使用量减少高达70%，同时保持模型输出的质量基本无损。这一方法有助于在资源受限的环境中部署和运行大规模语言模型，提升其在线推理和持续学习场景下的可行性。",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-05-16T13:49:59.872Z"
-    },
-    {
-      "title": "寻找新型传染病背后的分子开关",
-      "summary": "Clare Bryant教授利用Co-Scientist这一工具，针对新兴传染病背后的基因触发因素进行研究，旨在揭示驱动这些疾病出现的分子开关机制。这项工作有望帮助快速识别潜在的新发传染病威胁，为疾病监测与早期预警提供新的技术路径。",
-      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-05-16T08:16:06.000Z"
     }
   ],
   "tips": []
