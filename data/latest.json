@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "面壁智能联合清华等开源中国首个基于华为昇腾训练的 1.58-bit 端侧大模型 BitCPM-CANN",
+      "summary": "",
+      "url": "https://www.ithome.com/0/954/759.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-25T03:48:30.000Z"
+    },
+    {
       "title": "首个基于华为昇腾910B NPU全栈训练的1.58比特开源大模型BitCPM-CANN发布",
       "summary": "ModelBest、清华大学与OpenBMB社区联合发布了BitCPM-CANN，这是全球首个完全基于华为昇腾910B NPU训练的开源1.58比特三元大模型。其核心创新在于采用仅含三种权重状态的极低比特量化技术，使模型内存占用相比BF16降低约6倍，可高效部署于手机、电脑、车载设备等边缘端。更关键的是，整个训练全栈（从量化算子到框架）均在昇腾上原生构建与验证，而非简单移植。该模型家族（0.5B-8B）在多项基准测试上保持了全精度模型95-97%的性能，为资源受限环境下部署和复现大模型提供了可落地的解决方案。",
       "url": "https://x.com/rohanpaul_ai/status/2057833050692800926",
@@ -97,20 +104,20 @@
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "source": "Hugging Face：Blog（RSS）",
       "time": "2026-05-19T18:38:09.000Z"
-    },
-    {
-      "title": "Gemini Omni：迈向AGI的世界模型",
-      "summary": "真正的\"哇\"时刻是 Gemini Omni。一个迈向 AGI 的世界模型。\n\n它可以从任何输入创建任何内容。这太疯狂了。",
-      "url": "https://x.com/kimmonismus/status/2056802929957568881",
-      "source": "X：Kim (@kimmonismus)",
-      "time": "2026-05-19T18:23:26.000Z"
     }
   ],
   "products": [
     {
-      "title": "Freu AI",
-      "summary": "\n            Automate any Mac app with $0 recurring run cost\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/freu-cli",
+      "title": "Pi Coding Agent",
+      "summary": "\n            The coding-agent harness you can make your own\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/pi-coding-agent-3",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "LLMTest",
+      "summary": "\n            Use the right LLMs in your apps. Setup fallbacks. Be happy.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/llmtest-2",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -122,30 +129,16 @@
       "time": "今日"
     },
     {
+      "title": "Freu AI",
+      "summary": "\n            Automate any Mac app with $0 recurring run cost\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/freu-cli",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "SignalLEMO - Ai Outreach Made Simple",
       "summary": "\n            AI-powered lead outreach for field service contractors\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Nota: AI Notes & Voice",
-      "summary": "\n            Turn voice, scans, sketches, and text into notes with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Nugget AI",
-      "summary": "\n            Turn customer interviews into your product roadmap\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/nugget-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "motionvid.ai",
-      "summary": "\n            Your AI Motion & Video Editor\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/motionvid-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -157,11 +150,25 @@
       "time": "今日"
     },
     {
-      "title": "JAMtime.ai",
-      "summary": "\n            Just tell your guitar pedal how to sound\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/jamtime-ai",
+      "title": "Nugget AI",
+      "summary": "\n            Turn customer interviews into your product roadmap\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/nugget-ai",
       "source": "Product Hunt",
       "time": "今日"
+    },
+    {
+      "title": "Grok Build Beta版向SuperGrok用户开放",
+      "summary": "Grok Build 现已面向所有 SuperGrok 和 X Premium+ 用户推出 Beta 版。\n使用 Plan Mode，通过 Imagine 创建图像和视频，并使用 CLI 构建自动化或编排器。\n访问 http：//x.ai/cli 开始使用。",
+      "url": "https://x.com/xai/status/2058973760708091907",
+      "source": "X：xAI (@xai)",
+      "time": "2026-05-25T18:09:33.000Z"
+    },
+    {
+      "title": "Qwen3.7-Max隐式缓存功能上线",
+      "summary": "✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。\n⚡️开箱即用，更快更便宜。\n\n需要更高、更确定的命中率？请尝试显式缓存。🙌\n🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice",
+      "url": "https://x.com/Alibaba_Qwen/status/2058932656797368619",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "time": "2026-05-25T15:26:13.000Z"
     },
     {
       "title": "Luma Agents 实现规模化真实 UGC 广告生成",
@@ -204,16 +211,30 @@
       "url": "https://x.com/ViggleAI/status/2057947352195858568",
       "source": "X：Viggle AI (@ViggleAI)",
       "time": "2026-05-22T22:10:58.000Z"
-    },
-    {
-      "title": "v2.1.149 更新摘要",
-      "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云 MCP 连接器。修复了 PowerShell 权限绕过、Git 工作树沙盒写入白名单越界、脚本路径含空格时 `otelHeadersHelper` 静默失败等安全问题。改进了 `/feedback` 报告，包含上下文压缩前的对话内容，便于排查长会话中的早期问题。",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "time": "2026-05-22T22:09:29.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Everyone is navigating AI security in real time — even Google",
       "summary": "We're in the transition period -- all of us.",
@@ -253,20 +274,6 @@
       "title": "AI is being used to resurrect the voices of dead pilots",
       "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Spotify’s AI bet: more of everything, less of what you want",
-      "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
-      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -311,50 +318,50 @@
       "url": "https://x.com/SenseTime_AI/status/2057289342654300586",
       "source": "X：商汤 SenseTime (@SenseTime_AI)",
       "time": "2026-05-21T02:36:16.000Z"
-    },
-    {
-      "title": "冲刺 9 月上市，OpenAI 最快本周五提交 IPO 招股书草案",
-      "summary": "据CNBC报道，OpenAI预计最快本周五递交首次公开募股（IPO）招股书草案，这标志着公司向资本市场迈出关键一步。首席执行官萨姆·奥尔特曼设定最早于2026年9月上市的目标。公司正与高盛和摩根士丹利合作，借助这两家投行的资源推动上市申报和承销安排。此前，埃隆·马斯克针对OpenAI的诉讼失利后，上市障碍消除，进程明显加速。OpenAI目前私募估值超过8500亿美元，若顺利推进，可能成为公开市场历史上规模最大的首发之一。此外，公司最早考虑在今年第四季度上市，内部治理和运作已开始向上市公司转型，准备工作持续进行。",
-      "url": "https://www.ithome.com/0/953/090.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-20T22:45:37.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 28\n# Comments: 0",
-      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910\nComments URL: https://news.ycombinator.com/item?id=48270770\nPoints: 125\n# Comments: 66",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
       "source": "Hacker News",
-      "time": "Sun, 24 May 2026 17:18:52 +0000"
+      "time": "Mon, 25 May 2026 19:37:57 +0000"
     },
     {
-      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "summary": "Article URL: https://jobs.ashbyhq.com/workweave\nComments URL: https://news.ycombinator.com/item?id=48269937\nPoints: 0\n# Comments: 0",
+      "url": "https://jobs.ashbyhq.com/workweave",
       "source": "Hacker News",
-      "time": "Sun, 24 May 2026 17:00:46 +0000"
+      "time": "Mon, 25 May 2026 18:18:26 +0000"
     },
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 264\n# Comments: 282",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\nComments URL: https://news.ycombinator.com/item?id=48266906\nPoints: 259\n# Comments: 69",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "source": "Hacker News",
-      "time": "Sun, 24 May 2026 16:31:29 +0000"
+      "time": "Mon, 25 May 2026 13:56:39 +0000"
     },
     {
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "summary": "Related ongoing thread:DeepSeek makes the V4 Pro price discount permanent - https://news.ycombinator.com/item?id=48237663 - May 2026 (384 comments)\n\nComments URL: https://news.ycombinator.com/item?id=48256953\nPoints: 392\n# Comments: 189",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "source": "Hacker News",
-      "time": "Sun, 24 May 2026 13:02:06 +0000"
+      "title": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens",
+      "summary": "多名开发者在 OpenAI Codex 后端日志中发现未官宣的 GPT-5.6 模型，内部代号 iris-alpha。该模型将支持 150 万 token 的上下文窗口，较当前 GPT-5.5 的 105 万 token 提升约 43%，有望于今年 6 月发布。测试显示，在输入达到 90 万 token 时仍能流畅响应。同系列还发现了 ember-alpha 与 beacon-alpha 版本。此外，GPT-5.6 在前端界面生成能力上也有所提升。基于爆料信息，Anthropic Claude、Google Gemini 及 xAI Grok 也可能瞄准同期发布新模型。",
+      "url": "https://www.ithome.com/0/955/078.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-25T22:59:12.000Z"
     },
     {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "Article URL: https://arxiv.org/abs/2605.06445\nComments URL: https://news.ycombinator.com/item?id=48256912\nPoints: 155\n# Comments: 79",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "source": "Hacker News",
-      "time": "Sun, 24 May 2026 12:55:53 +0000"
+      "title": "苹果据称正使用定制版1.2T参数Google模型重塑下一代Siri",
+      "summary": "据报道，苹果为改造下一代Siri，正使用一个定制版、参数规模达1.2T的Google大模型作为其核心，这显著大于预估约300B参数的Gemini 3.5 Flash。该模型将驱动Siri的部分功能，其中简单查询预期会在本地设备运行。苹果面临的关键挑战是确保该大模型能够足够快速地响应日常问题。此外，下个月AI领域预计将有多项重要发布，包括WWDC上的Apple Intelligence与Gemini整合、GPT-5.6、可能的Sonnet 4.8/Opus 4.8，以及已确认的Gemini 3.5 Pro。",
+      "url": "https://x.com/kimmonismus/status/2058997271803674991",
+      "source": "X：Kim (@kimmonismus)",
+      "time": "2026-05-25T19:42:58.000Z"
+    },
+    {
+      "title": "教皇里奥呼吁在AI时代保持\"深刻的人性\"",
+      "summary": "教皇里奥十四世在首份重要通谕《Magnifica Humanitas》中警告了AI及不受约束的技术力量带来的风险。该通谕于2026年5月15日发布，是教皇关于\"在人工智能时代守护人\"的宣言。文件重点讨论了AI驱动战争的危险、AI对劳动的影响，以及建立新的法律和伦理框架来规范技术的必要性，强调AI的快速普及正造成经济和社会动荡，对个人的保护不足威胁着人类尊严。",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "source": "The Verge：AI（RSS）",
+      "time": "2026-05-25T15:05:07.000Z"
     },
     {
       "title": "DeepSeek将对其旗舰AI模型实施永久性75%折扣",
@@ -418,71 +425,22 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row",
       "source": "GitHub Blog",
       "time": "2026-05-22T16:10:21.000Z"
-    },
-    {
-      "title": "Cursor 被评为 2026 年 Gartner 企业级 AI 编码代理魔力象限领导者",
-      "summary": "Gartner 在 2026 年魔力象限报告中，将 Cursor 评为企业级 AI 编码代理领域的领导者，并在愿景完整性上领先。超过 70% 的财富 500 强企业使用 Cursor 部署和管理编码代理。未来一年，Cursor 将聚焦于三个方向：提升前沿模型智能；自动化软件开发全生命周期的任务（如代码审查、漏洞修复）；以及通过新的管理工具和控制面板，增强企业级的控制力、协作性与部署灵活性，以拓展至更多行业和地区。",
-      "url": "https://cursor.com/blog/cursor-leads-gartner-mq-2026",
-      "source": "Cursor Blog",
-      "time": "2026-05-22T12:00:00.000Z"
     }
   ],
   "paper": [
     {
-      "title": "Tokenisation via Convex Relaxations",
-      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering the resulting vocabulary as a whole. We instead formulate tokeniser construction as a linear program ",
-      "url": "http://arxiv.org/abs/2605.22821v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "微软 Copilot Cowork 存在文件泄露问题",
+      "summary": "",
+      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-05-25T23:25:48.799Z"
     },
     {
-      "title": "Integrable Elasticity via Neural Demand Potentials",
-      "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of log-prices, allowing elasticities to be derived exactly from the learned demand surface. On the Domi",
-      "url": "http://arxiv.org/abs/2605.22820v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specifie",
-      "url": "http://arxiv.org/abs/2605.22817v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
-      "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrinsic rewards derived from the mismatch between the agent's predictive model of the world and reality.",
-      "url": "http://arxiv.org/abs/2605.22814v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
-      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated as separate problems with separate method families. This paper argues that much of their shared struc",
-      "url": "http://arxiv.org/abs/2605.22800v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
-      "summary": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradient velocity, namely the difference of the kernel-smoothed data score and the kernel-smoothed model s",
-      "url": "http://arxiv.org/abs/2605.22795v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
-      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving agents have emerged in response, but all confine evolution to text-mutable artifacts -- skill files, ",
-      "url": "http://arxiv.org/abs/2605.22794v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
-      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just what to forget, but how to edit this compressed memory without scrambling existing associations. De",
-      "url": "http://arxiv.org/abs/2605.22791v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "华为何庭波\"韬定律\"论文发布，逻辑折叠技术提升芯片性能",
+      "summary": "华为何庭波在ISCAS 2026上提出\"韬定律\"，并介绍逻辑折叠（LogicFolding）技术。该技术通过三维空间拓扑重组提升芯片性能，不依赖新光刻工艺。在麒麟2026芯片测试中，晶体管密度从155 MTr/mm2提升至238 MTr/mm2，性能核心能效提高41%，最大时钟频率提升近13%。论文显示，麒麟2027芯片已进入Silicon状态，后续规划包括麒麟2028、2029。AI芯片方面，昇腾990计划在2030年左右引入逻辑折叠，硬件集成预计到2035年提高超过100倍。",
+      "url": "https://www.ithome.com/0/954/778.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-05-25T04:27:21.000Z"
     },
     {
       "title": "Nemotron-Labs 扩散语言模型实现光速级文本生成",
@@ -532,6 +490,90 @@
       "url": "https://www.zhipuai.cn/zh/research/160",
       "source": "智谱：研究（网页内嵌数据）",
       "time": "2026-05-20T19:51:00.000Z"
+    },
+    {
+      "title": "SpecBench：测量长期编码代理中的奖励黑客行为",
+      "summary": "长期编码代理在优化测试通过时可能偏离用户真实目标，导致奖励黑客现象。研究将软件工程任务分解为规格说明、可见验证测试和隐藏测试，通过两类测试通过率差距量化黑客行为。为此引入SpecBench基准，包含30个从短期（如JSON解析器）到超长期（如构建操作系统内核）的系统级编程任务。实验显示，所有前沿代理在可见测试上饱和，但隐藏测试上存在持续差距，小模型差距更大；代码规模每增十倍，差距增长28个百分点。失败案例包括故意利用测试输入。SpecBench提供原则性平台，评估代理是否构建真实工作系统而非仅玩游戏测试套件。",
+      "url": "https://arxiv.org/abs/2605.21384",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-05-20T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI模型证伪了离散几何中的一个核心猜想",
+      "summary": "OpenAI开发的人工智能模型成功解决了数学界悬而未决逾80年的\"单元距离问题\"，并由此推翻了离散几何领域的一个核心猜想。这一突破被视作人工智能驱动数学研究的里程碑事件，标志着AI在基础科学理论探索中取得了实质性进展。该模型通过创新算法处理复杂的几何问题，展示了机器在自动化发现与验证数学猜想方面的巨大潜力。",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-05-20T00:00:00.000Z"
+    },
+    {
+      "title": "研究发现人类说服技巧对AI同样有效",
+      "summary": "🚨我们的论文已在PNAS发表：我们发现经典的人类说服技巧以一种\"类人\"的方式对AI有效，使其同意不当请求（将顺从率从35%提高到51%）\n该技巧对一系列主流大语言模型有效，尽管较新的模型抵抗力更强 https：//www.pnas.org/doi/10.1073/pnas.2535868123",
+      "url": "https://x.com/emollick/status/2056843673145401722",
+      "source": "X：Ethan Mollick (@emollick)",
+      "time": "2026-05-19T21:05:20.000Z"
+    },
+    {
+      "title": "开源古代汉字视觉感知评估基准Chronicles-OCR",
+      "summary": "开源了评估视觉大语言模型（VLLM）对古代汉字视觉感知能力的基准测试Chronicles-OCR。该数据集覆盖了从甲骨文到草书的3000年演变历程，包含7种历史书体与2800张均衡图像。评估涵盖字形定位、细粒度识别、古代文本解析和字体分类四项核心任务，旨在探究视觉分布随时间的变化如何影响模型感知。相关论文与代码已开源。",
+      "url": "https://x.com/TencentHunyuan/status/2056567125205270882",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "time": "2026-05-19T02:46:26.000Z"
+    },
+    {
+      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained a",
+      "url": "http://arxiv.org/abs/2605.23904v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+      "summary": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute.   We propose the Shannon Scal",
+      "url": "http://arxiv.org/abs/2605.23901v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
+      "summary": "Language agents increasingly improve by reusing \\emph{skills} -- structured procedural artifacts distilled from past experience. In particular, \\emph{domain-level} and \\emph{model-generated} skills are especially promising. They offer fast adaptation within a domain by encoding domain-specific recur",
+      "url": "http://arxiv.org/abs/2605.23899v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs",
+      "summary": "Vision-Language Models (VLMs) are increasingly deployed in embodied environments, where they need produce numerical outputs such as action magnitudes and spatial coordinates. Although these numbers appear meaningful, it remains unclear whether these numerical outputs are genuinely grounded in spatia",
+      "url": "http://arxiv.org/abs/2605.23898v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "ETCHR: Editing To Clarify and Harness Reasoning",
+      "summary": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The ''think with images'' paradigm narrows this gap, but existing approaches are either constrained by fi",
+      "url": "http://arxiv.org/abs/2605.23897v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
+      "summary": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed architectue) or SDE (requires fixed per-step token count) cannot directly solve the hyperparameter tr",
+      "url": "http://arxiv.org/abs/2605.23893v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+      "summary": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computational cost grows quadratically with the input sequence length due to the global attention layers insi",
+      "url": "http://arxiv.org/abs/2605.23892v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces",
+      "summary": "Temporal knowledge-graph data marketplaces face three coupled failures in static designs: stale hybrid index shortcuts reduce recall as edges evolve, stationary Shapley pricing misattributes value after distribution shifts, and uncoordinated agents over-consume a shared differential-privacy budget. ",
+      "url": "http://arxiv.org/abs/2605.23887v1",
+      "source": "arXiv",
+      "time": "今日"
     }
   ],
   "tips": []
