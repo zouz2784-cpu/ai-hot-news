@@ -1,6 +1,20 @@
 {
   "models": [
     {
+      "title": "Nano Banana Pro与Nano Banana 2正式发布",
+      "summary": "ICYMI：Nano Banana Pro 【gemini-3-pro-image】 和 Nano Banana 2 【gemini-3.1-flash-image】 现已正式发布，可通过 Gemini API 投入生产使用。\n\n查看这些优秀的社区示例，了解两个模型的实际能力 🧵",
+      "url": "https://x.com/googleaidevs/status/2060685345738375640",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "time": "2026-05-30T11:30:46.000Z"
+    },
+    {
+      "title": "小即是美：开源多模态模型发布",
+      "summary": "小即是美。😌",
+      "url": "https://x.com/StepFun_ai/status/2060678753030947226",
+      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "time": "2026-05-30T11:04:34.000Z"
+    },
+    {
       "title": "OpenAI推出实时翻译模型，支持70+语言输入",
       "summary": "OpenAI 实时翻译功能--使用70多种输入语言说话，翻译成13种输出语言：\n\ngpt-realtime-translate 接收任意语言的语音输入，并输出目标语言的语音。\n\n大语言模型很棒，但特定用例需要专用模型。\n\n我们正在智能眼镜上运行此功能。",
       "url": "https://x.com/gdb/status/2060452095279415725",
@@ -20,13 +34,6 @@
       "url": "https://qwen.ai/blog?id=qwenvla",
       "source": "Qwen：Blog Retrieval（API）",
       "time": "2026-05-29T09:00:00.000Z"
-    },
-    {
-      "title": "阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率",
-      "summary": "阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理解能力，能处理图像、文档并生成代码或调用工具执行任务。在工具使用方面，它致力于高可靠性，τ2-bench 得分超过 98%。Step 3.7 Flash 兼容 Claude Code、MCP 协议等工具链，并支持在 Mac Studio M4 Max 等设备上本地运行。模型权重以",
-      "url": "https://x.com/StepFun_ai/status/2060149124117475791",
-      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "time": "2026-05-29T00:00:01.000Z"
     },
     {
       "title": "Nano Banana Pro与Nano Banana 2正式发布",
@@ -97,20 +104,13 @@
       "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone",
       "source": "Ars Technica：AI（RSS）",
       "time": "2026-05-28T18:30:48.000Z"
-    },
-    {
-      "title": "Qwen3.7-Max 登顶 OpenRouter 热门大模型榜",
-      "summary": "Qwen3.7-Max 以 77.3B tokens 的使用量登顶 @OpenRouter 热门大语言模型榜单。\n\n而我们才刚刚开始。\n\n👇 https：//int.alibabacloud.com/m/1000413314/",
-      "url": "https://x.com/alibaba_cloud/status/2059918150997623004",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "time": "2026-05-28T08:42:13.000Z"
     }
   ],
   "products": [
     {
-      "title": "Firecoach AI",
-      "summary": "\n            AI roleplays that turn reps into top performers\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/firecoach",
+      "title": "Wingbits AI",
+      "summary": "\n            AI agents for real-time aircraft monitoring and alerts\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/wingbits-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,16 +129,16 @@
       "time": "今日"
     },
     {
-      "title": "NeuralAgent 2.5",
-      "summary": "\n            Talk to your computer, it responds and gets things done.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/neuralagent",
+      "title": "Firecoach AI",
+      "summary": "\n            AI roleplays that turn reps into top performers\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/firecoach",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Pitch Agent",
-      "summary": "\n            On-brand presentations, generated in seconds\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/pitch",
+      "title": "NeuralAgent 2.5",
+      "summary": "\n            Talk to your computer, it responds and gets things done.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/neuralagent",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -150,18 +150,18 @@
       "time": "今日"
     },
     {
-      "title": "Calling Skills for AI Agents",
-      "summary": "\n            Add voice and video calling via your coding agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/cometchat-skills",
+      "title": "Pitch Agent",
+      "summary": "\n            On-brand presentations, generated in seconds\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/pitch",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Pawse.ai",
-      "summary": "\n            An acoustic regulation system for dogs\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/pawse-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Show HN： Tiny-vLLM--基于 C 和 CUDA 的高性能大型语言模型推理引擎",
+      "summary": "Tiny-vLLM 是一个用 C 和 CUDA 编写的高性能大语言模型推理引擎，项目代码已开源至 GitHub。",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-05-30T03:25:01.798Z"
     },
     {
       "title": "ComfyUI现已支持OpenRouter模型直接调用",
@@ -215,6 +215,27 @@
   ],
   "biz": [
     {
+      "title": "Meta is reportedly developing an AI pendant",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Coders are refusing to work without AI — and that could come back to bite them",
       "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
       "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
@@ -250,39 +271,18 @@
       "time": "今日"
     },
     {
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "据报道：软银将在法国投资750亿欧元用于AI",
+      "summary": "软银集团计划投资高达750亿欧元（约合870亿美元），用于在法国建设人工智能数据中心。该投资计划由《论坛报》与《金融时报》报道。",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
+      "source": "Bloomberg：Technology（RSS）",
+      "time": "2026-05-30T18:55:33.000Z"
     },
     {
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
-      "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
-      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
-      "url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "Anthropic估值9650亿美元超越OpenAI",
+      "summary": "Anthropic在最新融资轮中筹集了650亿美元，融资后公司估值达到9650亿美元，首次超越竞争对手OpenAI的估值水平。",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/anthropic-valuation-of-965-billion-passes-openai-video",
+      "source": "Bloomberg：Technology（RSS）",
+      "time": "2026-05-29T17:26:32.000Z"
     },
     {
       "title": "OpenRouter 获得1.13亿美元B轮融资",
@@ -322,6 +322,62 @@
   ],
   "industry": [
     {
+      "title": "Domain expertise has always been the real moat",
+      "summary": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/\nComments URL: https://news.ycombinator.com/item?id=48340411\nPoints: 186\n# Comments: 121",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "source": "Hacker News",
+      "time": "Sat, 30 May 2026 20:40:57 +0000"
+    },
+    {
+      "title": "OpenRouter raises $113M Series B",
+      "summary": "Article URL: https://openrouter.ai/announcements/series-b\nComments URL: https://news.ycombinator.com/item?id=48338660\nPoints: 336\n# Comments: 162",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "source": "Hacker News",
+      "time": "Sat, 30 May 2026 17:27:28 +0000"
+    },
+    {
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "summary": "Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given address and what that's worth against your tariff.It uses UK government LIDAR data to reflect the actual skyl",
+      "url": "https://helios.southlondonscientific.com/",
+      "source": "Hacker News",
+      "time": "Sat, 30 May 2026 11:08:37 +0000"
+    },
+    {
+      "title": "\"开玩笑吧\"：GitHub Copilot 新的基于 token 的计费模式引发开发者不满",
+      "summary": "微软旗下 GitHub Copilot 的黄金时代似乎正在终结。其新推出的计费模式改为按 token 计量，这一变化引发了开发者的广泛担忧与不满。",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-05-30T16:30:00.000Z"
+    },
+    {
+      "title": "AI 骗子正在创建虚假的黑人形象来销售 Shein 劣质商品",
+      "summary": "有卖家利用 AI 生成虚假的黑人形象，在 TikTok、Facebook 和 Instagram 上扮演手工制品创作者进行销售。例如一个名为 Aliyah 的 AI 生成形象，以带泪诉说的方式售卖所谓手工皮带扣，但该形象及其产品均为虚构。此类 AI 虚拟网红被用于推广通过代发货模式销售的批量生产品。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "source": "The Verge：AI（RSS）",
+      "time": "2026-05-30T13:00:00.000Z"
+    },
+    {
+      "title": "新加坡防务论坛：AI 风险超过核武器",
+      "summary": "在新加坡举行的防务论坛上，专家警告AI风险已超越核武器。面板讨论指出，AI可能大幅压缩反应时间，导致决策者做出草率决定，对战略稳定构成威胁。",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum",
+      "source": "Bloomberg：Technology（RSS）",
+      "time": "2026-05-30T11:59:32.000Z"
+    },
+    {
+      "title": "xAI放弃JAX GPU转向自研训练框架",
+      "summary": "突发新闻：JAX NVIDIA GPU & XLA：GPU最大客户刚刚宣布已放弃JAX GPU，宁愿用Grok Build\"氛围编程\"一个C训练框架。据报道xAI的JAX堆栈MFU低于10%。NVIDIA JAX团队过去两年全部主力996专注于支持xAI却失败了，我想他们现在可以休息并兑现期权了。",
+      "url": "https://x.com/SemiAnalysis_/status/2060571944575963482",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "time": "2026-05-30T04:00:09.000Z"
+    },
+    {
+      "title": "阿里云与Qwen成为UEFA多年全球AI合作伙伴",
+      "summary": "阿里云和Qwen成为UEFA官方独家AI、云计算与电子商务合作伙伴，合作期覆盖2027/2028赛季至2032/2033赛季的UEFA男子俱乐部赛事，以及UEFA EURO 2028。阿里巴巴集团主席蔡崇信表示，将投入云计算、全栈AI及全球电商平台能力，支持赛事运营。合作将利用Qwen大语言模型部署先进AI技术，增强球迷互动与媒体内容体验，并依托阿里云基础设施打造全球沉浸式观赛体验。",
+      "url": "https://x.com/alibaba_cloud/status/2060520586489770167",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "time": "2026-05-30T00:36:05.000Z"
+    },
+    {
       "title": "波士顿儿童医院利用AI解锁新诊断",
       "summary": "波士顿儿童医院通过部署OpenAI技术，用于改善患者护理并减轻运营负担，成功帮助诊断了超过40种罕见病病例。",
       "url": "https://openai.com/index/boston-childrens-hospital",
@@ -350,6 +406,13 @@
       "time": "2026-05-28T21:49:31.492Z"
     },
     {
+      "title": "Qwen3.7-Max 登顶 OpenRouter 热门大模型榜",
+      "summary": "Qwen3.7-Max 以 77.3B tokens 的使用量登顶 @OpenRouter 热门大语言模型榜单。\n\n而我们才刚刚开始。\n\n👇 https：//int.alibabacloud.com/m/1000413314/",
+      "url": "https://x.com/alibaba_cloud/status/2059918150997623004",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "time": "2026-05-28T08:42:13.000Z"
+    },
+    {
       "title": "可灵AI将在AI电影节展示20部4K原创短片",
       "summary": "可灵AI将在全球最大AI影视会议AI on the Lot的社区日上，展示由Prompt Club的电影制作人创作的20部原创AI短片。所有短片均为原生4K分辨率，旨在探索AI电影的边界。该展示将于5月29日在加州卡尔弗市的卡尔弗剧院举行。",
       "url": "https://x.com/Kling_ai/status/2059908126611292645",
@@ -362,69 +425,6 @@
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-05-28T00:00:00.000Z"
-    },
-    {
-      "title": "Replit入选Redpoint 2026 InfraRed 100榜单",
-      "summary": "Replit 被列入 @Redpoint 的 2026 InfraRed 100 榜单。\n这是一份构建 AI 运行基础设施的公司名单。很荣幸能入选，与 Stripe、Snowflake 和 HashiCorp 等往届入选者并列。\n致每一位在 Replit 上发布产品的构建者：这份荣誉属于你们。\nhttps：//www.redpoint.com/infrared/report/",
-      "url": "https://x.com/Replit/status/2059688584899154134",
-      "source": "X：Replit (@Replit)",
-      "time": "2026-05-27T17:30:00.000Z"
-    },
-    {
-      "title": "教皇没对AGI上头",
-      "summary": "教皇 Leo XIV 发布题为《Magnifica Humanitas》的通谕，警告人工智能的使用绝非纯粹技术问题，当其进入影响人类生活的过程时，便触及权利、机会、地位与自由。通谕发布时，Anthropic 联合创始人 Christopher Olah 出席。文件引发了科技界内外的广泛反应。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-05-27T12:00:00.000Z"
-    },
-    {
-      "title": "思科与OpenAI携手Codex重新定义企业工程",
-      "summary": "思科正与OpenAI合作，利用Codex重新定义企业工程实践。此次合作旨在帮助思科扩展AI原生开发能力、加速其AI Defense安全工作，并实现缺陷修复流程的自动化。",
-      "url": "https://openai.com/index/cisco",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-05-27T11:00:00.000Z"
-    },
-    {
-      "title": "阿里云入选Omdia智能体AI市场雷达领导者",
-      "summary": "阿里云在Omdia的智能体AI市场雷达中被评为领导者。Omdia强调了阿里云在每一层的全栈能力，认可其是首个将整个平台围绕智能体范式进行构建的云服务商。",
-      "url": "https://x.com/alibaba_cloud/status/2059509714854007181",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "time": "2026-05-27T05:39:14.000Z"
-    },
-    {
-      "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
-      "summary": "",
-      "url": "https://www.ithome.com/0/955/758.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-27T02:54:29.000Z"
-    },
-    {
-      "title": "阿里云成为PyTorch基金会白金会员",
-      "summary": "阿里云宣布以白金会员身份加入PyTorch基金会。作为AI基础设施全球领导者，阿里云是开源模型家族Qwen的缔造方，已在多样化硬件上大规模运行PyTorch，将为社区带来生产级工程经验。",
-      "url": "https://x.com/alibaba_cloud/status/2059453607075004835",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "time": "2026-05-27T01:56:17.000Z"
-    },
-    {
-      "title": "消息称高通与字节跳动达成 AI ASIC 芯片合作，采购量在数百万颗级别",
-      "summary": "",
-      "url": "https://www.ithome.com/0/955/674.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-05-27T01:12:31.000Z"
-    },
-    {
-      "title": "2026年选举信息与保障",
-      "summary": "在2026年全球选举临近之际，通过帮助公众获取选举信息、支持网络防御者以及提升人工智能透明度这三方面的努力，来为选举提供保障。",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-05-27T00:00:00.000Z"
-    },
-    {
-      "title": "据报道Claude Mythos以\"巧妙简洁的证明\"解决了OpenAI里程碑式的Erdős问题",
-      "summary": "Anthropic工程师Sholto Douglas表示，Claude Mythos在周末期间解决了OpenAI提出的Erdős单位距离猜想问题，并给出了一个\"巧妙简洁的证明\"。这一成果被描述为人工智能在数学发现领域存在\"严重超前\"迹象。",
-      "url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-05-26T18:31:07.000Z"
     }
   ],
   "paper": [
