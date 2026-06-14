@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+      "summary": "GLM-5.2 是智谱迄今能力最强的开源模型，支持真正可用的 1M 上下文，在长程任务中继续保持领先，并被智谱称为最强的国产 Coding 模型。今晚 5：21 起面向 GLM Coding Plan 全量用户开放（覆盖 Lite、Pro、Max、团队版）。API 将于下周上线，模型下周正式开源，遵循 MIT 协议。",
+      "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+      "source": "公众号：智谱（GLM）",
+      "time": "2026-06-13T06:19:36.000Z"
+    },
+    {
       "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
       "summary": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预计约 10 天后发布。",
       "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
@@ -13,6 +20,13 @@
       "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
       "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "time": "2026-06-12T10:16:02.000Z"
+    },
+    {
+      "title": "inclusionAI 发布 VISTA-4B GUI 定位视觉语言模型",
+      "summary": "VISTA-4B 是基于 Qwen3.5-4B 骨干的 GUI 定位模型，输入截图与自然语言指令，输出归一化 0-1000 坐标。训练采用视图一致 GRPO 和自验证交叉视图锚定。在 GUI 定位基准上，SSPro 得分 64.2（相比 GRPO-4B 提升 2.0），SSV2 得分 93.8（下降 0.4），OSWorld-G 得分 61.2（提升 1.3），OSWorld-G-R 得分 69.7（提升 0.5）。模型已开源在 HuggingFace，推荐使用提示词并返回 【x，y】 格式坐标。",
+      "url": "https://huggingface.co/inclusionAI/VISTA-4B",
+      "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
+      "time": "2026-06-12T08:59:41.000Z"
     },
     {
       "title": "Gemini Omni Flash 视频任务达 SOTA",
@@ -90,34 +104,20 @@
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "source": "Anthropic：Newsroom（网页）",
       "time": "2026-06-08T16:00:00.000Z"
-    },
-    {
-      "title": "VoxCPM2 技术报告发布",
-      "summary": "面壁智能 OpenBMB 发布 VoxCPM2 技术报告。该模型为最新语音生成模型，拥有 2B 参数，基于超 200 万小时多语言语音数据训练，支持 30 种语言和 9 种中文方言。具备自然语言语音设计、可控及高保真延续性语音克隆能力。技术报告涵盖架构设计、统一序列公式、AudioVAE 高保真语音重建、大规模训练评估，以及零样本和指令跟随 TTS 基准结果。采用 16kHz 语义编码 + 48kHz 波形重建，在公开 TTS 基准上达到 SOTA 或极具竞争力。模型权重、微调代码和推理工具以 Apache 2.0 开源。",
-      "url": "https://x.com/OpenBMB/status/2063991963133903317",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "time": "2026-06-08T14:30:05.000Z"
-    },
-    {
-      "title": "全球首个：高德发布3D原生城市世界模型ABot-Earth0.5",
-      "summary": "阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。",
-      "url": "https://www.ithome.com/0/961/378.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-06-08T05:53:46.000Z"
     }
   ],
   "products": [
     {
-      "title": "ShellMate",
-      "summary": "\n            Manage SSH servers, credentials, and teams in one place\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/shellmate-2",
+      "title": "CakewordAI",
+      "summary": "\n            Point at anything to learn its name in any language\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "LocIn AI",
-      "summary": "\n            Localize your app with tone-aware AI, automated workflows\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/locin-ai",
+      "title": "ShellMate",
+      "summary": "\n            Manage SSH servers, credentials, and teams in one place\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/shellmate-2",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,9 +129,9 @@
       "time": "今日"
     },
     {
-      "title": "Airbrush Studio",
-      "summary": "\n            AI-powered photo editor for pro results w/o manual editing\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/airbrush-studio",
+      "title": "LocIn AI",
+      "summary": "\n            Localize your app with tone-aware AI, automated workflows\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/locin-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -150,11 +150,18 @@
       "time": "今日"
     },
     {
-      "title": "Slashspace AI",
-      "summary": "\n            Canvas first AI experience for sustained, complex work\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/slashspace-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Suno 音轨分离：从零生成更纯净",
+      "summary": "重大更新：Suno 的音轨分离刚刚大幅升级。🚀\n\n我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。",
+      "url": "https://x.com/suno/status/2065862499765821916",
+      "source": "X：Suno (@suno)",
+      "time": "2026-06-13T18:22:56.000Z"
+    },
+    {
+      "title": "Fusion API：半价达Fable级智能",
+      "summary": "推出Fusion API，市场上最智能的复合模型。\n\nFusion以一半的价格实现Fable级别的智能。\n\n工作原理如下👇",
+      "url": "https://x.com/OpenRouter/status/2065856853989270011",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-06-13T18:00:30.000Z"
     },
     {
       "title": "olmo-eval：面向模型开发循环的评估工作台",
@@ -204,16 +211,44 @@
       "url": "https://x.com/Replit/status/2065146579326271883",
       "source": "X：Replit (@Replit)",
       "time": "2026-06-11T18:58:07.000Z"
-    },
-    {
-      "title": "Perplexity Computer 集成 Deep Research",
-      "summary": "我们正在将 Deep Research 作为原生技能集成到 Computer 中。\n\n它现在连接到驱动 Computer 的智能体框架，可访问搜索即代码生成、长运行沙箱、连接器、工具和授权数据。\n\nPro 和 Max 订阅者现已可用。",
-      "url": "https://x.com/perplexity_ai/status/2065124930463916317",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "time": "2026-06-11T17:32:06.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
       "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
@@ -250,39 +285,11 @@
       "time": "今日"
     },
     {
-      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
-      "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
-      "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
-      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
+      "summary": "Anthropic，这家估值达 9650 亿美元的 AI 巨头、史上增长最快的初创公司之一，在秘密提交 IPO 申请后，再次投下重磅炸弹。",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+      "source": "Bloomberg：Technology（RSS）",
+      "time": "2026-06-13T11:00:00.000Z"
     },
     {
       "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
@@ -311,57 +318,85 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-10/google-s-backstops-underpin-35-bln-anthropic-chip-deal-video",
       "source": "Bloomberg：Technology（RSS）",
       "time": "2026-06-10T05:57:28.000Z"
-    },
-    {
-      "title": "Magnetar用数百AI智能体替代分析师",
-      "summary": "Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个 AI 智能体进行股票研究。\n\n这家 180 亿美元的对冲基金公司希望 AI 搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-      "url": "https://x.com/rohanpaul_ai/status/2064524448582267047",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-06-10T01:46:00.000Z"
     }
   ],
   "industry": [
     {
-      "title": "I Think They [Anthropic] Are Lying to You [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=zfYsSFY4l18\nComments URL: https://news.ycombinator.com/item?id=48510471\nPoints: 20\n# Comments: 8",
-      "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
+      "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cy8wppwdxl6o\nComments URL: https://news.ycombinator.com/item?id=48522237\nPoints: 25\n# Comments: 2",
+      "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o",
       "source": "Hacker News",
-      "time": "Fri, 12 Jun 2026 23:12:39 +0000"
+      "time": "Sat, 13 Jun 2026 22:43:30 +0000"
     },
     {
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "summary": "Article URL: https://putt.day/\nComments URL: https://news.ycombinator.com/item?id=48510341\nPoints: 39\n# Comments: 28",
-      "url": "https://putt.day/",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661\nComments URL: https://news.ycombinator.com/item?id=48520807\nPoints: 172\n# Comments: 66",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
       "source": "Hacker News",
-      "time": "Fri, 12 Jun 2026 22:56:06 +0000"
+      "time": "Sat, 13 Jun 2026 19:54:55 +0000"
     },
     {
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "summary": "Article URL: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979\nComments URL: https://news.ycombinator.com/item?id=48509182\nPoints: 162\n# Comments: 33",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "summary": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic...\n\nComments URL: https://news.ycombinator.com/item?id=48519092\nPoints: 485\n# Comments: 358",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "source": "Hacker News",
-      "time": "Fri, 12 Jun 2026 20:39:36 +0000"
+      "time": "Sat, 13 Jun 2026 16:57:49 +0000"
     },
     {
-      "title": "\"Don't You Just Upload It to ChatGPT?\"",
-      "summary": "Article URL: https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=48507278\nPoints: 281\n# Comments: 239",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "title": "AI coding at home without going broke",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\nComments URL: https://news.ycombinator.com/item?id=48518969\nPoints: 216\n# Comments: 197",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
       "source": "Hacker News",
-      "time": "Fri, 12 Jun 2026 17:52:46 +0000"
+      "time": "Sat, 13 Jun 2026 16:45:03 +0000"
     },
     {
-      "title": "How to setup a local coding agent on macOS",
-      "summary": "Article URL: https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos\nComments URL: https://news.ycombinator.com/item?id=48507020\nPoints: 232\n# Comments: 69",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero\nComments URL: https://news.ycombinator.com/item?id=48516504\nPoints: 234\n# Comments: 151",
+      "url": "https://github.com/tensorzero/tensorzero",
       "source": "Hacker News",
-      "time": "Fri, 12 Jun 2026 17:34:55 +0000"
+      "time": "Sat, 13 Jun 2026 12:10:47 +0000"
     },
     {
-      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-      "summary": "We’re Connor and Ambar from BitBoard (https://bitboard.work). BitBoard is an agentic analytics workspace. We give you the infrastructure and visualization layer to analyze data with AI.Today, we’re launching dashboards that you and your agents can work on together. You can connect your coding agent ",
-      "url": "https://bitboard.work/",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it",
+      "url": "https://github.com/Paca-AI/paca",
       "source": "Hacker News",
-      "time": "Fri, 12 Jun 2026 16:58:03 +0000"
+      "time": "Sat, 13 Jun 2026 09:44:25 +0000"
+    },
+    {
+      "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
+      "summary": "亚马逊 CEO 与美国官员的会谈直接导致美国政府对 Anthropic 公司的 AI 模型采取整治行动。此次事件涉及对 Anthropic 旗下大语言模型的监管升级，具体措施及模型版本细节尚未披露。",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-06-13T18:22:19.626Z"
+    },
+    {
+      "title": "谷歌Android安全负责人因反对军事AI合作辞职",
+      "summary": "谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司\"丧失道德指针\"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于\"任何合法目的\"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。",
+      "url": "https://www.ithome.com/0/963/888.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-06-13T08:40:39.000Z"
+    },
+    {
+      "title": "扎克伯格承认 Meta AI 转型\"脱轨\"：裁员 10%、转岗 7000 人后组织调整过快",
+      "summary": "路透社披露的 Meta 内部备忘录显示，CEO 扎克伯格承认公司在 AI 转型中组织调整节奏过快，带来员工安置、管理跨度等问题，预计未来\"几乎肯定会犯更多错误\"。Meta 今年 5 月已裁减全球 10% 员工，并将 7000 人转入 AI 相关新项目。为缓解协作问题，公司将增加团队建设预算，7 月举办黑客松。新成立的应用 AI 工程部门个人贡献者与管理者比例最高达 50：1。扎克伯格重申今年不再全公司裁员。",
+      "url": "https://www.ithome.com/0/963/858.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-06-13T06:49:25.000Z"
+    },
+    {
+      "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+      "summary": "Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-06-13T02:26:30.000Z"
+    },
+    {
+      "title": "OpenAI 遭多州总检察长联合调查",
+      "summary": "OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+      "source": "Bloomberg：Technology（RSS）",
+      "time": "2026-06-13T00:27:02.000Z"
     },
     {
       "title": "全自主无人机首次击毙了人类士兵",
@@ -390,41 +425,6 @@
       "url": "https://openai.com/index/bbva",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 支持欧洲构建可信 AI 生态系统",
-      "summary": "OpenAI 支持欧盟《AI 内容透明度行为准则》，推进内容溯源标准与工具，帮助用户识别 AI 生成内容。",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-06-11T00:00:00.000Z"
-    },
-    {
-      "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
-      "summary": "OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-06-10T20:00:00.000Z"
-    },
-    {
-      "title": "突发：Google 因模型幻觉被判负有法律责任",
-      "summary": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
-      "url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "time": "2026-06-10T17:00:08.000Z"
-    },
-    {
-      "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
-      "summary": "Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。",
-      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "source": "Anthropic：Newsroom（网页）",
-      "time": "2026-06-10T16:00:00.000Z"
-    },
-    {
-      "title": "Google DeepMind 宣布投入 1000 万美元资助多智能体AI安全研究",
-      "summary": "Google DeepMind 与合作伙伴共同发起一项 1000 万美元的资金征集，专门用于多智能体 AI 安全方向的研究。",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-06-10T10:21:19.000Z"
     }
   ],
   "paper": [
