@@ -78,6 +78,13 @@
       "time": "2026-06-14T16:00:00.000Z"
     },
     {
+      "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
+      "summary": "彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。",
+      "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "time": "2026-06-20T06:25:29.000Z"
+    },
+    {
       "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
       "summary": "Agentic Resource Discovery（ARD）是一项开放规范，用于在Web上发布、发现和验证AI工具、技能与智能体。它基于两个原语：组织在其自有域名下托管catalog描述可用能力，registry作为搜索引擎索引catalog并响应发现请求。ARD支持加密验证，使客户端与端点连接前确认发布者身份，然后直接通过原生协议调用能力。Google Cloud的Gemini Enterprise Agent Platform通过Agent Registry提供企业级支持，包括URN命名、出站策略、工具固定和基于Agent Identity的信任验证。该规范现已发布，开发者可通过托管`a",
       "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
@@ -86,6 +93,13 @@
     }
   ],
   "products": [
+    {
+      "title": "Mellum by JetBrains",
+      "summary": "\n            Fast LLMs for low-latency and high-performance workflows\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/jetbrains",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Mutter AI Dictation",
       "summary": "\n            Private AI dictation that lets you operate offline.\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -101,9 +115,9 @@
       "time": "今日"
     },
     {
-      "title": "AI‑Native eCommerce Infrastructure",
-      "summary": "\n            A unified control plane for Magento with Claude Code web\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
+      "title": "Ploy.ai",
+      "summary": "\n            Ploy turns your website into your company's growth engine.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ploy-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -115,16 +129,9 @@
       "time": "今日"
     },
     {
-      "title": "Ploy.ai",
-      "summary": "\n            Ploy turns your website into your company's growth engine.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ploy-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Agentic videos by D-ID",
-      "summary": "\n            Interactive videos that talk back \n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/d-id",
+      "title": "AI‑Native eCommerce Infrastructure",
+      "summary": "\n            A unified control plane for Magento with Claude Code web\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -194,6 +201,27 @@
   ],
   "biz": [
     {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Every fusion startup that has raised over $100M",
       "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
       "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
@@ -243,27 +271,6 @@
       "time": "今日"
     },
     {
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
-      "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
-      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "上交所发布指引：AI大模型企业可适用科创板第五套上市标准",
       "summary": "上海证券交易所6月17日发布指引，支持尚未形成稳定收入的优质人工智能大模型企业通过科创板第五套上市标准发行上市。申报企业需在行业地位、产业链优势、目标市场需求、研发进度及关键指标方面具备突出竞争力。指引明确，申报时至少有一个大模型产品已完成上线发布并实现规模化应用，以验证商业模式可行性。下一步，上交所将在中国证监会指导下推进符合标准的企业上市。",
       "url": "https://www.ithome.com/0/965/735.htm",
@@ -300,6 +307,13 @@
     }
   ],
   "industry": [
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\nComments URL: https://news.ycombinator.com/item?id=48613555\nPoints: 5\n# Comments: 0",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "source": "Hacker News",
+      "time": "Sat, 20 Jun 2026 22:22:52 +0000"
+    },
     {
       "title": "Figure机器人数首超人类员工",
       "summary": "我们已超越理论阶段。\n\n有史以来第一次，Figure的机器人数量超过了人类员工数量。",
@@ -397,13 +411,6 @@
       "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-06-16T04:29:10.241Z"
-    },
-    {
-      "title": "五角大楼将大部分日常AI工作流从Anthropic转移，目标9月前完全切断",
-      "summary": "五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为\"供应链风险\"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。",
-      "url": "https://x.com/AYi_AInotes/status/2066679835607412846",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "time": "2026-06-16T00:30:44.000Z"
     }
   ],
   "paper": [
