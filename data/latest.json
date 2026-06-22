@@ -64,20 +64,6 @@
       "time": "2026-06-16T00:00:00.000Z"
     },
     {
-      "title": "里约热内卢市政府 AI 模型 Rio3.5 在基准测试中击败 Qwen3.7",
-      "summary": "里约热内卢市政府开发的 AI 模型 Rio3.5，在近期基准测试中超越了 Qwen3.7。该消息源自 Hacker News 上的一篇帖子，指出 Rio3.5 在多项评测中表现优于 Qwen3.7。目前尚未公开具体的测试细节或基准名称。",
-      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-06-14T17:34:09.183Z"
-    },
-    {
-      "title": "下一代投机解码：DFlash 与 Spec V2",
-      "summary": "Z Lab、Modal 与 SGLang 团队联合发布 DFlash 投机解码模型和 SGLang 的默认 Spec V2 引擎。DFlash 采用块扩散+KV 注入并行生成整块 draft token，在 Qwen 3.5 397B-A17B（BF16）的 HumanEval 数据集上、并发 1 时吞吐量达到基线的 4.3",
-      "url": "https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "time": "2026-06-14T16:00:00.000Z"
-    },
-    {
       "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
       "summary": "彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。",
       "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
@@ -93,6 +79,34 @@
     }
   ],
   "products": [
+    {
+      "title": "Grok by SpaceXAI for Word",
+      "summary": "\n            Draft, restructure & tighten wording from panel inside Word\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agent 37 Cloud",
+      "summary": "\n            Give every customer their own Hermes or OpenClaw agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-37-38",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Plansera AI",
+      "summary": "\n            E-2 visa business plans, drafted by an AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/plansera-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Atomic Mail Agentic",
+      "summary": "\n            Let your agents read, send, and react to email autonomously\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Mellum by JetBrains",
       "summary": "\n            Fast LLMs for low-latency and high-performance workflows\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -115,25 +129,11 @@
       "time": "今日"
     },
     {
-      "title": "Ploy.ai",
-      "summary": "\n            Ploy turns your website into your company's growth engine.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ploy-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Labs AI",
-      "summary": "\n            Turn any text into natural AI voiceovers on iPhone\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/labs-ai-text-to-speech",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AI‑Native eCommerce Infrastructure",
-      "summary": "\n            A unified control plane for Magento with Claude Code web\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+      "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+      "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "time": "2026-06-21T10:11:21.000Z"
     },
     {
       "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
@@ -183,23 +183,30 @@
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-06-18T11:00:00.000Z"
-    },
-    {
-      "title": "DeepSeek 识图模式正式上线 App 和网页端",
-      "summary": "DeepSeek 识图模式于6月18日在网页和 App 端正式上线，与快速模式、专家模式并列。开启后用户可直接上传图片让 DeepSeek 识别图像，能力超越简单文字提取。目前 App 端仍显示\"图片理解功能内测中\"，网页端无此提示。该模式背后的多模态模型技术细节于今年4月公开，核心框架为\"Thinking with Visual Primitives（以视觉原语思考）\"。",
-      "url": "https://www.ithome.com/0/966/066.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-06-18T07:48:11.000Z"
-    },
-    {
-      "title": "免费开源乔木画布：AI生图+抠图，一键部署Vercel",
-      "summary": "乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：https：//ps.qiaomu.ai/，GitHub见评论区。",
-      "url": "https://x.com/vista8/status/2067513484364140994",
-      "source": "X：Vista (@vista8)",
-      "time": "2026-06-18T07:43:21.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+      "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
@@ -243,30 +250,9 @@
       "time": "今日"
     },
     {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -308,11 +294,11 @@
   ],
   "industry": [
     {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\nComments URL: https://news.ycombinator.com/item?id=48613555\nPoints: 5\n# Comments: 0",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "source": "Hacker News",
-      "time": "Sat, 20 Jun 2026 22:22:52 +0000"
+      "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
+      "summary": "美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是\"最安全\"的选择。",
+      "url": "https://x.com/AISafetyMemes/status/2068718552174252477",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "time": "2026-06-21T15:31:52.000Z"
     },
     {
       "title": "Figure机器人数首超人类员工",
