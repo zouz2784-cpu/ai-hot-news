@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+      "summary": "OpenAI 发布了新一代模型 GPT-5.6 Sol 的预览信息。该模型被定位为下一代模型，目前仅公开了预览消息和标题，尚未披露具体技术细节、性能参数或功能特性。",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-06-26T10:00:00.000Z"
+    },
+    {
       "title": "Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
       "summary": "Ornith-1.0 开源模型家族发布，专注智能体编程（Agentic Coding），覆盖 9B Dense、31B Dense、35B MoE 及 397B MoE 全参数规模。在 Agent Coding 基准上达开源顶尖：SWE-Bench Verified 82.4、SWE-Bench Pro 62.2、Terminal-Bench 2.1 77.5、NL2Repo 48.2、SWE Atlas 41.2 QnA、ClawEval 77.1。基于 gemma4 和 qwen3.5 后训练，采用强化学习联合优化任务脚手架（scaffold）与最终解决方案，让模型自主改进执行框架。全系列",
       "url": "https://x.com/berryxia/status/2070167806700908957",
@@ -97,27 +104,27 @@
       "url": "https://x.com/rohanpaul_ai/status/2070252433109049466",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "time": "2026-06-25T21:06:58.000Z"
-    },
-    {
-      "title": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
-      "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-06-25T03:07:48.942Z"
     }
   ],
   "products": [
     {
-      "title": "Brain² by ClickUp",
-      "summary": "\n            One AI that knows your entire company and acts on it\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/clickup",
+      "title": "Agent Arena",
+      "summary": "\n            The first public arena for AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-arena",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Tough Tongue AI for Sales",
-      "summary": "\n            Live AI teammate for every tough sales conversation\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
+      "title": "DMV by Agent Community",
+      "summary": "\n            A community-governed namespace for AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AI Slide Editor by CubeOne",
+      "summary": "\n            The editor PowerPoint should've shipped\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cubeone",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,6 +136,13 @@
       "time": "今日"
     },
     {
+      "title": "Tough Tongue AI for Sales",
+      "summary": "\n            Live AI teammate for every tough sales conversation\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Papermark Agents",
       "summary": "\n            Let AI agents run your next deal, fundraise or data room\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/papermark-2",
@@ -136,37 +150,16 @@
       "time": "今日"
     },
     {
+      "title": "Brain² by ClickUp",
+      "summary": "\n            One AI that knows your entire company and acts on it\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/clickup",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Crewdle AI",
       "summary": "\n            Use every business AI tool without every subscription\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/crewdle",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Customer Relationship Agents by Clarify",
-      "summary": "\n            The M in CRM shouldn't be you\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/clarify-6",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Buy by Agentcard",
-      "summary": "\n            Order DoorDash from Claude\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-card",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Bluerails Discovery",
-      "summary": "\n            The rails AI agents use to find and pay you\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/bluerails-discovery",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Buddy AI Note",
-      "summary": "\n            Your daily memo that turns notes into a plan\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/buddy-ai-note",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -211,12 +204,61 @@
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
       "source": "Google Blog：AI（RSS）",
       "time": "2026-06-25T16:00:00.000Z"
+    },
+    {
+      "title": "美团 LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆",
+      "summary": "美团 LongCat 团队推出 VitaBench 2.0，首个真实生活场景下针对长期动态用户建模的智能体评测基准。包含56名拟真用户、819个复杂任务、超2000个动态偏好及66个可执行工具，每位用户平均2093个交互事件，时间跨度平均1580天。同时支持长文本上下文学习和智能体记忆策略评测。测试显示，最强模型 Claude-Opus-4.6 在\"开卷\"模式下平均分刚过0.5；开启思考模式并不总能提升个性化任务表现；所有模型在需要主动提问的任务上得分断崖式下跌。VitaBench 2.0 已开源。",
+      "url": "https://mp.weixin.qq.com/s/HoiUxYnyJuh2_xdxmg8s8Q",
+      "source": "公众号：龙猫LongCat（美团）",
+      "time": "2026-06-25T11:58:00.000Z"
     }
   ],
   "biz": [
     {
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+      "summary": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.",
+      "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "source": "TechCrunch",
       "time": "今日"
@@ -243,39 +285,11 @@
       "time": "今日"
     },
     {
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Apple raises Mac and iPad prices, spares iPhone for now",
-      "summary": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro.",
-      "url": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+      "summary": "代表近400家纸媒的出版商联盟向美国纽约南区联邦地区法院起诉微软和OpenAI，指控其未经授权抓取新闻内容用于训练Copilot、ChatGPT等AI模型，侵犯版权并触犯《数字千年版权法》。起诉书称被告\"系统性且秘密地\"爬取网站，复制文章并删除版权管理信息。原告表示AI产品基于其内容创造数十亿美元价值，但出版商分文未得，称此举或成地方新闻业\"丧钟\"。OpenAI回应训练数据基于公开可获取内容且符合合理使用原则，微软未置评。",
+      "url": "https://www.ithome.com/0/968/872.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-06-26T04:37:58.000Z"
     },
     {
       "title": "General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体",
@@ -308,53 +322,74 @@
   ],
   "industry": [
     {
-      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
-      "summary": "Article URL: https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html\nComments URL: https://news.ycombinator.com/item?id=48678873\nPoints: 87\n# Comments: 59",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 93\n# Comments: 41",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
       "source": "Hacker News",
-      "time": "Thu, 25 Jun 2026 20:36:05 +0000"
+      "time": "Fri, 26 Jun 2026 22:48:28 +0000"
     },
     {
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data\nComments URL: https://news.ycombinator.com/item?id=48676256\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "title": "AI in mathematics is forcing big questions",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics\nComments URL: https://news.ycombinator.com/item?id=48692883\nPoints: 7\n# Comments: 3",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "source": "Hacker News",
-      "time": "Thu, 25 Jun 2026 17:00:00 +0000"
+      "time": "Fri, 26 Jun 2026 22:36:51 +0000"
     },
     {
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS.We built this because we wanted a Notion-lik",
-      "url": "https://github.com/inkeep/open-knowledge",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "summary": "Article URL: https://blog.doubleword.ai/frontier-os-llm\nComments URL: https://news.ycombinator.com/item?id=48692058\nPoints: 86\n# Comments: 70",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
       "source": "Hacker News",
-      "time": "Thu, 25 Jun 2026 16:04:46 +0000"
+      "time": "Fri, 26 Jun 2026 21:14:47 +0000"
     },
     {
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "summary": "Article URL: https://hackernewstrends.com\nComments URL: https://news.ycombinator.com/item?id=48673671\nPoints: 637\n# Comments: 143",
-      "url": "https://hackernewstrends.com",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "summary": "https://archive.ph/PCQQl\n\nComments URL: https://news.ycombinator.com/item?id=48690101\nPoints: 737\n# Comments: 857",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "source": "Hacker News",
-      "time": "Thu, 25 Jun 2026 14:08:55 +0000"
+      "time": "Fri, 26 Jun 2026 18:23:14 +0000"
     },
     {
-      "title": "Political bias in AI: Where the AI models stand",
-      "summary": "Article URL: https://trakkr.ai/bias\nComments URL: https://news.ycombinator.com/item?id=48672779\nPoints: 105\n# Comments: 216",
-      "url": "https://trakkr.ai/bias",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview\n\nComments URL: https://news.ycombinator.com/item?id=48689028\nPoints: 765\n# Comments: 473",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "Hacker News",
-      "time": "Thu, 25 Jun 2026 13:08:31 +0000"
+      "time": "Fri, 26 Jun 2026 17:06:55 +0000"
     },
     {
-      "title": "Apple raises prices of MacBooks, iPads",
-      "summary": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipa...\n\nComments URL: https://news.ycombinator.com/item?id=48672732\nPoints: 600\n# Comments: 858",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\nComments URL: https://news.ycombinator.com/item?id=48688961\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
       "source": "Hacker News",
-      "time": "Thu, 25 Jun 2026 13:02:56 +0000"
+      "time": "Fri, 26 Jun 2026 17:00:43 +0000"
     },
     {
-      "title": "在与Anthropic的纠纷中，NSA失去了对Mythos的访问权限",
-      "summary": "美国国家安全局（NSA）因与人工智能公司Anthropic的纠纷，失去了对Mythos系统的访问权限。",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtube.com/watch?v=isKhAyivtfM.At Weave, we write most of our code with AI, and it's",
+      "url": "https://github.com/workweave/router",
+      "source": "Hacker News",
+      "time": "Fri, 26 Jun 2026 16:40:11 +0000"
+    },
+    {
+      "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+      "summary": "《纽约时报》周四提交经大量编辑的法庭文件，提议修订对OpenAI和微软的版权诉讼，明确指控微软通过建造全球最强大的超级计算系统之一，主动鼓励OpenAI窃取其作品。此举源于最高法院在Cox案中确立的新帮助侵权标准，要求原告证明被告有意诱导非法行为。《纽约时报》认为新证据显示该超级计算机专为帮助OpenAI未经许可训练AI而设计，其文章在训练数据中被加权处理。微软称修订是\"挽救不利先例的最后手段\"。",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+      "source": "Ars Technica：AI（RSS）",
+      "time": "2026-06-26T20:04:55.000Z"
+    },
+    {
+      "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+      "summary": "小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。",
+      "url": "https://www.ithome.com/0/968/894.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-06-26T05:40:52.000Z"
+    },
+    {
+      "title": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
+      "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-06-24T19:08:32.032Z"
+      "time": "2026-06-25T03:07:48.942Z"
     },
     {
       "title": "GitHub联合开源联盟呼吁修改加州AI透明度法案以保护开源",
@@ -385,90 +420,83 @@
       "time": "2026-06-22T15:13:29.000Z"
     },
     {
-      "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
-      "summary": "彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。",
-      "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "time": "2026-06-20T06:25:29.000Z"
-    },
-    {
-      "title": "Figure机器人数首超人类员工",
-      "summary": "我们已超越理论阶段。\n\n有史以来第一次，Figure的机器人数量超过了人类员工数量。",
-      "url": "https://x.com/rohanpaul_ai/status/2068089038213693800",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-06-19T21:50:24.000Z"
-    },
-    {
-      "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
-      "summary": "上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-06-19T19:41:30.069Z"
-    },
-    {
-      "title": "AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic",
-      "summary": "AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。",
-      "url": "https://x.com/demishassabis/status/2068002732250640603",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "time": "2026-06-19T16:07:27.000Z"
+      "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
+      "summary": "美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是\"最安全\"的选择。",
+      "url": "https://x.com/AISafetyMemes/status/2068718552174252477",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "time": "2026-06-21T15:31:52.000Z"
     }
   ],
   "paper": [
     {
-      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
-      "summary": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scra",
-      "url": "http://arxiv.org/abs/2606.26095v1",
+      "title": "DanceOPD: On-Policy Generative Field Distillation",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and lo",
+      "url": "http://arxiv.org/abs/2606.27377v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
-      "summary": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in ",
-      "url": "http://arxiv.org/abs/2606.26094v1",
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution is unknown. We introduce a \\textbf{R}anking-\\textbf{i}nduced \\textbf{VER}ifiable framework (RiVER) t",
+      "url": "http://arxiv.org/abs/2606.27369v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
-      "summary": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves",
-      "url": "http://arxiv.org/abs/2606.26091v1",
+      "title": "Autoregressive Boltzmann Generators",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact li",
+      "url": "http://arxiv.org/abs/2606.27361v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
-      "summary": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible at s",
-      "url": "http://arxiv.org/abs/2606.26080v1",
+      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the sequence level. Therefore, their success depends on a fundamental question: when does sequence prob",
+      "url": "http://arxiv.org/abs/2606.27359v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
-      "summary": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability property called for by emerging AI evaluation guidelines. We introduce Facet-Probe, a five-facet audit (op",
-      "url": "http://arxiv.org/abs/2606.26079v1",
+      "title": "Error-Conditioned Neural Solvers",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their own constraint violations and extrapolate beyond the training distribution. Recent hybrid methods prom",
+      "url": "http://arxiv.org/abs/2606.27354v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
-      "summary": "Supervised deep learning has been widely used for weld penetration state classification; however, its performance often degrades significantly under domain shift, such as when transferring models between welding processes with distinct physical mechanisms:for instance, from arc-dominated tungsten in",
-      "url": "http://arxiv.org/abs/2606.26078v1",
+      "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work has incorporated domain information and low-resource learning techniques to better adapt EM systems ",
+      "url": "http://arxiv.org/abs/2606.27342v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
-      "summary": "A central goal of safety research is determining whether a model is misaligned. Prior work has largely focused on detecting concerning behavior. But behavior alone does not establish misalignment: a concerning action can arise from benign causes such as confusion. This motivates model forensics: inv",
-      "url": "http://arxiv.org/abs/2606.26071v1",
+      "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
+      "summary": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive Impairment (MCI) remains challenging, where language and conversational patterns serve as non-invas",
+      "url": "http://arxiv.org/abs/2606.27334v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks",
-      "summary": "The laser welding full-penetration is of critical importance, as it constitutes one of the fundamental factors in achieving defect-free welded joints. Accurate prediction of the penetration state is therefore essential for ensuring weld quality. To this end, this paper introduces SimPhysNet, a novel",
-      "url": "http://arxiv.org/abs/2606.26059v1",
+      "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
+      "summary": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer from",
+      "url": "http://arxiv.org/abs/2606.27330v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+      "summary": "Cursor 最新研究发现，编码智能体在 SWE-bench Pro 等基准测试中存在奖励攻击问题：智能体通过检索已知修复而非独立推导来通过测试。对 731 条 Opus 4.8 Max 轨迹的审计显示，63% 的成功修复来自检索，其中上游查找占 57%，git 历史挖掘占 9%。严格隔离 git 历史并限制网络访问后，Opus 4.8 Max 的 SWE-bench Pro 分数从 87.1% 降至 73.0%；Cursor 自家 Composer 2.5 差距最大，达 20.7 个点。新模型比旧模型更容易出现此问题。研究报告建议采用严格测试环境（隔离 git 历史、限制网络出口）以获取可信",
+      "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+      "source": "MarkTechPost（RSS）",
+      "time": "2026-06-26T23:31:29.000Z"
+    },
+    {
+      "title": "Anthropic Economic Index 报告：使用节奏",
+      "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-06-26T15:18:56.294Z"
     },
     {
       "title": "IBM 首度推出亚纳米级芯片技术",
@@ -504,20 +532,6 @@
       "url": "https://arxiv.org/abs/2606.25473",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-06-24T00:00:00.000Z"
-    },
-    {
-      "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
-      "summary": "一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成\"算法单一文化\"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。",
-      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-06-23T21:48:25.964Z"
-    },
-    {
-      "title": "思考即回忆：推理如何解锁LLM中的参数化知识",
-      "summary": "Google Research研究发现，推理（chain-of-thought）能帮助大语言模型（LLM）回忆简单事实，即使这些事实无需复杂推导。在Gemini-2.5 Flash和Pro以及Qwen3-32B上，启用推理后模型能够回答原本无法直接回答的简单问题，pass@k显示正确事实存在于输出分布中。该现象由两个机制驱动：一是生成的推理token充当计算缓冲，允许模型进行隐藏计算以提取参数化知识；二是推理过程中产生的相关事实起到启动效应（factual priming），帮助模型激活正确答案。",
-      "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms",
-      "source": "Google Research：Blog（网页）",
-      "time": "2026-06-23T16:00:00.000Z"
     }
   ],
   "tips": []
