@@ -1,6 +1,20 @@
 {
   "models": [
     {
+      "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+      "summary": "Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。\n\n强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。\n\n所有参与者的出色工作！\n\n今年，@SpaceX 将每月发布完全从头训练的新模型。",
+      "url": "https://x.com/elonmusk/status/2071184354756477041",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "time": "2026-06-28T10:50:05.000Z"
+    },
+    {
+      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+      "summary": "新浪发布仅3B参数的VibeThinker-3B，在AIME26等数学编程基准上持平DeepSeek V3.2等大200-333倍的模型，LiveCodeBench超越所有20B以下模型，LeetCode竞赛解决123/128题超过GPT-5.2、Kimi K2.5等。但知识密集型GPQA-Diamond大幅落后。模型基于阿里Qwen2.5-Coder-3B，经SFT、强化学习、自蒸馏等多阶段后训练。研究提出\"参数压缩-覆盖假说\"：逻辑推理依赖少数可压缩模式，而广泛世界知识仍需大参数。模型已开源。",
+      "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-06-28T07:44:41.000Z"
+    },
+    {
       "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
       "summary": "OpenAI 发布了新一代模型 GPT-5.6 Sol 的预览信息。该模型被定位为下一代模型，目前仅公开了预览消息和标题，尚未披露具体技术细节、性能参数或功能特性。",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
@@ -90,23 +104,16 @@
       "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
       "source": "Hugging Face：Blog（RSS）",
       "time": "2026-06-22T13:18:56.000Z"
-    },
-    {
-      "title": "OpenAI 扩展 Daybreak 计划：推出 GPT-5.5-Cyber 完整版与 Codex Security 更新",
-      "summary": "OpenAI 于 2026 年 6 月 22 日宣布扩展 Daybreak 计划，发布 GPT-5.5-Cyber 完整版和 Codex Security 插件更新。GPT-5.5-Cyber 在 CyberGym 上达 85.6%，超越 GPT-5.5 的 81.8%。Codex Security 插件可深度扫描代码库、验证漏洞并自动生成补丁，支持导出至漏洞管理系统。自 3 月预览以来已扫描超 3000 万次提交，超 7 万项发现经人工确认已修复。同期启动 Patch the Planet 计划，联合 Trail of Bits、HackerOne 等，cURL、Go、Python、Sigs",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-06-22T10:00:00.000Z"
-    },
-    {
-      "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-      "summary": "The Information 报道，美国政府因安全顾虑要求 OpenAI 暂缓 GPT-5.6 的广泛发布，改为推出受控预览版。OpenAI 计划先向小部分合作伙伴提供早期访问，并由政府逐客户审批准入。这一非常规做法主要担忧模型在自动化高技能网络工作上的能力：既能帮防御者更快发现漏洞，也可能被攻击者用于加速测试漏洞利用。本周四，CEO Sam Altman 已向员工确认该审批流程。",
-      "url": "https://x.com/rohanpaul_ai/status/2070252433109049466",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-06-25T21:06:58.000Z"
     }
   ],
   "products": [
+    {
+      "title": "discode.ai",
+      "summary": "\n            100+ AI models, one interface. ECO friendly.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/discode-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Folio AI",
       "summary": "\n            Claude for PowerPoint, on steroids\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -136,13 +143,6 @@
       "time": "今日"
     },
     {
-      "title": "Tough Tongue AI for Sales",
-      "summary": "\n            Live AI teammate for every tough sales conversation\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "Brain² by ClickUp",
       "summary": "\n            One AI that knows your entire company and acts on it\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/clickup",
@@ -164,11 +164,25 @@
       "time": "今日"
     },
     {
-      "title": "Buy by Agentcard",
-      "summary": "\n            Order DoorDash from Claude\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-card",
+      "title": "Tough Tongue AI for Sales",
+      "summary": "\n            Live AI teammate for every tough sales conversation\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
       "source": "Product Hunt",
       "time": "今日"
+    },
+    {
+      "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
+      "summary": "Wayfinder Router 通过分析提示词的结构（长度、标题、列表、代码）和措辞（证明、数学、硬约束），在微秒级完成路由决策，完全离线且无需调用其他模型。默认仅使用结构特征，词汇线索因盲测未泛化而默认为关闭。对比依赖模型调用的路由器（如 RouteLLM、NotDiamond），它避免了延迟、成本和随机性。用户可在自有数据上校准评分阈值。支持任何 OpenAI 兼容 API（含 Ollama、Anthropic、Groq、vLLM 等），可自托管。提供终端和网页演示（--dry-run 无需密钥），以及基准测试和 FAQ。",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-06-28T16:58:56.073Z"
+    },
+    {
+      "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+      "summary": "Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac 正常睡眠。它通过各 agent 的钩子系统调用 CLI，往返延迟低于 50ms，支持引用计数断言、热切出（温度阈值强制释放）、空闲释放及进程嗅探。需要 macOS Tahoe 26.4，Xcode 26+ 构建，以签名公证的磁盘映像提供。",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-06-28T03:55:17.096Z"
     },
     {
       "title": "Runway API 推出广告本地化 Recipe",
@@ -197,23 +211,30 @@
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
       "source": "Claude Code：GitHub Releases（RSS）",
       "time": "2026-06-25T21:45:57.000Z"
-    },
-    {
-      "title": "Codex 在 ChatGPT 移动 App 正式可用",
-      "summary": "OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。",
-      "url": "https://x.com/OpenAIDevs/status/2070254532911882707",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "time": "2026-06-25T21:15:18.000Z"
-    },
-    {
-      "title": "Midjourney 预览 V8.2 并加速草稿模式",
-      "summary": "Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 \"Vary\" 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。",
-      "url": "https://x.com/midjourney/status/2070223272072065228",
-      "source": "X：Midjourney (@midjourney)",
-      "time": "2026-06-25T19:11:05.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+      "summary": "Has Silicon Valley been building the wrong things?",
+      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
@@ -264,27 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
       "summary": "2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。",
       "url": "https://x.com/berryxia/status/2070916520822321292",
@@ -322,27 +322,6 @@
   ],
   "industry": [
     {
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "summary": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents. Some people made snarky comments about using tmux or Amphetamine, and some defended their choice wi",
-      "url": "https://github.com/kageroumado/adrafinil",
-      "source": "Hacker News",
-      "time": "Sat, 27 Jun 2026 20:34:53 +0000"
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like models",
-      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\nComments URL: https://news.ycombinator.com/item?id=48697958\nPoints: 105\n# Comments: 105",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "source": "Hacker News",
-      "time": "Sat, 27 Jun 2026 13:10:21 +0000"
-    },
-    {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 713\n# Comments: 293",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "source": "Hacker News",
-      "time": "Sat, 27 Jun 2026 09:18:52 +0000"
-    },
-    {
       "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
       "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
       "url": "https://x.com/cb_doge/status/2070973276562530507",
@@ -376,6 +355,13 @@
       "url": "https://www.ithome.com/0/968/894.htm",
       "source": "IT之家（RSS）",
       "time": "2026-06-26T05:40:52.000Z"
+    },
+    {
+      "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+      "summary": "The Information 报道，美国政府因安全顾虑要求 OpenAI 暂缓 GPT-5.6 的广泛发布，改为推出受控预览版。OpenAI 计划先向小部分合作伙伴提供早期访问，并由政府逐客户审批准入。这一非常规做法主要担忧模型在自动化高技能网络工作上的能力：既能帮防御者更快发现漏洞，也可能被攻击者用于加速测试漏洞利用。本周四，CEO Sam Altman 已向员工确认该审批流程。",
+      "url": "https://x.com/rohanpaul_ai/status/2070252433109049466",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-06-25T21:06:58.000Z"
     },
     {
       "title": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
@@ -425,6 +411,20 @@
       "url": "https://www.ithome.com/0/967/234.htm",
       "source": "IT之家（RSS）",
       "time": "2026-06-22T15:13:29.000Z"
+    },
+    {
+      "title": "Knowledge Distillation of Black-Box Large Language Models",
+      "summary": "Article URL: https://arxiv.org/abs/2401.07013\nComments URL: https://news.ycombinator.com/item?id=48712420\nPoints: 23\n# Comments: 11",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "source": "Hacker News",
+      "time": "Sun, 28 Jun 2026 22:32:04 +0000"
+    },
+    {
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line,",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "source": "Hacker News",
+      "time": "Sun, 28 Jun 2026 19:43:10 +0000"
     }
   ],
   "paper": [
@@ -485,6 +485,13 @@
       "time": "今日"
     },
     {
+      "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+      "summary": "普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本。一个不调用语言模型的简单规则启发式方法通过固定定价、配额和针对性开发达到1576万美元，超越除上述三款外的所有模型。多数模型无法保持连贯策略，在模拟结束前破产。该测试旨在衡量AI的长期战略决策能力。",
+      "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-06-28T10:16:13.000Z"
+    },
+    {
       "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
       "summary": "DeepSeek 发布 DSpark 投机解码框架并开源检查点与训练代码。该框架不是新模型，而是在 DeepSeek-V4 权重上附加草稿模块，通过半自回归生成（并行骨干 + 轻量级顺序头）实现无损加速。生产环境下，DeepSeek-V4-Flash 和 V4-Pro 每用户生成速度较 MTP-1 基线分别提升 60-85% 和 57-78%。离线测试中，接受长度比 Eagle3 高 26-31%，比 DFlash 高 16-18%。配套 DeepSpec 训练代码库采用 MIT 许可证。",
       "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
@@ -525,13 +532,6 @@
       "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
       "source": "Google Research：Blog（网页）",
       "time": "2026-06-25T16:00:00.000Z"
-    },
-    {
-      "title": "OpenAI内部报告：智能体Codex如何改变工作",
-      "summary": "OpenAI 在2025年8月至2026年6月间观察到，智能体产品 Codex 取代 ChatGPT 成为主要工作工具，各部门输出 token 中 Codex 占比从不足10%升至99.8%。80.6%个体用户曾发起预计等效人类工作时间超30分钟的请求，70.2%超1小时，25.6%超8小时；99百分位用户每日生成超60小时 agent turns。非开发者用户增长迅猛：个体用户增长137倍，组织用户增长189倍。Legal、Finance、Recruiting 部门在2026年4月前后跨过 Codex 使用过半拐点，平均每位律师或招聘人员超85%输出 token 来自 Codex。",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-06-25T02:00:00.000Z"
     }
   ],
   "tips": []
