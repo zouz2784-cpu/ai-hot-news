@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+      "summary": "美团今日宣布 LongCat-2.0 完全开源（MIT 许可），公开模型权重与推理代码。该模型为 MoE 架构，总参数量 1.6T，每 token 激活约 48B，支持 1M token 上下文。技术亮点包括 LongCat Sparse Attention 高效处理长文本、Zero-Compute Experts 动态激活 33B-56B 零浪费计算、MOPD 按任务路由 Agent/Reasoning/Interaction 三组专家。Benchmark 成绩：Terminal-Bench 2.1 70.8；SWE-bench Pro 59.5（超越 GPT-5.5 的 58.6）；SWE",
+      "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "time": "2026-07-05T14:00:18.000Z"
+    },
+    {
       "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
       "summary": "7月3日，生数科技在2026全球数字经济大会上发布Vidu S1实时交互模型，支持实时视频通话和语音控制视频走向，实现无限时长连续互动。模型采用自回归扩散路线，基于已生成画面和语音指令持续预测后续内容；无需传统建模，一张图片即可创建角色并自定义音色。Vidu S1在540P分辨率下实现25FPS（最高42FPS）实时生成，通过TurboDiffusion等技术降低计算成本，已开启内测。",
       "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
@@ -48,20 +55,6 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "source": "Anthropic：Newsroom（网页）",
       "time": "2026-06-29T16:00:00.000Z"
-    },
-    {
-      "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-      "summary": "Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。\n\n强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。\n\n所有参与者的出色工作！\n\n今年，@SpaceX 将每月发布完全从头训练的新模型。",
-      "url": "https://x.com/elonmusk/status/2071184354756477041",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "time": "2026-06-28T10:50:05.000Z"
-    },
-    {
-      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-      "summary": "新浪发布仅3B参数的VibeThinker-3B，在AIME26等数学编程基准上持平DeepSeek V3.2等大200-333倍的模型，LiveCodeBench超越所有20B以下模型，LeetCode竞赛解决123/128题超过GPT-5.2、Kimi K2.5等。但知识密集型GPQA-Diamond大幅落后。模型基于阿里Qwen2.5-Coder-3B，经SFT、强化学习、自蒸馏等多阶段后训练。研究提出\"参数压缩-覆盖假说\"：逻辑推理依赖少数可压缩模式，而广泛世界知识仍需大参数。模型已开源。",
-      "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-06-28T07:44:41.000Z"
     },
     {
       "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
@@ -115,16 +108,16 @@
       "time": "今日"
     },
     {
-      "title": "Mark by Airtop",
-      "summary": "\n            Vibe automation for solo marketers\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/airtop",
+      "title": "Tabstack Browser Automation",
+      "summary": "\n            Automate the web in your app or agent, no browser to host\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tabstack",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Tabstack Browser Automation",
-      "summary": "\n            Automate the web in your app or agent, no browser to host\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tabstack",
+      "title": "Sequence Agentic",
+      "summary": "\n            Money movement for AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/sequence",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -264,18 +257,11 @@
       "time": "今日"
     },
     {
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-      "summary": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
-      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+      "summary": "\"我们正在建设这个 Prometheus 集群，首个千兆瓦以上的单一集群……我们是在谈论数千亿美元的资本投入。\"\n\nMark Zuckerberg 表示，他的职责就是集中精英人才、资本和基础设施。",
+      "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-07-05T18:19:42.000Z"
     },
     {
       "title": "扎克伯格称AI智能体开发速度未如预期",
@@ -311,50 +297,29 @@
       "url": "https://www.ithome.com/0/971/790.htm",
       "source": "IT之家（RSS）",
       "time": "2026-07-02T09:10:36.000Z"
+    },
+    {
+      "title": "OpenAI提议美国政府持股5%估值426亿美元",
+      "summary": "据Financial Times和CNBC报道，OpenAI提议向美国政府提供公司5%的股份，按近期8520亿美元估值计算，价值约426亿美元。OpenAI CEO Sam Altman表示，此举是与公众分享AI发展红利的最佳方式。",
+      "url": "https://x.com/testingcatalog/status/2072585845542969583",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "time": "2026-07-02T07:39:07.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Scientists reverse brain aging, with a nasal spray",
-      "summary": "Article URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/\nComments URL: https://news.ycombinator.com/item?id=48790066\nPoints: 7\n# Comments: 0",
-      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-      "source": "Hacker News",
-      "time": "Sat, 04 Jul 2026 23:41:10 +0000"
+      "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+      "summary": "重大延迟：Jensen 在 GTC 上展示 Kyber NVL144 仅 3 个月后，该项目遭遇重大挫折，已推迟超过 12 个月，延至 2028 年。下文我们将解释 Kyber 为何面临大幅延迟，以及 NVIDIA 的 NVL72x2 背靠背机架架构为何也被取消，导致 Rubin Ultra 的扩展域受限。👇️ 1/6🧵",
+      "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "time": "2026-07-05T21:00:27.000Z"
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364\nComments URL: https://news.ycombinator.com/item?id=48789428\nPoints: 106\n# Comments: 23",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "source": "Hacker News",
-      "time": "Sat, 04 Jul 2026 21:51:09 +0000"
-    },
-    {
-      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-      "summary": "Article URL: https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/\nComments URL: https://news.ycombinator.com/item?id=48789325\nPoints: 7\n# Comments: 2",
-      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
-      "source": "Hacker News",
-      "time": "Sat, 04 Jul 2026 21:35:30 +0000"
-    },
-    {
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "summary": "Article URL: https://arxiv.org/abs/2606.26967\nComments URL: https://news.ycombinator.com/item?id=48788849\nPoints: 8\n# Comments: 1",
-      "url": "https://arxiv.org/abs/2606.26967",
-      "source": "Hacker News",
-      "time": "Sat, 04 Jul 2026 20:38:39 +0000"
-    },
-    {
-      "title": "Better Models: Worse Tools",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\nComments URL: https://news.ycombinator.com/item?id=48788599\nPoints: 72\n# Comments: 19",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "source": "Hacker News",
-      "time": "Sat, 04 Jul 2026 20:16:22 +0000"
-    },
-    {
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "summary": "Article URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234\nComments URL: https://news.ycombinator.com/item?id=48786838\nPoints: 296\n# Comments: 151",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "source": "Hacker News",
-      "time": "Sat, 04 Jul 2026 16:51:26 +0000"
+      "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
+      "summary": "欧盟理事会通过书面程序快速通过一项新法规，强制要求科技集团对加密通信进行无差别扫描（Chat Control 2.0），以填补过渡性规定4月3日到期后的法律漏洞，并向欧洲议会施压。批评者指责该做法试图绕过民主监督。草案将在夏季休会前以紧急程序提交议会表决，多数议员可能已离会，反对需绝对多数，几乎无法阻止。理事会称扫描限于必要范围，处理的数据须在检测后12个月内不可撤销地删除。",
+      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-07-05T16:23:44.440Z"
     },
     {
       "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
@@ -385,13 +350,6 @@
       "time": "2026-07-02T11:15:49.000Z"
     },
     {
-      "title": "OpenAI提议美国政府持股5%估值426亿美元",
-      "summary": "据Financial Times和CNBC报道，OpenAI提议向美国政府提供公司5%的股份，按近期8520亿美元估值计算，价值约426亿美元。OpenAI CEO Sam Altman表示，此举是与公众分享AI发展红利的最佳方式。",
-      "url": "https://x.com/testingcatalog/status/2072585845542969583",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "time": "2026-07-02T07:39:07.000Z"
-    },
-    {
       "title": "Meta效仿SpaceX，将过剩AI算力变现",
       "summary": "据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模型（包括近期发布的闭源模型Muse Spark）。扎克伯格此前已表示云业务\"de",
       "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
@@ -418,6 +376,41 @@
       "url": "https://www.ithome.com/0/970/583.htm",
       "source": "IT之家（RSS）",
       "time": "2026-06-30T07:56:46.000Z"
+    },
+    {
+      "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+      "summary": "2026年6月30日，特斯拉在奥斯汀公共道路启动首批量产版Cybercab工程测试。车辆无方向盘与脚踏板，配有安全监督员，马斯克发布实拍视频。从2024年10月概念车首秀到实车上路约20个月。目前不对外开放乘客，投入34台Cybercab在市中心验证硬件可靠性。Cybercab为双座车型，完全围绕无人驾驶打造，无后期改装。此前奥斯汀已有无安全员Model Y无人驾驶出租于1月启用、6月22日开放付费服务。",
+      "url": "https://www.ithome.com/0/970/539.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-06-30T06:45:03.000Z"
+    },
+    {
+      "title": "Rubin Ultra取消，新版尺寸性能减半",
+      "summary": "有意思：在GTC 2026宣布Rubin Ultra仅3个月后，原4-die Rubin Ultra因制造执行问题被取消。新的\"Rubin Ultra\"尺寸减半，实际性能约为原版的一半。1/4🧵",
+      "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "time": "2026-06-29T21:00:47.000Z"
+    },
+    {
+      "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
+      "summary": "国务院日前印发《教育发展\"十五五\"规划》，要求推进人工智能全学段教育，提升学生人工智能素养及提出问题、解决问题的能力。规划明确完善科学教育体系，强化科技教育与人文教育协同，加强青少年科学素养、批判性思维和创新能力培养。同时实施学生体质强健计划、心理健康促进行动，加大拔尖创新人才自主培养力度，推动学科交叉融合，扩大优质本科招生规模。目标到2030年高质量教育体系基本建成。",
+      "url": "https://www.ithome.com/0/970/097.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-06-29T09:27:36.000Z"
+    },
+    {
+      "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
+      "summary": "在韩国政府支持下，三星和SK海力士计划投入5900亿美元扩大芯片产能，包括800万亿韩元新建四座工厂、81万亿韩元建封装中心，以及未来15年30万亿韩元用于研发下一代芯片。AI数据中心需求是主要驱动力。Jefferies预测，2026年Q3内存价格将上涨40%至50%，Q4再涨30%至40%，2027年继续上涨40%至45%，到2028年新产能仅上线15%至20%才可能缓解。两家公司合计控制全球近80%的高带宽内存芯片市场。内存涨价已推高消费电子产品成本，苹果已上调Mac和MacBook售价。",
+      "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-06-29T08:17:41.000Z"
+    },
+    {
+      "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
+      "summary": "SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI 数据中心容量，作为韩国国家级基础设施和实体 AI 时代核心底座。项目总投资 1000 万亿韩元（约 4.4 万亿元人民币），未来 10 年保持年均 100 万亿韩元以上国内投资，旨在实现从出口传统商品向智能服务的转变，构建韩国智能市场。此外，SK 海力士将向韩国西南部投资 400 万亿韩元，半导体供应项目总投资达 1100 万亿韩元（约 4.84 万亿元人民币）。",
+      "url": "https://www.ithome.com/0/969/953.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-06-29T06:44:15.000Z"
     }
   ],
   "paper": [
