@@ -2,6 +2,34 @@
   "models": [],
   "products": [
     {
+      "title": "agents-cli",
+      "summary": "\n            The CLI your coding agent uses to ship agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agents-cli",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Bono AI",
+      "summary": "\n            Talk Once. Publish Everywhere.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/bono-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Notion Agents iOS app",
+      "summary": "\n            Chat with Notion Agents anytime\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/notion-agents-ios-app",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Kadoink AI",
+      "summary": "\n            Tell Kadoink who you need video voice text push link or app\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Ogment AI",
       "summary": "\n            Your AI coworker, in Slack. Just tag @O.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/ogment-mcp-builder",
@@ -12,13 +40,6 @@
       "title": "AI Emaily",
       "summary": "\n            Your AI inbox that writes like you + replies on autopilot\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Kadoink AI",
-      "summary": "\n            Gather people instantly by AI txt, video, or ringing phones\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -35,192 +56,185 @@
       "url": "https://www.producthunt.com/products/airkaren",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "CentryAI",
-      "summary": "\n            Subscription tracker built by someone who forgot 11 of them\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/centryai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Banger Mail",
-      "summary": "\n            Shared mailboxes for teams and AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/banger-mail",
-      "source": "Product Hunt",
-      "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-      "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
-      "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Meta rolls out Muse, a new AI image generator",
-      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "summary": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
+      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "title": "Autonomous drone delivery startup Manna plots major US expansion",
+      "summary": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.",
+      "url": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "VC firm Chemistry is raising $500M for its second fund",
-      "summary": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
-      "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-      "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
-      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "This startup pits dealerships against each other to bid on your used car",
-      "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
-      "url": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+      "summary": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.",
+      "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "summary": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code.\n\nComments URL: https://news.ycombinator.com/item?id=48821848\nPoints: 152\n# Comments: 32",
-      "url": "https://davit.app",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\nComments URL: https://news.ycombinator.com/item?id=48838876\nPoints: 17\n# Comments: 2",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "source": "Hacker News",
-      "time": "Tue, 07 Jul 2026 18:44:29 +0000"
+      "time": "Wed, 08 Jul 2026 23:37:43 +0000"
     },
     {
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/\nComments URL: https://news.ycombinator.com/item?id=48821749\nPoints: 68\n# Comments: 9",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/\nComments URL: https://news.ycombinator.com/item?id=48838611\nPoints: 40\n# Comments: 15",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "source": "Hacker News",
-      "time": "Tue, 07 Jul 2026 18:36:35 +0000"
+      "time": "Wed, 08 Jul 2026 23:11:28 +0000"
     },
     {
-      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
-      "summary": "Article URL: https://github.com/kklimuk/docx-cli\nComments URL: https://news.ycombinator.com/item?id=48821500\nPoints: 49\n# Comments: 21",
-      "url": "https://github.com/kklimuk/docx-cli",
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "summary": "Article URL: https://github.com/animesh-94/Onboard-CLI\nComments URL: https://news.ycombinator.com/item?id=48836813\nPoints: 18\n# Comments: 3",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
       "source": "Hacker News",
-      "time": "Tue, 07 Jul 2026 18:19:00 +0000"
+      "time": "Wed, 08 Jul 2026 20:09:03 +0000"
     },
     {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "summary": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability to build your own work surfaces inside Rowboat (more below).Our repo is https://github.com/rowboatl",
-      "url": "https://github.com/rowboatlabs/rowboat",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit de",
+      "url": "https://microsoft.github.io/flint-chart/#/",
       "source": "Hacker News",
-      "time": "Tue, 07 Jul 2026 16:10:44 +0000"
+      "time": "Wed, 08 Jul 2026 17:46:12 +0000"
     },
     {
-      "title": "Automating AI Away",
-      "summary": "Article URL: https://replicated.live/blog/away\nComments URL: https://news.ycombinator.com/item?id=48818937\nPoints: 91\n# Comments: 48",
-      "url": "https://replicated.live/blog/away",
+      "title": "GPT‑Live",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/\nComments URL: https://news.ycombinator.com/item?id=48834405\nPoints: 570\n# Comments: 389",
+      "url": "https://openai.com/index/introducing-gpt-live/",
       "source": "Hacker News",
-      "time": "Tue, 07 Jul 2026 15:11:08 +0000"
+      "time": "Wed, 08 Jul 2026 17:03:19 +0000"
     },
     {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "summary": "Article URL: https://fightchatcontrol.eu/chat-control-overview\nComments URL: https://news.ycombinator.com/item?id=48818311\nPoints: 402\n# Comments: 133",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "summary": "Article URL: https://cognition.com/blog/swe-1-7\nComments URL: https://news.ycombinator.com/item?id=48833866\nPoints: 244\n# Comments: 127",
+      "url": "https://cognition.com/blog/swe-1-7",
       "source": "Hacker News",
-      "time": "Tue, 07 Jul 2026 14:23:15 +0000"
+      "time": "Wed, 08 Jul 2026 16:19:36 +0000"
+    },
+    {
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "summary": "Article URL: https://mistral.ai/news/robostral-navigate/\nComments URL: https://news.ycombinator.com/item?id=48832212\nPoints: 393\n# Comments: 93",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "source": "Hacker News",
+      "time": "Wed, 08 Jul 2026 14:09:17 +0000"
     }
   ],
   "paper": [
     {
-      "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-      "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are expli",
-      "url": "http://arxiv.org/abs/2607.05396v1",
+      "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+      "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural ",
+      "url": "http://arxiv.org/abs/2607.06565v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck.",
-      "url": "http://arxiv.org/abs/2607.05394v1",
+      "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. However, our principled understanding of attention-based graph denoising remains limite",
+      "url": "http://arxiv.org/abs/2607.06546v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-      "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noisy and survey-dependent. We aim to develop a Real-Bogus classification framework that can be trained",
-      "url": "http://arxiv.org/abs/2607.05393v1",
+      "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+      "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this civilization. AI is seen as a ''double-edged sword'' where on the one hand, it can enable access and",
+      "url": "http://arxiv.org/abs/2607.06544v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness",
-      "url": "http://arxiv.org/abs/2607.05391v1",
+      "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
+      "summary": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure that solvers and learned policies rely on. Existing general generators usually choose their generation",
+      "url": "http://arxiv.org/abs/2607.06532v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
-      "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge bottleneck is structural: generators are trained on fixed c",
-      "url": "http://arxiv.org/abs/2607.05382v1",
+      "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+      "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-ho",
+      "url": "http://arxiv.org/abs/2607.06531v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "What Does a Discrete Diffusion Model Learn?",
-      "summary": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural network in the wrong coordinate changes the process being trained and sampled. Starting with a rigorou",
-      "url": "http://arxiv.org/abs/2607.05381v1",
+      "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
+      "summary": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the semantic gap where intermediate nodes lack lexical overlap with the query. To address this, we propose",
+      "url": "http://arxiv.org/abs/2607.06527v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
-      "summary": "In deep learning for tabular data, efficient ensembles of multilayer perceptrons (MLPs) have recently emerged as effective and practical architectures. Existing methods of this kind use the same hyperparameters for all underlying MLPs, which requires hyperparameter tuning for achieving the best perf",
-      "url": "http://arxiv.org/abs/2607.05380v1",
+      "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
+      "summary": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different pr",
+      "url": "http://arxiv.org/abs/2607.06523v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
-      "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction offers a natural solution by summarizing previous interaction states and continuing the rollout unde",
-      "url": "http://arxiv.org/abs/2607.05378v1",
+      "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
+      "summary": "Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reasoning that contradicts physical reality, and misalignment between the model's reasoni",
+      "url": "http://arxiv.org/abs/2607.06522v1",
       "source": "arXiv",
       "time": "今日"
     }
