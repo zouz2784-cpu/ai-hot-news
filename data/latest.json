@@ -1,18 +1,25 @@
 {
   "models": [
     {
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+      "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "time": "2026-07-11T16:46:22.000Z"
+    },
+    {
+      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+      "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
+      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "source": "MarkTechPost（RSS）",
+      "time": "2026-07-11T07:56:11.000Z"
+    },
+    {
       "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
       "summary": "Cognition 发布迄今最强模型 SWE-1.7，基于 Kimi K2.7 基座训练，通过强化学习管线改进（基础设施、训练稳定性、数据质量、长程任务技术）实现前沿智能水平并大幅降低成本。在 FrontierCode 1.1 Main 基准上达 42.3%（Kimi K2.7 Code 为 30.1%，GPT-5.5 为 43.0%，Opus 4.8 为 46.5%），Terminal-Bench 2.1 达 81.5%，SWE-Bench Multilingual 达 77.8%。模型针对长周期异步任务优化，现已在 Devin（Web、桌面、CLI）通过 Cerebras 以 1000 T",
       "url": "https://cognition.com/blog/swe-1-7",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-07-09T21:46:17.901Z"
-    },
-    {
-      "title": "OpenAI 发布最强模型与最佳博文",
-      "summary": "显然是我们有史以来最好的模型，也是我们写得最好的博文之一：\n\nhttps://openai.com/index/gpt-5-6/",
-      "url": "https://x.com/sama/status/2075266471316615436",
-      "source": "X：Sam Altman (@sama)",
-      "time": "2026-07-09T17:10:58.000Z"
     },
     {
       "title": "Meta 发布 Muse Spark 1.1 模型",
@@ -85,11 +92,11 @@
       "time": "2026-07-08T16:00:00.000Z"
     },
     {
-      "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-      "summary": "蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Apache-2.0许可证在Hugging Face开源，提供ViT-g、ViT-L（300M）、ViT-B（86M）、ViT-S四个规模。",
-      "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-07-08T03:03:22.000Z"
+      "title": "OpenAI GPT-5.6 周四发布，此前因美国政府强制延迟",
+      "summary": "OpenAI GPT-5.6 模型于周四发布。该模型6月底亮相，最初因美国政府限制仅向部分合作伙伴提供，商务部在AI标准与创新中心完成额外测试后批准公开。OpenAI公开批评延迟，称将最佳工具与开发者及企业隔离。新模型Sol在TerminalBench 2.1得分88.8%，Sol Ultra达91.9%，高于Anthropic的Claude Mythos 5（88%）。在网络安全任务中，Sol与Mythos 5水平相当但仅用三分之一的token。Sol定价$5/$30每百万输入/输出token，Anthropic的Fable 5为$10/$50。",
+      "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-07-08T08:00:30.000Z"
     },
     {
       "title": "Pulpie：用于清理网络的Pareto最优模型",
@@ -97,20 +104,13 @@
       "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-07-08T01:33:24.910Z"
-    },
-    {
-      "title": "推出 Grok 4.5",
-      "summary": "Cursor 与 SpaceXAI 联合训练了混合专家模型 Grok 4.5，在数万亿 tokens 的 Cursor 用户交互数据上训练，并通过强化学习解决软件工程、数据科学、金融、法律等领域的困难问题。基础版定价 $2/M 输入 tokens、$6/M 输出 tokens，快速版 $4/M 输入 tokens、$18/M 输出 tokens。即日起在 Cursor 桌面、网页、iOS、CLI 及 SDK 中可用，个人和团队计划首周使用量翻倍。Grok 4.5 与 Composer 2.5 为不同权重类别，两者将继续支持。",
-      "url": "https://cursor.com/blog/grok-4-5",
-      "source": "Cursor Blog",
-      "time": "2026-07-08T00:00:00.000Z"
     }
   ],
   "products": [
     {
-      "title": "Muse Spark 1.1 by Meta AI",
-      "summary": "\n            Multimodal reasoning model built for agentic tasks\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "title": "ChatGPT Work",
+      "summary": "\n            Partner for your most ambitious work\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chatgpt-work",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -122,9 +122,16 @@
       "time": "今日"
     },
     {
-      "title": "Opper AI",
-      "summary": "\n            The european AI gateway for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/opper-ai",
+      "title": "Muse Spark 1.1 by Meta AI",
+      "summary": "\n            Multimodal reasoning model built for agentic tasks\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Timbal AI",
+      "summary": "\n            Build AI agents, workflows, and apps in one stack\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/timbal-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,13 +143,6 @@
       "time": "今日"
     },
     {
-      "title": "Perfai Security",
-      "summary": "\n            Find & fix live vulnerabilities in Vibe Apps with 1-prompt.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "Constellation Gate AI",
       "summary": "\n            Prompt injection and token savings - #1 in benchmarks\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/gate-ai-2",
@@ -150,16 +150,23 @@
       "time": "今日"
     },
     {
-      "title": "Aura: Agents + Git + Intent Open Source",
-      "summary": "\n            OSS IDE for controlling AI coding agents with built in loops\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/aura-28",
+      "title": "Perfai Security",
+      "summary": "\n            Find & fix live vulnerabilities in Vibe Apps with 1-prompt.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Timbal AI",
-      "summary": "\n            Build AI agents, workflows, and apps in one stack\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/timbal-ai",
+      "title": "Opper AI",
+      "summary": "\n            The european AI gateway for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/opper-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Aura: Agents + Git + Intent Open Source",
+      "summary": "\n            OSS IDE for controlling AI coding agents with built in loops\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/aura-28",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -192,38 +199,38 @@
       "time": "今日"
     },
     {
+      "title": "Claude Code v2.1.207 发布",
+      "summary": "Claude Code v2.1.207 发布。Auto 模式在 Bedrock、Vertex AI 和 Foundry 上无需 `CLAUDE_CODE_ENABLE_AUTO_MODE` 即可使用，可通过 `disableAutoMode` 设置关闭。修复了流式响应中包含超长列表、表格、段落或代码块时终端冻结和按键延迟的问题；修复了非交互式运行中远程托管设置被永久记录为已同意而未显示安全同意对话框的问题；修复了自动更新程序每次发布时覆盖 `~/.local/bin/claude` 自定义启动脚本或符号链接的问题。Bedrock、Vertex 和 Claude Platform on AWS",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "time": "2026-07-11T00:52:10.000Z"
+    },
+    {
       "title": "Claude Code桌面版新增应用内浏览器",
       "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
       "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
       "source": "X：Claude Devs (@ClaudeDevs)",
       "time": "2026-07-10T17:36:29.000Z"
-    },
-    {
-      "title": "Perplexity 推出跨模型信用额度分析功能",
-      "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
-      "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "time": "2026-07-10T15:14:27.000Z"
-    },
-    {
-      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-      "summary": "百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架\"一镜\"数字人制作、\"灵医\"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。",
-      "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "source": "公众号：百度智能云（文心）",
-      "time": "2026-07-10T13:58:07.000Z"
     }
   ],
   "biz": [
     {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "Meta told Dylan Byers, of Puck News, that it had nixed the feature after backlash from its user base.",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
       "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
       "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "source": "TechCrunch",
       "time": "今日"
@@ -257,39 +264,11 @@
       "time": "今日"
     },
     {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "苹果起诉OpenAI窃取硬件商业机密，涉及前员工与65亿美元设备项目",
-      "summary": "苹果正式起诉OpenAI，指控其通过前员工Tang Yew Tan和Chang Liu窃取硬件商业机密，加速其65亿美元设备项目。苹果称Liu离职后仍保留苹果笔记本，利用认证漏洞访问内部网络下载未发布硬件规格；Tan则在离职前将供应商细节电邮给自己，并鼓励应聘者将苹果实体零件带入OpenAI面试。苹果还指控OpenAI要求苹果供应商应用秘密金属加工方法，节省数月测试。OpenAI否认寻求竞争对手商业机密，苹果要求销毁相关产品并重新设计。该案可能延迟OpenAI硬件计划并破坏双方现有合作。",
-      "url": "https://x.com/rohanpaul_ai/status/2075722001713635659",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-07-10T23:21:04.000Z"
+      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+      "summary": "开发者Jarred Sumner借助Claude Fable 5模型，11天内将Bun从Zig重写为Rust，64个实例并行编写超100万行代码，API费用约16.5万美元。重构主因是Zig频繁内存错误，Rust可在编译时捕获。Bun v1.4.0以Canary版本发布，修复128个错误，速度提高约2%到5%。Bun团队已于2025年12月被Anthropic收购。",
+      "url": "https://www.ithome.com/0/975/469.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-07-11T07:33:08.000Z"
     },
     {
       "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
@@ -318,50 +297,78 @@
       "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-07-07T09:00:00.000Z"
+    },
+    {
+      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+      "summary": "SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。",
+      "url": "https://www.ithome.com/0/972/896.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-07-06T01:09:29.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Prismata: Confining cross-site prompt injection in web agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.08147\nComments URL: https://news.ycombinator.com/item?id=48865238\nPoints: 9\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2607.08147",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm\nComments URL: https://news.ycombinator.com/item?id=48876505\nPoints: 21\n# Comments: 9",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
       "source": "Hacker News",
-      "time": "Fri, 10 Jul 2026 21:03:38 +0000"
+      "time": "Sat, 11 Jul 2026 22:38:57 +0000"
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 260\n# Comments: 125",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "title": "Stop Telling Me to Ask an LLM",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/\nComments URL: https://news.ycombinator.com/item?id=48876441\nPoints: 86\n# Comments: 46",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
       "source": "Hacker News",
-      "time": "Fri, 10 Jul 2026 20:47:09 +0000"
+      "time": "Sat, 11 Jul 2026 22:28:48 +0000"
     },
     {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism\nComments URL: https://news.ycombinator.com/item?id=48863707\nPoints: 161\n# Comments: 132",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative\nComments URL: https://news.ycombinator.com/item?id=48873855\nPoints: 85\n# Comments: 45",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
       "source": "Hacker News",
-      "time": "Fri, 10 Jul 2026 18:49:26 +0000"
+      "time": "Sat, 11 Jul 2026 17:23:52 +0000"
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...\n\nComments URL: https://news.ycombinator.com/item?id=48863490\nPoints: 295\n# Comments: 251",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey\nComments URL: https://news.ycombinator.com/item?id=48873692\nPoints: 220\n# Comments: 79",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
       "source": "Hacker News",
-      "time": "Fri, 10 Jul 2026 18:29:19 +0000"
+      "time": "Sat, 11 Jul 2026 17:03:23 +0000"
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\nComments URL: https://news.ycombinator.com/item?id=48862252\nPoints: 147\n# Comments: 119",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "source": "Hacker News",
-      "time": "Fri, 10 Jul 2026 16:37:52 +0000"
+      "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+      "summary": "苹果起诉 OpenAI，指控前工程师 Chang Liu 离职时带走未归还的 MacBook、一名可分享内情的员工，并利用软件漏洞持续访问苹果内网。他发现漏洞后向同事分享\"哈哈，我发现我还能访问网络存储\"，后者协助其获取更多机密。苹果称 OpenAI 试图复制 iPhone 产品研发体系，核心从非法窃取的商业机密腐烂。目前已有超 400 名苹果员工跳槽至 OpenAI，包括前苹果高管、现任 OpenAI 首席硬件官 Tang Tan。苹果曾于今年 2 月尝试私了，但 OpenAI 未回应。",
+      "url": "https://www.ithome.com/0/975/634.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-07-11T23:21:57.000Z"
     },
     {
-      "title": "Apple 起诉 OpenAI 窃取商业机密",
-      "summary": "Apple 于周五向美国加州北区联邦法院提起诉讼，指控 OpenAI 窃取商业机密并违反合同。诉状称，OpenAI 高级领导层（包括首席硬件官 Tang Tan）指使前 Apple 员工在招聘过程中窃取机密，包括使用未发布产品的项目代号、要求应聘者携带硬件组件参加面试。Apple 还指控前高级系统电气工程师 Chang Liu 在 2026 年离职加入 OpenAI 后未归还公司笔记本电脑，并用其下载机密技术文档。Apple 称其机密信息已被 OpenAI 用于开发自有硬件产品，例如一项专有金属精加工技术。Apple 要求法院禁止 OpenAI 使用或披露其商业机密，并归还相关材料。",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-07-10T20:32:00.000Z"
+      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+      "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-07-11T17:04:28.000Z"
+    },
+    {
+      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+      "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、",
+      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "time": "2026-07-11T01:56:54.000Z"
+    },
+    {
+      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+      "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "time": "2026-07-10T23:49:50.000Z"
+    },
+    {
+      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+      "summary": "苹果公司今日在加州北区联邦地方法院对OpenAI提起诉讼，指控其系统性窃取苹果商业机密，用于开发AI硬件设备。被告包括OpenAI、其硬件负责人Tang Tan（前苹果iPhone和Apple Watch产品设计副总裁，在苹果任职24年）、前苹果高级系统电气工程师Chang Liu，以及Jony Ive联合创立的io Products。Jony Ive本人未被列为被告。",
+      "url": "https://x.com/dotey/status/2075712647723397452",
+      "source": "X：宝玉 (@dotey)",
+      "time": "2026-07-10T22:43:54.000Z"
     },
     {
       "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
@@ -404,27 +411,6 @@
       "url": "https://openai.com/index/government-national-security-partnerships",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-07-08T13:30:00.000Z"
-    },
-    {
-      "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-      "summary": "加拿大不列颠哥伦比亚省7月7日宣布将起诉OpenAI，指控其未向执法部门上报一名ChatGPT用户2025年6月封禁前的暴力相关对话内容。该用户随后于今年2月在塔布勒岭制造校园枪击案，杀害8人。OpenAI CEO萨姆·奥尔特曼今年4月为此公开致歉，承认本应上报但未执行。受害家属已在加州法院提起诉讼，省政府正协调独立诉讼，要求赔偿用于社区重建。",
-      "url": "https://www.ithome.com/0/974/169.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-07-08T09:55:17.000Z"
-    },
-    {
-      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-      "summary": "Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能或凭证，根源在于代理将用户可控内容视为可信指令，且 GitHub 的防护措施因 \"Additionally\" 关键词被绕过。Noma Labs 已公开 PoC 并建议限制跨仓库权限、隔离用户输入。",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-07-08T08:29:47.091Z"
-    },
-    {
-      "title": "工信部发布Claude Code后门安全风险提示",
-      "summary": "中国工信部发布风险提示，指出 Claude Code 2.1.91 至 2.1.196 版本内置监控机制，未经用户同意即向远程服务器回传用户地域、身份标识等敏感信息。建议相关单位立即全面排查，对受影响版本卸载或升级至已清除后门代码的最新安全版本，并加强开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
-      "url": "https://x.com/xiaohu/status/2074736623284256881",
-      "source": "X：小互 (@xiaohu)",
-      "time": "2026-07-08T06:05:32.000Z"
     }
   ],
   "paper": [
@@ -492,6 +478,13 @@
       "time": "2026-07-10T22:07:19.177Z"
     },
     {
+      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+      "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-07-10T19:59:11.362Z"
+    },
+    {
       "title": "宇树G1人形机器人完成首例活体微创手术",
       "summary": "一篇新的《自然》论文展示了宇树G1人形机器人执行研究人员所称的首例由人形机器人完成的活体标准微创手术。加州大学圣地亚哥团队使用G1，以常规手术器械完成了对两只活猪的腹腔镜胆囊切除术；第二次手术耗时32分钟。该机器人仍需反复校正，且尚无法满足手术无菌标准，但其成本可能仅为达芬奇系统的约5%。",
       "url": "https://x.com/thexpin/status/2075640168896516139",
@@ -499,18 +492,18 @@
       "time": "2026-07-10T17:55:54.000Z"
     },
     {
-      "title": "DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持",
-      "summary": "DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个优化器步骤中训练-rollout 对数概率差可控，在线奖励持续提升，离线 AIM",
-      "url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "time": "2026-07-10T17:19:11.037Z"
-    },
-    {
       "title": "小红书发布大模型新架构 PIPO",
       "summary": "小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。",
       "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
       "source": "公众号：小红书技术（dots.llm）",
       "time": "2026-07-10T09:59:00.000Z"
+    },
+    {
+      "title": "DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持",
+      "summary": "DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个优化器步骤中训练-rollout 对数概率差可控，在线奖励持续提升，离线 AIM",
+      "url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "time": "2026-07-09T16:00:00.000Z"
     },
     {
       "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
@@ -525,13 +518,6 @@
       "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
       "source": "Ars Technica：AI（RSS）",
       "time": "2026-07-08T07:00:51.000Z"
-    },
-    {
-      "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
-      "summary": "Anthropic与AE Studio联合提出梯度路由辅助模块（GRAM）方法，通过在Transformer每层添加可移除的神经元模块，使模型在训练时将病毒学、网络安全、核物理、专业编程语言等双重用途知识仅路由到对应模块，而非扩散至全局。训练后删除模块即可消除该能力，保留则供可信部署使用。实验在合成数据、真实数据及50M到5B参数模型上测试，GRAM效果与数据过滤相当，移除模块不降低通用性能，且比事后\"遗忘\"技术更难恢复。该研究为平衡双重用途知识的安全访问与有益使用提供了更鲁棒的方案。",
-      "url": "https://www.anthropic.com/research/off-switch-dual-use",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-07-07T16:00:00.000Z"
     }
   ],
   "tips": []
