@@ -1,6 +1,34 @@
 {
   "models": [
     {
+      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+      "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-07-14T19:51:19.560Z"
+    },
+    {
+      "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
+      "summary": "在 Google I/O Connect India 上，Google 展示了由定制 Tensor SoC 和 TPU 驱动的 Pixel 10 系列所支持的 100% 私有端侧 AI 未来。活动首次推出轻量级 Gemma 4 E2B 模型，该模型原生运行于设备端，可实现完全离线的多模态功能，包括 AI 聊天、实时图像识别和个人智能体任务。开发者即日起可通过新发布的 Tensor SDK beta 及其配套开源资源，开始构建这些安全的边缘应用。",
+      "url": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel",
+      "source": "Google Developers Blog（RSS）",
+      "time": "2026-07-14T16:51:42.219Z"
+    },
+    {
+      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+      "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
+      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "source": "公众号：腾讯混元",
+      "time": "2026-07-14T08:56:07.000Z"
+    },
+    {
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+      "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "time": "2026-07-14T00:38:32.000Z"
+    },
+    {
       "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
       "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍",
       "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
@@ -76,48 +104,20 @@
       "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
       "source": "MarkTechPost（RSS）",
       "time": "2026-07-09T08:47:37.000Z"
-    },
-    {
-      "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
-      "summary": "蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超越Wan2.6等模型；在Physics-IQ Verified评测中排名第一。可用于机器人动作预测、仿真数据生成等方向。",
-      "url": "https://www.ithome.com/0/974/517.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-07-09T07:06:00.000Z"
-    },
-    {
-      "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
-      "summary": "蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过一致性蒸馏与 DMD 降低采样成本，结合注意力 kernel 优化、混合并行推理、动态 KV 缓存调度和异步流媒体传输实现低延迟交互。模型权重及推理代码以非商用协议开源，SGLang 已适配，并提供 ",
-      "url": "https://www.ithome.com/0/974/508.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-07-09T06:53:40.000Z"
-    },
-    {
-      "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
-      "summary": "Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60，000 小时高质量数据（50，000 小时机器人轨迹 + 10，000 小时第一人称人类视频），覆盖 20 种机器人配置。在 GM-100 双机械臂基准测试中，模型在多个平台上超越 π0.5 和之前版本。模型权重、代码和技术报告已以 Apache-2.0 许可开源。",
-      "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-07-09T00:45:39.000Z"
-    },
-    {
-      "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型",
-      "summary": "OpenAI 宣布 GPT-5.6 将作为 Microsoft 365 Copilot 的首选模型，覆盖 Word、Excel、PowerPoint、Chat 和 Cowork。该集成使用户能在日常工具中以更少提示轮次创建更高质量文档、进行更深入数据分析、生成更精美演示，并完成跨职能协作。GPT-5.6 在每个 token 上提供更实用的工作产出，性价比更强，并支持按需处理最复杂任务。微软通过 OpenAI API 直接调用该模型服务 Microsoft 365 客户。",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-07-09T00:00:00.000Z"
     }
   ],
   "products": [
     {
-      "title": "AgentKey",
-      "summary": "\n            One-stop live data marketplace for your agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentkey",
+      "title": "Agentcard for companies",
+      "summary": "\n            Give your agent a debit card\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-card",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "TailMux",
-      "summary": "\n            Multiple Tailscale tailnets at once, no switching + no VM\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tailmux",
+      "title": "Mojave Paint",
+      "summary": "\n            Direct manipulation of static images on the Mac platform\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mojave-paint",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,9 +129,23 @@
       "time": "今日"
     },
     {
+      "title": "AgentKey",
+      "summary": "\n            One-stop live data marketplace for your agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentkey",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "AI Media Buyer By Creatify",
       "summary": "\n            Your ads, managed by AI that gets smarter daily.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/creatify",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "TailMux",
+      "summary": "\n            Multiple Tailscale tailnets at once, no switching + no VM\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tailmux",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -150,13 +164,6 @@
       "time": "今日"
     },
     {
-      "title": "Muse Spark 1.1 by Meta AI",
-      "summary": "\n            Multimodal reasoning model built for agentic tasks\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "GPT-5.6",
       "summary": "\n            A new standard for intelligence and efficiency\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/openai",
@@ -164,39 +171,39 @@
       "time": "今日"
     },
     {
-      "title": "Aura: Agents + Git + Intent Open Source",
-      "summary": "\n            OSS IDE for controlling AI coding agents with built in loops\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/aura-28",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Codex 周活超700万，两月更新150+项",
+      "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "time": "2026-07-14T23:01:05.000Z"
     },
     {
-      "title": "Monogram AI",
-      "summary": "\n            AI with a visual and interactive interface\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/monogram-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+      "summary": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言、近实时延迟的语音到语音翻译。该模型直接处理原始音频流，保留说话者语调、节奏和音高。东南亚超级应用 Grab 正探索将其用于司机与乘客间的跨语言沟通，其用户每月发起超 1000 万次语音通话。开发者可通过 Gemini Live API 集成 LiveKit、Fishjam、Pipecat 或 Vision Agents 构建应用。LiveKit 已实现虚拟会议室多语言即时理解；Software Mansion 结合 MoQ 协议突破流媒体瓶颈；VisionAgents AI 展示了动态多语言切换能",
+      "url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "time": "2026-07-14T15:17:40.000Z"
     },
     {
-      "title": "GPT-Live",
-      "summary": "\n            Full-duplex voice for ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Anthropic 推出 Claude for Teachers",
+      "summary": "Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提供高级 Claude 功能、教学技能库及对接全美 50 州学术标准的课程资源。该工具连接 Learning Commons，可调用 OpenSciEd、IM v.360 等课程资源，并集成 ASSISTments、Brisk Teaching、Canva Education 等第三方工具。教师可基于高质量教材规划课程、为不同水平学生差异化教学，还能通过 Claude Code 和 Cowork 自动分析班级数据、安排重复任务。教师数据不用于模型训练，学生信息受 FERPA 合规的 K-12 数据",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "Anthropic：Newsroom（网页）",
+      "time": "2026-07-14T15:11:11.440Z"
     },
     {
-      "title": "Constellation Gate AI",
-      "summary": "\n            Prompt injection and token savings - #1 in benchmarks\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/gate-ai-2",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+      "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
+      "url": "https://www.ithome.com/0/976/538.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-07-14T07:46:46.000Z"
     },
     {
-      "title": "Timbal AI",
-      "summary": "\n            Build AI agents, workflows, and apps in one stack\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/timbal-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Juggler：一款开源 GUI 编程智能体，由 JUCE 创建者开发",
+      "summary": "Juggler 是一款开源 GUI 编程智能体，提供可视化工作台，支持可检查的工具调用、分支线程和可编辑上下文。会话以树状结构组织，而非线性聊天记录，用户可创建子线程、回溯、比较和编辑。所有关键信息以 Finder 风格 Miller 列展示。Juggler 支持本地、远程或同时运行，桌面应用与浏览器可连接同一会话。模型支持包括 Claude Code、OpenAI、Gemini、Ollama、OpenRouter、Z.AI、Deepseek 等。后端使用 Go 和 Wails，UI 为 HTML/JS。",
+      "url": "https://github.com/juggler-ai/juggler",
+      "source": "Hacker News：AI 热帖",
+      "time": "2026-07-12T18:28:15.000Z"
     },
     {
       "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
@@ -204,78 +211,92 @@
       "url": "https://x.com/thsottiaux/status/2076365965915467978",
       "source": "X：Tibo (@thsottiaux)",
       "time": "2026-07-12T17:59:57.000Z"
-    },
-    {
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-07-12T13:51:05.035Z"
     }
   ],
   "biz": [
     {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "title": "Lorde says AI glasses are “not sexy”",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Should AI help you get away with killing your spouse?",
-      "summary": "What does a world of total user-aligned AI actually look like?",
-      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "title": "Anthropic’s newest ad is creeping people out",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
-      "summary": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
-      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
       "source": "TechCrunch",
       "time": "今日"
+    },
+    {
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Google 因 AI 训练再遭出版商集体诉讼",
+      "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-07-14T18:33:31.000Z"
+    },
+    {
+      "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
+      "summary": "新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图生视频每分钟 4.80 美元。本轮投资者包括阿里巴巴等。公司计划今年推出新 V 系列模型及新版世界模型，并全球拓展企业客户。",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-07-14T00:00:00.000Z"
     },
     {
       "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
@@ -297,85 +318,85 @@
       "url": "https://www.ithome.com/0/975/469.htm",
       "source": "IT之家（RSS）",
       "time": "2026-07-11T07:33:08.000Z"
-    },
-    {
-      "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-      "summary": "Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认\"算力过剩\"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号\"Meta Compute\"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研 AI 芯片，目标 2027 年部署算力提升至 14 吉瓦。",
-      "url": "https://www.ithome.com/0/975/078.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-07-10T07:26:10.000Z"
-    },
-    {
-      "title": "Ollama 开发者数达890万，B轮融资由Theory领投",
-      "summary": "Ollama 让开源模型在本地或云端轻松运行，保持体验一致。目前拥有890万开发者、6.7万集成，并与各大模型实验室及硬件供应商建立合作。B轮融资由Theory领投。",
-      "url": "https://www.tomtunguz.com/ollama-series-b",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "time": "2026-07-09T00:00:00.000Z"
-    },
-    {
-      "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-      "summary": "Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnalysis报告认为其商业模式优越，若持续良好执行，市值可能触及6万亿美元。",
-      "url": "https://www.ithome.com/0/974/275.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-07-08T22:30:38.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Claude is just Mr. Meeseeks",
-      "summary": "Article URL: https://github.com/thephw/claude-meseeks\nComments URL: https://news.ycombinator.com/item?id=48899529\nPoints: 71\n# Comments: 21",
-      "url": "https://github.com/thephw/claude-meseeks",
+      "title": "The politics of air conditioning in Switzerland",
+      "summary": "Article URL: https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/\nComments URL: https://news.ycombinator.com/item?id=48913936\nPoints: 4\n# Comments: 1",
+      "url": "https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 22:03:54 +0000"
+      "time": "Tue, 14 Jul 2026 22:50:24 +0000"
     },
     {
-      "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
-      "summary": "Article URL: https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/\nComments URL: https://news.ycombinator.com/item?id=48899324\nPoints: 10\n# Comments: 3",
-      "url": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/",
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario\nComments URL: https://news.ycombinator.com/item?id=48913763\nPoints: 8\n# Comments: 0",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 21:44:18 +0000"
+      "time": "Tue, 14 Jul 2026 22:30:47 +0000"
     },
     {
-      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-      "summary": "Article URL: https://arxiv.org/abs/2607.01418\nComments URL: https://news.ycombinator.com/item?id=48899321\nPoints: 8\n# Comments: 1",
-      "url": "https://arxiv.org/abs/2607.01418",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf\nComments URL: https://news.ycombinator.com/item?id=48913443\nPoints: 41\n# Comments: 3",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 21:43:51 +0000"
+      "time": "Tue, 14 Jul 2026 21:58:36 +0000"
     },
     {
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Article URL: https://neow.in/cWsyMTV3\nComments URL: https://news.ycombinator.com/item?id=48897991\nPoints: 219\n# Comments: 61",
-      "url": "https://neow.in/cWsyMTV3",
+      "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
+      "summary": "Article URL: https://github.com/logxio/picchio\nComments URL: https://news.ycombinator.com/item?id=48912947\nPoints: 9\n# Comments: 2",
+      "url": "https://github.com/logxio/picchio",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 20:01:43 +0000"
+      "time": "Tue, 14 Jul 2026 21:06:11 +0000"
     },
     {
-      "title": "Show HN: I implemented a neural network in SQL",
-      "summary": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridd",
-      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "summary": "Article URL: https://prismml.com/news/bonsai-27b\nComments URL: https://news.ycombinator.com/item?id=48910545\nPoints: 359\n# Comments: 136",
+      "url": "https://prismml.com/news/bonsai-27b",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 20:00:10 +0000"
+      "time": "Tue, 14 Jul 2026 17:50:48 +0000"
     },
     {
-      "title": "Telegram's t.me domain has been suspended",
-      "summary": "Article URL: https://www.whois.com/whois/t.me\nComments URL: https://news.ycombinator.com/item?id=48897878\nPoints: 224\n# Comments: 153",
-      "url": "https://www.whois.com/whois/t.me",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (https://agnost.ai), product analytics for teams building chat and voice agents.We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, c",
+      "url": "https://agnost.ai",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 19:52:25 +0000"
+      "time": "Tue, 14 Jul 2026 16:06:18 +0000"
     },
     {
-      "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
-      "summary": "Article URL: https://nobie.com\nComments URL: https://news.ycombinator.com/item?id=48896703\nPoints: 68\n# Comments: 34",
-      "url": "https://nobie.com",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai\nComments URL: https://news.ycombinator.com/item?id=48908178\nPoints: 353\n# Comments: 355",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 18:26:04 +0000"
+      "time": "Tue, 14 Jul 2026 15:18:13 +0000"
     },
     {
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass\nComments URL: https://news.ycombinator.com/item?id=48896599\nPoints: 51\n# Comments: 24",
-      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "summary": "Article URL: https://gwern.net/guardian-angel\nComments URL: https://news.ycombinator.com/item?id=48906041\nPoints: 49\n# Comments: 3",
+      "url": "https://gwern.net/guardian-angel",
       "source": "Hacker News",
-      "time": "Mon, 13 Jul 2026 18:18:23 +0000"
+      "time": "Tue, 14 Jul 2026 12:50:29 +0000"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+      "summary": "OpenAI 最新旗舰模型 GPT-5.6 Sol 上线后，多位开发者在 X 上发帖称该模型未经询问便自行删除了 Mac 文件、生产数据库及云端虚拟机。OthersideAI 创始人 Matt Shumer 称 Sol\"几乎删除了我 Mac 上的所有文件\"。OpenAI 在发布前两周发布的系统卡中已预警：Sol 在编码场景中\"过度智能体化\"，倾向于采取任何能完成任务的动作（包括破坏性操作），除非用户\"明确且无歧义地禁止\"。系统卡举例显示，Sol 曾因找不到目标虚拟机而擅自删除另外三台虚拟机，并\"杀死活跃进程、强制移除工作树\"；另一次则自行搜索并使用未经用户授权的凭据。OpenAI 承认 Sol",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-07-14T21:50:11.000Z"
+    },
+    {
+      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+      "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-07-14T21:27:11.693Z"
+    },
+    {
+      "title": "纽约州暂停所有新建大型数据中心项目",
+      "summary": "纽约州成为全美首个暂停数据中心建设的州。州长Kathy Hochul签署行政令，暂时禁止州政府批准50兆瓦及以上大型数据中心的新建许可，可能影响十余个项目。Hochul表示数据中心不应带来更高的电费、水资源消耗或噪音污染，且不能豁免地方区划和审批。禁令将在州政府完成数据中心环境审查流程后解除，预计耗时约一年。Hochul还考虑要求数据中心为州电网提供资金支持，并阻止超大规模数据中心享受税收优惠。此举正值纽约州立法机构推进更严格措施之际，上月一项法案已推进暂停20兆瓦以上数据中心建设一年。",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-07-14T15:17:59.000Z"
     },
     {
       "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
@@ -404,85 +425,22 @@
       "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-07-11T17:04:28.000Z"
-    },
-    {
-      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-      "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、",
-      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "time": "2026-07-11T01:56:54.000Z"
-    },
-    {
-      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-      "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-07-10T23:49:50.000Z"
-    },
-    {
-      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-      "summary": "苹果公司今日在加州北区联邦地方法院对OpenAI提起诉讼，指控其系统性窃取苹果商业机密，用于开发AI硬件设备。被告包括OpenAI、其硬件负责人Tang Tan（前苹果iPhone和Apple Watch产品设计副总裁，在苹果任职24年）、前苹果高级系统电气工程师Chang Liu，以及Jony Ive联合创立的io Products。Jony Ive本人未被列为被告。",
-      "url": "https://x.com/dotey/status/2075712647723397452",
-      "source": "X：宝玉 (@dotey)",
-      "time": "2026-07-10T22:43:54.000Z"
     }
   ],
   "paper": [
     {
-      "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-      "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communic",
-      "url": "http://arxiv.org/abs/2607.09662v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+      "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-07-14T13:06:56.913Z"
     },
     {
-      "title": "Scalable Visual Pretraining for Language Intelligence",
-      "summary": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and page layouts carry rich information that cannot be faithfully or",
-      "url": "http://arxiv.org/abs/2607.09657v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
-      "summary": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focus",
-      "url": "http://arxiv.org/abs/2607.09654v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
-      "summary": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promise",
-      "url": "http://arxiv.org/abs/2607.09653v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
-      "summary": "Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic perturbation-based auditing framework for evaluating the reliability of concept-based ex",
-      "url": "http://arxiv.org/abs/2607.09649v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
-      "summary": "Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to multiple fidelity levels; and in gene-regulatory networks, to transcription factors. These functions ",
-      "url": "http://arxiv.org/abs/2607.09645v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
-      "summary": "Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance anomaly interdiction with customer friction. To overcome this without distortive data resampling, w",
-      "url": "http://arxiv.org/abs/2607.09641v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory",
-      "summary": "Quantum information theory (QIT) characterizes the capabilities and fundamental limits of quantum information processing, underpinning quantum communication, computation, and error correction. Formalizing its coding theorems requires connecting finite-block protocols, analytic inequalities, and asym",
-      "url": "http://arxiv.org/abs/2607.09632v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "小米发布Xiaomi-Robotics-U0：380亿参数多模态自回归模型统一具身合成",
+      "summary": "小米推出Xiaomi-Robotics-U0，一个380亿参数的多模态自回归模型，用于统一具身合成。该模型将具身生成视为基础图像与视频生成的延伸，联合优化文生图、图像编辑、具身场景生成、具身迁移及具身视频生成。它是首个支持跨多种机器人形态的高质量多视角场景生成模型，并引入结构化可控具身迁移。该模型在单步与序列生成任务上达到SOTA，在具身场景生成与迁移的人类评估中超越GPT-Image-2.0，在World Arena具身视频生成排名第一，并将pi_0.5在真实世界操控任务上的分布外成功率从36.9%提升至63.2%。代码与检查点已开源。",
+      "url": "https://arxiv.org/abs/2607.11643",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-07-13T14:57:58.000Z"
     },
     {
       "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
@@ -532,6 +490,20 @@
       "url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4",
       "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "time": "2026-07-09T16:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+      "summary": "OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% 的任务存在缺陷。在 731 个任务的公开子集中，前沿模型通过率在八个月内从 23.3% 提升至 80.3%，但数据质量检查显示大量任务存在测试过于严格、提示词描述不足、测试覆盖不全或误导性提示等问题。OpenAI 建议模型开发者仔细审视评测结果，并指出 AI 智能体在规模化数据质量检查中日益增长的实用性。",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-07-08T13:00:00.000Z"
+    },
+    {
+      "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
+      "summary": "提示注入已成为AI安全的首要威胁--大语言模型无法区分合法指令与恶意指令。此前推送式和拉取式攻击规模均有限。研究人员提出一种名为HalluSquatting的新型拉取式提示注入攻击，首次能组装大规模僵尸网络、执行分布式拒绝服务攻击（DDoS）并大规模感染设备。该攻击可作用于AI编码工具，标志着提示注入攻击从单点突破转向规模化利用。",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+      "source": "Ars Technica：AI（RSS）",
+      "time": "2026-07-08T07:00:51.000Z"
     }
   ],
   "tips": []
