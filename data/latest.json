@@ -1,6 +1,34 @@
 {
   "models": [
     {
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+      "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "time": "2026-07-19T13:49:01.000Z"
+    },
+    {
+      "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+      "summary": "面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。",
+      "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "time": "2026-07-19T13:12:39.000Z"
+    },
+    {
+      "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+      "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
+      "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+      "source": "公众号：昆仑万维（天工）",
+      "time": "2026-07-19T12:35:56.000Z"
+    },
+    {
+      "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+      "summary": "Qwen3.8 即将发布并很快开源权重！🌐\n\n该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。\n\n你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。\n\n期待你的作品。敬请关注！🚀",
+      "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "time": "2026-07-19T08:10:39.000Z"
+    },
+    {
       "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
       "summary": "NVIDIA 发布 Nemotron 3 Embed 系列，包含三个开源 checkpoint，其中 8B-BF16 版本在 RTEB 基准上以 78.46 的平均 NDCG@10 排名第一。1B-NVFP4 版本在 Blackwell 上吞吐量比 BF16 高 2 倍，精度保留 99.5%，所有模型最大序列长度 32，768 tokens。",
       "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
@@ -76,48 +104,20 @@
       "url": "https://arxiv.org/abs/2607.13125",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-07-14T00:00:00.000Z"
-    },
-    {
-      "title": "Kimi K3 发布：2.8T 参数开源模型，具备原生视觉与百万 token 上下文窗口",
-      "summary": "月之暗面发布 Kimi K3，一个 2.8T 参数的开源模型，采用 Kimi Delta Attention 和 Attention Residuals 架构，支持原生视觉能力与 100 万 token 上下文窗口。",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "source": "Moonshot AI：Kimi Blog",
-      "time": "2026-07-13T16:00:00.000Z"
-    },
-    {
-      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-      "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-07-13T11:41:01.000Z"
-    },
-    {
-      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-      "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
-      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "source": "公众号：腾讯混元",
-      "time": "2026-07-13T11:12:59.000Z"
-    },
-    {
-      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-      "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
-      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "time": "2026-07-12T16:24:32.000Z"
     }
   ],
   "products": [
     {
-      "title": "DocuSmart AI",
-      "summary": "\n            Turning fragmented knowledge into one simple system\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/docusmart-ai",
+      "title": "Mainichi",
+      "summary": "\n            Learn Japanese, one prefecture at a time.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mainichi-2",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Mainichi",
-      "summary": "\n            Learn Japanese, one prefecture at a time.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mainichi-2",
+      "title": "DocuSmart AI",
+      "summary": "\n            Turning fragmented knowledge into one simple system\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/docusmart-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,9 +129,9 @@
       "time": "今日"
     },
     {
-      "title": "Albato AI",
-      "summary": "\n            Build AI-driven workflows across 1,000+ apps\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/albato",
+      "title": "Graft AI",
+      "summary": "\n            Turn company operations into a living map for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/graft-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -143,6 +143,20 @@
       "time": "今日"
     },
     {
+      "title": "ChikitAI",
+      "summary": "\n            Agentic AI for Healthcare Triage and Care Automation\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chikitai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Albato AI",
+      "summary": "\n            Build AI-driven workflows across 1,000+ apps\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/albato",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Kit For AI",
       "summary": "\n            The memory layer for AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/kit-for-ai",
@@ -150,18 +164,18 @@
       "time": "今日"
     },
     {
-      "title": "Graft AI",
-      "summary": "\n            Turn company operations into a living map for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/graft-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+      "summary": "ChatGPT Work 适用于\n\n✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片\n\n已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
+      "url": "https://x.com/thsottiaux/status/2078697631019303273",
+      "source": "X：Tibo (@thsottiaux)",
+      "time": "2026-07-19T04:25:10.000Z"
     },
     {
-      "title": "ChikitAI",
-      "summary": "\n            Agentic AI for Healthcare Triage and Care Automation\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/chikitai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+      "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-07-19T02:49:15.657Z"
     },
     {
       "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
@@ -197,23 +211,37 @@
       "url": "https://x.com/OpenBMB/status/2077741814799548451",
       "source": "X：面壁智能 OpenBMB (@OpenBMB)",
       "time": "2026-07-16T13:07:05.000Z"
-    },
-    {
-      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-      "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
-      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-      "source": "公众号：百度智能云（文心）",
-      "time": "2026-07-16T12:17:11.000Z"
-    },
-    {
-      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-      "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
-      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-      "source": "Google Developers Blog（RSS）",
-      "time": "2026-07-16T09:58:51.914Z"
     }
   ],
   "biz": [
+    {
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Federal employees can download TikTok on their work phones again",
       "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
@@ -257,34 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-      "summary": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
-      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
       "summary": "台积电在2026Q2财报说明会上将2026年资本支出预测上调至600~640亿美元，此前预测接近560亿美元。董事长魏哲家表示，预计2028年量产的A14制程（1.4nm）开发进展顺利，移动和HPC客户兴趣强烈，将成为比2nm更大、更持久的工艺。台积电预计2026Q3合并营收446~458亿美元，2026全年美元收入增幅将超过40%。",
       "url": "https://www.ithome.com/0/977/544.htm",
@@ -322,46 +322,32 @@
   ],
   "industry": [
     {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\nComments URL: https://news.ycombinator.com/item?id=48962983\nPoints: 59\n# Comments: 28",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\nComments URL: https://news.ycombinator.com/item?id=48971738\nPoints: 183\n# Comments: 86",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
       "source": "Hacker News",
-      "time": "Sat, 18 Jul 2026 22:13:39 +0000"
+      "time": "Sun, 19 Jul 2026 21:18:10 +0000"
     },
     {
-      "title": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-      "summary": "Article URL: https://github.com/saineshnakra/automated-data-analyst\nComments URL: https://news.ycombinator.com/item?id=48962405\nPoints: 4\n# Comments: 2",
-      "url": "https://github.com/saineshnakra/automated-data-analyst",
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130\nComments URL: https://news.ycombinator.com/item?id=48969291\nPoints: 190\n# Comments: 67",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
       "source": "Hacker News",
-      "time": "Sat, 18 Jul 2026 21:06:49 +0000"
+      "time": "Sun, 19 Jul 2026 16:02:25 +0000"
     },
     {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/\nComments URL: https://news.ycombinator.com/item?id=48959392\nPoints: 161\n# Comments: 122",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "title": "Claude Code uses Bun written in Rust now",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\nComments URL: https://news.ycombinator.com/item?id=48966569\nPoints: 366\n# Comments: 501",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "source": "Hacker News",
-      "time": "Sat, 18 Jul 2026 16:12:08 +0000"
+      "time": "Sun, 19 Jul 2026 10:03:23 +0000"
     },
     {
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-      "summary": "Article URL: https://deepmind.google/blog/our-approach-to-bioresilience/\nComments URL: https://news.ycombinator.com/item?id=48959297\nPoints: 57\n# Comments: 21",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "source": "Hacker News",
-      "time": "Sat, 18 Jul 2026 16:02:45 +0000"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\nComments URL: https://news.ycombinator.com/item?id=48957779\nPoints: 477\n# Comments: 308",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "source": "Hacker News",
-      "time": "Sat, 18 Jul 2026 13:00:52 +0000"
-    },
-    {
-      "title": "What AI did to stackoverflow in a graph",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph\nComments URL: https://news.ycombinator.com/item?id=48956949\nPoints: 347\n# Comments: 405",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "source": "Hacker News",
-      "time": "Sat, 18 Jul 2026 11:12:46 +0000"
+      "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
+      "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-07-19T21:16:07.000Z"
     },
     {
       "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
@@ -425,6 +411,20 @@
       "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-07-14T21:50:11.000Z"
+    },
+    {
+      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+      "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-07-14T21:27:11.693Z"
+    },
+    {
+      "title": "纽约州暂停所有新建大型数据中心项目",
+      "summary": "纽约州成为全美首个暂停数据中心建设的州。州长Kathy Hochul签署行政令，暂时禁止州政府批准50兆瓦及以上大型数据中心的新建许可，可能影响十余个项目。Hochul表示数据中心不应带来更高的电费、水资源消耗或噪音污染，且不能豁免地方区划和审批。禁令将在州政府完成数据中心环境审查流程后解除，预计耗时约一年。Hochul还考虑要求数据中心为州电网提供资金支持，并阻止超大规模数据中心享受税收优惠。此举正值纽约州立法机构推进更严格措施之际，上月一项法案已推进暂停20兆瓦以上数据中心建设一年。",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-07-14T15:17:59.000Z"
     }
   ],
   "paper": [
