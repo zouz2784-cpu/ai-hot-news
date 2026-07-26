@@ -108,9 +108,23 @@
   ],
   "products": [
     {
-      "title": "Second Brain for Mac and Windows",
-      "summary": "\n            Your AI memory, everywhere you work\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "title": "BrainFeed",
+      "summary": "\n            A personalized learning feed that redirects your scroll\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Aymo AI",
+      "summary": "\n            All-in-one AI Platform for Teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/aymo-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "PureBox.ai",
+      "summary": "\n            Review-first AI cleanup for your real Gmail inbox.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/purebox-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,6 +143,13 @@
       "time": "今日"
     },
     {
+      "title": "Second Brain for Mac and Windows",
+      "summary": "\n            Your AI memory, everywhere you work\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Fluree AI",
       "summary": "\n            Give every AI agent trusted context\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/fluree",
@@ -143,11 +164,18 @@
       "time": "今日"
     },
     {
-      "title": "LapuAi",
-      "summary": "\n            OS Driver for AI to use computers\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/lapuai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Suno 推出多项新功能，含MIDI导出等",
+      "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "source": "X：Suno (@suno)",
+      "time": "2026-07-26T18:14:29.000Z"
+    },
+    {
+      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+      "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
+      "url": "https://x.com/elonmusk/status/2081174079969632347",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "time": "2026-07-26T00:25:41.000Z"
     },
     {
       "title": "Runway Agent 推出自然语言工作流功能",
@@ -183,37 +211,30 @@
       "url": "https://x.com/gdb/status/2080351159638704615",
       "source": "X：Greg Brockman (@gdb)",
       "time": "2026-07-23T17:55:42.000Z"
-    },
-    {
-      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-      "summary": "GigaToken 是一款新的语言模型分词器，在 AMD EPYC 9565 双路 144 核 CPU 上对 GPT-2 分词速度达 24.53 GB/s，比 HuggingFace Tokenizers 快 989 倍、比 tiktoken 快 681 倍。",
-      "url": "https://github.com/marcelroed/gigatoken",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-07-22T18:51:32.473Z"
-    },
-    {
-      "title": "微软 MagenticLite 模型全面开源",
-      "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "time": "2026-07-22T17:57:57.000Z"
-    },
-    {
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-      "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-07-22T16:00:00.000Z"
-    },
-    {
-      "title": "小红书开源 BigMac：多模态大模型训练新范式",
-      "summary": "小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。",
-      "url": "https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row",
-      "source": "公众号：小红书技术（dots.llm）",
-      "time": "2026-07-22T10:04:51.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
       "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
@@ -264,27 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-      "summary": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
-      "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-      "summary": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
-      "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
       "summary": "Anthropic 向图书作者支付 15 亿美元版权和解金，联邦法院已批准。约 482460 部作品中 91.3% 被索赔，每部约获 3000 美元。法官此前裁定，在合法获取的书籍上训练 AI 属于\"变革性\"合理使用，但大规模抓取网络内容是否合法仍悬而未决。",
       "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
@@ -322,53 +322,53 @@
   ],
   "industry": [
     {
-      "title": "Clinical Failure Rates over the Decades: Yikes",
-      "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\nComments URL: https://news.ycombinator.com/item?id=49052628\nPoints: 10\n# Comments: 6",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
+      "summary": "Hi HN, we built world-model-optimizer, an open-source tool for continually improve models specialized to agents. Today we are launching `wmo serve`, a tool to route repetitive tasks to distilled smaller models.Agent traces you already capture are opportunities to get signal on how to make your model",
+      "url": "https://github.com/experientiallabs/world-model-optimizer",
       "source": "Hacker News",
-      "time": "Sat, 25 Jul 2026 22:57:17 +0000"
+      "time": "Sun, 26 Jul 2026 23:35:15 +0000"
     },
     {
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality\nComments URL: https://news.ycombinator.com/item?id=49052570\nPoints: 8\n# Comments: 0",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "summary": "Article URL: https://github.com/hkc5/cursor-bridge\nComments URL: https://news.ycombinator.com/item?id=49063186\nPoints: 11\n# Comments: 9",
+      "url": "https://github.com/hkc5/cursor-bridge",
       "source": "Hacker News",
-      "time": "Sat, 25 Jul 2026 22:51:10 +0000"
+      "time": "Sun, 26 Jul 2026 22:48:09 +0000"
     },
     {
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\nComments URL: https://news.ycombinator.com/item?id=49051361\nPoints: 114\n# Comments: 67",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/\nComments URL: https://news.ycombinator.com/item?id=49062259\nPoints: 16\n# Comments: 3",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
       "source": "Hacker News",
-      "time": "Sat, 25 Jul 2026 20:42:35 +0000"
+      "time": "Sun, 26 Jul 2026 20:49:43 +0000"
     },
     {
-      "title": "General Resolution: LLM Usage in Debian",
-      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002\nComments URL: https://news.ycombinator.com/item?id=49050859\nPoints: 42\n# Comments: 24",
-      "url": "https://www.debian.org/vote/2026/vote_002",
+      "title": "It's not empowering to hand off the details",
+      "summary": "Article URL: https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/\nComments URL: https://news.ycombinator.com/item?id=49060592\nPoints: 164\n# Comments: 90",
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
       "source": "Hacker News",
-      "time": "Sat, 25 Jul 2026 19:44:39 +0000"
+      "time": "Sun, 26 Jul 2026 17:58:02 +0000"
     },
     {
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "summary": "Article URL: https://github.com/slvDev/esp32-ai\nComments URL: https://news.ycombinator.com/item?id=49050512\nPoints: 28\n# Comments: 1",
-      "url": "https://github.com/slvDev/esp32-ai",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and\nComments URL: https://news.ycombinator.com/item?id=49057877\nPoints: 119\n# Comments: 39",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
       "source": "Hacker News",
-      "time": "Sat, 25 Jul 2026 18:59:50 +0000"
+      "time": "Sun, 26 Jul 2026 13:13:03 +0000"
     },
     {
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https://brolly.sh, a minimalist, plain text weather forecasting site. You can ",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "source": "Hacker News",
-      "time": "Sat, 25 Jul 2026 17:34:34 +0000"
+      "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+      "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
+      "url": "https://www.ithome.com/0/981/797.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-07-26T12:54:28.000Z"
     },
     {
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/\nComments URL: https://news.ycombinator.com/item?id=49048034\nPoints: 291\n# Comments: 236",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "source": "Hacker News",
-      "time": "Sat, 25 Jul 2026 14:49:49 +0000"
+      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+      "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-07-26T08:35:49.000Z"
     },
     {
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
