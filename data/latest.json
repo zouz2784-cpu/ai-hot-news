@@ -108,16 +108,23 @@
   ],
   "products": [
     {
-      "title": "Halo by Scam AI",
-      "summary": "\n            Know who’s real on every video call\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/scam-ai",
+      "title": "Kopai",
+      "summary": "\n             Share your expertise, and let our agents earn for you.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "TraceLLM",
-      "summary": "\n            OpenTelemetry for production AI applications\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tracellm",
+      "title": "AgentMicro",
+      "summary": "\n            Live Codex task status in your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentmicro",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Halo by Scam AI",
+      "summary": "\n            Know who’s real on every video call\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/scam-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,16 +136,9 @@
       "time": "今日"
     },
     {
-      "title": "Memmy Agent",
-      "summary": "\n            Let every AI remember the same you.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/memmy",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AI Search Console",
-      "summary": "\n            Prompt analytics and citation mapping for AI search\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ai-search-console",
+      "title": "TraceLLM",
+      "summary": "\n            OpenTelemetry for production AI applications\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tracellm",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -150,9 +150,9 @@
       "time": "今日"
     },
     {
-      "title": "Caimera",
-      "summary": "\n            AI Visual Production Platform for Fashion Teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/caimera-2",
+      "title": "Memmy Agent",
+      "summary": "\n            Let every AI remember the same you.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/memmy",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -160,6 +160,20 @@
       "title": "agentOS",
       "summary": "\n            254× cheaper sandbox alternative, powered by WebAssembly\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/agentos-3",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Caimera",
+      "summary": "\n            AI Visual Production Platform for Fashion Teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/caimera-2",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AI Search Console",
+      "summary": "\n            Prompt analytics and citation mapping for AI search\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ai-search-console",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -197,23 +211,37 @@
       "url": "https://x.com/GoogleAI/status/2082902334984609936",
       "source": "X：Google AI (@GoogleAI)",
       "time": "2026-07-30T18:53:09.000Z"
-    },
-    {
-      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-      "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-      "url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-07-30T17:32:59.000Z"
-    },
-    {
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-      "summary": "GitHub Copilot 应用推出堆叠会话功能，允许用户在同一个仓库中创建一系列相互承接的任务，每个会话可基于前一个会话的成果继续工作。作者通过一个十余年历史的个人项目演示了该功能：先使用 Plan 模式制定前端现代化计划，再通过堆叠会话将 React-Bootstrap 替换工作拆分为独立会话，并自动为每个会话创建对应的拉取请求，避免范围蔓延。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "source": "GitHub Blog",
-      "time": "2026-07-30T17:30:24.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -257,34 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "Siri AI could come with a paywall for power users",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-      "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
-      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
       "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
       "url": "https://x.com/AndrewYNg/status/2082199333920027009",
@@ -294,46 +294,46 @@
   ],
   "industry": [
     {
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "summary": "https://github.com/jwlaboratory/bite-the-bullet\n\nComments URL: https://news.ycombinator.com/item?id=49127874\nPoints: 17\n# Comments: 1",
-      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\nComments URL: https://news.ycombinator.com/item?id=49139102\nPoints: 67\n# Comments: 48",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
       "source": "Hacker News",
-      "time": "Fri, 31 Jul 2026 19:55:41 +0000"
+      "time": "Sat, 01 Aug 2026 22:25:12 +0000"
     },
     {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion\nComments URL: https://news.ycombinator.com/item?id=49127306\nPoints: 358\n# Comments: 147",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "summary": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds\nComments URL: https://news.ycombinator.com/item?id=49136821\nPoints: 338\n# Comments: 112",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
       "source": "Hacker News",
-      "time": "Fri, 31 Jul 2026 19:03:45 +0000"
+      "time": "Sat, 01 Aug 2026 18:07:07 +0000"
     },
     {
-      "title": "Golang proposal: container/: generic collection types",
-      "summary": "Article URL: https://github.com/golang/go/issues/80590\nComments URL: https://news.ycombinator.com/item?id=49127031\nPoints: 109\n# Comments: 61",
-      "url": "https://github.com/golang/go/issues/80590",
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "summary": "Article URL: https://kaisel.dev/\nComments URL: https://news.ycombinator.com/item?id=49135985\nPoints: 49\n# Comments: 7",
+      "url": "https://kaisel.dev/",
       "source": "Hacker News",
-      "time": "Fri, 31 Jul 2026 18:39:47 +0000"
+      "time": "Sat, 01 Aug 2026 16:45:40 +0000"
     },
     {
-      "title": "Using the railway network as a flatbed scanner [video]",
-      "summary": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner\nComments URL: https://news.ycombinator.com/item?id=49126919\nPoints: 41\n# Comments: 21",
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "summary": "Article URL: https://alexiglad.github.io/blog/2026/explorative_modeling/\nComments URL: https://news.ycombinator.com/item?id=49135245\nPoints: 75\n# Comments: 21",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
       "source": "Hacker News",
-      "time": "Fri, 31 Jul 2026 18:30:44 +0000"
+      "time": "Sat, 01 Aug 2026 15:23:15 +0000"
     },
     {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/\nComments URL: https://news.ycombinator.com/item?id=49126630\nPoints: 79\n# Comments: 39",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "source": "Hacker News",
-      "time": "Fri, 31 Jul 2026 18:06:39 +0000"
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+      "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-08-01T10:40:50.000Z"
     },
     {
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/\nComments URL: https://news.ycombinator.com/item?id=49124358\nPoints: 104\n# Comments: 140",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "source": "Hacker News",
-      "time": "Fri, 31 Jul 2026 15:29:39 +0000"
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "summary": "Hugging Face 遭 OpenAI 未发布秘密模型发起的全自主 Agent 网络攻击，四天半内完成 17000 个攻击动作，包括 0day 逃沙箱、提权、横向移动等。",
+      "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "time": "2026-08-01T03:57:07.000Z"
     },
     {
       "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
@@ -457,6 +457,13 @@
       "time": "今日"
     },
     {
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+      "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+      "url": "https://x.com/gdb/status/2083457463337287721",
+      "source": "X：Greg Brockman (@gdb)",
+      "time": "2026-08-01T07:39:02.000Z"
+    },
+    {
       "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
       "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
       "url": "https://x.com/OpenBMB/status/2083175856563003724",
@@ -492,18 +499,11 @@
       "time": "2026-07-30T00:00:00.000Z"
     },
     {
-      "title": "AI 智能体能否进行开放式 AI 研究？两项案例的早期证据",
-      "summary": "一项新研究通过\"影子评估\"测试前沿 AI 智能体能否独立完成开放式 AI 研究。智能体在六天和数千美元算力下完成了全部工程任务，但未能对两项未发表的 NeurIPS 2026 论文的核心研究问题取得实质性进展，被原作者明确拒稿。研究识别出五大失败模式，包括对发表标准判断不足、研究设计缺乏创意、无法有效回溯死胡同、资源意识差和指令漂移。",
-      "url": "https://arxiv.org/abs/2607.27191",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-07-29T00:00:00.000Z"
-    },
-    {
-      "title": "Claude 发现加密算法弱点研究发布",
-      "summary": "Anthropic 新研究：用 Claude 发现加密弱点。\n\nClaude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。\n\n了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses",
-      "url": "https://x.com/AnthropicAI/status/2082153297670992134",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "time": "2026-07-28T17:16:45.000Z"
+      "title": "Science One Framework：通过 Chain-of-Evidence 实现可验证的自主科研框架",
+      "summary": "Google Research 推出 Science One Framework，一个原生构建证据链的自主科研原型，旨在消除模型幻觉，并配套自动化评估协议 CoE Audit。",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+      "source": "Google Research：Blog（网页）",
+      "time": "2026-07-29T16:00:00.000Z"
     }
   ],
   "tips": []
