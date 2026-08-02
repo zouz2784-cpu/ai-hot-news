@@ -108,6 +108,13 @@
   ],
   "products": [
     {
+      "title": "Bolcho AI",
+      "summary": "\n            Build Voice AI agents that actually speak India\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/bolcho-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Kopai",
       "summary": "\n             Share your expertise, and let our agents earn for you.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
@@ -122,16 +129,16 @@
       "time": "今日"
     },
     {
-      "title": "Halo by Scam AI",
-      "summary": "\n            Know who’s real on every video call\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/scam-ai",
+      "title": "Cleanlist AI",
+      "summary": "\n            Natural-language prospecting: find, enrich and sync leads.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cleanlist-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Cleanlist AI",
-      "summary": "\n            Natural-language prospecting: find, enrich and sync leads.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/cleanlist-ai",
+      "title": "Halo by Scam AI",
+      "summary": "\n            Know who’s real on every video call\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/scam-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -143,9 +150,9 @@
       "time": "今日"
     },
     {
-      "title": "Sorinai",
-      "summary": "\n            The Interative AI Notepad for Meetings\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/sorinai",
+      "title": "agentOS",
+      "summary": "\n            254× cheaper sandbox alternative, powered by WebAssembly\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentos-3",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -157,20 +164,6 @@
       "time": "今日"
     },
     {
-      "title": "agentOS",
-      "summary": "\n            254× cheaper sandbox alternative, powered by WebAssembly\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentos-3",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Caimera",
-      "summary": "\n            AI Visual Production Platform for Fashion Teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/caimera-2",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "AI Search Console",
       "summary": "\n            Prompt analytics and citation mapping for AI search\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/ai-search-console",
@@ -178,18 +171,11 @@
       "time": "今日"
     },
     {
-      "title": "AgentQuartz",
-      "summary": "\n            Claude & Cursor usage in your macOS menu bar\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentquartz",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Bo AI",
-      "summary": "\n            An AI personal assistant that lives in your texts 💬\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/bo-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Grok 支持分析任意视频",
+      "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+      "url": "https://x.com/elonmusk/status/2083800942927839307",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "time": "2026-08-02T06:23:54.000Z"
     },
     {
       "title": "Replit Design 推出数百设计模板",
@@ -211,9 +197,44 @@
       "url": "https://x.com/GoogleAI/status/2082902334984609936",
       "source": "X：Google AI (@GoogleAI)",
       "time": "2026-07-30T18:53:09.000Z"
+    },
+    {
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+      "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
+      "url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-07-30T17:32:59.000Z"
+    },
+    {
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+      "summary": "GitHub Copilot 应用推出堆叠会话功能，允许用户在同一个仓库中创建一系列相互承接的任务，每个会话可基于前一个会话的成果继续工作。作者通过一个十余年历史的个人项目演示了该功能：先使用 Plan 模式制定前端现代化计划，再通过堆叠会话将 React-Bootstrap 替换工作拆分为独立会话，并自动为每个会话创建对应的拉取请求，避免范围蔓延。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "source": "GitHub Blog",
+      "time": "2026-07-30T17:30:24.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Inside the London hacker house taking a stand against founder burnout",
       "summary": "How one founder house is betting work-life balance can beat burnout .",
@@ -264,27 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
-      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
       "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
       "url": "https://x.com/AndrewYNg/status/2082199333920027009",
@@ -294,32 +294,25 @@
   ],
   "industry": [
     {
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\nComments URL: https://news.ycombinator.com/item?id=49139102\nPoints: 67\n# Comments: 48",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "title": "AI poster wins Ohio State Fair contest",
+      "summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest\nComments URL: https://news.ycombinator.com/item?id=49149188\nPoints: 31\n# Comments: 11",
+      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
       "source": "Hacker News",
-      "time": "Sat, 01 Aug 2026 22:25:12 +0000"
+      "time": "Sun, 02 Aug 2026 22:43:47 +0000"
     },
     {
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "summary": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds\nComments URL: https://news.ycombinator.com/item?id=49136821\nPoints: 338\n# Comments: 112",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "title": "Show HN: Mu – Tools for Agents",
+      "summary": "Article URL: https://github.com/micro/mu\nComments URL: https://news.ycombinator.com/item?id=49148899\nPoints: 5\n# Comments: 0",
+      "url": "https://github.com/micro/mu",
       "source": "Hacker News",
-      "time": "Sat, 01 Aug 2026 18:07:07 +0000"
+      "time": "Sun, 02 Aug 2026 22:06:34 +0000"
     },
     {
-      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "summary": "Article URL: https://kaisel.dev/\nComments URL: https://news.ycombinator.com/item?id=49135985\nPoints: 49\n# Comments: 7",
-      "url": "https://kaisel.dev/",
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "summary": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2\nComments URL: https://news.ycombinator.com/item?id=49147435\nPoints: 150\n# Comments: 66",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
       "source": "Hacker News",
-      "time": "Sat, 01 Aug 2026 16:45:40 +0000"
-    },
-    {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "summary": "Article URL: https://alexiglad.github.io/blog/2026/explorative_modeling/\nComments URL: https://news.ycombinator.com/item?id=49135245\nPoints: 75\n# Comments: 21",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "source": "Hacker News",
-      "time": "Sat, 01 Aug 2026 15:23:15 +0000"
+      "time": "Sun, 02 Aug 2026 19:19:24 +0000"
     },
     {
       "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
@@ -397,6 +390,13 @@
       "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-07-29T18:45:27.000Z"
+    },
+    {
+      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+      "summary": "马斯克旗下 xAI（已更名为 SpaceXAI）起诉明尼苏达州总检察长，反对一项将于本周六生效的禁止\"脱衣\"应用的法律。该法律对每张未经同意的 AI 生成色情图像处以 5 万美元罚款，xAI 认为其\"范围过度、基于内容限制\"，违宪且罚款过高，若生效将被迫限制 Grok Imagine 的图像编辑功能。明尼苏达州总检察长回应称将在法庭上交锋，州长则以\"法庭见，混蛋\"回应。",
+      "url": "https://www.ithome.com/0/983/298.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-07-29T12:12:21.000Z"
     }
   ],
   "paper": [
