@@ -1,6 +1,20 @@
 {
   "models": [
     {
+      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+      "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "time": "2026-08-07T12:02:16.000Z"
+    },
+    {
+      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+      "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+      "url": "https://www.ithome.com/0/986/951.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-07T06:11:01.000Z"
+    },
+    {
       "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
       "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
       "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
@@ -50,13 +64,6 @@
       "time": "2026-08-04T15:46:03.000Z"
     },
     {
-      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-      "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉\n\n官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
-      "url": "https://x.com/AntLingAGI/status/2084656533489754475",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "time": "2026-08-04T15:03:43.000Z"
-    },
-    {
       "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
       "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
       "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
@@ -97,20 +104,34 @@
       "url": "https://arxiv.org/abs/2608.02583",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-03T00:00:00.000Z"
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-      "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
-      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "time": "2026-07-31T21:38:05.000Z"
     }
   ],
   "products": [
     {
-      "title": "AI Spend Console by Rippling",
-      "summary": "\n            Track your AI spend and connect it to business outcomes\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/rippling",
+      "title": "Coldtea.ai",
+      "summary": "\n            Make your software delivery self-driving\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/coldtea",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Progress AI Observability",
+      "summary": "\n            Trace, evaluate, and improve AI agents in production\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Troopr AI Scrum Master",
+      "summary": "\n            Writes your standup from real work. Remembers your team.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/troopr",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AgentOne Desktop",
+      "summary": "\n            Automate boring work. Extensible and free desktop AI agent.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentone-desktop",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -118,6 +139,13 @@
       "title": "Ticketdesk AI",
       "summary": "\n            AI Agents for Customer Support\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/ticketdesk-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AI Spend Console by Rippling",
+      "summary": "\n            Track your AI spend and connect it to business outcomes\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/rippling",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,84 +164,98 @@
       "time": "今日"
     },
     {
-      "title": "AirProof AI",
-      "summary": "\n            Find the best spot for your air purifier in seconds\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/airproof-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Claude Code 会话间可互发消息",
+      "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
+      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "time": "2026-08-07T19:55:17.000Z"
     },
     {
-      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-      "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+      "url": "https://blog.cloudflare.com/kitesurf",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-06T23:01:28.628Z"
+      "time": "2026-08-07T18:54:34.746Z"
     },
     {
-      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-      "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
-      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-      "source": "Google Developers Blog（RSS）",
-      "time": "2026-08-06T16:53:12.298Z"
+      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+      "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
+      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "time": "2026-08-07T17:51:24.888Z"
     },
     {
-      "title": "千问全网首发公测，全新 Wan3.0 来了！",
-      "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
-      "source": "公众号：千问APP（阿里）",
-      "time": "2026-08-06T13:25:10.000Z"
+      "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+      "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
+      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+      "source": "LangChain：Blog（RSS）",
+      "time": "2026-08-07T17:24:06.000Z"
     },
     {
-      "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-      "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
-      "url": "https://www.ithome.com/0/986/729.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-06T12:49:13.000Z"
+      "title": "Suno移动端上线Voices功能",
+      "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+      "url": "https://x.com/suno/status/2085731234970227145",
+      "source": "X：Suno (@suno)",
+      "time": "2026-08-07T14:14:12.000Z"
     },
     {
-      "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
-      "summary": "Qwen-Image-3.0 已可投入生产。支持 4.5K token 提示词。100%+ 文本准确率（无破损 logo）。原生支持 12 种语言。定价灵活可扩展：高分辨率低至 $0.03。完整详情见图片。👉 探索：• Model Studio：https://click.alibabacloud.com/m/20000001606/ • Qwen Cloud：https://click.qwencloud.com/m/20000001648/ #Qwen #QwenImage3 #AlibabaCloud #GenerativeAI #AICreativity",
-      "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "time": "2026-08-06T06:12:33.000Z"
+      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+      "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+      "url": "https://x.com/runwayml/status/2085684483366523193",
+      "source": "X：Runway (@runwayml)",
+      "time": "2026-08-07T11:08:25.000Z"
     },
     {
-      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
-      "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-06T01:27:27.867Z"
-    },
-    {
-      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-      "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2084857373555101726",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "time": "2026-08-05T04:21:47.000Z"
-    },
-    {
-      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
-      "summary": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-      "source": "Simon Willison 博客",
-      "time": "2026-08-04T23:58:24.000Z"
-    },
-    {
-      "title": "Replit 环境智能：免提示词自动生成设计",
-      "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
-      "url": "https://x.com/Replit/status/2084761337570144424",
-      "source": "X：Replit (@Replit)",
-      "time": "2026-08-04T22:00:10.000Z"
-    },
-    {
-      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-      "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-04T18:17:29.648Z"
+      "title": "Krea 推出 Seedance 2.5 视频模型",
+      "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
+      "url": "https://x.com/krea_ai/status/2085629541385736662",
+      "source": "X：Krea AI (@krea_ai)",
+      "time": "2026-08-07T07:30:06.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -236,34 +278,6 @@
       "time": "今日"
     },
     {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "微软首次披露OpenAI贡献七成AI收入",
       "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
       "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
@@ -280,53 +294,53 @@
   ],
   "industry": [
     {
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
-      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\nComments URL: https://news.ycombinator.com/item?id=49204546\nPoints: 27\n# Comments: 26",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "summary": "Article URL: https://twitter.com/un1c0rnioz/status/2084686552299634805\nComments URL: https://news.ycombinator.com/item?id=49215786\nPoints: 21\n# Comments: 11",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
       "source": "Hacker News",
-      "time": "Fri, 07 Aug 2026 00:37:30 +0000"
+      "time": "Fri, 07 Aug 2026 20:25:04 +0000"
     },
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 54\n# Comments: 2",
-      "url": "https://www.aleksagordic.com/blog/vllm",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\nComments URL: https://news.ycombinator.com/item?id=49213754\nPoints: 346\n# Comments: 237",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "source": "Hacker News",
-      "time": "Thu, 06 Aug 2026 21:30:21 +0000"
+      "time": "Fri, 07 Aug 2026 17:36:30 +0000"
     },
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "summary": "https://ir.amd.com/news-events/press-releases/detail/1296/am...https://chatjimmy.ai/\n\nComments URL: https://news.ycombinator.com/item?id=49201970\nPoints: 356\n# Comments: 279",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "summary": "Article URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\nComments URL: https://news.ycombinator.com/item?id=49209539\nPoints: 325\n# Comments: 473",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "source": "Hacker News",
-      "time": "Thu, 06 Aug 2026 20:23:11 +0000"
+      "time": "Fri, 07 Aug 2026 12:42:27 +0000"
     },
     {
-      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-      "summary": "Article URL: https://artificialanalysis.ai/?intelligence=agentic-index\nComments URL: https://news.ycombinator.com/item?id=49200652\nPoints: 423\n# Comments: 272",
-      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "summary": "Article URL: https://blog.cloudflare.com/kitesurf/\nComments URL: https://news.ycombinator.com/item?id=49208393\nPoints: 150\n# Comments: 42",
+      "url": "https://blog.cloudflare.com/kitesurf/",
       "source": "Hacker News",
-      "time": "Thu, 06 Aug 2026 18:44:49 +0000"
+      "time": "Fri, 07 Aug 2026 10:42:07 +0000"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=49199357\nPoints: 143\n# Comments: 105",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "source": "Hacker News",
-      "time": "Thu, 06 Aug 2026 17:02:04 +0000"
+      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+      "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
+      "url": "https://www.ithome.com/0/987/221.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-07T23:08:56.000Z"
     },
     {
-      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-      "summary": "Article URL: https://github.com/CopilotKit/channels-sdk\nComments URL: https://news.ycombinator.com/item?id=49198583\nPoints: 84\n# Comments: 20",
-      "url": "https://github.com/CopilotKit/channels-sdk",
-      "source": "Hacker News",
-      "time": "Thu, 06 Aug 2026 16:05:51 +0000"
+      "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
+      "summary": "OpenAI 在评估其即将推出的模型 Astra 后，依据\"准备框架\"将其列为首个\"关键\"网络安全模型。OpenAI 表示已为此情景做好规划，并将实施额外控制措施以确保 Astra 后续开发的安全。该公司正努力让 Astra 广泛可用，并将其先进网络能力交到防御者手中。",
+      "url": "https://x.com/OpenAI/status/2085801349866729975",
+      "source": "X：OpenAI (@OpenAI)",
+      "time": "2026-08-07T18:52:48.000Z"
     },
     {
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "summary": "https://www.githubstatus.com/uptime/br0l2tvcx85d\n\nComments URL: https://news.ycombinator.com/item?id=49198302\nPoints: 316\n# Comments: 269",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "source": "Hacker News",
-      "time": "Thu, 06 Aug 2026 15:49:38 +0000"
+      "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
+      "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
+      "url": "https://www.ithome.com/0/986/957.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-07T06:28:51.000Z"
     },
     {
       "title": "科学家首次用AI制造新病毒",
@@ -387,60 +401,81 @@
   ],
   "paper": [
     {
-      "title": "Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning",
-      "summary": "Persistence diagrams (PDs) provide stable and interpretable summaries of multiscale topological structure. While substantial progress has been made in the statistical analysis of PDs, existing literature often treats diagrams as static objects and provide limited frameworks for probabilistic modelin",
-      "url": "http://arxiv.org/abs/2608.06276v1",
+      "title": "Learning When to Trust via Selective Context Preference Optimization",
+      "summary": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is wo",
+      "url": "http://arxiv.org/abs/2608.06377v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
-      "summary": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regi",
-      "url": "http://arxiv.org/abs/2608.06270v1",
+      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "summary": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an estimated 6.7 million U.S. adults and requires integrating fragmented EHR data wi",
+      "url": "http://arxiv.org/abs/2608.06366v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints",
-      "summary": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream ut",
-      "url": "http://arxiv.org/abs/2608.06265v1",
+      "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+      "summary": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty. This research examines how Artificial Intelligence (AI) in Nigerian mobile applica",
+      "url": "http://arxiv.org/abs/2608.06364v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
-      "summary": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Data augmentation is a technique widely regarded as a way to improve model training. It includes simpl",
-      "url": "http://arxiv.org/abs/2608.06264v1",
+      "title": "An Optimal Agnostic PAC Algorithm",
+      "summary": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\ sample of size $n$, for every $0&lt;δ\\le 1/2$, with probability at least $1-δ$, \\",
+      "url": "http://arxiv.org/abs/2608.06363v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction",
-      "summary": "Model evaluations may fix all tests before observing any responses or select later tests using earlier responses. We study this choice in a conditional-query model on a finite outcome space $\\mathcal{X}$ with $|\\mathcal{X}|=N$. We first ask which pairs of distribution classes can be reliably disting",
-      "url": "http://arxiv.org/abs/2608.06262v1",
+      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+      "summary": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be ",
+      "url": "http://arxiv.org/abs/2608.06362v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction",
-      "summary": "Reaction yield prediction remains challenging because labeled data are scarce and reaction space is both combinatorially large and sparsely populated, limiting the generalization of existing reaction representations. String-, fingerprint-, and graph-based reaction encodings only partially capture ch",
-      "url": "http://arxiv.org/abs/2608.06259v1",
+      "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+      "summary": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported eve",
+      "url": "http://arxiv.org/abs/2608.06361v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction",
-      "summary": "Metabolomics knowledge is distributed across heterogeneous resources and remains difficult to translate into predictive representations. We developed MetaboLLM, a metabolomics-specialized large language model adapted through continual pretraining, supervised fine-tuning, and structured retrieval, to",
-      "url": "http://arxiv.org/abs/2608.06253v1",
+      "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
+      "summary": "We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation so as to make authorization self enforcing via compute budgets. The mechanism see",
+      "url": "http://arxiv.org/abs/2608.06353v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model",
-      "summary": "Deaf and hard-of-hearing people in Bangladesh communicate mainly through Bangla Sign Language (BdSL). Automatic BdSL recognition on personal devices could widen access to education and services. Existing systems use controlled-setting datasets without expert verification and heavyweight pretrained b",
-      "url": "http://arxiv.org/abs/2608.06252v1",
+      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+      "summary": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task behaves relative to a given solver setting. In this paper, we present CalibForge, ",
+      "url": "http://arxiv.org/abs/2608.06352v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+      "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-08-07T12:50:56.000Z"
+    },
+    {
+      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+      "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+      "source": "公众号：小红书技术（dots.llm）",
+      "time": "2026-08-07T09:59:00.000Z"
+    },
+    {
+      "title": "扩展分类流映射（Categorical Flow Maps）规模",
+      "summary": "连续扩散与流匹配模型有望成为语言建模中自回归方法的有力替代，可解锁加速采样与倾斜等连续模态优势。近期研究通过高斯分布与one-hot编码数据分布间的简单流匹配过程，实现离散数据的连续生成，并借助分类流映射（CFMs）验证了加速采样的可行性，样本质量具有竞争力。",
+      "url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
+      "source": "Apple Machine Learning Research（RSS）",
+      "time": "2026-08-07T00:00:00.000Z"
     },
     {
       "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
@@ -457,39 +492,18 @@
       "time": "2026-08-06T00:37:42.000Z"
     },
     {
+      "title": "Activity Frames：将屏幕活动确定性编译为智能体记忆",
+      "summary": "一项研究提出 Activity Frames，用确定性、零模型管线将被动捕获的屏幕活动编译为智能体记忆，输出字节一致、可缓存且可审计。在单人 128，756 帧、51 个活跃天的语料上，该编译器将一天原始捕获压缩为 86 倍更小的提示块，耗时 68 毫秒；智能体阅读该块的问答准确率达 98.4%，优于 LLM 摘要的 66-80%。",
+      "url": "https://arxiv.org/abs/2608.05784",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-06T00:00:00.000Z"
+    },
+    {
       "title": "个性化幻觉：LLM 如何编造用户画像，以及为何自我监控会误导",
       "summary": "一项新研究揭示，个性化大语言模型普遍存在过度推断（OI）现象，即编造超出证据支持的用户属性。在 MirageBench 基准测试中，12 个模型均有 35%-49% 的推断被判定为虚构（均值 41.6%）。更关键的是，模型自我评估的 OI 与外部评测结果呈负相关（rho = -0.60），表明自我报告的可信度是误导性信号，外部验证才是更可靠的个性化基础。",
       "url": "https://arxiv.org/abs/2608.04570",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-05T00:00:00.000Z"
-    },
-    {
-      "title": "SIGNPOST-Bench：多模态大模型文本-视觉冲突消解新基准",
-      "summary": "SIGNPOST-Bench 是一个用于评估多模态大模型文本-视觉冲突消解能力的受控反事实基准，包含来自四个数据集的 5，111 个反事实组和 25，555 个图像变体。",
-      "url": "https://arxiv.org/abs/2608.04244",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-04T00:00:00.000Z"
-    },
-    {
-      "title": "论文揭示 LangGraph、CrewAI 等五个智能体工作流框架的检查点与恢复语义缺陷",
-      "summary": "一项研究为智能体工作流持久化层提出\"恢复契约\"，规定前缀延续、效果恰好一次等六项属性，并用 TLA+ 模型穷举验证了 740 万状态。实测发现 LangGraph 1.2.9 在崩溃后重复执行已持久化工作，CrewAI 1.15.2 违背其书面声明，pydantic-graph 1.x 无法在节点中途崩溃后恢复。研究还给出经 Verus 验证的参考实现 REMIT，修复了分叉与有效性缺陷。",
-      "url": "https://arxiv.org/abs/2608.03836",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-04T00:00:00.000Z"
-    },
-    {
-      "title": "Video-DeepResearch：迈向下一代多模态深度研究智能体",
-      "summary": "Video-DeepResearch（Video-DR）将多模态智能体从静态图像扩展到连续视频流，提出解耦感知-探索流水线与分阶段工具解锁，以应对模态偏差和参数知识泄漏两大瓶颈。",
-      "url": "https://arxiv.org/abs/2608.03979",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-04T00:00:00.000Z"
-    },
-    {
-      "title": "Any-OPD：面向流匹配模型的异构同策略蒸馏框架",
-      "summary": "Any-OPD 提出首个支持任意异构流匹配生成器对的同策略蒸馏框架，仅通过冻结的 DINOv2 表示空间桥接教师与学生模型，无需共享 VAE、架构或噪声调度。将 FLUX.1-dev 蒸馏至 SD3.5-Medium 后，学生模型 PickScore 与 HPSv3 均显著提升，以教师五分之一的参数量达到接近其性能，而直接潜在回归训练完全失败。",
-      "url": "https://arxiv.org/abs/2608.03316",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-04T00:00:00.000Z"
     }
   ],
   "tips": []
