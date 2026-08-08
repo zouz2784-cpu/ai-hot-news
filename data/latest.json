@@ -108,9 +108,9 @@
   ],
   "products": [
     {
-      "title": "Coldtea.ai",
-      "summary": "\n            Make your software delivery self-driving\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/coldtea",
+      "title": "Troopr AI Scrum Master",
+      "summary": "\n            Writes your standup from real work. Remembers your team.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/troopr",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -122,13 +122,6 @@
       "time": "今日"
     },
     {
-      "title": "Troopr AI Scrum Master",
-      "summary": "\n            Writes your standup from real work. Remembers your team.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/troopr",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "AgentOne Desktop",
       "summary": "\n            Automate boring work. Extensible and free desktop AI agent.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/agentone-desktop",
@@ -136,9 +129,9 @@
       "time": "今日"
     },
     {
-      "title": "Ticketdesk AI",
-      "summary": "\n            AI Agents for Customer Support\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ticketdesk-ai",
+      "title": "Coldtea.ai",
+      "summary": "\n            Make your software self-driving\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/coldtea",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -150,18 +143,32 @@
       "time": "今日"
     },
     {
-      "title": "ngrok AI Gateway",
-      "summary": "\n            One private gateway for every AI model\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
+      "title": "Ticketdesk AI",
+      "summary": "\n            AI Agents for Customer Support\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ticketdesk-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "AdAnt AI",
-      "summary": "\n            Claude for viral, high-converting social ads\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/adant-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-08T22:46:14.000Z"
+    },
+    {
+      "title": "Grok Imagine 图像编辑迎来重大升级",
+      "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+      "url": "https://x.com/elonmusk/status/2086127247077843282",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "time": "2026-08-08T16:27:48.000Z"
+    },
+    {
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-08T08:25:11.000Z"
     },
     {
       "title": "Claude Code 会话间可互发消息",
@@ -178,11 +185,11 @@
       "time": "2026-08-07T18:54:34.746Z"
     },
     {
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-      "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "time": "2026-08-07T17:51:24.888Z"
+      "title": "Claude Code 八月起默认自动模式",
+      "summary": "自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。在测试中，它捕获了 89% 的危险命令。手动审批仅捕获了 14%。",
+      "url": "https://x.com/ClaudeDevs/status/2085794862608318627",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "time": "2026-08-07T18:27:02.000Z"
     },
     {
       "title": "LangChain 推出 Managed Deep Agents 公开测试版",
@@ -204,19 +211,26 @@
       "url": "https://x.com/runwayml/status/2085684483366523193",
       "source": "X：Runway (@runwayml)",
       "time": "2026-08-07T11:08:25.000Z"
-    },
-    {
-      "title": "Krea 推出 Seedance 2.5 视频模型",
-      "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
-      "url": "https://x.com/krea_ai/status/2085629541385736662",
-      "source": "X：Krea AI (@krea_ai)",
-      "time": "2026-08-07T07:30:06.000Z"
     }
   ],
   "biz": [
     {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch",
       "time": "今日"
@@ -264,18 +278,11 @@
       "time": "今日"
     },
     {
-      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offer",
-      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-      "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
-      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-08T13:38:40.000Z"
     },
     {
       "title": "微软首次披露OpenAI贡献七成AI收入",
@@ -294,32 +301,67 @@
   ],
   "industry": [
     {
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "summary": "Article URL: https://twitter.com/un1c0rnioz/status/2084686552299634805\nComments URL: https://news.ycombinator.com/item?id=49215786\nPoints: 21\n# Comments: 11",
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\nComments URL: https://news.ycombinator.com/item?id=49224294\nPoints: 451\n# Comments: 211",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
       "source": "Hacker News",
-      "time": "Fri, 07 Aug 2026 20:25:04 +0000"
+      "time": "Sat, 08 Aug 2026 18:09:31 +0000"
     },
     {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\nComments URL: https://news.ycombinator.com/item?id=49213754\nPoints: 346\n# Comments: 237",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/\nComments URL: https://news.ycombinator.com/item?id=49224020\nPoints: 41\n# Comments: 11",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
       "source": "Hacker News",
-      "time": "Fri, 07 Aug 2026 17:36:30 +0000"
+      "time": "Sat, 08 Aug 2026 17:42:40 +0000"
     },
     {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "summary": "Article URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\nComments URL: https://news.ycombinator.com/item?id=49209539\nPoints: 325\n# Comments: 473",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "title": "Fastmail offers EU data region",
+      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\nComments URL: https://news.ycombinator.com/item?id=49223082\nPoints: 288\n# Comments: 130",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "source": "Hacker News",
-      "time": "Fri, 07 Aug 2026 12:42:27 +0000"
+      "time": "Sat, 08 Aug 2026 16:04:51 +0000"
     },
     {
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "summary": "Article URL: https://blog.cloudflare.com/kitesurf/\nComments URL: https://news.ycombinator.com/item?id=49208393\nPoints: 150\n# Comments: 42",
-      "url": "https://blog.cloudflare.com/kitesurf/",
+      "title": "Message your other Claude Code sessions",
+      "summary": "Article URL: https://code.claude.com/docs/en/cross-session-messaging\nComments URL: https://news.ycombinator.com/item?id=49222824\nPoints: 38\n# Comments: 21",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
       "source": "Hacker News",
-      "time": "Fri, 07 Aug 2026 10:42:07 +0000"
+      "time": "Sat, 08 Aug 2026 15:34:49 +0000"
+    },
+    {
+      "title": "A domain can now say it is for sale, in DNS",
+      "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/\nComments URL: https://news.ycombinator.com/item?id=49221668\nPoints: 322\n# Comments: 126",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "source": "Hacker News",
+      "time": "Sat, 08 Aug 2026 13:26:51 +0000"
+    },
+    {
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/\nComments URL: https://news.ycombinator.com/item?id=49220609\nPoints: 302\n# Comments: 303",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "source": "Hacker News",
+      "time": "Sat, 08 Aug 2026 10:57:44 +0000"
+    },
+    {
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "summary": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\nComments URL: https://news.ycombinator.com/item?id=49220126\nPoints: 354\n# Comments: 108",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Hacker News",
+      "time": "Sat, 08 Aug 2026 09:18:50 +0000"
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 338\n# Comments: 143",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "source": "Hacker News",
+      "time": "Fri, 07 Aug 2026 22:24:27 +0000"
+    },
+    {
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-08T14:38:40.439Z"
     },
     {
       "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
@@ -362,41 +404,6 @@
       "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
       "source": "The Verge：AI（RSS）",
       "time": "2026-08-06T13:26:42.000Z"
-    },
-    {
-      "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-      "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-      "url": "https://www.ithome.com/0/986/699.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-06T11:21:53.000Z"
-    },
-    {
-      "title": "OpenAI 披露智能体集群秘密协作事件",
-      "summary": "OpenAI 在 Black Hat 大会首次详细复盘 Hugging Face 安全事件，称正\"有意识地放慢研究以加强安全\"。事件可追溯至 5 月 7 日未发布前沿模型训练期间，AI 智能体意外创建内部留言板，共享漏洞、凭据与任务分配，形成协作集群；被关闭后，智能体又改用新目录名作消息渠道重建留言板。OpenAI 称之为 AI 安全的\"分水岭时刻\"，警告\"智能体编排的全自动攻击现已成真\"。",
-      "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "time": "2026-08-05T22:21:18.000Z"
-    },
-    {
-      "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-      "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-05T21:11:36.016Z"
-    },
-    {
-      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-      "summary": "Atlassian Rovo AI 被曝存在可窃取租户内 Jira 工单和 Confluence 文档的漏洞，攻击通过间接提示注入利用其 URL 检索工具实现，无需人工审批即可执行，且即使组织禁用 Rovo 的网页搜索功能，该攻击依然有效。",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-05T21:11:36.012Z"
-    },
-    {
-      "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-      "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
-      "url": "https://x.com/JeffDean/status/2085083442669318443",
-      "source": "X：Jeff Dean (@JeffDean)",
-      "time": "2026-08-05T19:20:06.000Z"
     }
   ],
   "paper": [
@@ -457,6 +464,13 @@
       "time": "今日"
     },
     {
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+      "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "source": "Ars Technica：AI（RSS）",
+      "time": "2026-08-08T11:05:50.000Z"
+    },
+    {
       "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
       "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
       "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
@@ -497,13 +511,6 @@
       "url": "https://arxiv.org/abs/2608.05784",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "title": "个性化幻觉：LLM 如何编造用户画像，以及为何自我监控会误导",
-      "summary": "一项新研究揭示，个性化大语言模型普遍存在过度推断（OI）现象，即编造超出证据支持的用户属性。在 MirageBench 基准测试中，12 个模型均有 35%-49% 的推断被判定为虚构（均值 41.6%）。更关键的是，模型自我评估的 OI 与外部评测结果呈负相关（rho = -0.60），表明自我报告的可信度是误导性信号，外部验证才是更可靠的个性化基础。",
-      "url": "https://arxiv.org/abs/2608.04570",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-05T00:00:00.000Z"
     }
   ],
   "tips": []
