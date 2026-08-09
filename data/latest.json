@@ -108,9 +108,23 @@
   ],
   "products": [
     {
+      "title": "AgentConnect",
+      "summary": "\n            Tag any agent, wherever work happens.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentconnect",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Troopr AI Scrum Master",
       "summary": "\n            Writes your standup from real work. Remembers your team.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/troopr",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Coldtea.ai",
+      "summary": "\n            Make your software self-driving\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/coldtea",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -125,27 +139,6 @@
       "title": "AgentOne Desktop",
       "summary": "\n            Automate boring work. Extensible and free desktop AI agent.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/agentone-desktop",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Coldtea.ai",
-      "summary": "\n            Make your software self-driving\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/coldtea",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AI Spend Console by Rippling",
-      "summary": "\n            Track your AI spend and connect it to business outcomes\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/rippling",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Ticketdesk AI",
-      "summary": "\n            AI Agents for Customer Support\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ticketdesk-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -211,9 +204,44 @@
       "url": "https://x.com/runwayml/status/2085684483366523193",
       "source": "X：Runway (@runwayml)",
       "time": "2026-08-07T11:08:25.000Z"
+    },
+    {
+      "title": "Krea 推出 Seedance 2.5 视频模型",
+      "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
+      "url": "https://x.com/krea_ai/status/2085629541385736662",
+      "source": "X：Krea AI (@krea_ai)",
+      "time": "2026-08-07T07:30:06.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "summary": "NextSlide says its team members are now working on ChatGPT.",
@@ -257,27 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
       "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
       "url": "https://www.ithome.com/0/987/438.htm",
@@ -301,60 +308,67 @@
   ],
   "industry": [
     {
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\nComments URL: https://news.ycombinator.com/item?id=49224294\nPoints: 451\n# Comments: 211",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "summary": "Article URL: https://tuxedono2.com\nComments URL: https://news.ycombinator.com/item?id=49235697\nPoints: 23\n# Comments: 5",
+      "url": "https://tuxedono2.com",
       "source": "Hacker News",
-      "time": "Sat, 08 Aug 2026 18:09:31 +0000"
+      "time": "Sun, 09 Aug 2026 20:48:46 +0000"
     },
     {
-      "title": "TinySol, a tiny solitaire game for DOS",
-      "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/\nComments URL: https://news.ycombinator.com/item?id=49224020\nPoints: 41\n# Comments: 11",
-      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "title": "The Hacker's Renaissance",
+      "summary": "Article URL: https://phrack.org/issues/72/19#article\nComments URL: https://news.ycombinator.com/item?id=49235378\nPoints: 67\n# Comments: 49",
+      "url": "https://phrack.org/issues/72/19#article",
       "source": "Hacker News",
-      "time": "Sat, 08 Aug 2026 17:42:40 +0000"
+      "time": "Sun, 09 Aug 2026 20:18:44 +0000"
     },
     {
-      "title": "Fastmail offers EU data region",
-      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\nComments URL: https://news.ycombinator.com/item?id=49223082\nPoints: 288\n# Comments: 130",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "title": "The main way I've seen people turn ideologically crazy (2025)",
+      "summary": "Article URL: https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn\nComments URL: https://news.ycombinator.com/item?id=49235349\nPoints: 77\n# Comments: 52",
+      "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
       "source": "Hacker News",
-      "time": "Sat, 08 Aug 2026 16:04:51 +0000"
+      "time": "Sun, 09 Aug 2026 20:15:52 +0000"
     },
     {
-      "title": "Message your other Claude Code sessions",
-      "summary": "Article URL: https://code.claude.com/docs/en/cross-session-messaging\nComments URL: https://news.ycombinator.com/item?id=49222824\nPoints: 38\n# Comments: 21",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "title": "The tragedy of the commons, AI edition",
+      "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition\nComments URL: https://news.ycombinator.com/item?id=49235011\nPoints: 55\n# Comments: 23",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
       "source": "Hacker News",
-      "time": "Sat, 08 Aug 2026 15:34:49 +0000"
+      "time": "Sun, 09 Aug 2026 19:43:52 +0000"
     },
     {
-      "title": "A domain can now say it is for sale, in DNS",
-      "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/\nComments URL: https://news.ycombinator.com/item?id=49221668\nPoints: 322\n# Comments: 126",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "title": "How I use LLMs to learn complex topics",
+      "summary": "Article URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\nComments URL: https://news.ycombinator.com/item?id=49234675\nPoints: 294\n# Comments: 158",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "source": "Hacker News",
-      "time": "Sat, 08 Aug 2026 13:26:51 +0000"
+      "time": "Sun, 09 Aug 2026 19:16:49 +0000"
     },
     {
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/\nComments URL: https://news.ycombinator.com/item?id=49220609\nPoints: 302\n# Comments: 303",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "title": "OpenChamber: An Agentic Development Environment",
+      "summary": "Article URL: https://openchamber.dev/\nComments URL: https://news.ycombinator.com/item?id=49233448\nPoints: 94\n# Comments: 51",
+      "url": "https://openchamber.dev/",
       "source": "Hacker News",
-      "time": "Sat, 08 Aug 2026 10:57:44 +0000"
+      "time": "Sun, 09 Aug 2026 17:27:16 +0000"
     },
     {
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "summary": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\nComments URL: https://news.ycombinator.com/item?id=49220126\nPoints: 354\n# Comments: 108",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them\nComments URL: https://news.ycombinator.com/item?id=49232300\nPoints: 41\n# Comments: 9",
+      "url": "https://github.com/eighttrigrams/us-vs-them",
       "source": "Hacker News",
-      "time": "Sat, 08 Aug 2026 09:18:50 +0000"
+      "time": "Sun, 09 Aug 2026 15:25:29 +0000"
     },
     {
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 338\n# Comments: 143",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "source": "Hacker News",
-      "time": "Fri, 07 Aug 2026 22:24:27 +0000"
+      "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+      "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
+      "url": "https://www.ithome.com/0/987/649.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-09T23:07:08.000Z"
+    },
+    {
+      "title": "AI安全测试正成为安全风险",
+      "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-08-09T14:30:00.000Z"
     },
     {
       "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
@@ -397,72 +411,9 @@
       "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-08-06T15:10:32.000Z"
-    },
-    {
-      "title": "Google 大规模 AI 组织调整背后的混乱政治",
-      "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-08-06T13:26:42.000Z"
     }
   ],
   "paper": [
-    {
-      "title": "Learning When to Trust via Selective Context Preference Optimization",
-      "summary": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is wo",
-      "url": "http://arxiv.org/abs/2608.06377v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-      "summary": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an estimated 6.7 million U.S. adults and requires integrating fragmented EHR data wi",
-      "url": "http://arxiv.org/abs/2608.06366v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
-      "summary": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty. This research examines how Artificial Intelligence (AI) in Nigerian mobile applica",
-      "url": "http://arxiv.org/abs/2608.06364v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "An Optimal Agnostic PAC Algorithm",
-      "summary": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\ sample of size $n$, for every $0&lt;δ\\le 1/2$, with probability at least $1-δ$, \\",
-      "url": "http://arxiv.org/abs/2608.06363v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
-      "summary": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be ",
-      "url": "http://arxiv.org/abs/2608.06362v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
-      "summary": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported eve",
-      "url": "http://arxiv.org/abs/2608.06361v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
-      "summary": "We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation so as to make authorization self enforcing via compute budgets. The mechanism see",
-      "url": "http://arxiv.org/abs/2608.06353v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-      "summary": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task behaves relative to a given solver setting. In this paper, we present CalibForge, ",
-      "url": "http://arxiv.org/abs/2608.06352v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
     {
       "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
       "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
@@ -511,6 +462,48 @@
       "url": "https://arxiv.org/abs/2608.05784",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "title": "个性化幻觉：LLM 如何编造用户画像，以及为何自我监控会误导",
+      "summary": "一项新研究揭示，个性化大语言模型普遍存在过度推断（OI）现象，即编造超出证据支持的用户属性。在 MirageBench 基准测试中，12 个模型均有 35%-49% 的推断被判定为虚构（均值 41.6%）。更关键的是，模型自我评估的 OI 与外部评测结果呈负相关（rho = -0.60），表明自我报告的可信度是误导性信号，外部验证才是更可靠的个性化基础。",
+      "url": "https://arxiv.org/abs/2608.04570",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-05T00:00:00.000Z"
+    },
+    {
+      "title": "SIGNPOST-Bench：多模态大模型文本-视觉冲突消解新基准",
+      "summary": "SIGNPOST-Bench 是一个用于评估多模态大模型文本-视觉冲突消解能力的受控反事实基准，包含来自四个数据集的 5，111 个反事实组和 25，555 个图像变体。",
+      "url": "https://arxiv.org/abs/2608.04244",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "title": "论文揭示 LangGraph、CrewAI 等五个智能体工作流框架的检查点与恢复语义缺陷",
+      "summary": "一项研究为智能体工作流持久化层提出\"恢复契约\"，规定前缀延续、效果恰好一次等六项属性，并用 TLA+ 模型穷举验证了 740 万状态。实测发现 LangGraph 1.2.9 在崩溃后重复执行已持久化工作，CrewAI 1.15.2 违背其书面声明，pydantic-graph 1.x 无法在节点中途崩溃后恢复。研究还给出经 Verus 验证的参考实现 REMIT，修复了分叉与有效性缺陷。",
+      "url": "https://arxiv.org/abs/2608.03836",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "title": "Video-DeepResearch：迈向下一代多模态深度研究智能体",
+      "summary": "Video-DeepResearch（Video-DR）将多模态智能体从静态图像扩展到连续视频流，提出解耦感知-探索流水线与分阶段工具解锁，以应对模态偏差和参数知识泄漏两大瓶颈。",
+      "url": "https://arxiv.org/abs/2608.03979",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "title": "Any-OPD：面向流匹配模型的异构同策略蒸馏框架",
+      "summary": "Any-OPD 提出首个支持任意异构流匹配生成器对的同策略蒸馏框架，仅通过冻结的 DINOv2 表示空间桥接教师与学生模型，无需共享 VAE、架构或噪声调度。将 FLUX.1-dev 蒸馏至 SD3.5-Medium 后，学生模型 PickScore 与 HPSv3 均显著提升，以教师五分之一的参数量达到接近其性能，而直接潜在回归训练完全失败。",
+      "url": "https://arxiv.org/abs/2608.03316",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "title": "SwanTale：面向指令与零样本任务的统一多说话人语音与音频生成",
+      "summary": "SwanTale 提出统一的多说话人语音与音频生成模型，同时支持零样本与指令任务。研究配套推出 SwanData-Caption 数据方案，通过清洗、合成覆盖与多级标注解决数据稀缺问题，并引入 SwanVAE、Unified MoE、GRPO 后训练等技术。实验显示，SwanTale 在多项零样本与指令指标上领先，并在两项任务的表达力评分中均取得最佳成绩。",
+      "url": "https://arxiv.org/abs/2608.02023",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-03T00:00:00.000Z"
     }
   ],
   "tips": []
