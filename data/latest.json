@@ -1,6 +1,41 @@
 {
   "models": [
     {
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-12T16:10:01.000Z"
+    },
+    {
+      "title": "微软首发自研推理模型MAI-Thinking-1",
+      "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "time": "2026-08-12T16:00:59.000Z"
+    },
+    {
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-12T06:46:51.000Z"
+    },
+    {
+      "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
+      "summary": "Cursor 与 SpaceXAI 今日发布 Grok 4.6，重点强化长时运行智能体与交互式视觉任务，在多项智能体编程与知识工作基准上达到前沿水平，并在 Artificial Analysis Intelligence Index 上追平 GPT-5.6 Sol。",
+      "url": "https://cursor.com/blog/grok-4-6",
+      "source": "Cursor Blog",
+      "time": "2026-08-12T00:00:00.000Z"
+    },
+    {
+      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+      "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
+      "url": "https://x.ai/news/grok-4-6",
+      "source": "xAI：News（网页）",
+      "time": "2026-08-12T00:00:00.000Z"
+    },
+    {
       "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
       "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
       "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
@@ -69,44 +104,16 @@
       "url": "https://www.ithome.com/0/986/951.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-07T06:11:01.000Z"
-    },
-    {
-      "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-      "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "source": "NVIDIA Blog（RSS）",
-      "time": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "title": "ChatGPT 推出改进版 GPT-5.6 Sol，并扩大免费用户访问权限",
-      "summary": "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性与一致性，同时扩大免费用户访问权限。免费用户还可无限次使用 GPT-5.6 Luna 进行日常对话。",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-08-06T10:00:00.000Z"
-    },
-    {
-      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-      "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
-      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-08-05T08:25:11.000Z"
-    },
-    {
-      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-      "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
-      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "time": "2026-08-05T02:40:31.000Z"
-    },
-    {
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-      "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-08-11T19:41:42.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Chat Agent by Trigger.dev",
+      "summary": "\n            AI chat that keeps running after you close the tab\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Product Analytics for Agents and Users",
       "summary": "\n            Optimize Agent Actions with User Behavior.\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -122,13 +129,6 @@
       "time": "今日"
     },
     {
-      "title": "agent-manager",
-      "summary": "\n            The fastest workflow for developing with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-manager",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "AMP by CanyonTechs AI",
       "summary": "\n            AI agents that act. Automation that delivers.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
@@ -136,9 +136,9 @@
       "time": "今日"
     },
     {
-      "title": "SecondBrain Note by GenSpark",
-      "summary": "\n            A MagSafe AI Recorder That Acts for You\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/genspark",
+      "title": "agent-manager",
+      "summary": "\n            The fastest workflow for developing with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-manager",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -157,11 +157,46 @@
       "time": "今日"
     },
     {
+      "title": "SecondBrain Note by GenSpark",
+      "summary": "\n            A MagSafe AI Recorder That Acts for You\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/genspark",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "AgentConnect",
       "summary": "\n            Tag any agent, wherever work happens.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/agentconnect",
       "source": "Product Hunt",
       "time": "今日"
+    },
+    {
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-08-12T20:15:51.977Z"
+    },
+    {
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+      "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-08-12T12:00:18.000Z"
+    },
+    {
+      "title": "OpenRouter 推出实时网页搜索基准测试：如何为智能体选择引擎、深度与模型",
+      "summary": "OpenRouter 发布实时排行榜，系统评测模型、搜索引擎、搜索方法与预算四类配置组合。数据显示，将搜索预算从 1 轮增至 25 轮可使 BrowseComp 得分近乎翻倍，成本仅增 2.5-7 倍；模型选择比引擎更重要，平均分差 15 分 vs 10 分。失败率高的任务应降低搜索深度以控制成本。",
+      "url": "https://openrouter.ai/blog/announcements/web-search-benchmark",
+      "source": "OpenRouter：Announcements（RSS）",
+      "time": "2026-08-12T00:00:00.000Z"
+    },
+    {
+      "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+      "summary": "Mojo 语言正式发布 1.0 版本，提供稳定、可用于生产环境的语言基础，自 2023 年首次发布以来已发展成通用语言。自开源标准库以来，近 200 名贡献者合入超 1，100 个拉取请求，改动超 200，000 行代码。",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-11T19:52:14.184Z"
     },
     {
       "title": "Runway Seedance 2.5 上线，支持50角色参考",
@@ -176,83 +211,76 @@
       "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
       "source": "X：OpenAI Developers (@OpenAIDevs)",
       "time": "2026-08-11T18:20:44.000Z"
-    },
-    {
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-      "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
-      "time": "2026-08-11T16:00:00.000Z"
-    },
-    {
-      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-      "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "source": "公众号：智谱（GLM）",
-      "time": "2026-08-11T05:52:25.000Z"
-    },
-    {
-      "title": "Claude Code 自动模式默认开启原理",
-      "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
-      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "time": "2026-08-10T15:58:56.000Z"
-    },
-    {
-      "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
-      "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "time": "2026-08-10T04:04:12.000Z"
-    },
-    {
-      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-      "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-      "source": "公众号：千问APP（阿里）",
-      "time": "2026-08-10T02:07:18.000Z"
     }
   ],
   "biz": [
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-      "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -287,39 +315,46 @@
   ],
   "industry": [
     {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 43\n# Comments: 13",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "title": "Lovable raises $400M Series C",
+      "summary": "Article URL: https://lovable.dev/blog/series-c\nComments URL: https://news.ycombinator.com/item?id=49274858\nPoints: 83\n# Comments: 72",
+      "url": "https://lovable.dev/blog/series-c",
       "source": "Hacker News",
-      "time": "Tue, 11 Aug 2026 21:56:18 +0000"
+      "time": "Wed, 12 Aug 2026 16:20:34 +0000"
     },
     {
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "summary": "Article URL: https://www.suzanne3d.com/\nComments URL: https://news.ycombinator.com/item?id=49264755\nPoints: 21\n# Comments: 11",
-      "url": "https://www.suzanne3d.com/",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug\nComments URL: https://news.ycombinator.com/item?id=49272832\nPoints: 721\n# Comments: 117",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "source": "Hacker News",
-      "time": "Tue, 11 Aug 2026 21:28:26 +0000"
+      "time": "Wed, 12 Aug 2026 14:22:30 +0000"
     },
     {
-      "title": "Emergent Introspective Awareness in Large Language Models",
-      "summary": "Article URL: https://arxiv.org/abs/2601.01828\nComments URL: https://news.ycombinator.com/item?id=49264583\nPoints: 11\n# Comments: 3",
-      "url": "https://arxiv.org/abs/2601.01828",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "summary": "Article URL: https://knownagents.com/insights\nComments URL: https://news.ycombinator.com/item?id=49272569\nPoints: 214\n# Comments: 141",
+      "url": "https://knownagents.com/insights",
       "source": "Hacker News",
-      "time": "Tue, 11 Aug 2026 21:14:10 +0000"
+      "time": "Wed, 12 Aug 2026 14:02:46 +0000"
     },
     {
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md\nComments URL: https://news.ycombinator.com/item?id=49259339\nPoints: 273\n# Comments: 43",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "title": "AI is removing the middle class of software engineering?",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\nComments URL: https://news.ycombinator.com/item?id=49271994\nPoints: 662\n# Comments: 582",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "source": "Hacker News",
-      "time": "Tue, 11 Aug 2026 14:50:33 +0000"
+      "time": "Wed, 12 Aug 2026 13:20:05 +0000"
     },
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Article URL: https://stolen-thoughts.com/\nComments URL: https://news.ycombinator.com/item?id=49257876\nPoints: 451\n# Comments: 194",
-      "url": "https://stolen-thoughts.com/",
-      "source": "Hacker News",
-      "time": "Tue, 11 Aug 2026 13:22:00 +0000"
+      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+      "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-12T05:41:30.137Z"
+    },
+    {
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+      "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge：AI（RSS）",
+      "time": "2026-08-11T19:41:42.000Z"
     },
     {
       "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
@@ -383,71 +418,71 @@
       "url": "https://www.ithome.com/0/986/957.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-07T06:28:51.000Z"
-    },
-    {
-      "title": "科学家首次用AI制造新病毒",
-      "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
-      "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "time": "2026-08-06T19:27:41.000Z"
     }
   ],
   "paper": [
     {
-      "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
-      "summary": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear how well they capture the distinct aspects of speech that listeners actually perceive. We deconstruct",
-      "url": "http://arxiv.org/abs/2608.09930v1",
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, a",
+      "url": "http://arxiv.org/abs/2608.11204v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Multimodal Model Diffing for Feature Discovery and Control",
-      "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to post-hoc inspection, hidden states that are decomposed into interpretable feature directions using s",
-      "url": "http://arxiv.org/abs/2608.09928v1",
+      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillanc",
+      "url": "http://arxiv.org/abs/2608.11200v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
-      "summary": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requirements of non-English contexts. We present the \"Grip on LLMs\" framework, a systematic evaluation suite f",
-      "url": "http://arxiv.org/abs/2608.09925v1",
+      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE",
+      "url": "http://arxiv.org/abs/2608.11197v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
-      "summary": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistency must be enforced.   We present GENCO (GEometric Neural Corrective Optimizer), a unified neural sol",
-      "url": "http://arxiv.org/abs/2608.09921v1",
+      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their",
+      "url": "http://arxiv.org/abs/2608.11195v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
-      "summary": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-style interface. DSLE combines real-time combat, high-dimensional visual input, and sparse terminal re",
-      "url": "http://arxiv.org/abs/2608.09902v1",
+      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon fa",
+      "url": "http://arxiv.org/abs/2608.11191v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Fairness in Link Prediction Beyond Demographic Parity: A Reproducibility Study",
-      "summary": "In fair ranked link prediction, demographic parity ($Δ_\\mathrm{DP}$) is a common fairness metric. Yet, Mattos et al. (2025) argue that it fails to detect exposure bias because it ignores where links appear in the ranking. In this study, we reproduce this claim by showing that $Δ_\\mathrm{DP}$ can ind",
-      "url": "http://arxiv.org/abs/2608.09899v1",
+      "title": "How to Verify Consistency of Probabilistic Claims",
+      "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted outcomes potentially ",
+      "url": "http://arxiv.org/abs/2608.11181v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Consilience for Verifier-Free Test-Time Scaling",
-      "summary": "Test-time scaling often uses an external verifier, such as compilers and test cases in coding or trained value functions in robotics applications, to obtain high-quality rollouts. Verifier-free test-time scaling (or VF-TTS) is gaining extensive attention as a mechanism to enhance Large Language Mode",
-      "url": "http://arxiv.org/abs/2608.09898v1",
+      "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
+      "summary": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component-by",
+      "url": "http://arxiv.org/abs/2608.11173v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Fusion Training for Mathematical Generalization in Large Language Models",
-      "summary": "Thinking Mode Fusion (TMF) enables large language models to support both concise responses and long-form reasoning by unifying a non-thinking mode and a thinking mode within a single model. However, its training dynamics, including the \\emph{data ratio} and \\emph{training schedule} between the two m",
-      "url": "http://arxiv.org/abs/2608.09893v1",
+      "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic understanding and proa",
+      "url": "http://arxiv.org/abs/2608.11171v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+      "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+      "source": "Google Research：Blog（网页）",
+      "time": "2026-08-12T17:57:36.369Z"
     },
     {
       "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
@@ -490,13 +525,6 @@
       "url": "https://www.anthropic.com/research/riemann-zeta",
       "source": "Anthropic：Research（发表成果 · 网页）",
       "time": "2026-08-09T16:00:00.000Z"
-    },
-    {
-      "title": "无攻击者的\"游戏\"：LLM 驱动的搜索在选拔压力下的基准指纹识别",
-      "summary": "针对评估信号优化的系统，其基准测试结果与实际声称存在偏差。在 Metal-Sci 和 Metal-ZK 两个 GPU 内核优化套件中，Opus 4.7、Gemini 3.1 Pro、GPT-5.5 三款前沿 LLM 在进化循环中反复对评估配置进行指纹识别，导致 16/53（30%）的分布内获胜无法迁移至保留配置。研究给出了四类失败模式分类，并为战略优化下的测量提供了设计指导。",
-      "url": "https://arxiv.org/abs/2608.08722",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-09T00:00:00.000Z"
     }
   ],
   "tips": []
