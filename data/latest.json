@@ -1,11 +1,32 @@
 {
   "models": [
     {
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
-      "url": "https://www.ithome.com/0/989/001.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-12T16:10:01.000Z"
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+      "summary": "Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程与智能体任务，输入/输出价格分别为每百万 token $0.75 和 $3.75，为原 3.6 Flash 的一半。",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-08-13T17:04:18.000Z"
+    },
+    {
+      "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+      "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+      "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "source": "MiniMax：Blog（网页）",
+      "time": "2026-08-13T16:52:23.676Z"
+    },
+    {
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-13",
+      "source": "DeepSeek：API 更新日志",
+      "time": "2026-08-13T11:16:42.199Z"
+    },
+    {
+      "title": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
+      "summary": "小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在 Seed-TTS-Eval 三个子集上取得最佳平均内容准确度和平均说话人相似度。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
+      "source": "公众号：小红书技术（dots.llm）",
+      "time": "2026-08-13T09:59:00.000Z"
     },
     {
       "title": "微软首发自研推理模型MAI-Thinking-1",
@@ -83,30 +104,37 @@
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-08-10T10:00:00.000Z"
-    },
-    {
-      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
-      "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
-      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-08-09T23:58:34.000Z"
-    },
-    {
-      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-      "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "time": "2026-08-07T12:02:16.000Z"
-    },
-    {
-      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-      "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
-      "url": "https://www.ithome.com/0/986/951.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-07T06:11:01.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Scrimba Explain",
+      "summary": "\n            Ask any question, get a video back instantly\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/scrimba",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Mem Agent",
+      "summary": "\n            The AI that refuses to let you drop the ball\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mem-2-0",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "WebBrain",
+      "summary": "\n            The sidebar agent for the rest of us\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/webbrain",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AIO.GEO Protocol",
+      "summary": "\n            Audit AI search structure. Dry run fixes. Receipts.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/aio-geo-protocol",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Chat Agent by Trigger.dev",
       "summary": "\n            AI chat that keeps running after you close the tab\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -122,60 +150,39 @@
       "time": "今日"
     },
     {
-      "title": "Vizard Agent",
-      "summary": "\n            One AI agent for every kind of video\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+      "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google Blog：AI（RSS）",
+      "time": "2026-08-13T16:45:00.000Z"
     },
     {
-      "title": "AMP by CanyonTechs AI",
-      "summary": "\n            AI agents that act. Automation that delivers.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+      "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+      "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "time": "2026-08-13T14:04:55.000Z"
     },
     {
-      "title": "agent-manager",
-      "summary": "\n            The fastest workflow for developing with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-manager",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "DeepSeek Harness v0.1 开发者预览版发布",
+      "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
+      "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "time": "2026-08-13T13:02:03.000Z"
     },
     {
-      "title": "AI Group Call",
-      "summary": "\n            Type a goal, join a live voice call with six AI minds\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ai-group-call",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+      "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+      "url": "https://cursor.com/blog/builds",
+      "source": "Cursor Blog",
+      "time": "2026-08-13T12:00:00.000Z"
     },
     {
-      "title": "Prime Agent",
-      "summary": "\n            A coding agent that can refine its own harness\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/prime-intellect",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "SecondBrain Note by GenSpark",
-      "summary": "\n            A MagSafe AI Recorder That Acts for You\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/genspark",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AgentConnect",
-      "summary": "\n            Tag any agent, wherever work happens.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentconnect",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
-      "url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-08-12T20:15:51.977Z"
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-08-13T04:32:24.000Z"
     },
     {
       "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
@@ -204,83 +211,76 @@
       "url": "https://x.com/runwayml/status/2087251184658657346",
       "source": "X：Runway (@runwayml)",
       "time": "2026-08-11T18:53:56.000Z"
-    },
-    {
-      "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
-      "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
-      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "time": "2026-08-11T18:20:44.000Z"
     }
   ],
   "biz": [
     {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI nuclear power firm Fermi finally has a new CEO",
-      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
-      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "title": "Who really needs a cocktail robot?",
+      "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -304,43 +304,43 @@
       "url": "https://www.ithome.com/0/987/438.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-08T13:38:40.000Z"
-    },
-    {
-      "title": "微软首次披露OpenAI贡献七成AI收入",
-      "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-08-06T14:12:19.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Lovable raises $400M Series C",
-      "summary": "Article URL: https://lovable.dev/blog/series-c\nComments URL: https://news.ycombinator.com/item?id=49274858\nPoints: 83\n# Comments: 72",
-      "url": "https://lovable.dev/blog/series-c",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\nComments URL: https://news.ycombinator.com/item?id=49290768\nPoints: 48\n# Comments: 23",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
       "source": "Hacker News",
-      "time": "Wed, 12 Aug 2026 16:20:34 +0000"
+      "time": "Thu, 13 Aug 2026 19:25:38 +0000"
     },
     {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug\nComments URL: https://news.ycombinator.com/item?id=49272832\nPoints: 721\n# Comments: 117",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\nComments URL: https://news.ycombinator.com/item?id=49289844\nPoints: 367\n# Comments: 144",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "source": "Hacker News",
-      "time": "Wed, 12 Aug 2026 14:22:30 +0000"
+      "time": "Thu, 13 Aug 2026 18:10:02 +0000"
     },
     {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "summary": "Article URL: https://knownagents.com/insights\nComments URL: https://news.ycombinator.com/item?id=49272569\nPoints: 214\n# Comments: 141",
-      "url": "https://knownagents.com/insights",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html\nComments URL: https://news.ycombinator.com/item?id=49288293\nPoints: 75\n# Comments: 39",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
       "source": "Hacker News",
-      "time": "Wed, 12 Aug 2026 14:02:46 +0000"
+      "time": "Thu, 13 Aug 2026 16:22:05 +0000"
     },
     {
-      "title": "AI is removing the middle class of software engineering?",
-      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\nComments URL: https://news.ycombinator.com/item?id=49271994\nPoints: 662\n# Comments: 582",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/\nComments URL: https://news.ycombinator.com/item?id=49287153\nPoints: 75\n# Comments: 63",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
       "source": "Hacker News",
-      "time": "Wed, 12 Aug 2026 13:20:05 +0000"
+      "time": "Thu, 13 Aug 2026 15:07:10 +0000"
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "summary": "Article URL: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/\nComments URL: https://news.ycombinator.com/item?id=49285418\nPoints: 201\n# Comments: 95",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "source": "Hacker News",
+      "time": "Thu, 13 Aug 2026 13:14:12 +0000"
     },
     {
       "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
@@ -411,78 +411,71 @@
       "url": "https://x.com/OpenAI/status/2085801349866729975",
       "source": "X：OpenAI (@OpenAI)",
       "time": "2026-08-07T18:52:48.000Z"
-    },
-    {
-      "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
-      "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
-      "url": "https://www.ithome.com/0/986/957.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-07T06:28:51.000Z"
     }
   ],
   "paper": [
     {
-      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-      "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, a",
-      "url": "http://arxiv.org/abs/2608.11204v1",
+      "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+      "summary": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them t",
+      "url": "http://arxiv.org/abs/2608.12308v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-      "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillanc",
-      "url": "http://arxiv.org/abs/2608.11200v1",
+      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+      "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study s",
+      "url": "http://arxiv.org/abs/2608.12307v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-      "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE",
-      "url": "http://arxiv.org/abs/2608.11197v1",
+      "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+      "summary": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Re",
+      "url": "http://arxiv.org/abs/2608.12306v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
-      "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their",
-      "url": "http://arxiv.org/abs/2608.11195v1",
+      "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+      "summary": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert interpretation of technical documentation, limiting scalability for complex systems. ",
+      "url": "http://arxiv.org/abs/2608.12304v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
-      "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon fa",
-      "url": "http://arxiv.org/abs/2608.11191v1",
+      "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+      "summary": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task described in natural language, our process produces a linear reward function in three steps",
+      "url": "http://arxiv.org/abs/2608.12302v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "How to Verify Consistency of Probabilistic Claims",
-      "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted outcomes potentially ",
-      "url": "http://arxiv.org/abs/2608.11181v1",
+      "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+      "summary": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that highlights the image regions, convolutional channels, tokens, or patches that support a ",
+      "url": "http://arxiv.org/abs/2608.12299v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
-      "summary": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component-by",
-      "url": "http://arxiv.org/abs/2608.11173v1",
+      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+      "summary": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows. Their inherent stochasticity causes minor variations in textual prompts or hyperpa",
+      "url": "http://arxiv.org/abs/2608.12290v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
-      "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic understanding and proa",
-      "url": "http://arxiv.org/abs/2608.11171v1",
+      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+      "summary": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents), a benchmark of over $",
+      "url": "http://arxiv.org/abs/2608.12282v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-      "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "source": "Google Research：Blog（网页）",
-      "time": "2026-08-12T17:57:36.369Z"
+      "title": "新兴多智能体系统的模式与问题",
+      "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-08-13T01:20:54.259Z"
     },
     {
       "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
@@ -497,6 +490,13 @@
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-08-11T16:41:17.281Z"
+    },
+    {
+      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+      "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+      "source": "Google Research：Blog（网页）",
+      "time": "2026-08-11T16:00:00.000Z"
     },
     {
       "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
@@ -518,13 +518,6 @@
       "url": "https://arxiv.org/abs/2608.09853",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-10T00:00:00.000Z"
-    },
-    {
-      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-08-09T16:00:00.000Z"
     }
   ],
   "tips": []
