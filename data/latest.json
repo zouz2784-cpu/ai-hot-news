@@ -108,30 +108,16 @@
   ],
   "products": [
     {
-      "title": "Scrimba Explain",
-      "summary": "\n            Ask any question, get a video back instantly\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/scrimba",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Mem Agent",
-      "summary": "\n            The AI that refuses to let you drop the ball\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mem-2-0",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AIO.GEO Protocol",
-      "summary": "\n            Audit AI search structure. Dry run fixes. Receipts.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/aio-geo-protocol",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "WebBrain",
       "summary": "\n            The sidebar agent for the rest of us\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/webbrain",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Scrimba Explain",
+      "summary": "\n            Ask any question, get a video back instantly\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/scrimba",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -211,9 +197,51 @@
       "url": "https://claude.com/blog/cowork-chrome-side-panel",
       "source": "Claude：Blog（网页）",
       "time": "2026-08-11T16:00:00.000Z"
+    },
+    {
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+      "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "source": "Google Cloud：Databases（RSS）",
+      "time": "2026-08-11T16:00:00.000Z"
+    },
+    {
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "source": "公众号：智谱（GLM）",
+      "time": "2026-08-11T05:52:25.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
       "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
@@ -257,32 +285,11 @@
       "time": "今日"
     },
     {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "Cursor 正式被 SpaceX 收购",
+      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-15T20:05:54.703Z"
     },
     {
       "title": "Cursor 正式被 SpaceX 收购",
@@ -304,64 +311,43 @@
       "url": "https://x.com/JensenHuang/status/2086934705207959965",
       "source": "X：Jensen Huang (@JensenHuang)",
       "time": "2026-08-10T21:56:21.000Z"
-    },
-    {
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-08T13:38:40.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Soup Raiders goes native: What you gain by building your own game engine",
-      "summary": "Article URL: https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html\nComments URL: https://news.ycombinator.com/item?id=49303405\nPoints: 47\n# Comments: 47",
-      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "summary": "Article URL: https://xescu.re/keeta-consensus.pdf\nComments URL: https://news.ycombinator.com/item?id=49314642\nPoints: 6\n# Comments: 1",
+      "url": "https://xescu.re/keeta-consensus.pdf",
       "source": "Hacker News",
-      "time": "Fri, 14 Aug 2026 19:20:20 +0000"
+      "time": "Sat, 15 Aug 2026 21:49:45 +0000"
     },
     {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.So I built thi",
-      "url": "https://github.com/lajosdeme/mole",
+      "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "summary": "Article URL: https://github.com/christensen143/claude-trofeo-hud\nComments URL: https://news.ycombinator.com/item?id=49314594\nPoints: 10\n# Comments: 1",
+      "url": "https://github.com/christensen143/claude-trofeo-hud",
       "source": "Hacker News",
-      "time": "Fri, 14 Aug 2026 18:52:48 +0000"
+      "time": "Sat, 15 Aug 2026 21:42:39 +0000"
     },
     {
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "summary": "Article URL: https://arxiv.org/abs/2608.12700\nComments URL: https://news.ycombinator.com/item?id=49301417\nPoints: 29\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2608.12700",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2\n\nComments URL: https://news.ycombinator.com/item?id=49313367\nPoints: 59\n# Comments: 33",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "source": "Hacker News",
-      "time": "Fri, 14 Aug 2026 16:57:14 +0000"
+      "time": "Sat, 15 Aug 2026 19:12:53 +0000"
     },
     {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\nComments URL: https://news.ycombinator.com/item?id=49300800\nPoints: 111\n# Comments: 75",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\nComments URL: https://news.ycombinator.com/item?id=49313047\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
       "source": "Hacker News",
-      "time": "Fri, 14 Aug 2026 16:15:21 +0000"
+      "time": "Sat, 15 Aug 2026 18:33:25 +0000"
     },
     {
-      "title": "AI by Hand",
-      "summary": "Article URL: https://www.byhand.ai/\nComments URL: https://news.ycombinator.com/item?id=49300568\nPoints: 164\n# Comments: 14",
-      "url": "https://www.byhand.ai/",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 354\n# Comments: 310",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "source": "Hacker News",
-      "time": "Fri, 14 Aug 2026 15:58:59 +0000"
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\nComments URL: https://news.ycombinator.com/item?id=49300314\nPoints: 234\n# Comments: 143",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "source": "Hacker News",
-      "time": "Fri, 14 Aug 2026 15:43:10 +0000"
-    },
-    {
-      "title": "Claude 文本水印机制如何运作",
-      "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
-      "time": "2026-08-14T19:22:48.546Z"
+      "time": "Sat, 15 Aug 2026 18:13:02 +0000"
     },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
@@ -369,6 +355,13 @@
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
       "source": "Ars Technica：AI（RSS）",
       "time": "2026-08-14T14:27:14.000Z"
+    },
+    {
+      "title": "Claude 文本水印机制如何运作",
+      "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "time": "2026-08-13T16:00:00.000Z"
     },
     {
       "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
@@ -478,6 +471,13 @@
       "time": "今日"
     },
     {
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+      "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-08-15T11:00:50.000Z"
+    },
+    {
       "title": "新兴多智能体系统的模式与问题",
       "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
       "url": "https://www.anthropic.com/research/multiagent-systems",
@@ -516,13 +516,6 @@
       "title": "窃取专有 LLM API 的推理轨迹：加密块可跨会话互换引发解密越狱",
       "summary": "研究发现，Anthropic、OpenAI 和 Google 等专有 LLM 的加密推理轨迹块可跨会话、用户和模型互换，攻击者将其注入同提供商防护较弱的模型，即可强制其以明文输出推理内容。",
       "url": "https://arxiv.org/abs/2608.09867",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-10T00:00:00.000Z"
-    },
-    {
-      "title": "RynnValue：用时间距离扩展机器人价值基础模型",
-      "summary": "RynnValue 是一款开源的机器人操作价值基础模型，用时间距离替代偏好或进度等任务内锚点作为监督信号，可直接从时间戳生成标签，扩展至超 7，000 小时、约 300 万条指令条件片段。",
-      "url": "https://arxiv.org/abs/2608.09853",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-10T00:00:00.000Z"
     }
