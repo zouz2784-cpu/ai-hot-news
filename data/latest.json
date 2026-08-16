@@ -108,9 +108,9 @@
   ],
   "products": [
     {
-      "title": "WebBrain",
-      "summary": "\n            The sidebar agent for the rest of us\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/webbrain",
+      "title": "AirAlarm",
+      "summary": "\n            Wake at the end of your sleep cycle\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/airalarm",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -215,6 +215,34 @@
   ],
   "biz": [
     {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -257,34 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-      "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-      "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Cursor 正式被 SpaceX 收购",
       "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
       "url": "https://cursor.com/blog/joining-spacex",
@@ -314,41 +314,6 @@
     }
   ],
   "industry": [
-    {
-      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
-      "summary": "Article URL: https://xescu.re/keeta-consensus.pdf\nComments URL: https://news.ycombinator.com/item?id=49314642\nPoints: 6\n# Comments: 1",
-      "url": "https://xescu.re/keeta-consensus.pdf",
-      "source": "Hacker News",
-      "time": "Sat, 15 Aug 2026 21:49:45 +0000"
-    },
-    {
-      "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-      "summary": "Article URL: https://github.com/christensen143/claude-trofeo-hud\nComments URL: https://news.ycombinator.com/item?id=49314594\nPoints: 10\n# Comments: 1",
-      "url": "https://github.com/christensen143/claude-trofeo-hud",
-      "source": "Hacker News",
-      "time": "Sat, 15 Aug 2026 21:42:39 +0000"
-    },
-    {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2\n\nComments URL: https://news.ycombinator.com/item?id=49313367\nPoints: 59\n# Comments: 33",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "Hacker News",
-      "time": "Sat, 15 Aug 2026 19:12:53 +0000"
-    },
-    {
-      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\nComments URL: https://news.ycombinator.com/item?id=49313047\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-      "source": "Hacker News",
-      "time": "Sat, 15 Aug 2026 18:33:25 +0000"
-    },
-    {
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 354\n# Comments: 310",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "Hacker News",
-      "time": "Sat, 15 Aug 2026 18:13:02 +0000"
-    },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "summary": "",
@@ -399,18 +364,60 @@
       "time": "2026-08-11T14:54:16.000Z"
     },
     {
-      "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-      "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
-      "url": "https://www.ithome.com/0/987/649.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-09T23:07:08.000Z"
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\nComments URL: https://news.ycombinator.com/item?id=49324087\nPoints: 64\n# Comments: 45",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 21:53:43 +0000"
     },
     {
-      "title": "AI安全测试正成为安全风险",
-      "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-08-09T14:30:00.000Z"
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49323686\nPoints: 46\n# Comments: 5",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 21:07:10 +0000"
+    },
+    {
+      "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "summary": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/\nComments URL: https://news.ycombinator.com/item?id=49323620\nPoints: 34\n# Comments: 38",
+      "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 21:00:25 +0000"
+    },
+    {
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper\nComments URL: https://news.ycombinator.com/item?id=49323459\nPoints: 63\n# Comments: 55",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 20:38:58 +0000"
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\nComments URL: https://news.ycombinator.com/item?id=49323381\nPoints: 97\n# Comments: 73",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 20:31:16 +0000"
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\nComments URL: https://news.ycombinator.com/item?id=49322695\nPoints: 215\n# Comments: 128",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 19:04:26 +0000"
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "summary": "Article URL: https://math-ai-org.github.io/mathcode/\nComments URL: https://news.ycombinator.com/item?id=49322330\nPoints: 48\n# Comments: 13",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 18:17:10 +0000"
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers\nComments URL: https://news.ycombinator.com/item?id=49320611\nPoints: 205\n# Comments: 78",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "Hacker News",
+      "time": "Sun, 16 Aug 2026 14:44:55 +0000"
     }
   ],
   "paper": [
@@ -471,6 +478,13 @@
       "time": "今日"
     },
     {
+      "title": "新兴多智能体系统的模式与问题",
+      "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-16T11:17:57.393Z"
+    },
+    {
       "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
       "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
       "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
@@ -511,13 +525,6 @@
       "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
       "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "time": "2026-08-11T13:51:45.827Z"
-    },
-    {
-      "title": "窃取专有 LLM API 的推理轨迹：加密块可跨会话互换引发解密越狱",
-      "summary": "研究发现，Anthropic、OpenAI 和 Google 等专有 LLM 的加密推理轨迹块可跨会话、用户和模型互换，攻击者将其注入同提供商防护较弱的模型，即可强制其以明文输出推理内容。",
-      "url": "https://arxiv.org/abs/2608.09867",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-10T00:00:00.000Z"
     }
   ],
   "tips": []
