@@ -23,10 +23,10 @@
     },
     {
       "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-      "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-      "source": "公众号：智谱（GLM）",
-      "time": "2026-08-14T05:31:04.000Z"
+      "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一。模型在白盒代码审查等安全任务中表现持平Mythos 5，并在CyberGym测试中得分84.5%。GLM-5.3即日起上线ZCode、AutoClaw等工具，API很快上线，完整模型权重将在两周内开源。",
+      "url": "https://www.zhipuai.cn/zh/research/162",
+      "source": "智谱：研究（网页内嵌数据）",
+      "time": "2026-08-14T06:00:00.000Z"
     },
     {
       "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
@@ -108,6 +108,20 @@
   ],
   "products": [
     {
+      "title": "Startup Program by Recall.ai",
+      "summary": "\n            Startup program for meeting recording infrastructure\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/recall-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Blender Agent Bridge",
+      "summary": "\n            Open-source MCP bridge for Blender AI workflows\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/blender-agent-bridge",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "AirAlarm",
       "summary": "\n            Wake at the end of your sleep cycle\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/airalarm",
@@ -115,11 +129,18 @@
       "time": "今日"
     },
     {
-      "title": "Scrimba Explain",
-      "summary": "\n            Ask any question, get a video back instantly\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/scrimba",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-17T22:14:00.748Z"
+    },
+    {
+      "title": "OpenRouter 推出 Activity 仪表盘与 Analytics API：按智能体、模型、请求追踪 AI 使用成本",
+      "summary": "OpenRouter 发布 Activity 仪表盘和 beta Analytics API，可按智能体、模型、请求维度查看支出、token 量、缓存命中率等指标，并支持下钻至单条请求日志。",
+      "url": "https://openrouter.ai/blog/announcements/activity-dashboard",
+      "source": "OpenRouter：Announcements（RSS）",
+      "time": "2026-08-17T00:00:00.000Z"
     },
     {
       "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
@@ -190,30 +211,72 @@
       "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
       "source": "X：OpenAI Developers (@OpenAIDevs)",
       "time": "2026-08-11T18:20:44.000Z"
-    },
-    {
-      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
-      "url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-08-11T16:00:00.000Z"
-    },
-    {
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-      "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
-      "time": "2026-08-11T16:00:00.000Z"
-    },
-    {
-      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-      "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "source": "公众号：智谱（GLM）",
-      "time": "2026-08-11T05:52:25.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+      "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+      "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+      "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
+      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
+      "summary": "Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
+      "url": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
+      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
@@ -222,67 +285,18 @@
       "time": "今日"
     },
     {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
+      "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
+      "url": "https://x.com/JensenHuang/status/2089331487342829862",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "time": "2026-08-17T12:40:19.000Z"
     },
     {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Every fusion startup that has raised over $100M",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+      "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+      "url": "https://www.ithome.com/0/990/812.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-17T12:25:27.000Z"
     },
     {
       "title": "Cursor 正式被 SpaceX 收购",
@@ -304,16 +318,79 @@
       "url": "https://www.ithome.com/0/988/239.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-11T03:57:53.000Z"
-    },
-    {
-      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-      "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
-      "url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "time": "2026-08-10T21:56:21.000Z"
     }
   ],
   "industry": [
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "summary": "Article URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera\nComments URL: https://news.ycombinator.com/item?id=49338285\nPoints: 25\n# Comments: 4",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 22:01:17 +0000"
+    },
+    {
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/\nComments URL: https://news.ycombinator.com/item?id=49338139\nPoints: 5\n# Comments: 0",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 21:47:30 +0000"
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read\nComments URL: https://news.ycombinator.com/item?id=49336573\nPoints: 473\n# Comments: 287",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 19:47:15 +0000"
+    },
+    {
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "summary": "Article URL: https://blog.roboflow.com/roboflow-playground/\nComments URL: https://news.ycombinator.com/item?id=49335517\nPoints: 33\n# Comments: 3",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 18:28:07 +0000"
+    },
+    {
+      "title": "An update on leaving Gmail for Fastmail",
+      "summary": "Article URL: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/\nComments URL: https://news.ycombinator.com/item?id=49334409\nPoints: 81\n# Comments: 72",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 17:15:20 +0000"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.Demo: https://www.youtube.com/watch?v=no2LY2gRh-cTypical production voice agent is an ",
+      "url": "https://speko.ai/",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 15:36:18 +0000"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\nComments URL: https://news.ycombinator.com/item?id=49331423\nPoints: 296\n# Comments: 120",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 14:18:38 +0000"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "summary": "Article URL: https://www.librarian.net/notoai/\nComments URL: https://news.ycombinator.com/item?id=49331220\nPoints: 235\n# Comments: 128",
+      "url": "https://www.librarian.net/notoai/",
+      "source": "Hacker News",
+      "time": "Mon, 17 Aug 2026 14:07:56 +0000"
+    },
+    {
+      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+      "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-17T18:46:04.518Z"
+    },
+    {
+      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+      "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "source": "NVIDIA Blog（RSS）",
+      "time": "2026-08-17T12:34:51.000Z"
+    },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "summary": "",
@@ -348,135 +425,9 @@
       "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-08-11T17:38:49.000Z"
-    },
-    {
-      "title": "Gemini月活破10亿，成谷歌增长最快产品",
-      "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
-      "url": "https://x.com/sundarpichai/status/2087222656819241292",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "time": "2026-08-11T17:00:34.000Z"
-    },
-    {
-      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
-      "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
-      "url": "https://www.ithome.com/0/988/524.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-11T14:54:16.000Z"
-    },
-    {
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\nComments URL: https://news.ycombinator.com/item?id=49324087\nPoints: 64\n# Comments: 45",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 21:53:43 +0000"
-    },
-    {
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49323686\nPoints: 46\n# Comments: 5",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 21:07:10 +0000"
-    },
-    {
-      "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-      "summary": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/\nComments URL: https://news.ycombinator.com/item?id=49323620\nPoints: 34\n# Comments: 38",
-      "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 21:00:25 +0000"
-    },
-    {
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper\nComments URL: https://news.ycombinator.com/item?id=49323459\nPoints: 63\n# Comments: 55",
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 20:38:58 +0000"
-    },
-    {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\nComments URL: https://news.ycombinator.com/item?id=49323381\nPoints: 97\n# Comments: 73",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 20:31:16 +0000"
-    },
-    {
-      "title": "Models Are Getting Dumber on Purpose",
-      "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\nComments URL: https://news.ycombinator.com/item?id=49322695\nPoints: 215\n# Comments: 128",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 19:04:26 +0000"
-    },
-    {
-      "title": "MathCode, Mathematical Coding Agent",
-      "summary": "Article URL: https://math-ai-org.github.io/mathcode/\nComments URL: https://news.ycombinator.com/item?id=49322330\nPoints: 48\n# Comments: 13",
-      "url": "https://math-ai-org.github.io/mathcode/",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 18:17:10 +0000"
-    },
-    {
-      "title": "The AI Credit Resale Economy",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers\nComments URL: https://news.ycombinator.com/item?id=49320611\nPoints: 205\n# Comments: 78",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "source": "Hacker News",
-      "time": "Sun, 16 Aug 2026 14:44:55 +0000"
     }
   ],
   "paper": [
-    {
-      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-      "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empiric",
-      "url": "http://arxiv.org/abs/2608.13560v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
-      "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depend",
-      "url": "http://arxiv.org/abs/2608.13558v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
-      "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contact",
-      "url": "http://arxiv.org/abs/2608.13555v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Defensive Boosting for Online Probabilistic Forecasting",
-      "summary": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gradie",
-      "url": "http://arxiv.org/abs/2608.13554v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
-      "summary": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Under the convention $\\mathrm{Jac}(\\varnothing,\\varnothing)=1$, we prove that the Jaccard score, shift",
-      "url": "http://arxiv.org/abs/2608.13549v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
-      "summary": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-state validation on 5",
-      "url": "http://arxiv.org/abs/2608.13547v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
-      "summary": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-token pretraining cor",
-      "url": "http://arxiv.org/abs/2608.13545v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
-      "summary": "Speculative decoding losslessly accelerates autoregressive language models by verifying multiple draft tokens in parallel. Diffusion-based drafters further reduce proposal latency by predicting an entire token block in parallel, but their position-wise distributions are marginal rather than conditio",
-      "url": "http://arxiv.org/abs/2608.13524v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
     {
       "title": "新兴多智能体系统的模式与问题",
       "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
@@ -525,6 +476,62 @@
       "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
       "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "time": "2026-08-11T13:51:45.827Z"
+    },
+    {
+      "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+      "summary": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphom",
+      "url": "http://arxiv.org/abs/2608.14539v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+      "summary": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintained by the same generative sequence. Over long horizons, errors in these latent world properties accu",
+      "url": "http://arxiv.org/abs/2608.14530v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Handover of In-Context Learning State Across Session Boundaries",
+      "summary": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches the model's input limit, when the application restarts, or when another agent is asked to finish the",
+      "url": "http://arxiv.org/abs/2608.14528v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
+      "summary": "As AI systems make more morally loaded decisions across society, one response has been moral preference elicitation. In this approach, researchers poll participants on hypothetical dilemmas and use the aggregated votes to train a policy that an AI model then applies at scale. Before any vote is cast",
+      "url": "http://arxiv.org/abs/2608.14522v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
+      "summary": "High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable soft information for channel decoding. This paper develops a learning-to-transition (L2T) framework that formulates MIMO detection as a stochastic sequence",
+      "url": "http://arxiv.org/abs/2608.14511v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
+      "summary": "Systems that ask a language model to reach a conclusion from many sources usually concatenate them into one prompt. This conflates two operations with different requirements. Interpreting a source rewards capacity and context. Combining interpretations rewards fixed arithmetic, comparability across ",
+      "url": "http://arxiv.org/abs/2608.14509v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "RecipeNet: A Hierarchical Transformer for Recipe Data",
+      "summary": "Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represented as ordered sequences of steps containing heterogeneous structured fields. Existing tabular learning methods typically flatten this structure into fixe",
+      "url": "http://arxiv.org/abs/2608.14505v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
+      "summary": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We introduce the thermodynamic interatomic potential (TIP), which extends an interatomic potential from it",
+      "url": "http://arxiv.org/abs/2608.14502v1",
+      "source": "arXiv",
+      "time": "今日"
     }
   ],
   "tips": []
