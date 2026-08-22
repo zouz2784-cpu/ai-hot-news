@@ -34,20 +34,13 @@
       "url": "https://huggingface.co/blog/LiquidAI/qad",
       "source": "Hugging Face：Blog（RSS）",
       "time": "2026-08-19T13:48:49.000Z"
-    },
-    {
-      "title": "MOSS-VL技术报告：将实时交互作为一等能力的开源视觉语言模型家族",
-      "summary": "MOSS-VL是一个将实时交互（边感知边说话）作为一等能力的开源视觉语言模型家族，通过门控交叉注意力让语言解码器在生成时同步处理视觉输入。MOSS-VL-Realtime在四个流式基准中平均成绩居开源模型之首（三项第一、一项第二），在OmniMMI Proactive Alerting上以66.0分大幅领先最佳基线（37.5分）。",
-      "url": "https://arxiv.org/abs/2608.15045",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "time": "2026-08-15T00:00:00.000Z"
     }
   ],
   "products": [
     {
-      "title": "PixelRead AI OCR",
-      "summary": "\n            Capture, translate, and understand any text on your Mac\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
+      "title": "Agents Never Sleep",
+      "summary": "\n            Agents keep running with the lid closed\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agents-never-sleep",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -59,9 +52,9 @@
       "time": "今日"
     },
     {
-      "title": "Cloudways Managed AI Agents",
-      "summary": "\n            Skip the setup and run OpenClaw & Hermes, fully managed\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/cloudways",
+      "title": "PixelRead AI OCR",
+      "summary": "\n            Capture, translate, and understand any text on your Mac\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -73,16 +66,16 @@
       "time": "今日"
     },
     {
-      "title": "Hermai Brand API",
-      "summary": "\n            White label your B2B SaaS with every customer's brand\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/hermai-brand-api",
+      "title": "Checksum AI",
+      "summary": "\n            Your coding agent’s testing buddy\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/checksum-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Checksum AI",
-      "summary": "\n            Your coding agent’s testing buddy\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/checksum-ai",
+      "title": "Hermai Brand API",
+      "summary": "\n            White label your B2B SaaS with every customer's brand\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/hermai-brand-api",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -94,39 +87,25 @@
       "time": "今日"
     },
     {
-      "title": "Ressearch AI",
-      "summary": "\n            AI workspace for reproducible scientific research\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ressearch-ai",
+      "title": "Cloudways Managed AI Agents",
+      "summary": "\n            Skip the setup and run OpenClaw & Hermes, fully managed\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cloudways",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Hosted Agents in Cluing",
-      "summary": "\n            Collaborative agents who build, learn and publish in 1 place\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/cluing",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Fairphone Gen 6+",
-      "summary": "\n            A modular phone built to last through 2033\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/fairphone",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
+      "summary": "今天，我们为 SGLang 推出 Weight Cache Daemon。🚀 在 Ling-2.6-1T FP8 上，它将权重加载时间缩短至约 0.63 秒，比磁盘加载快约 780 倍，并将引擎总启动时间从 8.8 分钟缩短至约 0.53 分钟。其工作原理如下。",
+      "url": "https://x.com/AntLingAGI/status/2091021795373855124",
+      "source": "X：蚂蚁百灵 (@AntLingAGI)",
+      "time": "2026-08-22T04:36:59.000Z"
     },
     {
       "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
       "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
       "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
       "source": "Claude：Blog（网页）",
-      "time": "2026-08-21T17:58:29.461Z"
-    },
-    {
-      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-      "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
-      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "time": "2026-08-21T17:56:25.415Z"
+      "time": "2026-08-20T16:00:00.000Z"
     },
     {
       "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
@@ -148,9 +127,72 @@
       "url": "https://x.com/haoailab/status/2090177721913770407",
       "source": "X：Sky Computing Lab (@haoailab)",
       "time": "2026-08-19T20:42:57.000Z"
+    },
+    {
+      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+      "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-08-19T16:00:00.000Z"
+    },
+    {
+      "title": "Anthropic 如何开展 AI 教学",
+      "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-08-19T16:00:00.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "US battery startups have found a lifeline in defense",
+      "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about i",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
@@ -169,20 +211,6 @@
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -210,6 +238,34 @@
   ],
   "industry": [
     {
+      "title": "Why your local LLM feels dumber than it is",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\nComments URL: https://news.ycombinator.com/item?id=49402232\nPoints: 117\n# Comments: 36",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "Hacker News",
+      "time": "Sat, 22 Aug 2026 18:14:16 +0000"
+    },
+    {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "summary": "Article URL: https://munderdiffl.in/\nComments URL: https://news.ycombinator.com/item?id=49398152\nPoints: 239\n# Comments: 110",
+      "url": "https://munderdiffl.in/",
+      "source": "Hacker News",
+      "time": "Sat, 22 Aug 2026 09:49:14 +0000"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current n",
+      "url": "https://ozbrain.com",
+      "source": "Hacker News",
+      "time": "Fri, 21 Aug 2026 23:09:06 +0000"
+    },
+    {
+      "title": "A week of using Codex more than Claude",
+      "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/\nComments URL: https://news.ycombinator.com/item?id=49393051\nPoints: 98\n# Comments: 105",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "source": "Hacker News",
+      "time": "Fri, 21 Aug 2026 19:51:48 +0000"
+    },
+    {
       "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
       "summary": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6\nComments URL: https://news.ycombinator.com/item?id=49390910\nPoints: 0\n# Comments: 0",
       "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
@@ -217,32 +273,11 @@
       "time": "Fri, 21 Aug 2026 17:00:23 +0000"
     },
     {
-      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "summary": "Article URL: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/\nComments URL: https://news.ycombinator.com/item?id=49390463\nPoints: 71\n# Comments: 48",
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "source": "Hacker News",
-      "time": "Fri, 21 Aug 2026 16:27:52 +0000"
-    },
-    {
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "summary": "Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\nComments URL: https://news.ycombinator.com/item?id=49389952\nPoints: 87\n# Comments: 18",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "source": "Hacker News",
-      "time": "Fri, 21 Aug 2026 15:51:10 +0000"
-    },
-    {
-      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-      "summary": "Article URL: https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md\nComments URL: https://news.ycombinator.com/item?id=49389493\nPoints: 14\n# Comments: 0",
-      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-      "source": "Hacker News",
-      "time": "Fri, 21 Aug 2026 15:21:10 +0000"
-    },
-    {
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "summary": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=49388752\nPoints: 164\n# Comments: 115",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "source": "Hacker News",
-      "time": "Fri, 21 Aug 2026 14:31:52 +0000"
+      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+      "summary": "第二届世界人形机器人运动会今晚在国家速滑馆\"冰丝带\"开幕，666 支队伍、2056 台机器人参赛，队伍数量较首届增长 138%，机器人数量翻了两番。天工 Ultra 在百米预赛跑出 9.39 秒，打破博尔特 9.58 秒的人类世界纪录；荣耀\"闪电\"以 41.95 秒完成 400 米，同样破人类纪录。本届赛项增至 51 项，多项竞技赛取消人工遥控，全程全自主运行。",
+      "url": "https://www.ithome.com/0/993/105.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-22T14:13:48.000Z"
     },
     {
       "title": "OpenRouter 宣布加入 Stripe",
@@ -324,13 +359,6 @@
       "time": "今日"
     },
     {
-      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-      "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
-      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "time": "2026-08-21T17:56:25.415Z"
-    },
-    {
       "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
       "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
       "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
@@ -343,6 +371,13 @@
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source": "Hugging Face：Blog（RSS）",
       "time": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+      "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "time": "2026-08-20T16:00:00.000Z"
     },
     {
       "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
