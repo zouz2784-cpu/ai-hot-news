@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "GPT-5.6 登陆 Kiro，为开发者提升性价比",
+      "summary": "GPT-5.6 模型家族现已登陆软件开发智能体 Kiro，包含 Sol、Terra 和 Luna 三款模型。在 Terminal-Bench 2.1 测试中，GPT-5.6 Terra 在 Kiro 内完成任务成本降低约 82%。该更新由 OpenAI 与 AWS 合作优化，旨在以更少迭代和更高 token 价值帮助开发者产出更高质量的代码。",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-08-24T12:00:00.000Z"
+    },
+    {
       "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
       "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
       "url": "https://x.com/OpenBMB/status/2090786300194590816",
@@ -38,16 +45,16 @@
   ],
   "products": [
     {
-      "title": "Agents Never Sleep",
-      "summary": "\n            Agents keep running with the lid closed\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agents-never-sleep",
+      "title": "Lucid Train",
+      "summary": "\n            Build system design for new and existing codebase\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/lucid-train",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "PixelRead AI OCR",
-      "summary": "\n            Capture, translate, and understand any text on your Mac\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
+      "title": "Agents Never Sleep",
+      "summary": "\n            Agents keep running with the lid closed\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agents-never-sleep",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -59,11 +66,25 @@
       "time": "今日"
     },
     {
-      "title": "bitdrift.ai",
-      "summary": "\n            The world’s first agentic mobile observability platform\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/bitdrift",
+      "title": "PixelRead AI OCR",
+      "summary": "\n            Capture, translate, and understand any text on your Mac\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
       "source": "Product Hunt",
       "time": "今日"
+    },
+    {
+      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+      "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+      "source": "Meta Engineering Blog（RSS）",
+      "time": "2026-08-24T18:02:29.000Z"
+    },
+    {
+      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+      "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "source": "NVIDIA Blog（RSS）",
+      "time": "2026-08-24T15:00:19.000Z"
     },
     {
       "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
@@ -127,90 +148,55 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
       "source": "公众号：智谱（GLM）",
       "time": "2026-08-19T01:03:29.000Z"
-    },
-    {
-      "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
-      "summary": "Grok Build 现已面向所有套餐开放，支持网页、iOS 和 Android 端使用。用户描述应用、游戏或网站后，Grok 可在聊天中实时生成可运行版本。该功能自 7 月推出 Early Beta 以来，新增了发布分享、接入 X 及调用 Grok 自身模型等能力，发布的应用可获得 grok.me 链接并支持自定义域名、导出到 GitHub 等。",
-      "url": "https://x.ai/news/grok-build-for-everyone",
-      "source": "xAI：News（网页）",
-      "time": "2026-08-19T00:00:00.000Z"
-    },
-    {
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-18T21:26:01.095Z"
     }
   ],
   "biz": [
     {
+      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+      "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
       "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
       "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "US battery startups have found a lifeline in defense",
-      "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
-      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about i",
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -220,29 +206,57 @@
       "url": "https://www.ithome.com/0/991/886.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-20T00:17:26.000Z"
-    },
-    {
-      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-      "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
-      "url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "time": "2026-08-17T12:40:19.000Z"
-    },
-    {
-      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-      "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
-      "url": "https://www.ithome.com/0/990/812.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-17T12:25:27.000Z"
     }
   ],
   "industry": [
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun\nComments URL: https://news.ycombinator.com/item?id=49404380\nPoints: 127\n# Comments: 31",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 84\n# Comments: 17",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "source": "Hacker News",
-      "time": "Sat, 22 Aug 2026 22:14:27 +0000"
+      "time": "Mon, 24 Aug 2026 22:13:40 +0000"
+    },
+    {
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49425800\nPoints: 32\n# Comments: 2",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "source": "Hacker News",
+      "time": "Mon, 24 Aug 2026 21:01:38 +0000"
+    },
+    {
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\nComments URL: https://news.ycombinator.com/item?id=49424387\nPoints: 74\n# Comments: 36",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "source": "Hacker News",
+      "time": "Mon, 24 Aug 2026 19:03:06 +0000"
+    },
+    {
+      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "summary": "I built kern because I needed a fast, zero-daemon tool to set CPU/RAM limits and run isolated tasks without the overhead of Docker. It's a single 1.5MB Rust binary using OCI images, cgroup v2, and namespaces. Boxes start in ~3.5ms. It's not a Kubernetes CRI or a microVM, just a standalone container ",
+      "url": "https://github.com/getkern/kern",
+      "source": "Hacker News",
+      "time": "Mon, 24 Aug 2026 18:24:59 +0000"
+    },
+    {
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "summary": "Article URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4\nComments URL: https://news.ycombinator.com/item?id=49423495\nPoints: 0\n# Comments: 0",
+      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "source": "Hacker News",
+      "time": "Mon, 24 Aug 2026 17:53:14 +0000"
+    },
+    {
+      "title": "Agent Lightning v1.0",
+      "summary": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1\nComments URL: https://news.ycombinator.com/item?id=49423077\nPoints: 23\n# Comments: 1",
+      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "source": "Hacker News",
+      "time": "Mon, 24 Aug 2026 17:23:22 +0000"
+    },
+    {
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise\nComments URL: https://news.ycombinator.com/item?id=49421554\nPoints: 402\n# Comments: 410",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "source": "Hacker News",
+      "time": "Mon, 24 Aug 2026 15:52:33 +0000"
     },
     {
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
@@ -271,76 +285,62 @@
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
       "source": "OpenRouter：Announcements（RSS）",
       "time": "2026-08-19T00:00:00.000Z"
-    },
-    {
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-17T18:46:04.518Z"
-    },
-    {
-      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-      "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
-      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "source": "NVIDIA Blog（RSS）",
-      "time": "2026-08-17T12:34:51.000Z"
     }
   ],
   "paper": [
     {
-      "title": "Information on trajectories: martingales and random times",
-      "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concentration inequalities, from Ville to PAC-Bayes, and measures what each one discards. ",
-      "url": "http://arxiv.org/abs/2608.20337v1",
+      "title": "Primal Acceleration of Newton's Method",
+      "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of",
+      "url": "http://arxiv.org/abs/2608.21359v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-      "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient communication, yet existing medical vision-language tasks do not adequately capture these",
-      "url": "http://arxiv.org/abs/2608.20331v1",
+      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation ",
+      "url": "http://arxiv.org/abs/2608.21357v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
-      "summary": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head over a frozen classi",
-      "url": "http://arxiv.org/abs/2608.20326v1",
+      "title": "AI with Authority, from Application to Silicon",
+      "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee tha",
+      "url": "http://arxiv.org/abs/2608.21356v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
-      "summary": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio ultra-wideband (IR-UWB), and Wi-Fi sensing are rarely compared under identical deployment condition",
-      "url": "http://arxiv.org/abs/2608.20322v1",
+      "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+      "summary": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatm",
+      "url": "http://arxiv.org/abs/2608.21349v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
-      "summary": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and behavioral prediction",
-      "url": "http://arxiv.org/abs/2608.20320v1",
+      "title": "Truthful Calibration Measures for Sequential Prediction",
+      "summary": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab et al. (2024) proposed an approximately truthful calibration measure for online prediction, leaving o",
+      "url": "http://arxiv.org/abs/2608.21348v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Inducing Task Models from Computer-Use Traces",
-      "summary": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done. Such models matter as computer-use agents enter real work, where agents need to learn how tasks ",
-      "url": "http://arxiv.org/abs/2608.20319v1",
+      "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+      "summary": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve different cognitive demands, most existing approaches conveniently treat the model ",
+      "url": "http://arxiv.org/abs/2608.21345v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
-      "summary": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective or update rule improves the compute\\mbox{-}capability exchange rate for every subs",
-      "url": "http://arxiv.org/abs/2608.20318v1",
+      "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+      "summary": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requiremen",
+      "url": "http://arxiv.org/abs/2608.21343v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
-      "summary": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the lowest cost. Routing requires estimating each specialist's expected return, but th",
-      "url": "http://arxiv.org/abs/2608.20316v1",
+      "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+      "summary": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-generating process calibrated to a sparse pricing regime. We separate uncertainty c",
+      "url": "http://arxiv.org/abs/2608.21334v1",
       "source": "arXiv",
       "time": "今日"
     },
@@ -385,13 +385,6 @@
       "url": "https://arxiv.org/abs/2608.17800",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "title": "Claude 如何加速蛋白质设计与分析化学研究",
-      "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-08-17T16:00:00.000Z"
     }
   ],
   "tips": []
