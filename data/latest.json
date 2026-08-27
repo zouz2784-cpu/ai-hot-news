@@ -1,6 +1,48 @@
 {
   "models": [
     {
+      "title": "GlucoFM：面向连续血糖监测的基础模型",
+      "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+      "source": "Google Research：Blog（网页）",
+      "time": "2026-08-26T20:10:19.416Z"
+    },
+    {
+      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+      "summary": "Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流式与非流式两种 API。据 Artificial Analysis 评测，其流式与非流式平均词错率分别为 4.0% 和 2.6%，支持超 85 种语言、自定义词汇及最多三人说话人识别。",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-08-26T17:01:00.000Z"
+    },
+    {
+      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+      "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "time": "2026-08-26T15:32:46.000Z"
+    },
+    {
+      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+      "source": "公众号：智谱（GLM）",
+      "time": "2026-08-26T14:11:33.000Z"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+      "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "source": "Qwen：Blog Retrieval（API）",
+      "time": "2026-08-26T12:30:00.000Z"
+    },
+    {
+      "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
+      "summary": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
+      "source": "公众号：腾讯混元",
+      "time": "2026-08-26T08:04:03.000Z"
+    },
+    {
       "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
       "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
       "url": "https://x.com/GoogleAI/status/2092275116503707733",
@@ -29,6 +71,13 @@
       "time": "2026-08-21T09:26:04.727Z"
     },
     {
+      "title": "DeepSeek 上线多模态视觉理解模型 V4-Flash-Vision-Exp",
+      "summary": "DeepSeek 上线多模态视觉理解模型 V4-Flash-Vision-Exp，纯文本能力与 V4-Flash 正式版持平，多模态 Agent 能力接近 Opus-4.8。该模型通过 API 提供，图片按 token 计费，一张最多占 384 tokens，价格与 V4-Flash 一致。同期上线的 Files API 免费，支持图片上传后通过 file_id 复用。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485794&idx=1&sn=5332df30422e6637142321315b42ac26",
+      "source": "公众号：DeepSeek（深度求索）",
+      "time": "2026-08-21T09:12:16.000Z"
+    },
+    {
       "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
       "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
@@ -43,14 +92,56 @@
       "time": "2026-08-20T09:45:51.000Z"
     },
     {
-      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
-      "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "source": "Hugging Face：Blog（RSS）",
-      "time": "2026-08-19T13:48:49.000Z"
+      "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
+      "summary": "OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-08-26T00:00:00.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Expertise AI",
+      "summary": "\n            Turn your GTM skills into recurring revenue\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/expertise-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ReWeaver AI DriftDetector",
+      "summary": "\n            Drift score for any GitHub repo\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/reweaver-driftdetector",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Arena Agent Mode with GitHub",
+      "summary": "\n            Get real work done, moving from idea to shipping in minutes\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/arena-5",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "MCP-Builder.ai",
+      "summary": "\n            The fastest way to connect your data with your AI Tools. \n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mcp-builder-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agnost AI",
+      "summary": "\n            Catch agent failures your evals miss\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agnost-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ChatGPT Ad Library",
+      "summary": "\n            See every ad running inside ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chatgpt-ad-library",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Hacktron Automations",
       "summary": "\n            Close the loop between vulnerability discovery and patching.\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -73,20 +164,6 @@
       "time": "今日"
     },
     {
-      "title": "Agnost AI",
-      "summary": "\n            Catch agent failures your evals miss\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agnost-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "ChatGPT Ad Library",
-      "summary": "\n            See every ad running inside ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/chatgpt-ad-library",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "Purchase API by Agentcard",
       "summary": "\n            one API call and your agent buys anything online\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/agent-card",
@@ -94,18 +171,11 @@
       "time": "今日"
     },
     {
-      "title": "Lucid Train",
-      "summary": "\n            Build system design for new and existing codebase\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/lucid-train",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
-      "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
-      "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
-      "source": "LangChain：Blog（RSS）",
-      "time": "2026-08-25T21:12:53.000Z"
+      "title": "Claude in Chrome 正式全面上线",
+      "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-08-26T18:02:41.262Z"
     },
     {
       "title": "OpenWorker 新版发布，内置网络安全智能体",
@@ -113,13 +183,6 @@
       "url": "https://x.com/AndrewYNg/status/2092315079576555806",
       "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
       "time": "2026-08-25T18:16:02.000Z"
-    },
-    {
-      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
-      "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
-      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-08-25T18:02:04.743Z"
     },
     {
       "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
@@ -136,113 +199,155 @@
       "time": "2026-08-25T12:58:13.056Z"
     },
     {
-      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-      "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-      "source": "Meta Engineering Blog（RSS）",
-      "time": "2026-08-24T18:02:29.000Z"
-    },
-    {
-      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
-      "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-      "source": "NVIDIA Blog（RSS）",
-      "time": "2026-08-24T15:00:19.000Z"
-    },
-    {
-      "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-      "summary": "今天，我们为 SGLang 推出 Weight Cache Daemon。🚀 在 Ling-2.6-1T FP8 上，它将权重加载时间缩短至约 0.63 秒，比磁盘加载快约 780 倍，并将引擎总启动时间从 8.8 分钟缩短至约 0.53 分钟。其工作原理如下。",
-      "url": "https://x.com/AntLingAGI/status/2091021795373855124",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "time": "2026-08-22T04:36:59.000Z"
+      "title": "飞书与豆包合并后首款Agent产品\"豆包工作\"发布",
+      "summary": "字节正式发布办公Agent产品\"豆包工作\"，这是7月30日飞书与豆包产品团队整合后的首个重要产品，也是继WorkBuddy、千问办公之后办公Agent领域的第三个巨头玩家。该产品由豆包原\"工作任务\"独立而成，与飞书原生打通，支持飞书账号登录，完整继承企业AI额度、文档、多维表格、知识库、聊天、邮件及飞书权限系统，并具备电脑操控功能，可将固定流程封装为可反复调用的Skill。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685540&idx=1&sn=601bd8669d18bf0b4c9a9e88af421797",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-08-25T03:19:09.000Z"
     }
   ],
   "biz": [
     {
-      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "summary": "Lica co-founders are going to work on Gamma's new research team.",
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-      "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
-      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "summary": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
+      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
-      "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
-      "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn’t&#160;the only Stockholm startup putting up&#160;huge numbers&#160;lately — legal AI company&#160;Legora&#160;and health tech ",
+      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-      "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-      "url": "https://www.ithome.com/0/991/886.htm",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+      "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
+      "url": "https://www.ithome.com/0/994/807.htm",
       "source": "IT之家（RSS）",
-      "time": "2026-08-20T00:17:26.000Z"
+      "time": "2026-08-27T00:20:11.000Z"
+    },
+    {
+      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+      "summary": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-08-26T23:47:18.000Z"
+    },
+    {
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+      "url": "https://www.ithome.com/0/994/791.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-26T20:25:54.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work,",
-      "url": "https://github.com/swimmingbrain/texbrain",
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "summary": "Article URL: https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards\nComments URL: https://news.ycombinator.com/item?id=49458875\nPoints: 6\n# Comments: 5",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
       "source": "Hacker News",
-      "time": "Tue, 25 Aug 2026 22:08:50 +0000"
+      "time": "Thu, 27 Aug 2026 02:37:07 +0000"
     },
     {
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-      "summary": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=49437566\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "title": "Getting video models to learn better, faster",
+      "summary": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video\nComments URL: https://news.ycombinator.com/item?id=49458502\nPoints: 12\n# Comments: 6",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
       "source": "Hacker News",
-      "time": "Tue, 25 Aug 2026 17:28:52 +0000"
+      "time": "Thu, 27 Aug 2026 01:53:34 +0000"
     },
     {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "title": "Laion Big Video Dataset",
+      "summary": "Article URL: https://projects.laion.ai/bvd/\nComments URL: https://news.ycombinator.com/item?id=49458478\nPoints: 21\n# Comments: 0",
+      "url": "https://projects.laion.ai/bvd/",
       "source": "Hacker News",
-      "time": "Tue, 25 Aug 2026 15:20:20 +0000"
+      "time": "Thu, 27 Aug 2026 01:50:26 +0000"
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive\nComments URL: https://news.ycombinator.com/item?id=49458418\nPoints: 161\n# Comments: 104",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "Hacker News",
+      "time": "Thu, 27 Aug 2026 01:46:22 +0000"
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "summary": "Article URL: https://acceptmarkdown.com/\nComments URL: https://news.ycombinator.com/item?id=49454764\nPoints: 101\n# Comments: 59",
+      "url": "https://acceptmarkdown.com/",
+      "source": "Hacker News",
+      "time": "Wed, 26 Aug 2026 19:45:59 +0000"
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "summary": "Article URL: https://github.com/tailscale/tailcat\nComments URL: https://news.ycombinator.com/item?id=49452990\nPoints: 505\n# Comments: 93",
+      "url": "https://github.com/tailscale/tailcat",
+      "source": "Hacker News",
+      "time": "Wed, 26 Aug 2026 17:42:22 +0000"
+    },
+    {
+      "title": "以色列资助的假美国智库试图利用AI进行宣传",
+      "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-26T14:05:28.706Z"
     },
     {
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
@@ -264,71 +369,85 @@
       "url": "https://www.ithome.com/0/993/105.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-22T14:13:48.000Z"
-    },
-    {
-      "title": "OpenRouter 宣布加入 Stripe",
-      "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "source": "OpenRouter：Announcements（RSS）",
-      "time": "2026-08-19T00:00:00.000Z"
     }
   ],
   "paper": [
     {
-      "title": "How to Train a Critic Stably and Efficiently",
-      "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. ",
-      "url": "http://arxiv.org/abs/2608.23566v1",
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+      "summary": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack o",
+      "url": "http://arxiv.org/abs/2608.26105v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-      "summary": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference. Mixed per-head attent",
-      "url": "http://arxiv.org/abs/2608.23565v1",
+      "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+      "summary": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterog",
+      "url": "http://arxiv.org/abs/2608.26095v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-      "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they e",
-      "url": "http://arxiv.org/abs/2608.23564v1",
+      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+      "summary": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback.",
+      "url": "http://arxiv.org/abs/2608.26094v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
-      "summary": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Di",
-      "url": "http://arxiv.org/abs/2608.23563v1",
+      "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+      "summary": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearc",
+      "url": "http://arxiv.org/abs/2608.26093v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
-      "summary": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemody",
-      "url": "http://arxiv.org/abs/2608.23562v1",
+      "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+      "summary": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction, we identify a validated atlas of physical concepts in the model representation, us",
+      "url": "http://arxiv.org/abs/2608.26090v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
-      "summary": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler. For the uniform forward process, existing lower bounds for the standard $τ$-leapi",
-      "url": "http://arxiv.org/abs/2608.23554v1",
+      "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+      "summary": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary models remains bottlenecked by a fragmented data ecosystem, requiring manual data retri",
+      "url": "http://arxiv.org/abs/2608.26088v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Prime Agent: A Self-Improving RLM Harness",
-      "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Lang",
-      "url": "http://arxiv.org/abs/2608.23552v1",
+      "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
+      "summary": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most competitions still finishes below strong human competitors. Outcome-b",
+      "url": "http://arxiv.org/abs/2608.26086v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
-      "summary": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at val",
-      "url": "http://arxiv.org/abs/2608.23551v1",
+      "title": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
+      "summary": "Deep neural networks often exploit spurious associations in their training data, a failure known as shortcut learning. Concept-based explainability methods screen for shortcuts by testing whether concepts such as a patient's sex or scanner settings can be decoded from a network layer. Because each c",
+      "url": "http://arxiv.org/abs/2608.26083v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+      "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-08-26T17:30:30.074Z"
+    },
+    {
+      "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+      "summary": "安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-26T14:05:27.506Z"
+    },
+    {
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "summary": "一项研究在开放世界多智能体环境Station中，让来自不同模型家族的AI智能体在无中央协调或脚本化流程下自主开展数学研究。在AlphaEvolve目录的12个构造问题及两个额外案例中，智能体在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了定理与分析使结果更具可解释性。所有原始智能体对话、证明和验证代码均已公开。",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "time": "2026-08-24T00:00:00.000Z"
     },
     {
       "title": "单个污染页面即可影响LLM推荐：FORGE基准揭示检索增强推荐系统的脆弱性",
