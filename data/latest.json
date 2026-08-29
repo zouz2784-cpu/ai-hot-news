@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+      "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
+      "url": "https://x.com/Zai_org/status/2093354097122455713",
+      "source": "X：智谱 Z.ai (@Zai_org)",
+      "time": "2026-08-28T15:04:44.000Z"
+    },
+    {
       "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
       "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
       "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
@@ -85,25 +92,18 @@
       "time": "2026-08-24T12:00:00.000Z"
     },
     {
-      "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
-      "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
-      "url": "https://x.com/OpenBMB/status/2090786300194590816",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "time": "2026-08-21T13:01:13.000Z"
+      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+      "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+      "source": "Ars Technica：AI（RSS）",
+      "time": "2026-08-27T20:52:31.000Z"
     },
     {
-      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-      "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
-      "source": "DeepSeek：API 更新日志",
-      "time": "2026-08-21T09:26:04.727Z"
-    },
-    {
-      "title": "DeepSeek 上线多模态视觉理解模型 V4-Flash-Vision-Exp",
-      "summary": "DeepSeek 上线多模态视觉理解模型 V4-Flash-Vision-Exp，纯文本能力与 V4-Flash 正式版持平，多模态 Agent 能力接近 Opus-4.8。该模型通过 API 提供，图片按 token 计费，一张最多占 384 tokens，价格与 V4-Flash 一致。同期上线的 Files API 免费，支持图片上传后通过 file_id 复用。",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485794&idx=1&sn=5332df30422e6637142321315b42ac26",
-      "source": "公众号：DeepSeek（深度求索）",
-      "time": "2026-08-21T09:12:16.000Z"
+      "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+      "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
+      "url": "https://www.ithome.com/0/995/136.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-27T09:05:46.000Z"
     }
   ],
   "products": [
@@ -115,20 +115,6 @@
       "time": "今日"
     },
     {
-      "title": "Arena Agent Mode with GitHub",
-      "summary": "\n            Get real work done, moving from idea to shipping in minutes\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/arena-5",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "MCP-Builder.ai",
-      "summary": "\n            The fastest way to connect your data with your AI Tools. \n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mcp-builder-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "Expertise AI",
       "summary": "\n            Turn your GTM skills into recurring revenue\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/expertise-ai",
@@ -136,11 +122,11 @@
       "time": "今日"
     },
     {
-      "title": "ReWeaver AI DriftDetector",
-      "summary": "\n            Drift score for any GitHub repo\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/reweaver-driftdetector",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Open ASR 排行榜新增首个全球南方语言：印地语与印度英语评测集",
+      "summary": "Voice Arena 与 Hugging Face 合作，为 Open ASR 排行榜引入 Monsoon en-IN 和 Monsoon hi-IN 两个评测集，覆盖印地语与印度英语，其中印地语是该排行榜多语言板块首个非欧洲语言。数据集含公开与私有分割，共 4，888 位说话人，并记录 12 项说话人属性，旨在暴露按地区、年龄、性别等维度分布不均的语音识别误差。",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face：Blog（RSS）",
+      "time": "2026-08-28T00:00:00.000Z"
     },
     {
       "title": "Claude Console 新增个人密钥与服务账号密钥",
@@ -215,74 +201,88 @@
   ],
   "biz": [
     {
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t",
-      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
-      "summary": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
-      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-      "summary": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
-      "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+      "title": "Apple TV is raising its subscription prices again",
+      "summary": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
+      "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
-      "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
-      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+      "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
-      "summary": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
-      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
-      "summary": "Test drivers for Waymo and Zoox sustained more than two dozen injuries in 2024 and 2025 from hard braking or other sudden movements made by the autonomous vehicles, according to a TechCrunch review of data submitted to OSHA.",
-      "url": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
       "source": "TechCrunch",
       "time": "今日"
+    },
+    {
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+      "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "source": "X：Tibo (@thsottiaux)",
+      "time": "2026-08-29T01:47:44.000Z"
+    },
+    {
+      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+      "summary": "OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-08-28T06:00:00.000Z"
     },
     {
       "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
@@ -304,6 +304,50 @@
       "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-08-26T23:47:18.000Z"
+    }
+  ],
+  "industry": [
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck\nComments URL: https://news.ycombinator.com/item?id=49486081\nPoints: 38\n# Comments: 9",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "source": "Hacker News",
+      "time": "Sat, 29 Aug 2026 01:24:13 +0000"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/\nComments URL: https://news.ycombinator.com/item?id=49485416\nPoints: 54\n# Comments: 9",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "source": "Hacker News",
+      "time": "Fri, 28 Aug 2026 23:27:45 +0000"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html\nComments URL: https://news.ycombinator.com/item?id=49484925\nPoints: 40\n# Comments: 13",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "source": "Hacker News",
+      "time": "Fri, 28 Aug 2026 22:18:27 +0000"
+    },
+    {
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "summary": "Article URL: https://arxiv.org/abs/2608.23691\nComments URL: https://news.ycombinator.com/item?id=49481455\nPoints: 88\n# Comments: 23",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "source": "Hacker News",
+      "time": "Fri, 28 Aug 2026 17:01:12 +0000"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "summary": "Earlier:US Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 -  (131 comments)US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments)\n\nComments URL: https://news.ycombinato",
+      "url": "https://www.inventati.org/",
+      "source": "Hacker News",
+      "time": "Fri, 28 Aug 2026 12:58:53 +0000"
+    },
+    {
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "source": "Ars Technica：AI（RSS）",
+      "time": "2026-08-28T18:07:55.000Z"
     },
     {
       "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
@@ -311,64 +355,6 @@
       "url": "https://www.ithome.com/0/994/791.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-26T20:25:54.000Z"
-    }
-  ],
-  "industry": [
-    {
-      "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions\nComments URL: https://news.ycombinator.com/item?id=49474143\nPoints: 142\n# Comments: 70",
-      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-      "source": "Hacker News",
-      "time": "Fri, 28 Aug 2026 03:49:33 +0000"
-    },
-    {
-      "title": "Stripe said to abandon $50B pursuit of PayPal",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal\nComments URL: https://news.ycombinator.com/item?id=49473483\nPoints: 98\n# Comments: 53",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-      "source": "Hacker News",
-      "time": "Fri, 28 Aug 2026 01:57:26 +0000"
-    },
-    {
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement\nComments URL: https://news.ycombinator.com/item?id=49472820\nPoints: 68\n# Comments: 17",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "source": "Hacker News",
-      "time": "Fri, 28 Aug 2026 00:06:51 +0000"
-    },
-    {
-      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks\nComments URL: https://news.ycombinator.com/item?id=49471714\nPoints: 81\n# Comments: 9",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "source": "Hacker News",
-      "time": "Thu, 27 Aug 2026 21:46:39 +0000"
-    },
-    {
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "summary": "Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters",
-      "url": "https://github.com/experientiallabs/experiential",
-      "source": "Hacker News",
-      "time": "Thu, 27 Aug 2026 21:18:35 +0000"
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "summary": "Article URL: https://www.anthropic.com/news/model-hardware-standard-research-preview\nComments URL: https://news.ycombinator.com/item?id=49468834\nPoints: 107\n# Comments: 35",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "source": "Hacker News",
-      "time": "Thu, 27 Aug 2026 18:04:50 +0000"
-    },
-    {
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-      "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "source": "Ars Technica：AI（RSS）",
-      "time": "2026-08-27T20:52:31.000Z"
-    },
-    {
-      "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
-      "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
-      "url": "https://www.ithome.com/0/995/136.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-27T09:05:46.000Z"
     },
     {
       "title": "以色列资助的假美国智库试图利用AI进行宣传",
@@ -464,11 +450,25 @@
       "time": "今日"
     },
     {
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-08-28T17:25:56.912Z"
+    },
+    {
+      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+      "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-08-28T12:04:47.737Z"
+    },
+    {
       "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
       "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
       "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
       "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "time": "2026-08-27T17:57:02.062Z"
+      "time": "2026-08-26T16:00:00.000Z"
     },
     {
       "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
@@ -497,13 +497,6 @@
       "url": "https://arxiv.org/abs/2606.13610",
       "source": "HuggingFace Daily Papers（社区热门论文）",
       "time": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
-      "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-21T09:25:43.682Z"
     }
   ],
   "tips": []
