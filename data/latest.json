@@ -1,6 +1,20 @@
 {
   "models": [
     {
+      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+      "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
+      "url": "https://runwayml.com/news/research/introducing-solaris",
+      "source": "Runway：News（网页）",
+      "time": "2026-08-31T17:03:47.031Z"
+    },
+    {
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+      "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
+      "url": "https://www.ithome.com/0/996/637.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-31T11:35:24.000Z"
+    },
+    {
       "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
       "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
       "url": "https://www.ithome.com/0/995/896.htm",
@@ -90,23 +104,16 @@
       "url": "https://x.com/GoogleAI/status/2092275116503707733",
       "source": "X：Google AI (@GoogleAI)",
       "time": "2026-08-25T15:37:15.000Z"
-    },
-    {
-      "title": "GPT-5.6 登陆 Kiro，为开发者提升性价比",
-      "summary": "GPT-5.6 模型家族现已登陆软件开发智能体 Kiro，包含 Sol、Terra 和 Luna 三款模型。在 Terminal-Bench 2.1 测试中，GPT-5.6 Terra 在 Kiro 内完成任务成本降低约 82%。该更新由 OpenAI 与 AWS 合作优化，旨在以更少迭代和更高 token 价值帮助开发者产出更高质量的代码。",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-08-24T12:00:00.000Z"
-    },
-    {
-      "title": "Cursor回应OpenAI将封禁其模型访问",
-      "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
-      "url": "https://x.com/mntruell/status/2093532254006063557",
-      "source": "X：Michael Truell (@mntruell)",
-      "time": "2026-08-29T02:52:39.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Video Agent by Fotor",
+      "summary": "\n            Create and edit precision motion graphics & video with chat\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/fotor",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Superagent",
       "summary": "\n            Claude Code for the rest of us\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -176,99 +183,85 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685540&idx=1&sn=601bd8669d18bf0b4c9a9e88af421797",
       "source": "公众号：数字生命卡兹克",
       "time": "2026-08-25T03:19:09.000Z"
-    },
-    {
-      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-      "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-      "source": "Meta Engineering Blog（RSS）",
-      "time": "2026-08-24T18:02:29.000Z"
-    },
-    {
-      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
-      "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
-      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-08-24T16:00:00.000Z"
-    },
-    {
-      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
-      "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-      "source": "NVIDIA Blog（RSS）",
-      "time": "2026-08-24T15:00:19.000Z"
     }
   ],
   "biz": [
     {
-      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+      "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+      "summary": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
+      "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-      "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+      "summary": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
+      "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
-      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "summary": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+      "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
       "source": "TechCrunch",
       "time": "今日"
+    },
+    {
+      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
+      "summary": "ChatGPT Ads 年化收入运行率突破 10 亿美元，并扩展至全球市场。该广告业务通过免费和低价选项，支持更多人使用 AI 服务。",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-08-31T04:00:00.000Z"
     },
     {
       "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
@@ -297,36 +290,64 @@
       "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-08-27T22:29:33.124Z"
-    },
-    {
-      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-      "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
-      "url": "https://www.ithome.com/0/994/807.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-27T00:20:11.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "summary": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html\nComments URL: https://news.ycombinator.com/item?id=49502611\nPoints: 48\n# Comments: 13",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "title": "How we configured OpenTelemetry logs in Rails",
+      "summary": "Article URL: https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails\nComments URL: https://news.ycombinator.com/item?id=49514895\nPoints: 20\n# Comments: 3",
+      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
       "source": "Hacker News",
-      "time": "Sun, 30 Aug 2026 20:46:53 +0000"
+      "time": "Mon, 31 Aug 2026 21:12:22 +0000"
     },
     {
-      "title": "Haiku R1/beta6 has been released",
-      "summary": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\nComments URL: https://news.ycombinator.com/item?id=49499867\nPoints: 245\n# Comments: 75",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "summary": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/\nComments URL: https://news.ycombinator.com/item?id=49514878\nPoints: 477\n# Comments: 381",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
       "source": "Hacker News",
-      "time": "Sun, 30 Aug 2026 16:01:10 +0000"
+      "time": "Mon, 31 Aug 2026 21:10:58 +0000"
     },
     {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "summary": "Article URL: https://arxiv.org/abs/1804.07389\nComments URL: https://news.ycombinator.com/item?id=49496782\nPoints: 189\n# Comments: 56",
-      "url": "https://arxiv.org/abs/1804.07389",
+      "title": "The safest job from AI may be writing",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html\nComments URL: https://news.ycombinator.com/item?id=49512856\nPoints: 100\n# Comments: 137",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
       "source": "Hacker News",
-      "time": "Sun, 30 Aug 2026 08:23:26 +0000"
+      "time": "Mon, 31 Aug 2026 18:12:20 +0000"
+    },
+    {
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions",
+      "url": "https://usealmanac.com/",
+      "source": "Hacker News",
+      "time": "Mon, 31 Aug 2026 15:34:34 +0000"
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "summary": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/\nComments URL: https://news.ycombinator.com/item?id=49510000\nPoints: 182\n# Comments: 51",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "source": "Hacker News",
+      "time": "Mon, 31 Aug 2026 14:07:15 +0000"
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\nComments URL: https://news.ycombinator.com/item?id=49508982\nPoints: 289\n# Comments: 336",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "source": "Hacker News",
+      "time": "Mon, 31 Aug 2026 12:41:22 +0000"
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE\nComments URL: https://news.ycombinator.com/item?id=49503521\nPoints: 196\n# Comments: 23",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "source": "Hacker News",
+      "time": "Sun, 30 Aug 2026 22:37:01 +0000"
+    },
+    {
+      "title": "Cursor回应OpenAI将封禁其模型访问",
+      "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
+      "url": "https://x.com/mntruell/status/2093532254006063557",
+      "source": "X：Michael Truell (@mntruell)",
+      "time": "2026-08-29T02:52:39.000Z"
     },
     {
       "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
@@ -350,6 +371,13 @@
       "time": "2026-08-27T09:05:46.000Z"
     },
     {
+      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+      "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
+      "url": "https://www.ithome.com/0/994/807.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-27T00:20:11.000Z"
+    },
+    {
       "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
       "summary": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
       "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
@@ -369,16 +397,72 @@
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-08-26T14:05:28.706Z"
-    },
-    {
-      "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
-      "summary": "OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-08-26T00:00:00.000Z"
     }
   ],
   "paper": [
+    {
+      "title": "Reward-guided Fine-Tuning of One-Step Generative Models via Wasserstein Gradient Flow",
+      "summary": "To mitigate the time complexity of generative models, one-step generative models have recently emerged through direct mapping from noise to data in a single forward pass. However, the reward-guided fine-tuning method of one-step generative models remains largely unexplored. To address this, we consi",
+      "url": "http://arxiv.org/abs/2608.29647v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems",
+      "summary": "Large language model (LLM)-based agents have shown strong potential in solving complex tasks through multi-step reasoning, yet they remain vulnerable to execution failures. Accurate failure attribution is therefore critical for improving agent reliability. Existing topology- and spectrum-based metho",
+      "url": "http://arxiv.org/abs/2608.29646v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Conducting Stylistic Analysis of Paintings through an Art-History Agent",
+      "summary": "Attributing an artwork to an artist has traditionally relied on detailed visual observations and descriptions, known as stylistic analysis in art history. By contrast, current artificial intelligence (AI) models used in the field offer only unexplained probabilistic classifications. To bridge this m",
+      "url": "http://arxiv.org/abs/2608.29644v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "LLMODE: Aligning ODEs with LLMs via Gated Token Injection for Irregular Spatio-Temporal Forecasting",
+      "summary": "Large language models (LLMs) have shown promise for spatio-temporal forecasting, but existing approaches often rely on regularly sampled token sequences and struggle with irregular observations because of temporal asynchrony, representation-space misalignment, and limited context windows. We propose",
+      "url": "http://arxiv.org/abs/2608.29640v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Unsupervised Multi-Scale Gromov-Wasserstein Hypergraph Alignment",
+      "summary": "We study unsupervised hypergraph alignment, where the goal is to infer node correspondences between two hypergraphs using only structural information, without node features, labels, seed matches, or side information. Direct higher-order formulations can represent hyperedge interactions faithfully, b",
+      "url": "http://arxiv.org/abs/2608.29635v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "MI-Distillation: Selecting from Model-Interpolated Instruct-Reasoning Data Spectrum for Chain-of-Thought Distillation",
+      "summary": "Recent advances in large reasoning models (LRMs) have shown strong performance on complex problems through long chain-of-thought (Long CoT) reasoning. However, distilling such trajectories into smaller student models remains challenging: direct Long CoT supervision often provides limited gains and c",
+      "url": "http://arxiv.org/abs/2608.29623v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing",
+      "summary": "Retrieval-Augmented Generation (RAG) improves the factuality of large language models (LLMs), yet existing RAG systems often struggle with complex, multi-step reasoning that requires adaptive retrieval and continuous revision of intermediate contexts. Recent reinforcement learning (RL)-based agentic",
+      "url": "http://arxiv.org/abs/2608.29622v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "CineForge: Self-Improving Agents for Long-Horizon Video Generation",
+      "summary": "Long-horizon story-driven video generation requires a production agent to coordinate narrative decomposition, state tracking, shot design, prompt construction, rendering, and revision across interdependent scenes. Existing adaptive video systems primarily refine requests or reusable skills, leaving ",
+      "url": "http://arxiv.org/abs/2608.29621v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+      "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
+      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "time": "2026-09-01T00:07:51.000Z"
+    },
     {
       "title": "开放世界多智能体环境中的自主数学发现",
       "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
@@ -420,62 +504,6 @@
       "url": "https://www.anthropic.com/research/enabling-independent-research",
       "source": "Anthropic：Research（发表成果 · 网页）",
       "time": "2026-08-25T16:00:00.000Z"
-    },
-    {
-      "title": "COVER: Identifiable Evaluation of Coalition Routing",
-      "summary": "When a multi-agent system changes its team, it also changes the messages and final answer it produces, so an end-to-end accuracy gap does not by itself identify a routing effect. We introduce method, an evaluation contract that fixes a public information boundary, downstream stack G, and finite lega",
-      "url": "http://arxiv.org/abs/2608.28475v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
-      "summary": "Conventional plasma shape control in tokamaks relies on virtual circuits (VCs) that are computed offline from linearisations around a small, tailored number of reference equilibria, and deployed as expertly prepared schedules during the discharge. Here, we report on the first experimental deployment",
-      "url": "http://arxiv.org/abs/2608.28468v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V",
-      "summary": "We present an anatomy-aware, promptable model for whole-body lesion segmentation in FDG and PSMA PET/CT, developed for the AUTOPET V challenge. The proposed method is built as family of nnU-Net-based models and trained in two stages: i) a pre-training stage that produces a strong initial segmentatio",
-      "url": "http://arxiv.org/abs/2608.28461v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
-      "summary": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that ",
-      "url": "http://arxiv.org/abs/2608.28458v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT",
-      "summary": "Contrastive vision-language learning uses paired chest CT volumes and radiology reports to learn abnormality classifiers without manually annotated labels. However, two characteristics of chest CT challenge conventional global contrastive learning. First, many critical abnormalities are small or ana",
-      "url": "http://arxiv.org/abs/2608.28455v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning",
-      "summary": "Current large language models (LLMs) increasingly benefit from external tool integration, especially for tasks requiring reliable computation and verification. Motivated by this, we study calculator tool calling for improving mathematical reasoning on the Countdown task. We first analyze reasoning f",
-      "url": "http://arxiv.org/abs/2608.28447v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Generalized Splines and Gaussian Processes",
-      "summary": "For finite-dimensional linear inverse problems where the variables are Gaussian, it is well-known that the minimum-mean-square error estimator takes the form of a regularized least-squares data fit. In this chapter, we show that this equivalence extends to a much broader infinite-dimensional setting",
-      "url": "http://arxiv.org/abs/2608.28446v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Sliding-window beats linear attention",
-      "summary": "Due to the nature of quadratic attention, Large Language Models (LLMs) consume a lot of memory and energy. Every new token costs more than the previous one. For each additional token, the keys and values must be stored in memory indefinitely, which is unsustainable.   Several alternatives have been ",
-      "url": "http://arxiv.org/abs/2608.28444v1",
-      "source": "arXiv",
-      "time": "今日"
     }
   ],
   "tips": []
