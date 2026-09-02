@@ -1,11 +1,32 @@
 {
   "models": [
     {
-      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-      "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
-      "url": "https://runwayml.com/news/research/introducing-solaris",
-      "source": "Runway：News（网页）",
-      "time": "2026-08-31T17:03:47.031Z"
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
+      "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
+      "url": "https://x.com/trq212/status/2094945951865520458",
+      "source": "X：Thariq (@trq212)",
+      "time": "2026-09-02T00:30:11.000Z"
+    },
+    {
+      "title": "Claude Fable 5.1 上线 OpenRouter",
+      "summary": "Anthropic 的 Claude Fable 5.1 已上线 OpenRouter，官方称其为 Fable 5 工作负载的直接升级版本，提升最大的方向包括 agentic coding、长时间运行的工作流、视觉代码生成、金融和分析。使用入口：https://openrouter.ai/anthropic/claude-fable-5.1",
+      "url": "https://x.com/OpenRouter/status/2094855056936022304",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-09-01T18:29:00.000Z"
+    },
+    {
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
+      "source": "Claude Platform：开发者版本说明（RSS）",
+      "time": "2026-09-01T00:00:00.000Z"
     },
     {
       "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
@@ -13,6 +34,13 @@
       "url": "https://www.ithome.com/0/996/637.htm",
       "source": "IT之家（RSS）",
       "time": "2026-08-31T11:35:24.000Z"
+    },
+    {
+      "title": "Runway 发布 Interface World Models 首个模型 Solaris，实时逐帧生成可交互界面",
+      "summary": "Runway 发布 Solaris，称其为新模型家族 Interface World Models 的第一个模型，由世界模型实时逐帧生成界面并对点击、拖拽等交互作出响应，无需代码等中间表示。",
+      "url": "https://runwayml.com/news/research/introducing-solaris",
+      "source": "Runway：News（网页）",
+      "time": "2026-08-30T16:00:00.000Z"
     },
     {
       "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
@@ -76,41 +104,48 @@
       "url": "https://www.zhipuai.cn/zh/research/163",
       "source": "智谱：研究（网页内嵌数据）",
       "time": "2026-08-26T14:00:00.000Z"
-    },
-    {
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-      "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "source": "Qwen：Blog Retrieval（API）",
-      "time": "2026-08-26T12:30:00.000Z"
-    },
-    {
-      "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-      "summary": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
-      "source": "公众号：腾讯混元",
-      "time": "2026-08-26T08:04:03.000Z"
-    },
-    {
-      "title": "GlucoFM：面向连续血糖监测的基础模型",
-      "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-      "source": "Google Research：Blog（网页）",
-      "time": "2026-08-25T16:00:00.000Z"
-    },
-    {
-      "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
-      "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
-      "url": "https://x.com/GoogleAI/status/2092275116503707733",
-      "source": "X：Google AI (@GoogleAI)",
-      "time": "2026-08-25T15:37:15.000Z"
     }
   ],
   "products": [
     {
+      "title": "Kilo Code for JetBrains",
+      "summary": "\n            Fully native, open-source coding agent built for JetBrains\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Cosmic Agent Plugins",
+      "summary": "\n            Connect Cosmic agents to any service with an MCP server\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Tovel AI",
+      "summary": "\n            From conversation to action, in three steps\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tovel-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Gauth AI Course",
+      "summary": "\n            AI courses you can watch, quiz through, and create\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Video Agent by Fotor",
       "summary": "\n            Create and edit precision motion graphics & video with chat\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/fotor",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Murfy AI",
+      "summary": "\n            Write, review, and publish to arXiv 10x faster\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/murfy",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -122,11 +157,25 @@
       "time": "今日"
     },
     {
-      "title": "Murfy AI",
-      "summary": "\n            Write, review, and publish to arXiv 10x faster\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/murfy",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+      "summary": "Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agentic video understanding，模型动态扫描视频片段，相比固定帧率处理 token 消耗最多降低 88%，成本最多降低 66%，准确率最多提升 7%。",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-09-01T17:08:51.000Z"
+    },
+    {
+      "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
+      "summary": "Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来数周内面向所有 Google AI Pro 和 Ultra 订阅者及多数 Workspace 商业客户推出。",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "source": "Google Blog：AI（RSS）",
+      "time": "2026-09-01T16:00:00.000Z"
+    },
+    {
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+      "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face：Blog（RSS）",
+      "time": "2026-09-01T00:00:00.000Z"
     },
     {
       "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
@@ -148,111 +197,55 @@
       "url": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026",
       "source": "Claude Platform：开发者版本说明（RSS）",
       "time": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "title": "OpenWorker 新版发布，内置网络安全智能体",
-      "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
-      "url": "https://x.com/AndrewYNg/status/2092315079576555806",
-      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-      "time": "2026-08-25T18:16:02.000Z"
-    },
-    {
-      "title": "Claude in Chrome 正式全面上线",
-      "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-08-25T16:00:00.000Z"
-    },
-    {
-      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-      "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "source": "Apple：Newsroom（RSS）",
-      "time": "2026-08-25T13:00:23.969Z"
-    },
-    {
-      "title": "Apple 发布 M6 与 M5 Ultra，性能与 AI 算力大幅跃升",
-      "summary": "Apple 推出首款 2nm 芯片 M6，搭载 12 核 CPU、12 核 GPU 及双 16 核神经引擎，统一内存带宽最高 170GB/s，多线程性能较 M5 提升 1.2 倍。M5 Ultra 采用首款四芯片封装架构，最高 36 核 CPU、80 核 GPU，带宽达 1.2TB/s，较 M3 Ultra 提升 50%。两款芯片分别用于新款 Mac mini 与 Mac Studio。",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "source": "Apple：Newsroom（RSS）",
-      "time": "2026-08-25T12:58:13.056Z"
-    },
-    {
-      "title": "飞书与豆包合并后首款Agent产品\"豆包工作\"发布",
-      "summary": "字节正式发布办公Agent产品\"豆包工作\"，这是7月30日飞书与豆包产品团队整合后的首个重要产品，也是继WorkBuddy、千问办公之后办公Agent领域的第三个巨头玩家。该产品由豆包原\"工作任务\"独立而成，与飞书原生打通，支持飞书账号登录，完整继承企业AI额度、文档、多维表格、知识库、聊天、邮件及飞书权限系统，并具备电脑操控功能，可将固定流程封装为可反复调用的Skill。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685540&idx=1&sn=601bd8669d18bf0b4c9a9e88af421797",
-      "source": "公众号：数字生命卡兹克",
-      "time": "2026-08-25T03:19:09.000Z"
     }
   ],
   "biz": [
     {
-      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
-      "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-      "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "title": "GoPro to be acquired for $285M, will remain a public company",
+      "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+      "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-      "summary": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-      "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-      "summary": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
-      "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "How AI could make it harder for governments to use hacking tools",
-      "summary": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
-      "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -290,57 +283,78 @@
       "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-08-27T22:29:33.124Z"
+    },
+    {
+      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+      "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
+      "url": "https://www.ithome.com/0/994/807.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-27T00:20:11.000Z"
+    },
+    {
+      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+      "summary": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-08-26T23:47:18.000Z"
+    },
+    {
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+      "url": "https://www.ithome.com/0/994/791.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-08-26T20:25:54.000Z"
     }
   ],
   "industry": [
     {
-      "title": "How we configured OpenTelemetry logs in Rails",
-      "summary": "Article URL: https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails\nComments URL: https://news.ycombinator.com/item?id=49514895\nPoints: 20\n# Comments: 3",
-      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "title": "The efficient frontier of LLM inference",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 12\n# Comments: 2",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
       "source": "Hacker News",
-      "time": "Mon, 31 Aug 2026 21:12:22 +0000"
+      "time": "Tue, 01 Sep 2026 23:48:05 +0000"
     },
     {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "summary": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/\nComments URL: https://news.ycombinator.com/item?id=49514878\nPoints: 477\n# Comments: 381",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "summary": "Article URL: https://lws.io/blog/my-local-model-setup/\nComments URL: https://news.ycombinator.com/item?id=49529132\nPoints: 41\n# Comments: 12",
+      "url": "https://lws.io/blog/my-local-model-setup/",
       "source": "Hacker News",
-      "time": "Mon, 31 Aug 2026 21:10:58 +0000"
+      "time": "Tue, 01 Sep 2026 22:30:52 +0000"
     },
     {
-      "title": "The safest job from AI may be writing",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html\nComments URL: https://news.ycombinator.com/item?id=49512856\nPoints: 100\n# Comments: 137",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label ",
+      "url": "https://masteranza.github.io/weedout/",
       "source": "Hacker News",
-      "time": "Mon, 31 Aug 2026 18:12:20 +0000"
+      "time": "Tue, 01 Sep 2026 22:06:57 +0000"
     },
     {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions",
-      "url": "https://usealmanac.com/",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/\nComments URL: https://news.ycombinator.com/item?id=49527396\nPoints: 229\n# Comments: 112",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
       "source": "Hacker News",
-      "time": "Mon, 31 Aug 2026 15:34:34 +0000"
+      "time": "Tue, 01 Sep 2026 20:07:57 +0000"
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "summary": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/\nComments URL: https://news.ycombinator.com/item?id=49510000\nPoints: 182\n# Comments: 51",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "summary": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 368\n# Comments: 452",
+      "url": "https://danluu.com/zitron/",
       "source": "Hacker News",
-      "time": "Mon, 31 Aug 2026 14:07:15 +0000"
+      "time": "Tue, 01 Sep 2026 18:35:15 +0000"
     },
     {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\nComments URL: https://news.ycombinator.com/item?id=49508982\nPoints: 289\n# Comments: 336",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "summary": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\n\nComments URL: https://news.ycombinator.com/item?id=49525378\nPoints: 892\n# Comments: 841",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "Hacker News",
-      "time": "Mon, 31 Aug 2026 12:41:22 +0000"
+      "time": "Tue, 01 Sep 2026 17:53:53 +0000"
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE\nComments URL: https://news.ycombinator.com/item?id=49503521\nPoints: 196\n# Comments: 23",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas\nComments URL: https://news.ycombinator.com/item?id=49525160\nPoints: 137\n# Comments: 33",
+      "url": "https://www.worldlabs.ai/blog/atlas",
       "source": "Hacker News",
-      "time": "Sun, 30 Aug 2026 22:37:01 +0000"
+      "time": "Tue, 01 Sep 2026 17:36:02 +0000"
     },
     {
       "title": "Cursor回应OpenAI将封禁其模型访问",
@@ -371,27 +385,6 @@
       "time": "2026-08-27T09:05:46.000Z"
     },
     {
-      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-      "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
-      "url": "https://www.ithome.com/0/994/807.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-27T00:20:11.000Z"
-    },
-    {
-      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
-      "summary": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-08-26T23:47:18.000Z"
-    },
-    {
-      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
-      "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
-      "url": "https://www.ithome.com/0/994/791.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-08-26T20:25:54.000Z"
-    },
-    {
       "title": "以色列资助的假美国智库试图利用AI进行宣传",
       "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
@@ -401,60 +394,67 @@
   ],
   "paper": [
     {
-      "title": "Reward-guided Fine-Tuning of One-Step Generative Models via Wasserstein Gradient Flow",
-      "summary": "To mitigate the time complexity of generative models, one-step generative models have recently emerged through direct mapping from noise to data in a single forward pass. However, the reward-guided fine-tuning method of one-step generative models remains largely unexplored. To address this, we consi",
-      "url": "http://arxiv.org/abs/2608.29647v1",
+      "title": "Constant Individual Regret in General Games",
+      "summary": "Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for every finite $N$-player normal-form game under full-information feedback. We introduce \\emph{ECHO-OF",
+      "url": "http://arxiv.org/abs/2608.31166v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems",
-      "summary": "Large language model (LLM)-based agents have shown strong potential in solving complex tasks through multi-step reasoning, yet they remain vulnerable to execution failures. Accurate failure attribution is therefore critical for improving agent reliability. Existing topology- and spectrum-based metho",
-      "url": "http://arxiv.org/abs/2608.29646v1",
+      "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+      "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-crafted and behavior ",
+      "url": "http://arxiv.org/abs/2608.31167v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Conducting Stylistic Analysis of Paintings through an Art-History Agent",
-      "summary": "Attributing an artwork to an artist has traditionally relied on detailed visual observations and descriptions, known as stylistic analysis in art history. By contrast, current artificial intelligence (AI) models used in the field offer only unexplained probabilistic classifications. To bridge this m",
-      "url": "http://arxiv.org/abs/2608.29644v1",
+      "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+      "summary": "Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $Φ$ with $P_Φ$ parameter slots, we write $\\boldsymbolθ_f=\\mathcal{G}(\\boldsymbolξ_f)$, where $\\mathcal{G}\\colon\\mathbb{R}^M\\to\\mathbb{R}^{P_Φ}$ is a ",
+      "url": "http://arxiv.org/abs/2608.31157v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "LLMODE: Aligning ODEs with LLMs via Gated Token Injection for Irregular Spatio-Temporal Forecasting",
-      "summary": "Large language models (LLMs) have shown promise for spatio-temporal forecasting, but existing approaches often rely on regularly sampled token sequences and struggle with irregular observations because of temporal asynchrony, representation-space misalignment, and limited context windows. We propose",
-      "url": "http://arxiv.org/abs/2608.29640v1",
+      "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+      "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for black-box identity ",
+      "url": "http://arxiv.org/abs/2608.31142v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Unsupervised Multi-Scale Gromov-Wasserstein Hypergraph Alignment",
-      "summary": "We study unsupervised hypergraph alignment, where the goal is to infer node correspondences between two hypergraphs using only structural information, without node features, labels, seed matches, or side information. Direct higher-order formulations can represent hyperedge interactions faithfully, b",
-      "url": "http://arxiv.org/abs/2608.29635v1",
+      "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
+      "summary": "Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language Model (LLM)-based approaches. Although modern OA frameworks provide unified ecosystems for deploying",
+      "url": "http://arxiv.org/abs/2608.31137v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "MI-Distillation: Selecting from Model-Interpolated Instruct-Reasoning Data Spectrum for Chain-of-Thought Distillation",
-      "summary": "Recent advances in large reasoning models (LRMs) have shown strong performance on complex problems through long chain-of-thought (Long CoT) reasoning. However, distilling such trajectories into smaller student models remains challenging: direct Long CoT supervision often provides limited gains and c",
-      "url": "http://arxiv.org/abs/2608.29623v1",
+      "title": "Implementing neural network mixed-effects models in Template Model Builder (TMB)",
+      "summary": "Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling to capture complex correlation structures. However, existing estimation approaches rely heavily on man",
+      "url": "http://arxiv.org/abs/2608.31133v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing",
-      "summary": "Retrieval-Augmented Generation (RAG) improves the factuality of large language models (LLMs), yet existing RAG systems often struggle with complex, multi-step reasoning that requires adaptive retrieval and continuous revision of intermediate contexts. Recent reinforcement learning (RL)-based agentic",
-      "url": "http://arxiv.org/abs/2608.29622v1",
+      "title": "On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions",
+      "summary": "The motivation for this paper is the investigation of the trade-offs implicit in probabilistic models used in machine learning. Models are often used to make predictions in the form of conditional probabilities. However, a pair of conditional distributions p(x|y) and p(y|x) may not be compatible wit",
+      "url": "http://arxiv.org/abs/2608.31120v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "CineForge: Self-Improving Agents for Long-Horizon Video Generation",
-      "summary": "Long-horizon story-driven video generation requires a production agent to coordinate narrative decomposition, state tracking, shot design, prompt construction, rendering, and revision across interdependent scenes. Existing adaptive video systems primarily refine requests or reusable skills, leaving ",
-      "url": "http://arxiv.org/abs/2608.29621v1",
+      "title": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning",
+      "summary": "The effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and Mixture-of-Experts variants from the Qwen3.5 and Qwen3.6 lineages, together with proprietary GPT release varia",
+      "url": "http://arxiv.org/abs/2608.31118v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+      "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-09-01T19:43:09.000Z"
     },
     {
       "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
@@ -497,13 +497,6 @@
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-08-26T14:05:27.506Z"
-    },
-    {
-      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
-      "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
-      "url": "https://www.anthropic.com/research/enabling-independent-research",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-08-25T16:00:00.000Z"
     }
   ],
   "tips": []
