@@ -1,18 +1,25 @@
 {
   "models": [
     {
-      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
-      "summary": "OpenAI 发布 GPT-6 Astra，称其在 FrontierMath Tier 4 达 98%、ARC-AGI-3 达 99.9%、ExploitBench 达 100%，并称其网络安全能力达到 Preparedness Framework 的 Critical 门槛。",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-09-04T00:07:48.515Z"
+      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+      "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
+      "url": "https://x.com/sama/status/2096008528834244741",
+      "source": "X：Sam Altman (@sama)",
+      "time": "2026-09-04T22:52:29.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
-      "summary": "OpenAI 于 9 月 3 日发布新一代大语言模型 GPT-6 Astra，是其首个达到准备框架中关键级网络安全能力门槛的模型，可在无逐步指导下发现防护严密系统的未知漏洞。",
-      "url": "https://www.ithome.com/0/998/208.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-03T22:28:07.000Z"
+      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+      "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
+      "url": "https://x.com/OpenAI/status/2095968413646737608",
+      "source": "X：OpenAI (@OpenAI)",
+      "time": "2026-09-04T20:13:05.000Z"
+    },
+    {
+      "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
+      "summary": "Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GPT-6 Astra 现已通过 Microsoft Foundry 提供，详情见 Azure 官方博客 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。",
+      "url": "https://x.com/satyanadella/status/2095713765446840591",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "time": "2026-09-04T03:21:12.000Z"
     },
     {
       "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
@@ -22,13 +29,6 @@
       "time": "2026-09-03T21:46:00.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-      "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
-      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-09-03T21:16:11.000Z"
-    },
-    {
       "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
       "summary": "Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。",
       "url": "https://x.com/AravSrinivas/status/2095621195131695352",
@@ -36,88 +36,102 @@
       "time": "2026-09-03T21:13:22.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
-      "summary": "OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。",
-      "url": "https://x.com/sherwinwu/status/2095608486940086448",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "time": "2026-09-03T20:22:52.000Z"
+      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+      "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-09-03T18:01:45.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%",
-      "summary": "OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
-      "source": "Simon Willison 博客",
-      "time": "2026-09-03T20:18:41.000Z"
+      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+      "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+      "url": "https://ifm.ai/blog/k2",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-09-03T17:35:09.004Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra",
-      "summary": "Sam Altman 宣布 GPT-6 Astra 发布，称其为计算机使用、专业工作、科学、编码、网络安全等领域全球最佳模型。官方表示为确保该能力级别所需的安全与对齐标准而多花了些时间，并公布 FrontierMath Tier 4 得分 98%、ARC-AGI 3 得分 99.9%、ExploitBench 得分 100%。",
-      "url": "https://x.com/sama/status/2095600005772104059",
-      "source": "X：Sam Altman (@sama)",
-      "time": "2026-09-03T19:49:10.000Z"
+      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+      "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-09-03T15:02:08.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展",
-      "summary": "OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。",
-      "url": "https://x.com/markchen90/status/2095597534412673109",
-      "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-      "time": "2026-09-03T19:39:21.000Z"
+      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
+      "summary": "OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-09-03T00:00:00.000Z"
     },
     {
-      "title": "OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放",
-      "summary": "OpenAI 宣布开始发布 GPT-6 Astra，称正以尽可能谨慎和快速的方式推进，重点让全部 Plus 用户可用，而不只限 Pro、Business 和 Enterprise 套餐。发布需几天完成，背后多个全新系统将首次大规模运行，团队正带来大量算力，详情见 openai.com/index/gpt-6-astra/。",
-      "url": "https://x.com/thsottiaux/status/2095597168816226335",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-09-03T19:37:54.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
-      "summary": "OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。",
-      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-03T19:25:40.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
-      "summary": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。",
-      "url": "https://x.com/kimmonismus/status/2095589174686400914",
+      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+      "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
+      "url": "https://x.com/kimmonismus/status/2095265444999410146",
       "source": "X：Kim (@kimmonismus)",
-      "time": "2026-09-03T19:06:08.000Z"
+      "time": "2026-09-02T21:39:44.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
-      "summary": "OpenAI 发布 GPT-6 Astra，首先向经过审核的 Daybreak 网络安全客户开放，Plus、Pro、Business、Enterprise、API 和 AWS 将在未来数日内跟进。",
-      "url": "https://x.com/rohanpaul_ai/status/2095586785455948112",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-09-03T18:56:38.000Z"
+      "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+      "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
+      "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "time": "2026-09-02T20:37:12.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
-      "summary": "",
-      "url": "https://x.com/kimmonismus/status/2095585966102614182",
-      "source": "X：Kim (@kimmonismus)",
-      "time": "2026-09-03T18:53:23.000Z"
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+      "summary": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber。",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-09-02T16:18:31.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
-      "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
-      "url": "https://x.com/testingcatalog/status/2095578972335542742",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "time": "2026-09-03T18:25:35.000Z"
+      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
+      "summary": "通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。",
+      "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "time": "2026-09-02T02:57:07.000Z"
+    },
+    {
+      "title": "Claude Fable 5.1 上线 Claude Code 与 Claude Platform，缓存读取降价 75%",
+      "summary": "Claude Fable 5.1 现已上线 Claude Code 和 Claude Platform，定价与 Fable 5 相同，API 缓存读取便宜 75%。模型在长任务中能更久自主推进、更善于提示用户它已卡住，写作风格也更自然。Anthropic 同时发布了 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码与知识工作领域最先进的模型。",
+      "url": "https://x.com/ClaudeDevs/status/2094851229734277228",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "time": "2026-09-01T18:13:48.000Z"
+    },
+    {
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-09-01T13:00:00.000Z"
     }
   ],
   "products": [
     {
-      "title": "Agent Builder by Airtop",
-      "summary": "\n            Build agents that heal themselves. \n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/airtop",
+      "title": "myAIcademy",
+      "summary": "\n            Learn AI skills for your specific role and team\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/myaicademy",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "GPT-6 Astra",
+      "summary": "\n            OpenAI's most capable model for end-to-end work\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
       "title": "Tabbit AI",
-      "summary": "\n            The Best AI Browser Build both for You and your Agents.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "summary": "\n            The best AI browser built both for you and your Agents.\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/tabbitai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agent Builder by Airtop",
+      "summary": "\n            Build agents that heal themselves. \n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/airtop",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,18 +150,18 @@
       "time": "今日"
     },
     {
-      "title": "Kilo Code for JetBrains",
-      "summary": "\n            Fully native, open-source coding agent built for JetBrains\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
+      "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "source": "GitHub Blog",
+      "time": "2026-09-04T16:04:14.000Z"
     },
     {
-      "title": "Gauth AI Course",
-      "summary": "\n            AI courses you can watch, quiz through, and create\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省",
+      "summary": "xAI 让 Grok Bot 访问供应商支出、合同和使用数据，创建的 Haggle Bot 已识别超过 10 万美元直接节省，包括在一个 SaaS 产品中找到 43 个 90 天无活动的付费席位（节省 $14，220），在另一个产品中找出每年 $85，662 的未用 SKU。",
+      "url": "https://x.ai/news/grok-bot-procurement",
+      "source": "xAI：News（网页）",
+      "time": "2026-09-04T00:00:00.000Z"
     },
     {
       "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
@@ -197,23 +211,51 @@
       "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
       "source": "X：美团 LongCat (@Meituan_LongCat)",
       "time": "2026-09-02T03:50:37.000Z"
-    },
-    {
-      "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-      "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-      "source": "公众号：数字生命卡兹克",
-      "time": "2026-09-02T03:32:20.000Z"
-    },
-    {
-      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-      "summary": "Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agentic video understanding，模型动态扫描视频片段，相比固定帧率处理 token 消耗最多降低 88%，成本最多降低 66%，准确率最多提升 7%。",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-09-01T17:08:51.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Startup ARR is less secure than ever, new research shows",
       "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
@@ -229,74 +271,18 @@
       "time": "今日"
     },
     {
-      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-      "summary": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
-      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
+      "url": "https://www.ithome.com/0/998/630.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-04T22:52:38.000Z"
     },
     {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-      "summary": "Users can search for emails or draft documents using the new conversational feature.",
-      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-      "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
-      "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-      "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
-      "url": "https://x.com/satyanadella/status/2095587182039969861",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "time": "2026-09-03T18:58:12.000Z"
-    },
-    {
-      "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
-      "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。",
-      "url": "https://x.com/sundarpichai/status/2095569375373984139",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "time": "2026-09-03T17:47:27.000Z"
+      "title": "英伟达两年从零建起近千亿美元股权投资组合",
+      "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
+      "url": "https://www.ithome.com/0/998/620.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-04T14:59:33.000Z"
     },
     {
       "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
@@ -304,6 +290,13 @@
       "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
       "source": "NVIDIA Blog（RSS）",
       "time": "2026-09-03T11:59:49.000Z"
+    },
+    {
+      "title": "NVIDIA 以 129.3 亿美元收购 Hugging Face",
+      "summary": "NVIDIA 已同意以 129.3 亿美元收购 Hugging Face，以扩展该开源模型仓库的平台与基础设施。交易目标是平台增长和基础设施投资，旨在为全球企业开发者、软件工程师和研究机构扩大 AI 访问机会。Hugging Face 由 Clem Delangue、Julien Chaumond、Thomas Wolf 等人在过去十年间打造。",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b",
+      "source": "Artificial Intelligence News（网页）",
+      "time": "2026-09-02T16:00:00.000Z"
     },
     {
       "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
@@ -318,79 +311,16 @@
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+      "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
+      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-08-30T08:50:20.000Z"
     }
   ],
   "industry": [
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 73\n# Comments: 22",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 21:20:34 +0000"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra\nComments URL: https://news.ycombinator.com/item?id=49555691\nPoints: 155\n# Comments: 88",
-      "url": "https://arcprize.org/blog/astra",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 19:45:00 +0000"
-    },
-    {
-      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-      "summary": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in \"strict\" mode. Disabled Privacy Badger for that site, and it didn't help. Tried private browsing, and it didn't help.Is this part of Google's war against ad-blocking and non-",
-      "url": "https://news.ycombinator.com/item?id=49555592",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 19:38:46 +0000"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147\n\nComments U",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 18:41:05 +0000"
-    },
-    {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview\nComments URL: https://news.ycombinator.com/item?id=49554520\nPoints: 429\n# Comments: 126",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 18:32:13 +0000"
-    },
-    {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "summary": "Article URL: https://ifm.ai/blog/k2/\nComments URL: https://news.ycombinator.com/item?id=49551760\nPoints: 243\n# Comments: 81",
-      "url": "https://ifm.ai/blog/k2/",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 15:36:43 +0000"
-    },
-    {
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "summary": "https://status.openai.comhttps://status.claude.comhttps://status.x.aiChatGPT outage – Resolved - https://news.ycombinator.com/item?id=49550614 (315 comments)Claude outage – Resolved - https://news.ycombinator.com/item?id=49549676 (146 comments)Grok outage - https://news.ycombinator.com/item?id=49551",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 15:07:01 +0000"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.I spent the last few weeks analyz",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 14:28:18 +0000"
-    },
-    {
-      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398\nComments URL: https://news.ycombinator.com/item?id=49548452\nPoints: 269\n# Comments: 185",
-      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 11:01:04 +0000"
-    },
-    {
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007\nComments URL: https://news.ycombinator.com/item?id=49544762\nPoints: 178\n# Comments: 50",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "source": "Hacker News",
-      "time": "Thu, 03 Sep 2026 01:11:22 +0000"
-    },
     {
       "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
       "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
@@ -406,13 +336,6 @@
       "time": "2026-09-02T14:35:03.000Z"
     },
     {
-      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
-      "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
-      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-08-30T08:50:20.000Z"
-    },
-    {
       "title": "Cursor回应OpenAI将封禁其模型访问",
       "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
       "url": "https://x.com/mntruell/status/2093532254006063557",
@@ -425,9 +348,51 @@
       "url": "https://x.com/thsottiaux/status/2093515916076343774",
       "source": "X：Tibo (@thsottiaux)",
       "time": "2026-08-29T01:47:44.000Z"
+    },
+    {
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "summary": "Why can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimited routines/cronsSo I built one, moadim.io is a local Rust daemon you install in the target machine, gi",
+      "url": "https://moadim.io/",
+      "source": "Hacker News",
+      "time": "Fri, 04 Sep 2026 23:50:29 +0000"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 9\n# Comments: 0",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "Hacker News",
+      "time": "Fri, 04 Sep 2026 23:38:50 +0000"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49570545\nPoints: 87\n# Comments: 38",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "source": "Hacker News",
+      "time": "Fri, 04 Sep 2026 21:39:19 +0000"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/\nComments URL: https://news.ycombinator.com/item?id=49569366\nPoints: 142\n# Comments: 80",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "source": "Hacker News",
+      "time": "Fri, 04 Sep 2026 19:48:29 +0000"
+    },
+    {
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "summary": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/\nComments URL: https://news.ycombinator.com/item?id=49568828\nPoints: 67\n# Comments: 17",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "source": "Hacker News",
+      "time": "Fri, 04 Sep 2026 19:06:39 +0000"
     }
   ],
   "paper": [
+    {
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-09-04T18:37:00.305Z"
+    },
     {
       "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
       "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
@@ -441,6 +406,13 @@
       "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-09-03T04:49:35.840Z"
+    },
+    {
+      "title": "Google 与 HHMI Janelia 发布完整雄性果蝇大脑及中枢神经系统连接组",
+      "summary": "Google 与 HHMI Janelia 等合作者在 Cell 发表雄性果蝇大脑与中枢神经系统的完整连接组，包含超过 166，000 个神经元和 1.25 亿个突触连接，是目前按神经元数量计最大的大脑连接组图。",
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
+      "source": "Google Research：Blog（网页）",
+      "time": "2026-09-02T16:00:00.000Z"
     },
     {
       "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
@@ -462,13 +434,6 @@
       "url": "https://arxiv.org/abs/2608.23691",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-08-29T07:32:16.981Z"
-    },
-    {
-      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-      "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-28T12:04:47.737Z"
     }
   ],
   "tips": []
