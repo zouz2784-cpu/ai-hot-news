@@ -1,6 +1,27 @@
 {
   "models": [
     {
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+      "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-09-05T07:41:03.000Z"
+    },
+    {
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+      "url": "https://www.ithome.com/0/998/661.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-05T00:42:24.000Z"
+    },
+    {
+      "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+      "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+      "url": "https://www.ithome.com/0/998/638.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-04T23:20:46.000Z"
+    },
+    {
       "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
       "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
       "url": "https://x.com/sama/status/2096008528834244741",
@@ -57,11 +78,11 @@
       "time": "2026-09-03T15:02:08.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-      "summary": "OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
+      "summary": "OpenAI 发布新一代模型 GPT-6 Astra，称其在计算机使用、软件工程、科学和网络安全等方向达到 SOTA。",
+      "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-09-03T00:00:00.000Z"
+      "time": "2026-09-03T11:00:00.000Z"
     },
     {
       "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
@@ -83,34 +104,20 @@
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
       "source": "Google DeepMind：Blog（RSS）",
       "time": "2026-09-02T16:18:31.000Z"
-    },
-    {
-      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
-      "summary": "通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。",
-      "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "time": "2026-09-02T02:57:07.000Z"
-    },
-    {
-      "title": "Claude Fable 5.1 上线 Claude Code 与 Claude Platform，缓存读取降价 75%",
-      "summary": "Claude Fable 5.1 现已上线 Claude Code 和 Claude Platform，定价与 Fable 5 相同，API 缓存读取便宜 75%。模型在长任务中能更久自主推进、更善于提示用户它已卡住，写作风格也更自然。Anthropic 同时发布了 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码与知识工作领域最先进的模型。",
-      "url": "https://x.com/ClaudeDevs/status/2094851229734277228",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "time": "2026-09-01T18:13:48.000Z"
-    },
-    {
-      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-      "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-09-01T13:00:00.000Z"
     }
   ],
   "products": [
     {
-      "title": "myAIcademy",
-      "summary": "\n            Learn AI skills for your specific role and team\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/myaicademy",
+      "title": "Ponytail",
+      "summary": "\n            Make new code the last resort\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ponytail",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "BrickForgerAI",
+      "summary": "\n            Turn any prompt into a brick set you can actually build\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/brickforgerai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -118,6 +125,13 @@
       "title": "GPT-6 Astra",
       "summary": "\n            OpenAI's most capable model for end-to-end work\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "myAIcademy",
+      "summary": "\n            Learn AI skills for your specific role and team\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/myaicademy",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -143,11 +157,18 @@
       "time": "今日"
     },
     {
-      "title": "Stitch AI by Dynamic Mockups",
-      "summary": "\n            The first embroidery digitizing agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+      "summary": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。",
+      "url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "time": "2026-09-05T21:31:52.000Z"
+    },
+    {
+      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+      "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-09-05T07:56:50.597Z"
     },
     {
       "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
@@ -190,30 +211,23 @@
       "url": "https://huggingface.co/blog/funes",
       "source": "Hugging Face：Blog（RSS）",
       "time": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "source": "X：Claude (@claudeai)",
-      "time": "2026-09-02T19:06:19.000Z"
-    },
-    {
-      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-      "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-      "url": "https://cursor.com/blog/self-hosted-machines",
-      "source": "Cursor Blog",
-      "time": "2026-09-02T12:00:00.000Z"
-    },
-    {
-      "title": "美团 LongCat-2.0 上线 Cline 免费试用",
-      "summary": "",
-      "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "time": "2026-09-02T03:50:37.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -253,20 +267,6 @@
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
       "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -322,6 +322,27 @@
   ],
   "industry": [
     {
+      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+      "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-09-05T18:05:27.000Z"
+    },
+    {
+      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+      "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge：AI（RSS）",
+      "time": "2026-09-05T11:15:55.000Z"
+    },
+    {
+      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+      "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+      "url": "https://www.ithome.com/0/998/758.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-05T07:53:01.000Z"
+    },
+    {
       "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
       "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
       "url": "https://www.ithome.com/0/997/732.htm",
@@ -334,64 +355,22 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
       "source": "The Verge：AI（RSS）",
       "time": "2026-09-02T14:35:03.000Z"
-    },
-    {
-      "title": "Cursor回应OpenAI将封禁其模型访问",
-      "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
-      "url": "https://x.com/mntruell/status/2093532254006063557",
-      "source": "X：Michael Truell (@mntruell)",
-      "time": "2026-08-29T02:52:39.000Z"
-    },
-    {
-      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-      "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
-      "url": "https://x.com/thsottiaux/status/2093515916076343774",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-08-29T01:47:44.000Z"
-    },
-    {
-      "title": "Show HN: Moadim.io – A scheduler for agents",
-      "summary": "Why can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimited routines/cronsSo I built one, moadim.io is a local Rust daemon you install in the target machine, gi",
-      "url": "https://moadim.io/",
-      "source": "Hacker News",
-      "time": "Fri, 04 Sep 2026 23:50:29 +0000"
-    },
-    {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 9\n# Comments: 0",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "source": "Hacker News",
-      "time": "Fri, 04 Sep 2026 23:38:50 +0000"
-    },
-    {
-      "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49570545\nPoints: 87\n# Comments: 38",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "source": "Hacker News",
-      "time": "Fri, 04 Sep 2026 21:39:19 +0000"
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/\nComments URL: https://news.ycombinator.com/item?id=49569366\nPoints: 142\n# Comments: 80",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "source": "Hacker News",
-      "time": "Fri, 04 Sep 2026 19:48:29 +0000"
-    },
-    {
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "summary": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/\nComments URL: https://news.ycombinator.com/item?id=49568828\nPoints: 67\n# Comments: 17",
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "source": "Hacker News",
-      "time": "Fri, 04 Sep 2026 19:06:39 +0000"
     }
   ],
   "paper": [
     {
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-      "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-09-04T18:37:00.305Z"
+      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+      "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
+      "url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "source": "X：Kim (@kimmonismus)",
+      "time": "2026-09-04T22:50:16.000Z"
+    },
+    {
+      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+      "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "time": "2026-09-04T18:50:48.000Z"
     },
     {
       "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
@@ -399,6 +378,13 @@
       "url": "https://arcprize.org/blog/astra",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "time": "2026-09-04T00:07:48.532Z"
+    },
+    {
+      "title": "Claude 用 11 天完成费马大定理的首个完整机器验证证明",
+      "summary": "Anthropic 发布首个完整机器验证的费马大定理证明，Claude 在 11 天内基本自主完成，写出 1300 万行 Lean 代码并证明 29，500 个中间定理。",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-09-03T16:00:00.000Z"
     },
     {
       "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
@@ -427,13 +413,6 @@
       "url": "https://x.com/AnthropicAI/status/2094577944056430865",
       "source": "X：Anthropic (@AnthropicAI)",
       "time": "2026-09-01T00:07:51.000Z"
-    },
-    {
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-08-29T07:32:16.981Z"
     }
   ],
   "tips": []
