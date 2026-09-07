@@ -108,9 +108,23 @@
   ],
   "products": [
     {
-      "title": "Ponytail",
-      "summary": "\n            Make new code the last resort\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ponytail",
+      "title": "Notify.domains",
+      "summary": "\n            Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/notify-domains",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agentic Video Understanding in Gemini",
+      "summary": "\n            Agentic video analysis for faster, smarter Gemini insights\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AI Toolbox 3.0",
+      "summary": "\n            Search, organize and export every AI chat in one place\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -122,9 +136,9 @@
       "time": "今日"
     },
     {
-      "title": "GPT-6 Astra",
-      "summary": "\n            OpenAI's most capable model for end-to-end work\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Ponytail",
+      "summary": "\n            Make new code the last resort\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ponytail",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,9 +150,9 @@
       "time": "今日"
     },
     {
-      "title": "Tabbit AI",
-      "summary": "\n            The best AI browser built both for you and your Agents.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tabbitai",
+      "title": "GPT-6 Astra",
+      "summary": "\n            OpenAI's most capable model for end-to-end work\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -150,9 +164,9 @@
       "time": "今日"
     },
     {
-      "title": "Basedash AI Sources",
-      "summary": "\n            Trust every AI answer by seeing what built it\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "Tabbit AI",
+      "summary": "\n            The best AI browser built both for you and your Agents.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tabbitai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -197,23 +211,16 @@
       "url": "https://x.ai/news/grok-bot-for-enterprise",
       "source": "xAI：News（网页）",
       "time": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-      "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
-      "url": "https://x.ai/news/designing-grok-bot",
-      "source": "xAI：News（网页）",
-      "time": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-      "summary": "Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes 等编码智能体提供本地记忆层，把已有会话记录索引成 Lance 数据集，一条 funes add 命令即可让 Agent 自主召回原始出处（Agent、时间戳、会话、轮次）。",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face：Blog（RSS）",
-      "time": "2026-09-03T00:00:00.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
@@ -253,20 +260,6 @@
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -311,16 +304,16 @@
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
-      "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
-      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-08-30T08:50:20.000Z"
     }
   ],
   "industry": [
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai\nComments URL: https://news.ycombinator.com/item?id=49587217\nPoints: 101\n# Comments: 70",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "Hacker News",
+      "time": "Sun, 06 Sep 2026 15:08:44 +0000"
+    },
     {
       "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
       "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
@@ -358,6 +351,62 @@
     }
   ],
   "paper": [
+    {
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable n",
+      "url": "http://arxiv.org/abs/2609.04199v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+      "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campai",
+      "url": "http://arxiv.org/abs/2609.04198v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+      "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and ",
+      "url": "http://arxiv.org/abs/2609.04197v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative c",
+      "url": "http://arxiv.org/abs/2609.04194v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+      "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, correspondence-based post",
+      "url": "http://arxiv.org/abs/2609.04190v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Robust PAC Learning of Concurrent Stochastic Games",
+      "summary": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition ",
+      "url": "http://arxiv.org/abs/2609.04189v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+      "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions la",
+      "url": "http://arxiv.org/abs/2609.04183v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+      "summary": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary ",
+      "url": "http://arxiv.org/abs/2609.04180v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
     {
       "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
       "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
@@ -406,13 +455,6 @@
       "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "time": "2026-09-01T19:43:09.000Z"
-    },
-    {
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-      "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "time": "2026-09-01T00:07:51.000Z"
     }
   ],
   "tips": []
