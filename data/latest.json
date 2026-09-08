@@ -108,9 +108,16 @@
   ],
   "products": [
     {
-      "title": "Notify.domains",
-      "summary": "\n            Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/notify-domains",
+      "title": "Airuncode",
+      "summary": "\n            Run multiple local coding agents on your machine\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/airuncode",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "PR Lens by Coldtea.ai",
+      "summary": "\n            See code through a new lens\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/coldtea",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,9 +136,9 @@
       "time": "今日"
     },
     {
-      "title": "BrickForgerAI",
-      "summary": "\n            Turn any prompt into a brick set you can actually build\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/brickforgerai",
+      "title": "Notify.domains",
+      "summary": "\n            Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/notify-domains",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -139,6 +146,13 @@
       "title": "Ponytail",
       "summary": "\n            Make new code the last resort\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/ponytail",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "BrickForgerAI",
+      "summary": "\n            Turn any prompt into a brick set you can actually build\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/brickforgerai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -160,13 +174,6 @@
       "title": "Agent Builder by Airtop",
       "summary": "\n            Build agents that heal themselves. \n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/airtop",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Tabbit AI",
-      "summary": "\n            The best AI browser built both for you and your Agents.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tabbitai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -204,16 +211,16 @@
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-09-03T13:15:00.000Z"
-    },
-    {
-      "title": "xAI 发布 Grok Bot 企业版，Grok 与 Cursor Enterprise 客户两周免费",
-      "summary": "xAI 宣布 Grok Bot 面向企业开放，Grok 和 Cursor Enterprise 客户未来两周可免费使用并邀请全组织成员，包括没有现有席位的员工。",
-      "url": "https://x.ai/news/grok-bot-for-enterprise",
-      "source": "xAI：News（网页）",
-      "time": "2026-09-03T00:00:00.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
@@ -236,7 +243,7 @@
       "time": "今日"
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch",
@@ -262,6 +269,13 @@
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "source": "TechCrunch",
       "time": "今日"
+    },
+    {
+      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+      "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
+      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-09-07T18:12:41.000Z"
     },
     {
       "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
@@ -297,22 +311,36 @@
       "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "time": "2026-09-02T02:26:22.000Z"
-    },
-    {
-      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-      "summary": "ChatGPT Ads 年化收入运行率突破 10 亿美元，并扩展至全球市场。该广告业务通过免费和低价选项，支持更多人使用 AI 服务。",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-08-31T04:00:00.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai\nComments URL: https://news.ycombinator.com/item?id=49587217\nPoints: 101\n# Comments: 70",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "summary": "Article URL: https://github.com/aispace-sh/aispace-client\nComments URL: https://news.ycombinator.com/item?id=49604280\nPoints: 5\n# Comments: 0",
+      "url": "https://github.com/aispace-sh/aispace-client",
       "source": "Hacker News",
-      "time": "Sun, 06 Sep 2026 15:08:44 +0000"
+      "time": "Mon, 07 Sep 2026 23:59:58 +0000"
+    },
+    {
+      "title": "WeatherNext 3: Our most advanced global weather AI model",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/\nComments URL: https://news.ycombinator.com/item?id=49604257\nPoints: 4\n# Comments: 0",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "source": "Hacker News",
+      "time": "Mon, 07 Sep 2026 23:56:41 +0000"
+    },
+    {
+      "title": "The Dataflow Model Revisited",
+      "summary": "PDF: https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p...\n\nComments URL: https://news.ycombinator.com/item?id=49589190\nPoints: 80\n# Comments: 14",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "source": "Hacker News",
+      "time": "Sun, 06 Sep 2026 18:10:53 +0000"
+    },
+    {
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "summary": "Article URL: https://arxiv.org/abs/2607.24888\nComments URL: https://news.ycombinator.com/item?id=49575515\nPoints: 132\n# Comments: 32",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "source": "Hacker News",
+      "time": "Sat, 05 Sep 2026 11:25:18 +0000"
     },
     {
       "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
@@ -352,58 +380,58 @@
   ],
   "paper": [
     {
-      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-      "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable n",
-      "url": "http://arxiv.org/abs/2609.04199v1",
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions a",
+      "url": "http://arxiv.org/abs/2609.05415v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
-      "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campai",
-      "url": "http://arxiv.org/abs/2609.04198v1",
+      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+      "summary": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process",
+      "url": "http://arxiv.org/abs/2609.05404v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-      "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and ",
-      "url": "http://arxiv.org/abs/2609.04197v1",
+      "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+      "summary": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solution for privacy, bu",
+      "url": "http://arxiv.org/abs/2609.05403v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-      "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative c",
-      "url": "http://arxiv.org/abs/2609.04194v1",
+      "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+      "summary": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant measurement and labeling costs. Traditional methods for synthesizing labeled wirele",
+      "url": "http://arxiv.org/abs/2609.05396v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
-      "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, correspondence-based post",
-      "url": "http://arxiv.org/abs/2609.04190v1",
+      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
+      "summary": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently underperform in this multi-step setting, and no existing benchmark measures the gap.",
+      "url": "http://arxiv.org/abs/2609.05395v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Robust PAC Learning of Concurrent Stochastic Games",
-      "summary": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition ",
-      "url": "http://arxiv.org/abs/2609.04189v1",
+      "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+      "summary": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanatio",
+      "url": "http://arxiv.org/abs/2609.05385v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
-      "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions la",
-      "url": "http://arxiv.org/abs/2609.04183v1",
+      "title": "Reflection-aware Generative Novel View Synthesis",
+      "summary": "We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot exploit reflected content for scene generation. To fix this issue without additio",
+      "url": "http://arxiv.org/abs/2609.05382v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-      "summary": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary ",
-      "url": "http://arxiv.org/abs/2609.04180v1",
+      "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+      "summary": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is wi",
+      "url": "http://arxiv.org/abs/2609.05381v1",
       "source": "arXiv",
       "time": "今日"
     },
