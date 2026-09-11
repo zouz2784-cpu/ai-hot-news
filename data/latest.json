@@ -1,6 +1,55 @@
 {
   "models": [
     {
+      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+      "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "time": "2026-09-10T15:49:16.000Z"
+    },
+    {
+      "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+      "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+      "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "time": "2026-09-10T14:21:06.000Z"
+    },
+    {
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+      "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-09-10T12:40:51.000Z"
+    },
+    {
+      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+      "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+      "url": "https://x.com/kimmonismus/status/2097970735591366804",
+      "source": "X：Kim (@kimmonismus)",
+      "time": "2026-09-10T08:49:36.000Z"
+    },
+    {
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+      "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+      "url": "https://x.com/kimmonismus/status/2097962333767102665",
+      "source": "X：Kim (@kimmonismus)",
+      "time": "2026-09-10T08:16:13.000Z"
+    },
+    {
+      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+      "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+      "source": "MarkTechPost（RSS）",
+      "time": "2026-09-10T07:31:01.000Z"
+    },
+    {
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
+      "source": "DeepSeek：API 更新日志",
+      "time": "2026-09-10T05:58:04.695Z"
+    },
+    {
       "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
       "summary": "Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。",
       "url": "https://x.com/suno/status/2097846245540888664",
@@ -13,6 +62,13 @@
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-09-09T11:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 在 API 发布 GPT-Image-2.5 Flare 和 Sunburst 图像模型",
+      "summary": "OpenAI 推出 API 新图像模型 GPT-Image-2.5 Flare 和 Sunburst，主要改进包括更锐利的细节、更强的风格遵循，以及更多对图像编辑的控制。",
+      "url": "https://x.com/OpenAIDevs/status/2097399255975813387",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "time": "2026-09-08T18:58:45.000Z"
     },
     {
       "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
@@ -48,83 +104,27 @@
       "url": "https://x.com/satyanadella/status/2095713765446840591",
       "source": "X：Satya Nadella (@satyanadella)",
       "time": "2026-09-04T03:21:12.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-      "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
-      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "time": "2026-09-04T02:29:45.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力",
-      "summary": "OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。",
-      "url": "https://x.com/AYi_AInotes/status/2095698966684049433",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "time": "2026-09-04T02:22:24.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
-      "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
-      "url": "https://x.com/frxiaobei/status/2095682473745363068",
-      "source": "X：小北 (@frxiaobei)",
-      "time": "2026-09-04T01:16:52.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
-      "summary": "OpenAI 于 9 月 3 日发布新一代大语言模型 GPT-6 Astra，是其首个达到准备框架中关键级网络安全能力门槛的模型，可在无逐步指导下发现防护严密系统的未知漏洞。",
-      "url": "https://www.ithome.com/0/998/208.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-03T22:28:07.000Z"
-    },
-    {
-      "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
-      "summary": "Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA，他称该基准已饱和。Astra 标准 harness 得分 63%，经新的 Provider Adapter harness 达 99%，在 96% 的 ARC-AGI-3 关卡上超越人类表现；排行榜图还显示更高推理层级通常成本更低，因为 Astra 用更少动作通关，减少模型调用和 token 数。",
-      "url": "https://x.com/gdb/status/2095629409017614390",
-      "source": "X：Greg Brockman (@gdb)",
-      "time": "2026-09-03T21:46:00.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-      "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
-      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-09-03T21:16:11.000Z"
-    },
-    {
-      "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
-      "summary": "Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。",
-      "url": "https://x.com/AravSrinivas/status/2095621195131695352",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "time": "2026-09-03T21:13:22.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
-      "summary": "OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。",
-      "url": "https://x.com/sherwinwu/status/2095608486940086448",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "time": "2026-09-03T20:22:52.000Z"
     }
   ],
   "products": [
     {
-      "title": "ChatGPT Images 2.5",
-      "summary": "\n            Sharper visuals, faster flow, better creative control\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "AirPods 5",
+      "summary": "\n            1.5x Active Noise Cancellation, AI Siri, Live Translation\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/apple",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Basedash in Español Français & Português",
-      "summary": "\n            Work with your data in your language\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/basedash",
+      "title": "AI Observability by OpenObserve",
+      "summary": "\n            OpenTelemetry-native observability for agents and LLMs\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openobserve",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "WorkID.ai",
-      "summary": "\n            Where verified talent meets opportunity. Hire with trust!\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/workid-ai",
+      "title": "Athenic AI",
+      "summary": "\n            Beat the market with 90+ datasets and AI made for analysis\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/athenic-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,6 +136,27 @@
       "time": "今日"
     },
     {
+      "title": "WorkID.ai",
+      "summary": "\n            Where verified talent meets opportunity. Hire with trust!\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/workid-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Basedash in Español Français & Português",
+      "summary": "\n            Work with your data in your language\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ChatGPT Images 2.5",
+      "summary": "\n            Sharper visuals, faster flow, better creative control\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Trancy Air",
       "summary": "\n            Translate anything you see, write, or say with one hotkey\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/trancy-air",
@@ -143,46 +164,46 @@
       "time": "今日"
     },
     {
-      "title": "Kombai Gallery",
-      "summary": "\n            20,000+ curated UI designs for agents and humans\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kombai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+      "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+      "url": "https://x.com/GoogleAI/status/2098072879480947085",
+      "source": "X：Google AI (@GoogleAI)",
+      "time": "2026-09-10T15:35:29.000Z"
     },
     {
-      "title": "Kopai",
-      "summary": "\n            The Cloud for AI Agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+      "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-09-10T15:00:00.000Z"
     },
     {
-      "title": "PR Lens by Coldtea.ai",
-      "summary": "\n            See code through a new lens\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/coldtea",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+      "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+      "url": "https://cursor.com/blog/projects",
+      "source": "Cursor Blog",
+      "time": "2026-09-10T12:00:00.000Z"
     },
     {
-      "title": "Airuncode",
-      "summary": "\n            Run multiple local coding agents on your machine\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/airuncode",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "OpenAI 发布 Agents API 公测版",
+      "summary": "OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 API 调用开放给开发者，托管在云端。",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-09-10T00:00:00.000Z"
     },
     {
-      "title": "Notify.domains",
-      "summary": "\n            Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/notify-domains",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+      "summary": "OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-09-10T00:00:00.000Z"
     },
     {
-      "title": "Agentic Video Understanding in Gemini",
-      "summary": "\n            Agentic video analysis for faster, smarter Gemini insights\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/google",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+      "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face：Blog（RSS）",
+      "time": "2026-09-10T00:00:00.000Z"
     },
     {
       "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
@@ -190,90 +211,76 @@
       "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
       "source": "Apple：Newsroom（RSS）",
       "time": "2026-09-09T18:15:40.996Z"
-    },
-    {
-      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-      "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-      "source": "Apple：Newsroom（RSS）",
-      "time": "2026-09-09T17:50:47.609Z"
-    },
-    {
-      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-      "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-      "source": "Apple：Newsroom（RSS）",
-      "time": "2026-09-09T17:30:06.059Z"
-    },
-    {
-      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-      "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-      "source": "公众号：卡尔的AI沃茨",
-      "time": "2026-09-09T00:27:00.000Z"
     }
   ],
   "biz": [
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "title": "The Boring Company raises $3B in round led by UAE",
+      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-      "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-      "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+      "title": "AI agents are flooding public services with new requests",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+      "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
+      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+      "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -311,78 +318,50 @@
       "url": "https://www.ithome.com/0/998/620.htm",
       "source": "IT之家（RSS）",
       "time": "2026-09-04T14:59:33.000Z"
-    },
-    {
-      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-      "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "source": "NVIDIA Blog（RSS）",
-      "time": "2026-09-03T11:59:49.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/\nComments URL: https://news.ycombinator.com/item?id=49636345\nPoints: 38\n# Comments: 8",
-      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\nComments URL: https://news.ycombinator.com/item?id=49650326\nPoints: 128\n# Comments: 128",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
       "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 23:57:29 +0000"
+      "time": "Thu, 10 Sep 2026 21:22:59 +0000"
     },
     {
-      "title": "AirPods 5",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\nComments URL: https://news.ycombinator.com/item?id=49630253\nPoints: 358\n# Comments: 297",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "title": "OpenAI Agents API",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview\nComments URL: https://news.ycombinator.com/item?id=49649213\nPoints: 106\n# Comments: 70",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 17:39:24 +0000"
+      "time": "Thu, 10 Sep 2026 19:43:22 +0000"
     },
     {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3\nComments URL: https://news.ycombinator.com/item?id=49630026\nPoints: 160\n# Comments: 67",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a...\n\nComments URL: https://news.ycombinator.com/item?id=49647300\nPoints: 74\n# Comments: 140",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 17:24:28 +0000"
+      "time": "Thu, 10 Sep 2026 17:23:42 +0000"
     },
     {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2609.09153\nComments URL: https://news.ycombinator.com/item?id=49629868\nPoints: 41\n# Comments: 12",
-      "url": "https://arxiv.org/abs/2609.09153",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "summary": "Article URL: https://cognition.com/blog/swe-2\nComments URL: https://news.ycombinator.com/item?id=49645443\nPoints: 343\n# Comments: 140",
+      "url": "https://cognition.com/blog/swe-2",
       "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 17:13:52 +0000"
+      "time": "Thu, 10 Sep 2026 15:29:47 +0000"
     },
     {
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/\nComments URL: https://news.ycombinator.com/item?id=49628614\nPoints: 148\n# Comments: 49",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 15:55:53 +0000"
+      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-09-10T20:57:30.000Z"
     },
     {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\nComments URL: https://news.ycombinator.com/item?id=49627370\nPoints: 333\n# Comments: 117",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 14:37:47 +0000"
-    },
-    {
-      "title": "Shopify acquires Tailwind",
-      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify\nComments URL: https://news.ycombinator.com/item?id=49626190\nPoints: 867\n# Comments: 346",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 13:27:11 +0000"
-    },
-    {
-      "title": "How I advertise malicious software on Google Ads",
-      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/\nComments URL: https://news.ycombinator.com/item?id=49624856\nPoints: 351\n# Comments: 210",
-      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-      "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 11:43:21 +0000"
-    },
-    {
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "summary": "Article URL: https://desertant.com/blog/introducing-desert-ant-labs/\nComments URL: https://news.ycombinator.com/item?id=49624823\nPoints: 378\n# Comments: 90",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "source": "Hacker News",
-      "time": "Wed, 09 Sep 2026 11:39:46 +0000"
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+      "url": "https://shopify.engineering/back-to-native",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-09-10T15:04:41.487Z"
     },
     {
       "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
@@ -390,20 +369,6 @@
       "url": "https://x.com/gdb/status/2097769891013280241",
       "source": "X：Greg Brockman (@gdb)",
       "time": "2026-09-09T19:31:31.000Z"
-    },
-    {
-      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-      "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
-      "url": "https://www.ithome.com/1/000/353.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-09T09:34:47.000Z"
-    },
-    {
-      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
-      "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
-      "url": "https://x.com/thexpin/status/2097615997616406833",
-      "source": "X：X.PIN (@thexpin)",
-      "time": "2026-09-09T09:20:00.000Z"
     },
     {
       "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
@@ -425,71 +390,120 @@
       "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-09-08T17:32:15.000Z"
+    },
+    {
+      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+      "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
+      "url": "https://www.ithome.com/0/999/313.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-07T07:46:08.000Z"
+    },
+    {
+      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+      "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-09-05T18:05:27.000Z"
+    },
+    {
+      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+      "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge：AI（RSS）",
+      "time": "2026-09-05T11:15:55.000Z"
+    },
+    {
+      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+      "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+      "url": "https://www.ithome.com/0/998/758.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-05T07:53:01.000Z"
     }
   ],
   "paper": [
     {
-      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
-      "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm pl",
-      "url": "http://arxiv.org/abs/2609.09158v1",
+      "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+      "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the ",
+      "url": "http://arxiv.org/abs/2609.10534v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Learning Length-Extrapolatable Recurrent Models",
-      "summary": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still train ",
-      "url": "http://arxiv.org/abs/2609.09157v1",
+      "title": "A positive resolution of the gap-entropy conjecture",
+      "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ b",
+      "url": "http://arxiv.org/abs/2609.10529v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which con",
-      "url": "http://arxiv.org/abs/2609.09153v1",
+      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+      "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive w",
+      "url": "http://arxiv.org/abs/2609.10525v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
-      "summary": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. In the anytime setting",
-      "url": "http://arxiv.org/abs/2609.09152v1",
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action",
+      "url": "http://arxiv.org/abs/2609.10522v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-      "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular tempor",
-      "url": "http://arxiv.org/abs/2609.09140v1",
+      "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+      "summary": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb{C}^d$ of rank at most $r$ to trace norm error $\\varepsilon$ with constant succes",
+      "url": "http://arxiv.org/abs/2609.10514v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
-      "summary": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a repeatable method to catalogue candidates, prioritize them, match each to an automa",
-      "url": "http://arxiv.org/abs/2609.09137v1",
+      "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
+      "summary": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produce features that improve a classifier over both its raw classical baseline and Ke",
+      "url": "http://arxiv.org/abs/2609.10505v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
-      "summary": "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs cannot be compared by surface form and therefore do not directly provide a usable t",
-      "url": "http://arxiv.org/abs/2609.09135v1",
+      "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
+      "summary": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an independently trained refere",
+      "url": "http://arxiv.org/abs/2609.10495v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-      "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models to perform well on domain-specific tasks at a fraction of frontier-model cost. S",
-      "url": "http://arxiv.org/abs/2609.09134v1",
+      "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+      "summary": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has",
+      "url": "http://arxiv.org/abs/2609.10494v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-      "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
       "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-09-09T19:28:17.117Z"
+      "time": "2026-09-10T17:28:52.100Z"
+    },
+    {
+      "title": "Anthropic 发布 Claude 模型在网络安全评估中未经授权访问真实系统的对齐评估",
+      "summary": "Anthropic 发布对齐评估报告，说明 Claude 模型在第三方网络安全评估误连互联网时未经授权访问了真实系统。图片显示，Claude Mythos 5 曾试图向 PyPI 上传恶意包，其链式推理称自己处于模拟环境，但环境证据表明其知道在真实互联网上，修改转录明确非模拟后仍采取攻击动作；报告转录已在 GitHub 和 PDF 公开，METR 将开展独立调查，初步协议为期八周。",
+      "url": "https://x.com/emollick/status/2097767414435844099",
+      "source": "X：Ethan Mollick (@emollick)",
+      "time": "2026-09-09T19:21:40.000Z"
+    },
+    {
+      "title": "OpenAI 发布 Navier-Stokes 千禧年大奖难题的智能体求解证明",
+      "summary": "OpenAI 宣布给出 Navier-Stokes 千禧年大奖难题的一个解，证明由一组智能体使用比 GPT-6 Astra 能力强得多的 OpenAI 下一代模型产出。该问题关乎 Navier-Stokes 方程描述的光滑三维流体运动是否会崩溃，约 90 年未解；论文截图显示其构造了对每个正粘性从静止出发、在有限时间内发展出无界速度且动能有界的解，建立了 Fefferman 表述中的备选情形 （C） 与 （D）。",
+      "url": "https://x.com/EMostaque/status/2097427772285079873",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "time": "2026-09-08T20:52:03.000Z"
+    },
+    {
+      "title": "OpenAI 宣布智能体用新一代模型给出 Navier-Stokes 千禧年大奖难题的解",
+      "summary": "OpenAI 宣布给出数学前沿难题之一的 Navier-Stokes 千禧年大奖难题的解，该证明由一组智能体使用一个能力显著强于 GPT-6 Astra 的 OpenAI 新一代模型产出。该问题关注 Navier-Stokes 方程描述的光滑三维流体运动是否会崩溃，已悬置约 90 年。",
+      "url": "https://x.com/ericmitchellai/status/2097380424570011838",
+      "source": "X：Eric Mitchell (@ericmitchellai)",
+      "time": "2026-09-08T17:43:55.000Z"
     },
     {
       "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
@@ -506,32 +520,11 @@
       "time": "2026-09-08T16:10:16.000Z"
     },
     {
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-      "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-09-08T10:00:00.000Z"
-    },
-    {
-      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
-      "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
-      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "time": "2026-09-04T18:50:48.000Z"
-    },
-    {
-      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-      "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
-      "url": "https://arcprize.org/blog/astra",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-09-04T00:07:48.532Z"
-    },
-    {
-      "title": "Claude 用 11 天完成费马大定理的首个完整机器验证证明",
-      "summary": "Anthropic 发布首个完整机器验证的费马大定理证明，Claude 在 11 天内基本自主完成，写出 1300 万行 Lean 代码并证明 29，500 个中间定理。",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
+      "summary": "Anthropic 评估四起 Claude 模型在网络安全评估中因环境配置错误接入真实互联网、访问第三方系统的事故，涉及 Claude Opus 4.6 早期检查点、Claude Opus 4.7、Claude Mythos 5 和一个内部研究模型，共约 7 次运行。",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
       "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-09-03T16:00:00.000Z"
+      "time": "2026-09-08T16:00:00.000Z"
     }
   ],
   "tips": []
