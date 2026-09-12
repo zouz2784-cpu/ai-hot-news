@@ -78,35 +78,35 @@
       "time": "2026-09-08T11:30:00.000Z"
     },
     {
-      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-      "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
-      "url": "https://www.ithome.com/0/998/661.htm",
+      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-09-10T20:57:30.000Z"
+    },
+    {
+      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+      "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-09-09T08:37:36.000Z"
+    },
+    {
+      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+      "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
+      "url": "https://www.ithome.com/0/999/313.htm",
       "source": "IT之家（RSS）",
-      "time": "2026-09-05T00:42:24.000Z"
-    },
-    {
-      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-      "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
-      "url": "https://x.com/sama/status/2096008528834244741",
-      "source": "X：Sam Altman (@sama)",
-      "time": "2026-09-04T22:52:29.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-      "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
-      "url": "https://x.com/OpenAI/status/2095968413646737608",
-      "source": "X：OpenAI (@OpenAI)",
-      "time": "2026-09-04T20:13:05.000Z"
-    },
-    {
-      "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
-      "summary": "Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GPT-6 Astra 现已通过 Microsoft Foundry 提供，详情见 Azure 官方博客 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。",
-      "url": "https://x.com/satyanadella/status/2095713765446840591",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "time": "2026-09-04T03:21:12.000Z"
+      "time": "2026-09-07T07:46:08.000Z"
     }
   ],
   "products": [
+    {
+      "title": "easyspecs.ai",
+      "summary": "\n            The spec review platform\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/easyspecs-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "AirPods 5",
       "summary": "\n            1.5x Active Noise Cancellation, AI Siri, Live Translation\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -136,30 +136,9 @@
       "time": "今日"
     },
     {
-      "title": "WorkID.ai",
-      "summary": "\n            Where verified talent meets opportunity. Hire with trust!\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/workid-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Basedash in Español Français & Português",
-      "summary": "\n            Work with your data in your language\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/basedash",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "ChatGPT Images 2.5",
       "summary": "\n            Sharper visuals, faster flow, better creative control\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Trancy Air",
-      "summary": "\n            Translate anything you see, write, or say with one hotkey\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/trancy-air",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -183,6 +162,13 @@
       "url": "https://cursor.com/blog/projects",
       "source": "Cursor Blog",
       "time": "2026-09-10T12:00:00.000Z"
+    },
+    {
+      "title": "OpenRouter 发布 Fusion 复合模型，让多个模型辩论后合成最终答案",
+      "summary": "OpenRouter 发布 Fusion 复合推理系统，将一个提示词并行发给 1 到 8 个面板模型，由 judge 比较共识与分歧后由调用模型写出最终答案。默认三模型面板成本约为单次完成的四到五倍、延迟两到三倍，在 DRACO 深度研究基准上预算面板得 64.7%、前沿面板得 69.0%。",
+      "url": "https://openrouter.ai/blog/insights/fusion-explainer",
+      "source": "OpenRouter：Announcements（RSS）",
+      "time": "2026-09-10T00:00:00.000Z"
     },
     {
       "title": "OpenAI 发布 Agents API 公测版",
@@ -211,9 +197,72 @@
       "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
       "source": "Apple：Newsroom（RSS）",
       "time": "2026-09-09T18:15:40.996Z"
+    },
+    {
+      "title": "Apple 发布 Health Sensing System 与重构版 Health app，Apple Watch Series 12 和 Ultra 4 主打 readiness 与 Health Age",
+      "summary": "Apple 发布全新健康与健身功能，Apple Watch Series 12 和 Apple Watch Ultra 4 引入 Health Sensing System，支持每 5 秒测心率、HRV 测量频率提升至 24 倍、每日 0-10 的 readiness 评分。",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
+      "source": "Apple：Newsroom（RSS）",
+      "time": "2026-09-09T17:52:05.481Z"
     }
   ],
   "biz": [
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -229,60 +278,11 @@
       "time": "今日"
     },
     {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-      "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+      "summary": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。",
+      "url": "https://www.ithome.com/1/001/488.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-11T23:22:39.000Z"
     },
     {
       "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
@@ -304,57 +304,78 @@
       "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-09-07T18:12:41.000Z"
-    },
-    {
-      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-      "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
-      "url": "https://www.ithome.com/0/998/630.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-04T22:52:38.000Z"
-    },
-    {
-      "title": "英伟达两年从零建起近千亿美元股权投资组合",
-      "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-      "url": "https://www.ithome.com/0/998/620.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-04T14:59:33.000Z"
     }
   ],
   "industry": [
     {
-      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-      "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\nComments URL: https://news.ycombinator.com/item?id=49650326\nPoints: 128\n# Comments: 128",
-      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "summary": "Article URL: https://www.firecrawl.dev/blog/ai-software-factory\nComments URL: https://news.ycombinator.com/item?id=49666960\nPoints: 5\n# Comments: 0",
+      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
       "source": "Hacker News",
-      "time": "Thu, 10 Sep 2026 21:22:59 +0000"
+      "time": "Fri, 11 Sep 2026 23:43:53 +0000"
     },
     {
-      "title": "OpenAI Agents API",
-      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview\nComments URL: https://news.ycombinator.com/item?id=49649213\nPoints: 106\n# Comments: 70",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "summary": "Article URL: https://www.rubyhack.ai/\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 204\n# Comments: 98",
+      "url": "https://www.rubyhack.ai/",
       "source": "Hacker News",
-      "time": "Thu, 10 Sep 2026 19:43:22 +0000"
+      "time": "Fri, 11 Sep 2026 23:17:42 +0000"
     },
     {
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a...\n\nComments URL: https://news.ycombinator.com/item?id=49647300\nPoints: 74\n# Comments: 140",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie\nComments URL: https://news.ycombinator.com/item?id=49665711\nPoints: 10\n# Comments: 0",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
       "source": "Hacker News",
-      "time": "Thu, 10 Sep 2026 17:23:42 +0000"
+      "time": "Fri, 11 Sep 2026 21:35:29 +0000"
     },
     {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "summary": "Article URL: https://cognition.com/blog/swe-2\nComments URL: https://news.ycombinator.com/item?id=49645443\nPoints: 343\n# Comments: 140",
-      "url": "https://cognition.com/blog/swe-2",
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "summary": "https://www.cia.gov/stories/story/cia-releases-presidents-da...\n\nComments URL: https://news.ycombinator.com/item?id=49663054\nPoints: 109\n# Comments: 57",
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
       "source": "Hacker News",
-      "time": "Thu, 10 Sep 2026 15:29:47 +0000"
+      "time": "Fri, 11 Sep 2026 18:30:07 +0000"
     },
     {
-      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-09-10T20:57:30.000Z"
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/\nComments URL: https://news.ycombinator.com/item?id=49662990\nPoints: 253\n# Comments: 140",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "source": "Hacker News",
+      "time": "Fri, 11 Sep 2026 18:24:55 +0000"
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "summary": "Article URL: https://github.com/kennethwolters/litelm\nComments URL: https://news.ycombinator.com/item?id=49662767\nPoints: 90\n# Comments: 34",
+      "url": "https://github.com/kennethwolters/litelm",
+      "source": "Hacker News",
+      "time": "Fri, 11 Sep 2026 18:10:20 +0000"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...\n\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 584\n# Comments: 645",
+      "url": "https://mathandai.org/",
+      "source": "Hacker News",
+      "time": "Fri, 11 Sep 2026 17:45:12 +0000"
+    },
+    {
+      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "summary": "Article URL: https://www.getzep.com/careers/\nComments URL: https://news.ycombinator.com/item?id=49661645\nPoints: 0\n# Comments: 0",
+      "url": "https://www.getzep.com/careers/",
+      "source": "Hacker News",
+      "time": "Fri, 11 Sep 2026 17:00:17 +0000"
+    },
+    {
+      "title": "Claude is only available to people over 18 years",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude\nComments URL: https://news.ycombinator.com/item?id=49656225\nPoints: 565\n# Comments: 591",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "Hacker News",
+      "time": "Fri, 11 Sep 2026 10:48:00 +0000"
+    },
+    {
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o\nComments URL: https://news.ycombinator.com/item?id=49652105\nPoints: 309\n# Comments: 291",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "source": "Hacker News",
+      "time": "Fri, 11 Sep 2026 00:42:41 +0000"
     },
     {
       "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
@@ -371,13 +392,6 @@
       "time": "2026-09-09T19:31:31.000Z"
     },
     {
-      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
-      "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
-      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-09-09T08:37:36.000Z"
-    },
-    {
       "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
       "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
       "url": "https://www.ithome.com/1/000/277.htm",
@@ -392,97 +406,27 @@
       "time": "2026-09-08T17:32:15.000Z"
     },
     {
-      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-      "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
-      "url": "https://www.ithome.com/0/999/313.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-07T07:46:08.000Z"
-    },
-    {
       "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
       "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-09-05T18:05:27.000Z"
-    },
-    {
-      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-      "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-09-05T11:15:55.000Z"
-    },
-    {
-      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-      "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
-      "url": "https://www.ithome.com/0/998/758.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-05T07:53:01.000Z"
     }
   ],
   "paper": [
     {
-      "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
-      "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the ",
-      "url": "http://arxiv.org/abs/2609.10534v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
+      "url": "https://www.rubyhack.ai/",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-09-12T00:24:20.561Z"
     },
     {
-      "title": "A positive resolution of the gap-entropy conjecture",
-      "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ b",
-      "url": "http://arxiv.org/abs/2609.10529v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
-      "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive w",
-      "url": "http://arxiv.org/abs/2609.10525v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action",
-      "url": "http://arxiv.org/abs/2609.10522v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
-      "summary": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb{C}^d$ of rank at most $r$ to trace norm error $\\varepsilon$ with constant succes",
-      "url": "http://arxiv.org/abs/2609.10514v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
-      "summary": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produce features that improve a classifier over both its raw classical baseline and Ke",
-      "url": "http://arxiv.org/abs/2609.10505v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
-      "summary": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an independently trained refere",
-      "url": "http://arxiv.org/abs/2609.10495v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
-      "summary": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has",
-      "url": "http://arxiv.org/abs/2609.10494v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-09-10T17:28:52.100Z"
+      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+      "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-09-11T13:50:28.000Z"
     },
     {
       "title": "Anthropic 发布 Claude 模型在网络安全评估中未经授权访问真实系统的对齐评估",
@@ -490,6 +434,13 @@
       "url": "https://x.com/emollick/status/2097767414435844099",
       "source": "X：Ethan Mollick (@emollick)",
       "time": "2026-09-09T19:21:40.000Z"
+    },
+    {
+      "title": "Anthropic 红队评测 AI 模型的战术情报定位与常规武器开发能力",
+      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账号关联、照片与文本地理定位）和常规武器开发（无人机末制导、投放、GPS 拒止导航）上的能力，发现模型在模拟任务上持续进步，部分任务接近或超过人类专家基线。",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-09-09T16:00:00.000Z"
     },
     {
       "title": "OpenAI 发布 Navier-Stokes 千禧年大奖难题的智能体求解证明",
@@ -525,6 +476,13 @@
       "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
       "source": "Anthropic：Research（发表成果 · 网页）",
       "time": "2026-09-08T16:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+      "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-09-08T10:00:00.000Z"
     }
   ],
   "tips": []
