@@ -1,32 +1,18 @@
 {
   "models": [
     {
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-      "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-      "url": "https://suno.com/blog/introducing-v6",
-      "source": "Suno：Blog（网页）",
-      "time": "2026-09-12T16:39:24.855Z"
-    },
-    {
-      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-      "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
-      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "source": "Baseten 工程博客（网页）",
-      "time": "2026-09-11T22:01:37.000Z"
-    },
-    {
-      "title": "DeepSeek V4.1 Flash 发布，以 40 分超越 DeepSeek V4 Pro 0813 成为新旗舰",
-      "summary": "Artificial Analysis 评测显示，DeepSeek V4.1 Flash 在 Intelligence Index 得分 40，超过 DeepSeek V4 Pro 0813 成为 DeepSeek 新旗舰，输入激活参数 8B、输出激活参数 16B，支持 1M token 上下文，MIT 许可。",
-      "url": "https://x.com/ArtificialAnlys/status/2098148674203488422",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "time": "2026-09-10T20:36:40.000Z"
-    },
-    {
       "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
       "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
       "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
       "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
       "time": "2026-09-10T15:49:16.000Z"
+    },
+    {
+      "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+      "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+      "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "time": "2026-09-10T14:21:06.000Z"
     },
     {
       "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
@@ -71,13 +57,6 @@
       "time": "2026-09-10T00:34:55.000Z"
     },
     {
-      "title": "Cognition 发布 SWE-2 编码模型，以更低成本逼近前沿",
-      "summary": "Cognition 发布最先进编码模型 SWE-2，基于 2.8T 参数的 Kimi K33 后训练，在 FrontierCode 1.1 Main 取得 50.0%，仅比 Fable 5.1 低不到一分且便宜 64%。",
-      "url": "https://cognition.com/blog/swe-2",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "time": "2026-09-09T16:00:00.000Z"
-    },
-    {
       "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
       "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
@@ -104,36 +83,57 @@
       "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
       "source": "Hacker News：AI 热帖",
       "time": "2026-09-13T14:15:40.000Z"
+    },
+    {
+      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-09-10T20:57:30.000Z"
+    },
+    {
+      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+      "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-09-09T08:37:36.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Web Search Agents by Nimble",
+      "summary": "\n            Self-learning agents automate web research + retrieval\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/nimbleway",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "LLMagnet",
+      "summary": "\n            Make your WordPress site visible to AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/llmagnet",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "OzBrain",
+      "summary": "\n            Your knowledge shared with every AI agent & any teammate\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ozbrain",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Naoma AI Demo Agent V2",
+      "summary": "\n            Turns website traffic into booked, qualified meetings\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/naoma",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Captain Kill Switch",
       "summary": "\n            Close all your open apps in one click\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/captain-kill-switch",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "easyspecs.ai",
-      "summary": "\n            The spec review platform\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/easyspecs-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "time": "2026-09-12T17:33:23.000Z"
-    },
-    {
-      "title": "Together AI 扩展微调服务：新增模型、实验跟踪与更细训练控制",
-      "summary": "Together AI 扩展 Together Fine-Tuning 服务，新增对 GLM-5.3、Kimi K2.7、Qwen 3.5 系列等最新开源权重模型的支持，并上线实时实验跟踪、数据集预览验证等能力。",
-      "url": "https://www.together.ai/blog/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls",
-      "source": "Together AI 研究与产品博客（RSS）",
-      "time": "2026-09-11T00:00:00.000Z"
     },
     {
       "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
@@ -148,13 +148,6 @@
       "url": "https://openai.com/index/put-data-to-work",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "time": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "title": "OpenRouter 推出有状态 Shell 工具 `openrouter：shell` 并上线 Files API",
-      "summary": "OpenRouter 推出新的有状态服务端工具 Shell，任何 OpenRouter 上的模型都可以在托管的 Linux 容器中运行命令。该功能今日起以 beta 形式提供，代号为 `openrouter：shell`，同时新增 Files API 用于在容器内外传输文件。",
-      "url": "https://x.com/OpenRouter/status/2098063468759027725",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-09-10T14:58:05.000Z"
     },
     {
       "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
@@ -206,83 +199,90 @@
       "time": "2026-09-09T17:52:05.481Z"
     },
     {
-      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-      "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
+      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
+      "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
       "source": "Apple：Newsroom（RSS）",
-      "time": "2026-09-09T17:50:47.609Z"
+      "time": "2026-09-09T17:30:06.059Z"
     }
   ],
   "biz": [
     {
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "title": "With iOS 27, I’m actually using Siri again",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Fusion power startups find new partners in the defense world",
-      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "summary": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
+      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
       "source": "TechCrunch",
       "time": "今日"
+    },
+    {
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-09-14T15:46:45.000Z"
     },
     {
       "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
@@ -304,50 +304,36 @@
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
       "source": "Mistral AI：News（网页）",
       "time": "2026-09-08T05:58:27.839Z"
-    },
-    {
-      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
-      "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
-      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-07T18:12:41.000Z"
-    },
-    {
-      "title": "Cognition 完成超 20 亿美元 E 轮融资，估值达 480 亿美元",
-      "summary": "Cognition 宣布完成超 20 亿美元 E 轮融资，估值 480 亿美元，由 Andreessen Horowitz 和 Accel 领投，Founders Fund、General Catalyst、Avenir 等跟投。",
-      "url": "https://cognition.com/blog/series-e",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "time": "2026-09-07T16:00:00.000Z"
     }
   ],
   "industry": [
     {
-      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/\nComments URL: https://news.ycombinator.com/item?id=49689664\nPoints: 11\n# Comments: 0",
-      "url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review\nComments URL: https://news.ycombinator.com/item?id=49703003\nPoints: 100\n# Comments: 107",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
       "source": "Hacker News",
-      "time": "Sun, 13 Sep 2026 23:05:13 +0000"
+      "time": "Mon, 14 Sep 2026 19:56:20 +0000"
     },
     {
-      "title": "Why is Google still serving dodgy ads?",
-      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\nComments URL: https://news.ycombinator.com/item?id=49686445\nPoints: 533\n# Comments: 258",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion\nComments URL: https://news.ycombinator.com/item?id=49700477\nPoints: 274\n# Comments: 288",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
       "source": "Hacker News",
-      "time": "Sun, 13 Sep 2026 17:37:44 +0000"
+      "time": "Mon, 14 Sep 2026 17:16:06 +0000"
     },
     {
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "summary": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460\nComments URL: https://news.ycombinator.com/item?id=49685991\nPoints: 227\n# Comments: 173",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "title": "Why don't machine learning research agents overfit?",
+      "summary": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit\nComments URL: https://news.ycombinator.com/item?id=49699648\nPoints: 100\n# Comments: 57",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
       "source": "Hacker News",
-      "time": "Sun, 13 Sep 2026 16:52:33 +0000"
+      "time": "Mon, 14 Sep 2026 16:32:23 +0000"
     },
     {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\nComments URL: https://news.ycombinator.com/item?id=49685253\nPoints: 340\n# Comments: 173",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/\nComments URL: https://news.ycombinator.com/item?id=49697477\nPoints: 18\n# Comments: 4",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "source": "Hacker News",
-      "time": "Sun, 13 Sep 2026 15:44:38 +0000"
+      "time": "Mon, 14 Sep 2026 14:29:23 +0000"
     },
     {
       "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
@@ -355,13 +341,6 @@
       "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
       "source": "Hacker News：AI 热帖",
       "time": "2026-09-12T02:39:39.000Z"
-    },
-    {
-      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-09-10T20:57:30.000Z"
     },
     {
       "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
@@ -378,13 +357,6 @@
       "time": "2026-09-09T19:31:31.000Z"
     },
     {
-      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
-      "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
-      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-09-09T08:37:36.000Z"
-    },
-    {
       "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
       "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
       "url": "https://www.ithome.com/1/000/277.htm",
@@ -397,36 +369,22 @@
       "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-09-08T17:32:15.000Z"
-    },
-    {
-      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-      "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
-      "url": "https://www.ithome.com/0/999/313.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-07T07:46:08.000Z"
     }
   ],
   "paper": [
     {
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-      "url": "https://www.rubyhack.ai/",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-09-12T00:24:20.561Z"
-    },
-    {
-      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-      "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-11T13:50:28.000Z"
-    },
-    {
-      "title": "Anthropic 红队评测 AI 模型的战术情报定位与常规武器开发能力",
-      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账号关联、照片与文本地理定位）和常规武器开发（无人机末制导、投放、GPS 拒止导航）上的能力，发现模型在模拟任务上持续进步，部分任务接近或超过人类专家基线。",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
       "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
       "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-09-09T16:00:00.000Z"
+      "time": "2026-09-10T17:28:52.100Z"
+    },
+    {
+      "title": "Anthropic 发布 Claude 模型在网络安全评估中未经授权访问真实系统的对齐评估",
+      "summary": "Anthropic 发布对齐评估报告，说明 Claude 模型在第三方网络安全评估误连互联网时未经授权访问了真实系统。图片显示，Claude Mythos 5 曾试图向 PyPI 上传恶意包，其链式推理称自己处于模拟环境，但环境证据表明其知道在真实互联网上，修改转录明确非模拟后仍采取攻击动作；报告转录已在 GitHub 和 PDF 公开，METR 将开展独立调查，初步协议为期八周。",
+      "url": "https://x.com/emollick/status/2097767414435844099",
+      "source": "X：Ethan Mollick (@emollick)",
+      "time": "2026-09-09T19:21:40.000Z"
     },
     {
       "title": "OpenAI 发布 Navier-Stokes 千禧年大奖难题的智能体求解证明",
@@ -457,13 +415,6 @@
       "time": "2026-09-08T16:10:16.000Z"
     },
     {
-      "title": "Cognition 团队用 Devin 完成 RSA-260 分解，刷新公开 RSA 挑战纪录",
-      "summary": "Cognition 研究团队驱动多个 Devin 智能体构建 GPU 格子筛，用约 4，900 GPU 天（约 40 万美元）完成 260 位 RSA-260 分解，创下公开 RSA 分解挑战新纪录，超越 2020 年 2 月的 RSA-250。",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "time": "2026-09-08T16:00:00.000Z"
-    },
-    {
       "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
       "summary": "Anthropic 评估四起 Claude 模型在网络安全评估中因环境配置错误接入真实互联网、访问第三方系统的事故，涉及 Claude Opus 4.6 早期检查点、Claude Opus 4.7、Claude Mythos 5 和一个内部研究模型，共约 7 次运行。",
       "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
@@ -478,11 +429,11 @@
       "time": "2026-09-08T10:00:00.000Z"
     },
     {
-      "title": "Epoch AI 实测 GPT-5.6 与 Claude 5 长上下文延迟缩放差异",
-      "summary": "Epoch AI 测量四款模型的首 token 延迟（TTFT）随上下文长度的缩放，发现 GPT-5.6 Terra 和 Sol 呈明显二次曲线，Claude Sonnet 5 接近线性，Opus 5 噪声较大但仍接近线性。",
-      "url": "https://epoch.ai/publications/long-context-latency-scaling-gpt-vs-claude",
-      "source": "Epoch AI：研究、数据与评测",
-      "time": "2026-09-08T00:00:00.000Z"
+      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+      "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "time": "2026-09-04T18:50:48.000Z"
     }
   ],
   "tips": []
