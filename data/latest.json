@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+      "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "source": "Qwen：Blog Retrieval（API）",
+      "time": "2026-09-17T17:18:08.568Z"
+    },
+    {
       "title": "微软 AI CEO 警告\"模型福利\"论调",
       "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
       "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
@@ -57,48 +64,6 @@
       "time": "2026-09-11T22:01:37.000Z"
     },
     {
-      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-      "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-      "time": "2026-09-10T15:49:16.000Z"
-    },
-    {
-      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-      "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
-      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-10T12:40:51.000Z"
-    },
-    {
-      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-      "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-      "url": "https://x.com/kimmonismus/status/2097970735591366804",
-      "source": "X：Kim (@kimmonismus)",
-      "time": "2026-09-10T08:49:36.000Z"
-    },
-    {
-      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-      "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
-      "url": "https://x.com/kimmonismus/status/2097962333767102665",
-      "source": "X：Kim (@kimmonismus)",
-      "time": "2026-09-10T08:16:13.000Z"
-    },
-    {
-      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
-      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-09-10T07:31:01.000Z"
-    },
-    {
-      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
-      "source": "DeepSeek：API 更新日志",
-      "time": "2026-09-10T05:58:04.695Z"
-    },
-    {
       "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
       "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
       "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
@@ -108,60 +73,46 @@
   ],
   "products": [
     {
-      "title": "Grimo AI",
-      "summary": "\n            Say it once and all tasks, calendar and notes are sorted\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/grimo-ai",
+      "title": "Text Agent Store",
+      "summary": "\n            A marketplace for AI agents you can text\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/text-agent-store",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Multimodal Agents by Sierra",
-      "summary": "\n            AI agents that switch between voice, text, and visuals\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/sierra",
+      "title": "QAgent",
+      "summary": "\n            Automated QA for AI agents. Stop shipping on vibes.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/qagent-2",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "OpenAI Agents API",
-      "summary": "\n            Cloud agents, run on OpenAI's Codex harness\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+      "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+      "url": "https://x.com/sherwinwu/status/2100730628673065040",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "time": "2026-09-17T23:36:26.000Z"
     },
     {
-      "title": "Mailyte",
-      "summary": "\n            Email for your team, your app, and your customers.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mailyte",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+      "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
+      "url": "https://x.com/AIatMeta/status/2100714755568644409",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "time": "2026-09-17T22:33:21.000Z"
     },
     {
-      "title": "Buddy AI Access (MCP)",
-      "summary": "\n            Your agent needs more than your repo\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/buddy",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "LLMagnet",
-      "summary": "\n            Make your WordPress site visible to AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/llmagnet",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Web Search Agents by Nimble",
-      "summary": "\n            Self-learning agents automate web research + retrieval\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/nimbleway",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-      "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
+      "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
+      "url": "https://claude.com/blog/projects-redesigned",
       "source": "Claude：Blog（网页）",
-      "time": "2026-09-16T16:51:45.914Z"
+      "time": "2026-09-17T17:52:08.951Z"
+    },
+    {
+      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+      "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+      "url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "source": "X：Unsloth (@UnslothAI)",
+      "time": "2026-09-17T15:03:09.000Z"
     },
     {
       "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
@@ -183,6 +134,13 @@
       "url": "https://x.ai/news/grok-build-memory",
       "source": "xAI：News（网页）",
       "time": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs 和 Slides",
+      "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、skills 和 connectors。",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-09-15T16:00:00.000Z"
     },
     {
       "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
@@ -215,72 +173,72 @@
   ],
   "biz": [
     {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Snap unveiled new features for its smart glasses this week.",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Noise wants to help everyday people  become paid content creators",
-      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”&#160; That’s&#160;the question that drove&#160;Matthew de Jonge&#160;to spend six years building&#160;Fortell, an AI hearing aid startup that&#160;recently&#160;raised $163",
-      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "title": "Even the king of England has his hesitations about AI",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -308,67 +266,67 @@
   ],
   "industry": [
     {
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/\nComments URL: https://news.ycombinator.com/item?id=49734264\nPoints: 48\n# Comments: 12",
-      "url": "https://openspec.dev/",
+      "title": "Sex, AI, and the Apocalypse",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/\nComments URL: https://news.ycombinator.com/item?id=49746654\nPoints: 143\n# Comments: 120",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 23:06:39 +0000"
+      "time": "Thu, 17 Sep 2026 21:15:52 +0000"
     },
     {
-      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-      "summary": "Article URL: https://harnesstax.github.io/\nComments URL: https://news.ycombinator.com/item?id=49733726\nPoints: 16\n# Comments: 3",
-      "url": "https://harnesstax.github.io/",
+      "title": "How Uber Protects Against Retry Storms",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/\nComments URL: https://news.ycombinator.com/item?id=49746628\nPoints: 28\n# Comments: 17",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 22:10:13 +0000"
+      "time": "Thu, 17 Sep 2026 21:14:32 +0000"
     },
     {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "summary": "Article URL: https://arxiv.org/abs/2609.16338\nComments URL: https://news.ycombinator.com/item?id=49732931\nPoints: 129\n# Comments: 15",
-      "url": "https://arxiv.org/abs/2609.16338",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 180\n# Comments: 57",
+      "url": "https://prismml.com/news/bonsai-2-27b",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 20:59:24 +0000"
+      "time": "Thu, 17 Sep 2026 21:13:31 +0000"
     },
     {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "summary": "Article URL: https://mimo.xiaomi.com/rl/\nComments URL: https://news.ycombinator.com/item?id=49732270\nPoints: 227\n# Comments: 58",
-      "url": "https://mimo.xiaomi.com/rl/",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "summary": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 248\n# Comments: 132",
+      "url": "https://bend-lang.com/",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 20:09:18 +0000"
+      "time": "Thu, 17 Sep 2026 20:36:13 +0000"
     },
     {
-      "title": "How good are frontier models at physics?",
-      "summary": "Article URL: https://arxiv.org/abs/2609.13009\nComments URL: https://news.ycombinator.com/item?id=49731620\nPoints: 76\n# Comments: 36",
-      "url": "https://arxiv.org/abs/2609.13009",
+      "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+      "summary": "Article URL: https://www.air.security/blog-posts/plugin4shell\nComments URL: https://news.ycombinator.com/item?id=49745809\nPoints: 4\n# Comments: 2",
+      "url": "https://www.air.security/blog-posts/plugin4shell",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 19:19:08 +0000"
+      "time": "Thu, 17 Sep 2026 20:05:31 +0000"
     },
     {
-      "title": "Accurate Models of AMD Matrix Cores",
-      "summary": "Article URL: https://arxiv.org/abs/2609.14845\nComments URL: https://news.ycombinator.com/item?id=49731360\nPoints: 59\n# Comments: 7",
-      "url": "https://arxiv.org/abs/2609.14845",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "summary": "Article URL: https://arxiv.org/abs/2609.18842\nComments URL: https://news.ycombinator.com/item?id=49743483\nPoints: 104\n# Comments: 29",
+      "url": "https://arxiv.org/abs/2609.18842",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 18:56:05 +0000"
+      "time": "Thu, 17 Sep 2026 16:55:14 +0000"
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "summary": "Article URL: https://rohanbansal.com/qorl\nComments URL: https://news.ycombinator.com/item?id=49731285\nPoints: 380\n# Comments: 80",
-      "url": "https://rohanbansal.com/qorl",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "summary": "Hey HN, we're Nars & Nishant, founders of Skillsync (https://skillsync.com)Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. Thi",
+      "url": "https://news.ycombinator.com/item?id=49743049",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 18:50:00 +0000"
+      "time": "Thu, 17 Sep 2026 16:22:15 +0000"
     },
     {
-      "title": "Reverse-engineered Jev-like model",
-      "summary": "Article URL: https://github.com/vinnylarouge/jevlike\nComments URL: https://news.ycombinator.com/item?id=49731282\nPoints: 68\n# Comments: 8",
-      "url": "https://github.com/vinnylarouge/jevlike",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks?   So I built this with the hope we could have a",
+      "url": "https://mysetup.ai/",
       "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 18:49:57 +0000"
+      "time": "Thu, 17 Sep 2026 13:01:44 +0000"
     },
     {
-      "title": "Training Text-to-Image Models 3.6× Faster",
-      "summary": "Article URL: https://www.linum.ai/field-notes/jit-ddt\nComments URL: https://news.ycombinator.com/item?id=49729816\nPoints: 33\n# Comments: 5",
-      "url": "https://www.linum.ai/field-notes/jit-ddt",
-      "source": "Hacker News",
-      "time": "Wed, 16 Sep 2026 16:58:13 +0000"
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+      "summary": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-09-17T19:46:08.000Z"
     },
     {
       "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
@@ -376,78 +334,85 @@
       "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
       "source": "Hacker News：AI 热帖",
       "time": "2026-09-12T02:39:39.000Z"
-    },
-    {
-      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-09-10T20:57:30.000Z"
-    },
-    {
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-      "url": "https://shopify.engineering/back-to-native",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "time": "2026-09-10T15:04:41.487Z"
     }
   ],
   "paper": [
     {
-      "title": "Revisiting Distributed Sign-Based Variance Reduction",
-      "summary": "Sign-based methods reduce communication costs in distributed environments, but aggregating local signs can introduce bias when data are heterogeneous. As a result, existing sign-based variance reduction methods fail to obtain the optimal convergence rates. In this paper, we solve this problem and ob",
-      "url": "http://arxiv.org/abs/2609.18656v1",
+      "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+      "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing compari",
+      "url": "http://arxiv.org/abs/2609.19145v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Learning to Program Adaptive Non-Local Observables for Machine Learning",
-      "summary": "Quantum neural networks (QNNs) are typically built from variational quantum circuits (VQCs), which are limited by local measurements. Adaptive non-local observables (ANO) address this by jointly optimizing circuit parameters and multi-qubit measurements. However, existing ANO-based VQCs learn only a",
-      "url": "http://arxiv.org/abs/2609.18655v1",
+      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+      "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margin",
+      "url": "http://arxiv.org/abs/2609.19144v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection",
-      "summary": "Fallacy-detection benchmarks pair fallacy classes with a single \"valid\" or \"none\" class that takes everything data collection did not label as a fallacy. This construction is misleading: a classifier can learn cues that do well on this class without learning to tell a fallacy from a correct argument",
-      "url": "http://arxiv.org/abs/2609.18644v1",
+      "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+      "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks where appropriate contact forces are essential for success. I",
+      "url": "http://arxiv.org/abs/2609.19137v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "CoRe-MARL: Cooperative Redistribution Under Unknown Dynamics Using Recurrent Multi-Agent Reinforcement Learning",
-      "summary": "Emergency management assistance programs, such as relief distribution, are essential for delivering necessary supplies to affected communities. However, these programs operate in a decentralized network of local centers that face uncertain local demand and supply dynamics, resulting in inconsistent ",
-      "url": "http://arxiv.org/abs/2609.18639v1",
+      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+      "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a",
+      "url": "http://arxiv.org/abs/2609.19135v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media",
-      "summary": "Video streaming dominates global internet traffic, yet conventional pipelines remain inefficient for structured, human-centric content such as sports, performance, or interactive media. Standard codecs re-encode entire frames, foreground and background alike, treating all pixels uniformly and ignori",
-      "url": "http://arxiv.org/abs/2609.18634v1",
+      "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+      "summary": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive ex",
+      "url": "http://arxiv.org/abs/2609.19128v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "How Many Labels Does Model Choice Need? Certificates and Budgets for Selective Prediction",
-      "summary": "Classifiers can make identical predictions yet require labels to compare their selective performance: confidence ranks weight the same errors differently. We quantify this requirement for the area under the generalized risk-coverage curve (AUGRC). A prelabel lower bound rules out insufficient budget",
-      "url": "http://arxiv.org/abs/2609.18622v1",
+      "title": "Affora: A Design System for Agent-Friendly Interfaces",
+      "summary": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while preserving visual freedom and familiar human workflows. Three controlled studies exa",
+      "url": "http://arxiv.org/abs/2609.19125v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Learning Array Signal Topologies as Conditional Neural Manifolds",
-      "summary": "Subspace methods such as multiple signal classification (MUSIC) achieve super-resolution direction of arrival (DoA) estimation by exploiting the orthogonality between the array manifold and the noise subspace of the measurements. Their accuracy therefore depends on the assumed manifold and degrades ",
-      "url": "http://arxiv.org/abs/2609.18616v1",
+      "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+      "summary": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic understanding is crucial for collective alignment. To this end, we introduce the Flag Game",
+      "url": "http://arxiv.org/abs/2609.19124v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Weakening Neurons: An Input-Output Functionality in Transformers with Outsize Influence",
-      "summary": "We analyze the learned input-output behavior of GLU-based neurons in large language models (LLMs). We propose a simple analysis method: For each neuron, we compute the cosine similarities between its input (reading) and output (writing) weight vectors. In this scheme, a strong negative cosine simila",
-      "url": "http://arxiv.org/abs/2609.18612v1",
+      "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+      "summary": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential improvements in performance with increases in computation. As an anchoring point, we ",
+      "url": "http://arxiv.org/abs/2609.19107v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
+      "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-09-17T19:49:41.095Z"
+    },
+    {
+      "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+      "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+      "source": "Goodfire Research（网页）",
+      "time": "2026-09-17T16:38:32.383Z"
+    },
+    {
+      "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+      "summary": "Epoch AI 分析海关数据发现，2024 年 4 月至 2025 年 6 月中国记录了 37.5 亿美元、均价约 10.6 万美元/台的马来西亚原产服务器进口，价格水平更符合 AI 服务器而非普通服务器。",
+      "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+      "source": "Epoch AI：研究、数据与评测",
+      "time": "2026-09-17T00:00:00.000Z"
     },
     {
       "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
