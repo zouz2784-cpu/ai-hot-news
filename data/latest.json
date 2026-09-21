@@ -1,6 +1,20 @@
 {
   "models": [
     {
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+      "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Qwen：Blog Retrieval（API）",
+      "time": "2026-09-20T12:00:00.000Z"
+    },
+    {
+      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+      "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+      "source": "公众号：阶跃星辰（Step）",
+      "time": "2026-09-20T02:00:00.000Z"
+    },
+    {
       "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
       "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
       "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
@@ -62,20 +76,20 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
       "source": "公众号：小红书技术（dots.llm）",
       "time": "2026-09-14T09:59:00.000Z"
-    },
-    {
-      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-      "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "source": "Hacker News：AI 热帖",
-      "time": "2026-09-13T14:15:40.000Z"
     }
   ],
   "products": [
     {
-      "title": "Ami AI",
-      "summary": "\n            Lovable for getting customers\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ami-ai",
+      "title": "YABAI",
+      "summary": "\n            Real Japanese slang, one giant word at a time\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/yabai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AINA",
+      "summary": "\n            Find your job search blind spots with an AI coach\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/aina",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -87,18 +101,18 @@
       "time": "今日"
     },
     {
-      "title": "ChinaMarketing.AI GEO Workspace",
-      "summary": "\n            From Chinese AI evidence to implementation with Astra\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/chinamarketing-ai-geo-workspace",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "Agent Interface",
       "summary": "\n            Give AI agents a better way to use computers\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/agent-interface",
       "source": "Product Hunt",
       "time": "今日"
+    },
+    {
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+      "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "time": "2026-09-20T13:52:24.000Z"
     },
     {
       "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
@@ -169,16 +183,16 @@
       "url": "https://claude.com/blog/cowork-is-now-claude",
       "source": "Claude：Blog（网页）",
       "time": "2026-09-15T16:00:00.000Z"
-    },
-    {
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-      "summary": "Google 宣布其语言技术已支持超过 300 种语言、覆盖全球 86% 人口，并发布 TranslateGemma 轻量开源翻译模型（基于 Gemini 训练、支持 55 种语言、可离线运行）。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "source": "Google Blog：AI（RSS）",
-      "time": "2026-09-15T16:00:00.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
@@ -229,27 +243,6 @@
       "time": "今日"
     },
     {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
       "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。",
       "url": "https://www.ithome.com/1/004/369.htm",
@@ -287,60 +280,39 @@
   ],
   "industry": [
     {
-      "title": "Show HN: I created an open source locally usable full fledged AI platform",
-      "summary": "hi to all the readers this post is for my recent opensource project called ENZOnow answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much mo",
-      "url": "https://github.com/theguysudo/ENZO",
+      "title": "Amiga Unix, Again",
+      "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 5\n# Comments: 2",
+      "url": "https://amigaux.org/",
       "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 23:47:35 +0000"
+      "time": "Sun, 20 Sep 2026 23:57:10 +0000"
     },
     {
-      "title": "Can you tell which images are AI-generated?",
-      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/\nComments URL: https://news.ycombinator.com/item?id=49770847\nPoints: 16\n# Comments: 8",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
+      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO\nComments URL: https://news.ycombinator.com/item?id=49781138\nPoints: 5\n# Comments: 0",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
       "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 23:02:34 +0000"
+      "time": "Sun, 20 Sep 2026 23:19:04 +0000"
     },
     {
-      "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-      "summary": "Article URL: https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317\nComments URL: https://news.ycombinator.com/item?id=49770580\nPoints: 8\n# Comments: 0",
-      "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+      "title": "Google's Open Agentic Orchestrator",
+      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 121\n# Comments: 47",
+      "url": "https://agentexecutor.io",
       "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 22:22:28 +0000"
+      "time": "Sun, 20 Sep 2026 22:32:43 +0000"
     },
     {
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "summary": "Hello HN! We're Dillon and Francesco from Cua.We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering ",
-      "url": "https://github.com/trycua/cua",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm5y7qj54klpo\nComments URL: https://news.ycombinator.com/item?id=49780704\nPoints: 4\n# Comments: 0",
+      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
       "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 15:52:51 +0000"
+      "time": "Sun, 20 Sep 2026 22:22:16 +0000"
     },
     {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 1066\n# Comments: 251",
-      "url": "https://laya.convaiinnovations.com/",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/\nComments URL: https://news.ycombinator.com/item?id=49776729\nPoints: 560\n# Comments: 304",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
       "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 10:46:58 +0000"
-    },
-    {
-      "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 1345\n# Comments: 759",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 09:20:58 +0000"
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\nComments URL: https://news.ycombinator.com/item?id=49763987\nPoints: 362\n# Comments: 165",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 06:41:44 +0000"
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "summary": "https://www.nature.com/articles/s41593-026-02433-7\n\nComments URL: https://news.ycombinator.com/item?id=49763697\nPoints: 611\n# Comments: 236",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "source": "Hacker News",
-      "time": "Sat, 19 Sep 2026 05:48:50 +0000"
+      "time": "Sun, 20 Sep 2026 15:18:44 +0000"
     },
     {
       "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
@@ -434,6 +406,13 @@
       "url": "http://arxiv.org/abs/2609.20812v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-09-20T18:05:38.317Z"
     },
     {
       "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
