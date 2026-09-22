@@ -1,6 +1,48 @@
 {
   "models": [
     {
+      "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+      "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+      "url": "https://x.com/arena/status/2102142912943489220",
+      "source": "X：Arena (@arena)",
+      "time": "2026-09-21T21:08:21.000Z"
+    },
+    {
+      "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+      "summary": "小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。",
+      "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "time": "2026-09-21T21:03:48.000Z"
+    },
+    {
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+      "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+      "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "source": "X：小米 MiMo (@XiaomiMiMo)",
+      "time": "2026-09-21T20:51:03.000Z"
+    },
+    {
+      "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+      "summary": "Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+      "source": "公众号：小米 MiMo",
+      "time": "2026-09-21T20:18:52.000Z"
+    },
+    {
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+      "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "time": "2026-09-21T02:50:40.000Z"
+    },
+    {
+      "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
+      "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
+      "url": "https://x.ai/news/grok-4-7",
+      "source": "xAI：News（网页）",
+      "time": "2026-09-21T00:00:00.000Z"
+    },
+    {
       "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
       "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
@@ -62,23 +104,44 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
       "source": "公众号：阶跃星辰（Step）",
       "time": "2026-09-15T07:29:56.000Z"
-    },
-    {
-      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-      "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "time": "2026-09-14T16:32:25.000Z"
-    },
-    {
-      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-      "summary": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-      "source": "公众号：小红书技术（dots.llm）",
-      "time": "2026-09-14T09:59:00.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Milliseconds.ai",
+      "summary": "\n            Fast AI decisions on text and images, via one API\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/milliseconds-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Sai",
+      "summary": "\n            The autonomous computer fleet at your command\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/simular",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AI Creative Insights by Decode",
+      "summary": "\n            Predict which ad wins before you spend on media\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/decode-by-entropik",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Hyrax AI",
+      "summary": "\n            The AI architect for your entire codebase\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tristan-benozer",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "SecAIQ Watch",
+      "summary": "\n            What are your AI tools really doing on your machine?\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/secaiq-watch",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "YABAI",
       "summary": "\n            Real Japanese slang, one giant word at a time\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -87,25 +150,11 @@
       "time": "今日"
     },
     {
-      "title": "AINA",
-      "summary": "\n            Find your job search blind spots with an AI coach\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/aina",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "ContextsBase - Backlog for Coding Agents",
-      "summary": "\n            From chat prompts to AI backlog Platform.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/contextsbase",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Agent Interface",
-      "summary": "\n            Give AI agents a better way to use computers\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-interface",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+      "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+      "source": "公众号：月之暗面（Kimi）",
+      "time": "2026-09-21T07:54:32.000Z"
     },
     {
       "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
@@ -113,6 +162,13 @@
       "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
       "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "time": "2026-09-20T13:52:24.000Z"
+    },
+    {
+      "title": "xAI 发布 Grok Voice Transcribe 2.0 语音转写模型，准确率较 1.0 翻倍",
+      "summary": "xAI 发布 Grok Voice Transcribe 2.0 语音转写模型，官方称在真实场景评测中准确率是 1.0 的两倍且价格不变。在 Artificial Analysis 公开榜单上，它在 32 个 streaming 模型中准确率排名第一；多语言能力提升最大，短短语集合上词错误率从 20.6% 降至 6.8%。",
+      "url": "https://x.ai/news/grok-voice-transcribe-2",
+      "source": "xAI：News（网页）",
+      "time": "2026-09-18T00:00:00.000Z"
     },
     {
       "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
@@ -155,90 +211,76 @@
       "url": "https://www.anthropic.com/news/life-sciences-verification-program",
       "source": "Anthropic：Newsroom（网页）",
       "time": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-      "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-09-16T13:00:00.000Z"
-    },
-    {
-      "title": "蚂蚁 inclusionAI 开源 Realtime-Venus 全双工交互系统",
-      "summary": "蚂蚁集团 Venus 团队与清华大学在 GitHub 开源 Realtime-Venus，一个支持全双工对话与异步任务委托的实时交互系统。系统包含三个组件：Realtime-Venus-Omni（9B，流式音视频对话与主动交互）、Realtime-Venus-Audio（9B，语音交互与音频理解）以及负责后台任务执行并将结果返回同一对话的 Harness 运行时。",
-      "url": "https://github.com/inclusionAI/Realtime-Venus",
-      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-      "time": "2026-09-16T07:57:55.000Z"
-    },
-    {
-      "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
-      "summary": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。",
-      "url": "https://x.ai/news/grok-build-memory",
-      "source": "xAI：News（网页）",
-      "time": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs 和 Slides",
-      "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、skills 和 connectors。",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "source": "Claude：Blog（网页）",
-      "time": "2026-09-15T16:00:00.000Z"
     }
   ],
   "biz": [
     {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -269,50 +311,78 @@
       "url": "https://x.com/AravSrinivas/status/2099957318935028173",
       "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
       "time": "2026-09-15T20:23:34.000Z"
-    },
-    {
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-14T15:46:45.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Amiga Unix, Again",
-      "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 5\n# Comments: 2",
-      "url": "https://amigaux.org/",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh\nComments URL: https://news.ycombinator.com/item?id=49795579\nPoints: 20\n# Comments: 11",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "source": "Hacker News",
-      "time": "Sun, 20 Sep 2026 23:57:10 +0000"
+      "time": "Tue, 22 Sep 2026 01:05:19 +0000"
     },
     {
-      "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
-      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO\nComments URL: https://news.ycombinator.com/item?id=49781138\nPoints: 5\n# Comments: 0",
-      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "title": "Transformers Explained Visually",
+      "summary": "Article URL: https://poloclub.github.io/transformer-explainer/\nComments URL: https://news.ycombinator.com/item?id=49792342\nPoints: 191\n# Comments: 35",
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "source": "Hacker News",
-      "time": "Sun, 20 Sep 2026 23:19:04 +0000"
+      "time": "Mon, 21 Sep 2026 19:43:49 +0000"
     },
     {
-      "title": "Google's Open Agentic Orchestrator",
-      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 121\n# Comments: 47",
-      "url": "https://agentexecutor.io",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked\nComments URL: https://news.ycombinator.com/item?id=49792067\nPoints: 132\n# Comments: 134",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "source": "Hacker News",
-      "time": "Sun, 20 Sep 2026 22:32:43 +0000"
+      "time": "Mon, 21 Sep 2026 19:23:33 +0000"
     },
     {
-      "title": "Not all AI workers think the tech could kill everyone",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm5y7qj54klpo\nComments URL: https://news.ycombinator.com/item?id=49780704\nPoints: 4\n# Comments: 0",
-      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49791997\nPoints: 81\n# Comments: 38",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "source": "Hacker News",
-      "time": "Sun, 20 Sep 2026 22:22:16 +0000"
+      "time": "Mon, 21 Sep 2026 19:17:42 +0000"
     },
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/\nComments URL: https://news.ycombinator.com/item?id=49776729\nPoints: 560\n# Comments: 304",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "title": "Frontier AI on Your Own Hardware",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/\nComments URL: https://news.ycombinator.com/item?id=49791647\nPoints: 97\n# Comments: 49",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
       "source": "Hacker News",
-      "time": "Sun, 20 Sep 2026 15:18:44 +0000"
+      "time": "Mon, 21 Sep 2026 18:53:01 +0000"
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "summary": "Article URL: https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/\nComments URL: https://news.ycombinator.com/item?id=49791509\nPoints: 192\n# Comments: 110",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "source": "Hacker News",
+      "time": "Mon, 21 Sep 2026 18:41:59 +0000"
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "summary": "Article URL: https://safedep.io/mathmain-encrypted-loader/\nComments URL: https://news.ycombinator.com/item?id=49791378\nPoints: 108\n# Comments: 28",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "source": "Hacker News",
+      "time": "Mon, 21 Sep 2026 18:33:44 +0000"
+    },
+    {
+      "title": "The agents, they just want to talk",
+      "summary": "Article URL: https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html\nComments URL: https://news.ycombinator.com/item?id=49789361\nPoints: 8\n# Comments: 1",
+      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
+      "source": "Hacker News",
+      "time": "Mon, 21 Sep 2026 16:22:26 +0000"
+    },
+    {
+      "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+      "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
+      "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-09-21T20:11:34.000Z"
+    },
+    {
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+      "url": "https://www.ithome.com/1/005/418.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-21T11:52:52.000Z"
     },
     {
       "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
@@ -352,58 +422,58 @@
   ],
   "paper": [
     {
-      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-      "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding ag",
-      "url": "http://arxiv.org/abs/2609.20822v1",
+      "title": "Blind Thermodynamic Ontology Discovery from Anonymous Experiments",
+      "summary": "Before a machine learning model can learn a thermodynamic equation of state, it must discover what its measurements represent: which channels scale with system size, which are intensive conjugates, how sectors pair through contact, and which potential governs stability. When sensors expose only an u",
+      "url": "http://arxiv.org/abs/2609.23387v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Embedding Models Measure in Peculiar Ways",
-      "summary": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly model",
-      "url": "http://arxiv.org/abs/2609.20821v1",
+      "title": "Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design",
+      "summary": "Data acquisition (DAQ) systems at future particle physics experiments stand to benefit from the extremes of AI/ML development: large-scale foundation models can enhance the performance of feature extraction algorithms, and small-scale on-detector deployments can enable real-time intelligent data han",
+      "url": "http://arxiv.org/abs/2609.23385v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-      "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensi",
-      "url": "http://arxiv.org/abs/2609.20820v1",
+      "title": "Bayesian Filtering in Physical Systems via Test-time Trained Flow Matching",
+      "summary": "Bayesian filtering provides a principled framework for online state estimation under uncertainty, yet its application to systems with high-dimensional states and complicated posterior distributions remains challenging. Recent generative models, such as flow matching, have shown potential in Bayesian",
+      "url": "http://arxiv.org/abs/2609.23383v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-      "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAM",
-      "url": "http://arxiv.org/abs/2609.20817v1",
+      "title": "Discovering Physical Representation Languages",
+      "summary": "Before a machine can discover a physical law, it must discover what its measurements are: which observations live on cells, which are intensive or extensive, which sectors are dual, and which distinctions are merely gauge. We introduce physical representation-language discovery, the problem of recov",
+      "url": "http://arxiv.org/abs/2609.23381v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
-      "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inferenc",
-      "url": "http://arxiv.org/abs/2609.20816v1",
+      "title": "Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting",
+      "summary": "We introduce leaky-integrator reconstruction, a training-free method that cures the error accumulation of recursive differenced forecasting. Our first contribution is diagnostic: predicting one-step changes and integrating them by cumulative summation, the standard remedy for non-stationarity, is a ",
+      "url": "http://arxiv.org/abs/2609.23378v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
-      "summary": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essential for timely diagnosis, individualized patient management, and targeted survei",
-      "url": "http://arxiv.org/abs/2609.20815v1",
+      "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+      "summary": "Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with regressions in others, while aggregate resolution obscures these changes. Motivated by this category s",
+      "url": "http://arxiv.org/abs/2609.23377v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
-      "summary": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine",
-      "url": "http://arxiv.org/abs/2609.20814v1",
+      "title": "If You Hear It, Help Find It: Orthogonal Knowledge Distillation for Open-Vocabulary Audio-Visual Event Localization",
+      "summary": "Open-vocabulary audio-visual event localization (OV-AVEL) grounds a text-queried event in time from video, audio, and language. The supervision sources available to this task can differ in temporal-boundary reliability: on OV-AVEBench, our configured visual teacher gives more reliable boundary cues ",
+      "url": "http://arxiv.org/abs/2609.23376v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
-      "summary": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \\emph{overclaim} task completion, a misrepresentation that can mislead the user. A",
-      "url": "http://arxiv.org/abs/2609.20812v1",
+      "title": "The Evidence Ladder for Reinforcement Learning in Healthcare: From Retrospective Policies to Trusted Interventions",
+      "summary": "Reinforcement learning (RL) offers a natural language for healthcare decisions whose conse- quences unfold over time, yet most reported progress remains far from routine intervention. Ex- isting surveys organize the field by algorithm or clinical application. We instead review healthcare RL through ",
+      "url": "http://arxiv.org/abs/2609.23374v1",
       "source": "arXiv",
       "time": "今日"
     },
@@ -434,13 +504,6 @@
       "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
       "source": "Goodfire Research（网页）",
       "time": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-      "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
-      "url": "https://x.com/arena/status/2099549108013006958",
-      "source": "X：Arena (@arena)",
-      "time": "2026-09-14T17:21:29.000Z"
     }
   ],
   "tips": []
