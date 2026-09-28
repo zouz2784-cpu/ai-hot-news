@@ -108,16 +108,30 @@
   ],
   "products": [
     {
-      "title": "Kairn",
-      "summary": "\n            Turn any recorded convo into actionables and follow ups\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kairn-2",
+      "title": "GPT-6 Sol & Luna",
+      "summary": "\n            Frontier AI intelligence, now at half the price\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Kaiku",
-      "summary": "\n            The task tracker your AI agents already know how to use\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kaiku",
+      "title": "Pair2FA",
+      "summary": "\n            Secure 2FA sharing for teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/pair2fa",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "SocialGPT",
+      "summary": "\n            Edit videos by chatting with your timeline\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/socialgpt",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Howseen AI",
+      "summary": "\n            Track how AI recommends your brand, and get cited\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/howseen-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -125,20 +139,6 @@
       "title": "JevForAgents",
       "summary": "\n            Explore real Jev agent builds, demos, and patterns\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/jevforagents",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "LaterOn v2: The agentic email plaftform",
-      "summary": "\n            Describe an email job once. Get sh*t done.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/lateron-email",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Aks.ai",
-      "summary": "\n            Your personal companion for guided self-reflection.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/aks-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -215,6 +215,34 @@
   ],
   "biz": [
     {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "Insurers claim AI is already increasing healthcare costs",
       "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -257,27 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
       "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
       "url": "https://cognition.com/blog/1b-run-rate",
@@ -294,53 +301,39 @@
   ],
   "industry": [
     {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent\nComments URL: https://news.ycombinator.com/item?id=49857729\nPoints: 103\n# Comments: 32",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "title": "When did Google get so weird?",
+      "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 739\n# Comments: 392",
+      "url": "https://sancho.bearblog.dev/google-weird/",
       "source": "Hacker News",
-      "time": "Sat, 26 Sep 2026 15:56:34 +0000"
+      "time": "Sun, 27 Sep 2026 20:12:54 +0000"
     },
     {
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "summary": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.In the blog post, we describe the approach in deta",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!Click on any of the matches to spectate them.Code: https://git",
+      "url": "https://tinyaiarena.com/",
       "source": "Hacker News",
-      "time": "Sat, 26 Sep 2026 15:49:04 +0000"
+      "time": "Sun, 27 Sep 2026 15:51:28 +0000"
     },
     {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/\nComments URL: https://news.ycombinator.com/item?id=49855315\nPoints: 634\n# Comments: 249",
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "title": "The Normalization of Inexplicable Failures",
+      "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\nComments URL: https://news.ycombinator.com/item?id=49867486\nPoints: 246\n# Comments: 100",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
       "source": "Hacker News",
-      "time": "Sat, 26 Sep 2026 10:55:56 +0000"
+      "time": "Sun, 27 Sep 2026 15:26:40 +0000"
     },
     {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705\nComments URL: https://news.ycombinator.com/item?id=49854875\nPoints: 150\n# Comments: 208",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "source": "Hacker News",
-      "time": "Sat, 26 Sep 2026 09:41:58 +0000"
+      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+      "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-09-27T09:27:15.061Z"
     },
     {
-      "title": "An agent used DNS to reach an external chatbot",
-      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/\nComments URL: https://news.ycombinator.com/item?id=49853137\nPoints: 37\n# Comments: 31",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "source": "Hacker News",
-      "time": "Sat, 26 Sep 2026 04:14:11 +0000"
-    },
-    {
-      "title": "Generate fonts where every LLM token is the same width",
-      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html\nComments URL: https://news.ycombinator.com/item?id=49851883\nPoints: 22\n# Comments: 5",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "source": "Hacker News",
-      "time": "Sat, 26 Sep 2026 00:30:03 +0000"
-    },
-    {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "summary": "Article URL: https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html\nComments URL: https://news.ycombinator.com/item?id=49849820\nPoints: 55\n# Comments: 38",
-      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "source": "Hacker News",
-      "time": "Fri, 25 Sep 2026 20:53:54 +0000"
+      "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+      "summary": "澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。",
+      "url": "https://www.ithome.com/1/007/508.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-27T05:35:36.000Z"
     },
     {
       "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
@@ -397,64 +390,85 @@
       "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-09-24T12:54:19.000Z"
+    },
+    {
+      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+      "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+      "url": "https://www.ithome.com/1/006/548.htm",
+      "source": "IT之家（RSS）",
+      "time": "2026-09-24T01:12:13.000Z"
+    },
+    {
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+      "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "time": "2026-09-23T22:54:29.320Z"
     }
   ],
   "paper": [
     {
-      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
-      "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code a",
-      "url": "http://arxiv.org/abs/2609.30266v1",
+      "title": "Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness",
+      "summary": "Large language models (LLMs) have demonstrated promising performance in log anomaly detection, yet how their adaptation strategies, architectures, and deployment configurations affect detection effectiveness remains insufficiently understood. To investigate these factors, we conduct a systematic emp",
+      "url": "http://arxiv.org/abs/2609.31371v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
-      "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-di",
-      "url": "http://arxiv.org/abs/2609.30264v1",
+      "title": "Equation discovery with Bayesian tree-adjoining grammars",
+      "summary": "Tree-Adjoining Grammars (TAGs) have recently been introduced to Nonlinear System Identification (NLSI) as a means of encoding an entire model class as a finite set of grammatical rules, from which candidate models are assembled as trees. Existing TAG-based identifiers rely on evolutionary optimisati",
+      "url": "http://arxiv.org/abs/2609.31368v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
-      "summary": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Att",
-      "url": "http://arxiv.org/abs/2609.30258v1",
+      "title": "Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning",
+      "summary": "Distributionally robust optimization (DRO) provides a principled framework for learning under distribution shift, but its practical use is hindered by the difficulty of evaluating worst-case risks for nonconvex loss functions. We study a penalized DRO formulation in which the adversary may choose an",
+      "url": "http://arxiv.org/abs/2609.31363v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Agentic Detection of Online Conspiracies",
-      "summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, bu",
-      "url": "http://arxiv.org/abs/2609.30250v1",
+      "title": "Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+      "summary": "Inference in LLMs is conventionally a fixed-depth, fixed-order forward pass through every layer, regardless of how difficult the input is. The human brain does not work this way: using the thalamus as a central hub, it routes information flexibly to all regions of the cortex according to demand. Li ",
+      "url": "http://arxiv.org/abs/2609.31360v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "RAPID: Robot Agentic Programming from Demonstrations",
-      "summary": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single vis",
-      "url": "http://arxiv.org/abs/2609.30249v1",
+      "title": "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+      "summary": "The Model Context Protocol (MCP) provides a common interface through which AI applications discover and use external resources and tools. It allows language-model agents to ground their reasoning in current system state and interact with heterogeneous services. In medical environments, however, expo",
+      "url": "http://arxiv.org/abs/2609.31358v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Rolling-WAM: World Action Models with Rolling Imagination",
-      "summary": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Ro",
-      "url": "http://arxiv.org/abs/2609.30247v1",
+      "title": "Open Vocabulary Domain Unlearning",
+      "summary": "Vision-Language Models (VLMs) exhibit remarkable zero-shot generalization, yet they often encode unwanted or hazardous stylistic domains such as idealized textbook diagrams in medical AI or cartoon vehicles in autonomous driving. Approximate Domain Unlearning (ADU) aims to selectively erase a model'",
+      "url": "http://arxiv.org/abs/2609.31356v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Coding Agents for Generalized Task and Motion Planning Problems",
-      "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem insta",
-      "url": "http://arxiv.org/abs/2609.30233v1",
+      "title": "Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State",
+      "summary": "Contemporary large language model (LLM) chat systems treat conversation history as an immutable sequence of turns that defines the model's working context. However, user intent in real interactions is not static: it evolves through correction, refinement, and shifting constraints. This mismatch betw",
+      "url": "http://arxiv.org/abs/2609.31354v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
-      "summary": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-bas",
-      "url": "http://arxiv.org/abs/2609.30227v1",
+      "title": "Progressive Memory Transformer: Memory-Aware Attention for Time-Series",
+      "summary": "Time-series carry structure simultaneously at multiple scales (fine-grained variation, mid-range motifs, and global properties) and downstream tasks operate at correspondingly different scales. Most existing self-supervised learning approaches supervise representations globally via instance-level co",
+      "url": "http://arxiv.org/abs/2609.31351v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "小米 MiMo-V2.6 诊断并修复工具调用重复问题，用 MOPD 将修复成本降至 MixRL 方案的 4%",
+      "summary": "小米官方复盘 MiMo-V2.6 发布后的工具调用重复问题，响应级重复率超 0.05%，并区分了正常并行调用、调用泛滥与调用重复。回放 RL 各 checkpoint 显示泛滥率随训练从 11.1% 升至 24.6%，32 次调用阈值惩罚过于宽松；直接调低阈值需重启 20 步 MixRL，估计成本 231 万美元，且内部测试重复率仅从 13.45% 降至 3.83%。",
+      "url": "https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition",
+      "source": "小米 MiMo：官网发布与博客",
+      "time": "2026-09-26T16:00:00.000Z"
     },
     {
       "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
@@ -497,13 +511,6 @@
       "url": "https://x.com/DarioAmodei/status/2102831170299834652",
       "source": "X：Dario Amodei (@DarioAmodei)",
       "time": "2026-09-23T18:43:14.000Z"
-    },
-    {
-      "title": "Anthropic 称 Claude 在噬菌体 DNA 中发现未知酶系统",
-      "summary": "Anthropic 宣布 Claude 在噬菌体 DNA 中发现一个此前未知的酶系统，其基因旁有一段类似 CRISPR 的重复 DNA 阵列。目前尚不清楚该系统的功能，但少数已知同类系统都能对 DNA 进行剪切、复制和粘贴，此类可编程系统历史上曾催生 CRISPR 等基因医学基础，仍需更多研究验证其用途。",
-      "url": "https://x.com/AnthropicAI/status/2102824959827742916",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "time": "2026-09-23T18:18:33.000Z"
     }
   ],
   "tips": []
