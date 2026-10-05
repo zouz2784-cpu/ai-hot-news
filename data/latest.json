@@ -1,13 +1,6 @@
 {
   "models": [
     {
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-      "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
-      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "time": "未知"
-    },
-    {
       "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
       "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
       "url": "https://x.com/arena/status/2106109027923140928",
@@ -104,13 +97,34 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd",
       "source": "公众号：蚂蚁百灵（Ling）",
       "time": "2026-09-30T12:30:49.000Z"
+    },
+    {
+      "title": "GPT-6.1 上线 Arena 评测平台",
+      "summary": "Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。",
+      "url": "https://x.com/arena/status/2105006240363581728",
+      "source": "X：Arena (@arena)",
+      "time": "2026-09-29T18:46:11.000Z"
     }
   ],
   "products": [
     {
-      "title": "Thanor AI",
-      "summary": "\n            Make your AI-built sites look expensive and not like slop\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/thanor-ai",
+      "title": "Eat Train Feel",
+      "summary": "\n            A coach for you Workouts, food, and how you feel\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/eat-train-feel",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ChatGPT Space",
+      "summary": "\n            Create, collaborate, and build together with AI in Space\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chatgpt-space",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Clair",
+      "summary": "\n            Answer Claude Code from your wrist\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/clair-3",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -120,34 +134,6 @@
       "url": "https://www.producthunt.com/products/agent-activity",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "Never Boring AI",
-      "summary": "\n            The AI agent that writes your LinkedIn posts in your voice\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/never-boring-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Syllaby AI Avatar 2.0",
-      "summary": "\n            Create Your Own Avatar In Seconds\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Veltrix AI for E-commerce",
-      "summary": "\n            Find how your e-commerce business could earn more\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/veltrix-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-      "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-      "url": "https://www.primeintellect.ai/blog/prime-inference",
-      "source": "Prime Intellect（网页）",
-      "time": "未知"
     },
     {
       "title": "ChatGPT 推出 Finances 财务管理功能",
@@ -192,6 +178,13 @@
       "time": "2026-10-01T20:35:00.000Z"
     },
     {
+      "title": "Prime Intellect 发布推理服务平台 Prime Inference",
+      "summary": "Prime Intellect 发布 Prime Inference，提供 serverless 端点与预留容量，在多数据中心 GPU 基础设施上服务前沿开源模型，内部每天处理近一万亿 token。",
+      "url": "https://www.primeintellect.ai/blog/prime-inference",
+      "source": "Prime Intellect（网页）",
+      "time": "2026-10-01T16:00:00.000Z"
+    },
+    {
       "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
       "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
       "url": "https://modal.com/blog/modal-clusters-generally-available",
@@ -211,9 +204,30 @@
       "url": "https://modal.com/blog/runtime-product-update-sandbox-endpoints",
       "source": "Modal 官方工程博客（RSS）",
       "time": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "title": "Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机",
+      "summary": "Modal 宣布 VM Sandboxes 正式 GA，只需设置 runtime=\"vm\" 即可获得支持 Docker、FUSE 和内核功能的完整 Linux VM，沿用原有 Sandbox 的 API、modal.Image、亚秒级冷启动和内存爆发能力，早期客户已启动超过 2000 万个 VM。",
+      "url": "https://modal.com/blog/vm-sandboxes-agent-computers",
+      "source": "Modal 官方工程博客（RSS）",
+      "time": "2026-10-01T00:00:00.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
@@ -271,20 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
-      "summary": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
-      "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
       "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
       "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
@@ -322,39 +322,32 @@
   ],
   "industry": [
     {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\nComments URL: https://news.ycombinator.com/item?id=49948332\nPoints: 161\n# Comments: 109",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.ycombinator.com/item?id=49957117\nPoints: 54\n# Comments: 17",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "source": "Hacker News",
-      "time": "Sat, 03 Oct 2026 22:18:13 +0000"
+      "time": "Sun, 04 Oct 2026 19:42:25 +0000"
     },
     {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "summary": "Article URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/\nComments URL: https://news.ycombinator.com/item?id=49946567\nPoints: 164\n# Comments: 121",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\nComments URL: https://news.ycombinator.com/item?id=49957068\nPoints: 236\n# Comments: 346",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
       "source": "Hacker News",
-      "time": "Sat, 03 Oct 2026 18:29:30 +0000"
+      "time": "Sun, 04 Oct 2026 19:37:05 +0000"
     },
     {
-      "title": "Agents don't need memory, they need documentation",
-      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory\nComments URL: https://news.ycombinator.com/item?id=49945933\nPoints: 62\n# Comments: 46",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 139\n# Comments: 65",
+      "url": "https://github.com/allenv0/SCM",
       "source": "Hacker News",
-      "time": "Sat, 03 Oct 2026 17:03:37 +0000"
+      "time": "Sun, 04 Oct 2026 09:24:52 +0000"
     },
     {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations\nComments URL: https://news.ycombinator.com/item?id=49945904\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 49\n# Comments: 14",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "source": "Hacker News",
-      "time": "Sat, 03 Oct 2026 17:00:12 +0000"
-    },
-    {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "summary": "tech report: https://aleph-alpha.com/downloads/tech-report.pdfadditional paper: https://tej.as/blog/aleph-alpha-kolibri\n\nComments URL: https://news.ycombinator.com/item?id=49942706\nPoints: 518\n# Comments: 302",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "source": "Hacker News",
-      "time": "Sat, 03 Oct 2026 09:36:04 +0000"
+      "time": "Sun, 04 Oct 2026 08:41:58 +0000"
     },
     {
       "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
@@ -425,64 +418,78 @@
       "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-09-30T16:20:04.000Z"
+    },
+    {
+      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+      "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
+      "url": "https://x.com/ClementDelangue/status/2105276853632094607",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "time": "2026-09-30T12:41:30.000Z"
     }
   ],
   "paper": [
     {
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshape",
-      "url": "http://arxiv.org/abs/2610.02207v1",
+      "title": "S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks",
+      "summary": "Uncertainty quantification (UQ) for random partial differential equations (PDEs) is ubiquitous in computational science and engineering. However, classical spectral solvers for this class of problems face the curse of dimensionality, and existing neural solvers often ignore the stochastic structure ",
+      "url": "http://arxiv.org/abs/2610.03303v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable comm",
-      "url": "http://arxiv.org/abs/2610.02206v1",
+      "title": "JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs",
+      "summary": "Complex reasoning queries can be decomposed into directed acyclic task graphs and distributed across heterogeneous LLMs, reducing latency through parallelism and enabling smaller models to solve complex tasks. In practice, however, the suitability of an LLM for a given subtask may be a priori unknow",
+      "url": "http://arxiv.org/abs/2610.03296v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems withou",
-      "url": "http://arxiv.org/abs/2610.02204v1",
+      "title": "Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening",
+      "summary": "Lung ultrasound (LUS) is attractive for tuberculosis (TB) screening at primary-care level, but labelled cohorts are small. Echocardiography carries no such constraint, while sharing the same underlying ultrasound imaging physics, signal processing and B-mode appearance as LUS. We ask whether an enco",
+      "url": "http://arxiv.org/abs/2610.03290v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Embedding Prediction Helps Image Generation",
-      "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embedding Predictive Autoregression (NEPA) trains a Transformer to predict the next cont",
-      "url": "http://arxiv.org/abs/2610.02203v1",
+      "title": "Architecture-Dependent Fusion Pathways in MLLMs",
+      "summary": "Multimodal Large Language Models (MLLMs) achieve strong performance across vision-language tasks, yet the internal mechanisms by which visual and textual information are fused across layers remain insufficiently understood. We investigate representative MLLMs from two architectural paradigms: concat",
+      "url": "http://arxiv.org/abs/2610.03289v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which ear",
-      "url": "http://arxiv.org/abs/2610.02202v1",
+      "title": "EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation",
+      "summary": "Reinforcement learning (RL) for learning path recommendation (LPR) faces two coupled obstacles. First, the policy must commit to a sequence of L concepts without intermediate feedback, producing a combinatorial search space that grows super-exponentially with L and provides reward only at the final ",
+      "url": "http://arxiv.org/abs/2610.03273v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-      "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topologi",
-      "url": "http://arxiv.org/abs/2610.02201v1",
+      "title": "SPEAR: A Spectral-Disentangled MoE Neural Operator with Knowledge-Guided Expert Aggregation for Large-Scale PDE Pretraining",
+      "summary": "Large-scale pre-training has improved the generalization of neural operators across diverse PDEs. However, existing PDE foundation models still struggle with heterogeneous dynamics, where shared representations may cause knowledge interference, while mixture-of-experts (MoE) architectures suffer fro",
+      "url": "http://arxiv.org/abs/2610.03265v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-      "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows th",
-      "url": "http://arxiv.org/abs/2610.02200v1",
+      "title": "Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures",
+      "summary": "Solving severely ill-posed imaging inverse problems requires recovering image structures that are unobservable or weakly constrained by the measurements. Diffusion models provide expressive learned priors for inferring such missing information, while posterior sampling incorporates measurement consi",
+      "url": "http://arxiv.org/abs/2610.03261v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
-      "summary": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradients, or change the update geometry while retaining dense sta",
-      "url": "http://arxiv.org/abs/2610.02199v1",
+      "title": "PaMIR: Open Benchmark of Public Credit-Default Datasets",
+      "summary": "We release PaMIR (Public Arrival-ordered Measurement for Inference in Risk), an open benchmark for credit-default prediction when labels are scarce and arrive late. The field's reference benchmark studies use eight datasets each, only two or four of them public. PaMIR brings together 19 public datas",
+      "url": "http://arxiv.org/abs/2610.03259v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+      "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "source": "PromptArmor：Threat Intelligence",
+      "time": "2026-10-05T00:24:02.000Z"
     },
     {
       "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
@@ -525,13 +532,6 @@
       "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
       "source": "MIT News（RSS）",
       "time": "2026-09-30T15:00:00.000Z"
-    },
-    {
-      "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
-      "summary": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
-      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-29T19:24:12.000Z"
     }
   ],
   "tips": []
