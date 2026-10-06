@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
+      "summary": "Liquid AI 发布 d1 决策模型，新增文本与图像输入，可通过 console.liquid.ai 和 d1 Playground 使用。",
+      "url": "https://www.liquid.ai/blog/d1-decision-model",
+      "source": "Liquid AI 模型与工程博客（网页）",
+      "time": "2026-10-05T00:00:00.000Z"
+    },
+    {
       "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
       "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
       "url": "https://x.com/arena/status/2106109027923140928",
@@ -57,6 +64,13 @@
       "time": "2026-10-01T16:51:02.000Z"
     },
     {
+      "title": "Google DeepMind 发布 Gemini 4 Argon，1M 输出 token 对标 Astra 与 Fable",
+      "summary": "Google DeepMind 发布 Gemini 4 Argon，主打编码、企业知识工作与网络防御，称在 19 项基准中 13 项第一。",
+      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "source": "Latent Space（RSS）",
+      "time": "2026-10-01T06:45:05.000Z"
+    },
+    {
       "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
       "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
       "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
@@ -90,34 +104,41 @@
       "url": "https://x.com/arena/status/2105367591174995999",
       "source": "X：Arena (@arena)",
       "time": "2026-09-30T18:42:04.000Z"
-    },
-    {
-      "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-      "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "time": "2026-09-30T12:30:49.000Z"
-    },
-    {
-      "title": "GPT-6.1 上线 Arena 评测平台",
-      "summary": "Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。",
-      "url": "https://x.com/arena/status/2105006240363581728",
-      "source": "X：Arena (@arena)",
-      "time": "2026-09-29T18:46:11.000Z"
     }
   ],
   "products": [
     {
-      "title": "Eat Train Feel",
-      "summary": "\n            A coach for you Workouts, food, and how you feel\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/eat-train-feel",
+      "title": "Oogwai Beacon",
+      "summary": "\n            Answer Engine Optimization Audit\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/oogwai-beacon",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "ChatGPT Space",
-      "summary": "\n            Create, collaborate, and build together with AI in Space\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/chatgpt-space",
+      "title": "FastRouter.ai",
+      "summary": "\n            Route requests to the right LLM for cost, latency & quality\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/fastrouter-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Unscary AI",
+      "summary": "\n            Short lessons help you stop feeling behind on AI.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/unscary-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "DailyHelm",
+      "summary": "\n            Turn analytics into daily revenue-boosting fixes \n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/dailyhelm",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Chain Exchange",
+      "summary": "\n            Trade, bridge and move stablecoins across Arc\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chain-exchange",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,11 +150,32 @@
       "time": "今日"
     },
     {
-      "title": "Agent Activity",
-      "summary": "\n            See what your AI agents do behind\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-activity",
+      "title": "ChatGPT Space",
+      "summary": "\n            Create, collaborate, and build together with AI in Space\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chatgpt-space",
       "source": "Product Hunt",
       "time": "今日"
+    },
+    {
+      "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
+      "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "source": "Simon Willison 博客",
+      "time": "2026-10-05T23:56:47.000Z"
+    },
+    {
+      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
+      "summary": "OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-10-05T10:00:00.000Z"
+    },
+    {
+      "title": "Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%",
+      "summary": "Together AI 发布 Together Link，把团队已用的编码智能体工具连接到 Together AI 上的开源模型，宣称可节省超过 50% 支出。",
+      "url": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use",
+      "source": "Together AI 研究与产品博客（RSS）",
+      "time": "2026-10-05T00:00:00.000Z"
     },
     {
       "title": "ChatGPT 推出 Finances 财务管理功能",
@@ -157,130 +199,88 @@
       "time": "2026-10-02T13:00:39.000Z"
     },
     {
+      "title": "Pi 1.0 与 Pi Durable 发布，Latent Space 同时汇总 Gemini 4 Argon、GPT-6.1 Sol 等动态",
+      "summary": "Latent Space 报道 Earendil 的 Pi 1.0 与 Pi Durable 同日登上 HN 首页：Pi 1.0 新增 MCP 原生支持、扩展机制。",
+      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+      "source": "Latent Space（RSS）",
+      "time": "2026-10-02T06:40:53.000Z"
+    },
+    {
       "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
       "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
       "url": "https://x.com/krea_ai/status/2105769469880799716",
       "source": "X：Krea AI (@krea_ai)",
       "time": "2026-10-01T21:18:59.000Z"
-    },
-    {
-      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-      "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
-      "url": "https://x.com/OpenRouter/status/2105759062835220852",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-10-01T20:37:38.000Z"
-    },
-    {
-      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-      "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-      "url": "https://suno.com/blog/introducing-speech-beta",
-      "source": "Suno：Blog（网页）",
-      "time": "2026-10-01T20:35:00.000Z"
-    },
-    {
-      "title": "Prime Intellect 发布推理服务平台 Prime Inference",
-      "summary": "Prime Intellect 发布 Prime Inference，提供 serverless 端点与预留容量，在多数据中心 GPU 基础设施上服务前沿开源模型，内部每天处理近一万亿 token。",
-      "url": "https://www.primeintellect.ai/blog/prime-inference",
-      "source": "Prime Intellect（网页）",
-      "time": "2026-10-01T16:00:00.000Z"
-    },
-    {
-      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-      "url": "https://modal.com/blog/modal-clusters-generally-available",
-      "source": "Modal 官方工程博客（RSS）",
-      "time": "未知"
-    },
-    {
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-      "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-10-01T04:44:34.000Z"
-    },
-    {
-      "title": "Modal 发布 VM Sandboxes、Modal Clusters 等多项 Runtime 产品更新",
-      "summary": "Modal 在其首届 Runtime 大会上发布多项产品更新。VM Sandboxes 为 Agent 提供完整 Linux 环境，已在 Linear、Legora。",
-      "url": "https://modal.com/blog/runtime-product-update-sandbox-endpoints",
-      "source": "Modal 官方工程博客（RSS）",
-      "time": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "title": "Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机",
-      "summary": "Modal 宣布 VM Sandboxes 正式 GA，只需设置 runtime=\"vm\" 即可获得支持 Docker、FUSE 和内核功能的完整 Linux VM，沿用原有 Sandbox 的 API、modal.Image、亚秒级冷启动和内存爆发能力，早期客户已启动超过 2000 万个 VM。",
-      "url": "https://modal.com/blog/vm-sandboxes-agent-computers",
-      "source": "Modal 官方工程博客（RSS）",
-      "time": "2026-10-01T00:00:00.000Z"
     }
   ],
   "biz": [
     {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "All the AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+      "summary": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -322,32 +322,60 @@
   ],
   "industry": [
     {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.ycombinator.com/item?id=49957117\nPoints: 54\n# Comments: 17",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 33\n# Comments: 23",
+      "url": "https://edworkingpapers.com/ai26-1551",
       "source": "Hacker News",
-      "time": "Sun, 04 Oct 2026 19:42:25 +0000"
+      "time": "Tue, 06 Oct 2026 00:00:45 +0000"
     },
     {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\nComments URL: https://news.ycombinator.com/item?id=49957068\nPoints: 236\n# Comments: 346",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/\nComments URL: https://news.ycombinator.com/item?id=49971846\nPoints: 280\n# Comments: 162",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
       "source": "Hacker News",
-      "time": "Sun, 04 Oct 2026 19:37:05 +0000"
+      "time": "Mon, 05 Oct 2026 22:46:45 +0000"
     },
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 139\n# Comments: 65",
-      "url": "https://github.com/allenv0/SCM",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 111\n# Comments: 19",
+      "url": "https://qlabs.sh/research/dust",
       "source": "Hacker News",
-      "time": "Sun, 04 Oct 2026 09:24:52 +0000"
+      "time": "Mon, 05 Oct 2026 21:15:07 +0000"
     },
     {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 49\n# Comments: 14",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 222\n# Comments: 163",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "source": "Hacker News",
-      "time": "Sun, 04 Oct 2026 08:41:58 +0000"
+      "time": "Mon, 05 Oct 2026 21:00:21 +0000"
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "summary": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 321\n# Comments: 92",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "source": "Hacker News",
+      "time": "Mon, 05 Oct 2026 19:16:35 +0000"
+    },
+    {
+      "title": "Linux containers in 500 lines of code (2016)",
+      "summary": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html\nComments URL: https://news.ycombinator.com/item?id=49965118\nPoints: 100\n# Comments: 22",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "source": "Hacker News",
+      "time": "Mon, 05 Oct 2026 14:09:15 +0000"
+    },
+    {
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+      "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "source": "Hacker News：AI 热帖",
+      "time": "2026-10-05T17:53:35.000Z"
+    },
+    {
+      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
+      "summary": "OpenAI 公布应对 EU AI Act 的文本水印方案，发布在模型词选择中加入不可见统计信号的 textGrain 技术，API 客户即日起可对部分模型选择性开启水印，未来数周将在欧盟地区为 ChatGPT 和 Codex 输出添加隐形水印，检测器暂只向获批的研究者和专家机构开放。",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-10-05T15:00:00.000Z"
     },
     {
       "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
@@ -397,96 +425,75 @@
       "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-10-01T12:05:49.000Z"
-    },
-    {
-      "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
-      "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-      "source": "Ars Technica：AI（RSS）",
-      "time": "2026-09-30T18:47:01.000Z"
-    },
-    {
-      "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
-      "summary": "多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。",
-      "url": "https://x.com/JensenHuang/status/2105348324484342238",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "time": "2026-09-30T17:25:30.000Z"
-    },
-    {
-      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
-      "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-09-30T16:20:04.000Z"
-    },
-    {
-      "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
-      "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
-      "url": "https://x.com/ClementDelangue/status/2105276853632094607",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "time": "2026-09-30T12:41:30.000Z"
     }
   ],
   "paper": [
     {
-      "title": "S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks",
-      "summary": "Uncertainty quantification (UQ) for random partial differential equations (PDEs) is ubiquitous in computational science and engineering. However, classical spectral solvers for this class of problems face the curse of dimensionality, and existing neural solvers often ignore the stochastic structure ",
-      "url": "http://arxiv.org/abs/2610.03303v1",
+      "title": "Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning",
+      "summary": "A long-standing goal of AI is a model that can continually learn and improve itself. On post-trained models, supervised finetuning (SFT) on new data often causes poor generalization and catastrophic forgetting. As such, the conventional wisdom is that on-policy training is a prerequisite for continu",
+      "url": "http://arxiv.org/abs/2610.05872v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs",
-      "summary": "Complex reasoning queries can be decomposed into directed acyclic task graphs and distributed across heterogeneous LLMs, reducing latency through parallelism and enabling smaller models to solve complex tasks. In practice, however, the suitability of an LLM for a given subtask may be a priori unknow",
-      "url": "http://arxiv.org/abs/2610.03296v1",
+      "title": "Finite-Sample Distribution Theory and Efficient Large-Scale Inference for Online Quantile Regression",
+      "summary": "This paper studies online quantile regression for large-scale and streaming data using Stochastic SubGradient Descent (SSGD) with constant learning rates. Classical offline inference for quantile regression is computationally and memory intensive. Existing works of online inference for quantile regr",
+      "url": "http://arxiv.org/abs/2610.05869v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening",
-      "summary": "Lung ultrasound (LUS) is attractive for tuberculosis (TB) screening at primary-care level, but labelled cohorts are small. Echocardiography carries no such constraint, while sharing the same underlying ultrasound imaging physics, signal processing and B-mode appearance as LUS. We ask whether an enco",
-      "url": "http://arxiv.org/abs/2610.03290v1",
+      "title": "Weave Mamba Fusion: Global Cross-Scale Interaction for Lightweight Face Detection",
+      "summary": "Feature pyramid methods, from FPN to BiFPN, have achieved strong performance in face detection by fusing multi-scale features. However, detecting faces under unconstrained conditions, such as small scale, occlusion, and extreme pose, remains difficult, as it requires global cross-scale dependencies ",
+      "url": "http://arxiv.org/abs/2610.05865v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Architecture-Dependent Fusion Pathways in MLLMs",
-      "summary": "Multimodal Large Language Models (MLLMs) achieve strong performance across vision-language tasks, yet the internal mechanisms by which visual and textual information are fused across layers remain insufficiently understood. We investigate representative MLLMs from two architectural paradigms: concat",
-      "url": "http://arxiv.org/abs/2610.03289v1",
+      "title": "CCQ: A Multi-State Child Care Quality Dataset to Support AI for Children's Health Research",
+      "summary": "High-quality child care in early life is a critical determinant of children's growth and development. Research on child care quality has been constrained by fragmented, non-research-friendly, and privacy-bound datasets. We present CCQ (Child Care Quality), a large-scale, de-identified dataset for ap",
+      "url": "http://arxiv.org/abs/2610.05863v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation",
-      "summary": "Reinforcement learning (RL) for learning path recommendation (LPR) faces two coupled obstacles. First, the policy must commit to a sequence of L concepts without intermediate feedback, producing a combinatorial search space that grows super-exponentially with L and provides reward only at the final ",
-      "url": "http://arxiv.org/abs/2610.03273v1",
+      "title": "Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training",
+      "summary": "Graphical User Interface (GUI) agents have emerged as a promising paradigm for automating complex digital workflows across diverse applications. However, training highly capable and generalizable agents fundamentally relies on massive, high-fidelity visual-action trajectories, which are notoriously ",
+      "url": "http://arxiv.org/abs/2610.05861v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "SPEAR: A Spectral-Disentangled MoE Neural Operator with Knowledge-Guided Expert Aggregation for Large-Scale PDE Pretraining",
-      "summary": "Large-scale pre-training has improved the generalization of neural operators across diverse PDEs. However, existing PDE foundation models still struggle with heterogeneous dynamics, where shared representations may cause knowledge interference, while mixture-of-experts (MoE) architectures suffer fro",
-      "url": "http://arxiv.org/abs/2610.03265v1",
+      "title": "Curriculum Brain: Constructing Curriculum Knowledge Graphs as a Substrate for Cognitive Diagnosis",
+      "summary": "Cognitive Diagnostic Models (CDMs) identify which specific skills a student has and has not mastered, the signal a personalized learning path needs and a single aggregate score cannot give. Yet they are rarely deployed. The obstacle is their precondition: the Q-matrix, a mapping from every assessmen",
+      "url": "http://arxiv.org/abs/2610.05860v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures",
-      "summary": "Solving severely ill-posed imaging inverse problems requires recovering image structures that are unobservable or weakly constrained by the measurements. Diffusion models provide expressive learned priors for inferring such missing information, while posterior sampling incorporates measurement consi",
-      "url": "http://arxiv.org/abs/2610.03261v1",
+      "title": "Hierarchical Reinforcement Learning for Collision-Free Locomotion of an Underactuated Biped",
+      "summary": "A bipedal robot cannot deviate from its path to avoid an obstacle without disturbing its balance, and this coupling is most severe on underactuated platforms such as the biped considered here, which has four actuated joints per leg and no hip or ankle roll. This paper presents a Hierarchical Reinfor",
+      "url": "http://arxiv.org/abs/2610.05855v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "PaMIR: Open Benchmark of Public Credit-Default Datasets",
-      "summary": "We release PaMIR (Public Arrival-ordered Measurement for Inference in Risk), an open benchmark for credit-default prediction when labels are scarce and arrive late. The field's reference benchmark studies use eight datasets each, only two or four of them public. PaMIR brings together 19 public datas",
-      "url": "http://arxiv.org/abs/2610.03259v1",
+      "title": "TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel",
+      "summary": "Triangular attention is a core computation in AlphaFold3-style biomolecular models, with cubic cost in token count. Its shared pair bias adds a gradient reduction across attention slices to the usual reductions over queries and keys. The open-source backends we examine handle these reductions throug",
+      "url": "http://arxiv.org/abs/2610.05854v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-      "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+      "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "source": "SemiAnalysis 长文 RSS（RSS）",
+      "time": "2026-10-05T20:01:09.000Z"
+    },
+    {
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过控制实现钓鱼与数据外泄",
+      "summary": "PromptArmor 报告称 Databricks Genie Code 执行上传的恶意 Skill 后，可在聊天渲染结果时弹出钓鱼页面并经用户浏览器外泄租户数据，全程无需人工批准。",
       "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
       "source": "PromptArmor：Threat Intelligence",
       "time": "2026-10-05T00:24:02.000Z"
@@ -525,13 +532,6 @@
       "url": "https://www.anthropic.com/research/claude-shaped-science",
       "source": "Anthropic：Research（发表成果 · 网页）",
       "time": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "title": "MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手",
-      "summary": "MIT、CMU、NYU 与 Stanford 的研究人员开发出 AI 系统 Ataraxos，在隐藏信息棋盘战棋 Stratego 上大幅超越世界顶级人类选手，论文发表于 Nature。",
-      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-      "source": "MIT News（RSS）",
-      "time": "2026-09-30T15:00:00.000Z"
     }
   ],
   "tips": []
