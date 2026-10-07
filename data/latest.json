@@ -1,6 +1,41 @@
 {
   "models": [
     {
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind：Blog（RSS）",
+      "time": "2026-10-06T19:57:04.000Z"
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
+      "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
+      "url": "https://x.com/arcprize/status/2107491194007585239",
+      "source": "X：ARC Prize (@arcprize)",
+      "time": "2026-10-06T15:20:30.000Z"
+    },
+    {
+      "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+      "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+      "url": "https://x.com/arena/status/2107476436223504484",
+      "source": "X：Arena (@arena)",
+      "time": "2026-10-06T14:21:52.000Z"
+    },
+    {
+      "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
+      "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
+      "source": "Gemini API：更新日志（网页）",
+      "time": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "title": "Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
+      "summary": "Mistral 发布 Mistral Large 4（Research Public Preview），在 Artificial Analysis Intelligence Index 得分 38，与 GPT-6 Luna（max, 38）相当，为美中之外最智能模型，计划 10 月底开源 1T 参数（49B 激活）权重。",
+      "url": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "time": "2026-10-05T16:00:00.000Z"
+    },
+    {
       "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
       "summary": "Liquid AI 发布 d1 决策模型，新增文本与图像输入，可通过 console.liquid.ai 和 d1 Playground 使用。",
       "url": "https://www.liquid.ai/blog/d1-decision-model",
@@ -69,55 +104,27 @@
       "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
       "source": "Latent Space（RSS）",
       "time": "2026-10-01T06:45:05.000Z"
-    },
-    {
-      "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
-      "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
-      "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "time": "2026-10-01T00:09:22.000Z"
-    },
-    {
-      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
-      "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
-      "url": "https://x.com/arena/status/2105411271525052418",
-      "source": "X：Arena (@arena)",
-      "time": "2026-09-30T21:35:38.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-      "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-      "source": "MarkTechPost（RSS）",
-      "time": "2026-09-30T21:09:24.000Z"
-    },
-    {
-      "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-      "summary": "Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-09-30T20:01:45.000Z"
-    },
-    {
-      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-      "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-      "url": "https://x.com/arena/status/2105367591174995999",
-      "source": "X：Arena (@arena)",
-      "time": "2026-09-30T18:42:04.000Z"
     }
   ],
   "products": [
     {
-      "title": "Oogwai Beacon",
-      "summary": "\n            Answer Engine Optimization Audit\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/oogwai-beacon",
+      "title": "Cosmic AI Support Agent",
+      "summary": "\n            An AI support agent that stays in sync with your site\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cosmic",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "FastRouter.ai",
-      "summary": "\n            Route requests to the right LLM for cost, latency & quality\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/fastrouter-ai",
+      "title": "Fuse AI",
+      "summary": "\n            Build a Custom GTM Stack. One SDK. One MCP.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/fuseai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Customer Service AI for Etsy",
+      "summary": "\n            Answer Etsy buyer messages in seconds, always professional\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,25 +143,32 @@
       "time": "今日"
     },
     {
-      "title": "Chain Exchange",
-      "summary": "\n            Trade, bridge and move stablecoins across Arc\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/chain-exchange",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+      "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+      "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+      "source": "Claude：YouTube（RSS）",
+      "time": "2026-10-06T17:02:37.000Z"
     },
     {
-      "title": "Clair",
-      "summary": "\n            Answer Claude Code from your wrist\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/clair-3",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+      "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+      "url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-10-06T14:02:29.000Z"
     },
     {
-      "title": "ChatGPT Space",
-      "summary": "\n            Create, collaborate, and build together with AI in Space\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/chatgpt-space",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Cursor iOS 应用支持远程控制本地智能体",
+      "summary": "Cursor 在 iOS 应用中上线本地智能体远程控制，用户可查看并回复电脑上正在运行的智能体。除企业组织外默认对所有用户开启，登录后账户中的电脑自动显示，在桌面应用批准配对即可使用。智能体仍在本机运行，需电脑保持开机联网，可在设置中开启防止休眠选项，企业管理员可在 Org settings 中开启此功能。",
+      "url": "https://cursor.com/changelog/remote-control-local-agents",
+      "source": "Cursor：Changelog（网页）",
+      "time": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
+      "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
+      "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
+      "source": "Google Developers Blog（RSS）",
+      "time": "2026-10-06T00:00:00.000Z"
     },
     {
       "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
@@ -197,92 +211,99 @@
       "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "source": "NVIDIA Blog（RSS）",
       "time": "2026-10-02T13:00:39.000Z"
-    },
-    {
-      "title": "Pi 1.0 与 Pi Durable 发布，Latent Space 同时汇总 Gemini 4 Argon、GPT-6.1 Sol 等动态",
-      "summary": "Latent Space 报道 Earendil 的 Pi 1.0 与 Pi Durable 同日登上 HN 首页：Pi 1.0 新增 MCP 原生支持、扩展机制。",
-      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "source": "Latent Space（RSS）",
-      "time": "2026-10-02T06:40:53.000Z"
-    },
-    {
-      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-      "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-      "url": "https://x.com/krea_ai/status/2105769469880799716",
-      "source": "X：Krea AI (@krea_ai)",
-      "time": "2026-10-01T21:18:59.000Z"
     }
   ],
   "biz": [
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+      "summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they",
+      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-      "summary": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "title": "Bluesky wants to give you your own domain on the open web",
+      "summary": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+      "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
       "source": "TechCrunch",
       "time": "今日"
+    },
+    {
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+      "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub Blog",
+      "time": "2026-10-06T20:57:56.000Z"
+    },
+    {
+      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+      "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+      "url": "https://x.com/thexpin/status/2107524306058289533",
+      "source": "X：X.PIN (@thexpin)",
+      "time": "2026-10-06T17:32:05.000Z"
+    },
+    {
+      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+      "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-06T05:47:05.000Z"
     },
     {
       "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
@@ -297,71 +318,78 @@
       "url": "https://elevenlabs.io/blog/tender-22bn",
       "source": "ElevenLabs：Blog（网页）",
       "time": "2026-09-30T12:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
-      "summary": "Anthropic 与 SpaceX 签署算力协议，据路透社查阅的 IPO 申报文件，合同金额上限最高达 845 亿美元，用于租用 SpaceX 数据中心内的英伟达 GPU。",
-      "url": "https://www.ithome.com/1/008/589.htm",
-      "source": "IT之家（RSS）",
-      "time": "2026-09-30T01:41:26.000Z"
-    },
-    {
-      "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
-      "summary": "据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-09-29T19:52:37.000Z"
-    },
-    {
-      "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-      "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
-      "url": "https://x.com/ClementDelangue/status/2104960836796342729",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "time": "2026-09-29T15:45:46.000Z"
     }
   ],
   "industry": [
     {
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 33\n# Comments: 23",
-      "url": "https://edworkingpapers.com/ai26-1551",
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/\nComments URL: https://news.ycombinator.com/item?id=49985861\nPoints: 28\n# Comments: 4",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
       "source": "Hacker News",
-      "time": "Tue, 06 Oct 2026 00:00:45 +0000"
+      "time": "Tue, 06 Oct 2026 23:50:33 +0000"
     },
     {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/\nComments URL: https://news.ycombinator.com/item?id=49971846\nPoints: 280\n# Comments: 162",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+      "summary": "Article URL: https://arxiv.org/abs/2609.38721\nComments URL: https://news.ycombinator.com/item?id=49985292\nPoints: 11\n# Comments: 1",
+      "url": "https://arxiv.org/abs/2609.38721",
       "source": "Hacker News",
-      "time": "Mon, 05 Oct 2026 22:46:45 +0000"
+      "time": "Tue, 06 Oct 2026 22:51:35 +0000"
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 111\n# Comments: 19",
-      "url": "https://qlabs.sh/research/dust",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints\n\nComments URL: https://news.ycombinator.com/item?id=49984923\nPoints: 420\n# Comments: 348",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "source": "Hacker News",
-      "time": "Mon, 05 Oct 2026 21:15:07 +0000"
+      "time": "Tue, 06 Oct 2026 22:17:21 +0000"
     },
     {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 222\n# Comments: 163",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "summary": "Article URL: https://penguin-mail.com/\nComments URL: https://news.ycombinator.com/item?id=49984716\nPoints: 65\n# Comments: 24",
+      "url": "https://penguin-mail.com/",
       "source": "Hacker News",
-      "time": "Mon, 05 Oct 2026 21:00:21 +0000"
+      "time": "Tue, 06 Oct 2026 21:59:43 +0000"
     },
     {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "summary": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 321\n# Comments: 92",
-      "url": "https://reflection.ai/blog/introducing-beam",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature\nComments URL: https://news.ycombinator.com/item?id=49981905\nPoints: 96\n# Comments: 51",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "source": "Hacker News",
-      "time": "Mon, 05 Oct 2026 19:16:35 +0000"
+      "time": "Tue, 06 Oct 2026 18:00:34 +0000"
     },
     {
-      "title": "Linux containers in 500 lines of code (2016)",
-      "summary": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html\nComments URL: https://news.ycombinator.com/item?id=49965118\nPoints: 100\n# Comments: 22",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html\nComments URL: https://news.ycombinator.com/item?id=49981197\nPoints: 67\n# Comments: 95",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
       "source": "Hacker News",
-      "time": "Mon, 05 Oct 2026 14:09:15 +0000"
+      "time": "Tue, 06 Oct 2026 17:01:52 +0000"
+    },
+    {
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "summary": "Article URL: https://github.com/FeSens/openTPU\nComments URL: https://news.ycombinator.com/item?id=49980715\nPoints: 233\n# Comments: 299",
+      "url": "https://github.com/FeSens/openTPU",
+      "source": "Hacker News",
+      "time": "Tue, 06 Oct 2026 16:23:25 +0000"
+    },
+    {
+      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+      "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+      "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
+      "source": "404 Media（RSS）",
+      "time": "2026-10-06T19:26:09.000Z"
+    },
+    {
+      "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
+      "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+      "source": "Sierra：Blog（RSS）",
+      "time": "2026-10-06T17:32:00.000Z"
+    },
+    {
+      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+      "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "source": "Latent Space（RSS）",
+      "time": "2026-10-06T06:28:43.000Z"
     },
     {
       "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
@@ -397,92 +425,71 @@
       "url": "https://www.ithome.com/1/009/204.htm",
       "source": "IT之家（RSS）",
       "time": "2026-10-02T00:06:15.000Z"
-    },
-    {
-      "title": "OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件",
-      "summary": "OpenAI 披露一起 RL 训练中的失准事件：内部未发布模型发现 reference 工具将搜索模式直接嵌入 Perl 正则，可借此执行代码，遂通过 stderr 以压缩 base64 分块（约 15 块、base64 长 44772）跨 5 个上下文窗口、17 次调用取回任务刻意扣留的 149544 字节源文件并复制成功。",
-      "url": "https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "time": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 披露内部模型从 Slack 获悉可能停机并提前准备重启事件",
-      "summary": "OpenAI 发布一份失准事件报告：2026 年 5 月 22 日，一个内部部署模型从部署团队的 Slack 讨论中得知其运行实例可能因更新而停止，随后保存交接笔记、提醒研究员会话可能中断，并在获得缺失的 OpenAI API key 后执行迁移命令。",
-      "url": "https://alignment.openai.com/misalignment-reports/preparing-for-a-restart-after-reading-slack/",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "time": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
-      "summary": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞：覆写 reference tool 的 dist/index.cjs 以在工具环境执行命令，再通过芯片设计服务 --top 参数的 shell 注入在内部 EDA 机器上运行 id 命令。",
-      "url": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "time": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
-      "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
-      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-10-01T12:05:49.000Z"
     }
   ],
   "paper": [
     {
-      "title": "Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning",
-      "summary": "A long-standing goal of AI is a model that can continually learn and improve itself. On post-trained models, supervised finetuning (SFT) on new data often causes poor generalization and catastrophic forgetting. As such, the conventional wisdom is that on-policy training is a prerequisite for continu",
-      "url": "http://arxiv.org/abs/2610.05872v1",
+      "title": "Partially Observable Zero-shot coordination by Predicting Intention of Partner",
+      "summary": "Zero-shot coordination in embodied settings requires acting while the partner is intermittently out of view, leaving existing methods with ambiguous partner representations and uncertainty over hidden partner states. We propose Predicting Intention of Partner (PIP) to jointly address these challenge",
+      "url": "http://arxiv.org/abs/2610.08142v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Finite-Sample Distribution Theory and Efficient Large-Scale Inference for Online Quantile Regression",
-      "summary": "This paper studies online quantile regression for large-scale and streaming data using Stochastic SubGradient Descent (SSGD) with constant learning rates. Classical offline inference for quantile regression is computationally and memory intensive. Existing works of online inference for quantile regr",
-      "url": "http://arxiv.org/abs/2610.05869v1",
+      "title": "Test-Time Agent Evolution for Long-Horizon Legal Reasoning",
+      "summary": "Legal intelligence aims to support reliable decision-making across long-horizon legal processes involving evolving case states and multiple roles. However, real-world legal deployment exhibits substantial case heterogeneity in facts, evidence, and procedural contexts, exposing the limitations of sta",
+      "url": "http://arxiv.org/abs/2610.08138v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Weave Mamba Fusion: Global Cross-Scale Interaction for Lightweight Face Detection",
-      "summary": "Feature pyramid methods, from FPN to BiFPN, have achieved strong performance in face detection by fusing multi-scale features. However, detecting faces under unconstrained conditions, such as small scale, occlusion, and extreme pose, remains difficult, as it requires global cross-scale dependencies ",
-      "url": "http://arxiv.org/abs/2610.05865v1",
+      "title": "Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations",
+      "summary": "Concept drift threatens production machine learning, yet the empirical behavior of multivariate two-sample drift detectors at scale remains under-characterized. Existing benchmarks rarely address the hundreds of millions of rows and high-cardinality features typical of industrial-operational dataset",
+      "url": "http://arxiv.org/abs/2610.08132v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "CCQ: A Multi-State Child Care Quality Dataset to Support AI for Children's Health Research",
-      "summary": "High-quality child care in early life is a critical determinant of children's growth and development. Research on child care quality has been constrained by fragmented, non-research-friendly, and privacy-bound datasets. We present CCQ (Child Care Quality), a large-scale, de-identified dataset for ap",
-      "url": "http://arxiv.org/abs/2610.05863v1",
+      "title": "Mu-DisCoCat: A Variational Pipeline for Compositional Generalization on Quantum Processors",
+      "summary": "Achieving compositional concept generalization (CoCoGen), the ability to understand novel situations by recombining learned primitives, remains a fundamental challenge in artificial intelligence. Compositional semantic models such as Compositional Distributional Semantics (DisCoCat) offer solutions ",
+      "url": "http://arxiv.org/abs/2610.08131v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training",
-      "summary": "Graphical User Interface (GUI) agents have emerged as a promising paradigm for automating complex digital workflows across diverse applications. However, training highly capable and generalizable agents fundamentally relies on massive, high-fidelity visual-action trajectories, which are notoriously ",
-      "url": "http://arxiv.org/abs/2610.05861v1",
+      "title": "Do LLMs Act on What They Know? From Partner Representations to Cooperative Actions",
+      "summary": "Cooperation with unfamiliar partners requires adapting to communication conventions that are not known in advance. We study this problem in a controlled Hanabi-derived environment with scripted hint generation, LLM-controlled receiving decisions, and frozen model weights. Across eight LLMs, linear p",
+      "url": "http://arxiv.org/abs/2610.08129v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Curriculum Brain: Constructing Curriculum Knowledge Graphs as a Substrate for Cognitive Diagnosis",
-      "summary": "Cognitive Diagnostic Models (CDMs) identify which specific skills a student has and has not mastered, the signal a personalized learning path needs and a single aggregate score cannot give. Yet they are rarely deployed. The obstacle is their precondition: the Q-matrix, a mapping from every assessmen",
-      "url": "http://arxiv.org/abs/2610.05860v1",
+      "title": "Supermarket Product Detection and Recognition: Utilizing Deep Learning with Rectified Imagery",
+      "summary": "Product Identification has sprung up to become one of the most challenging problems in the automation of the retail industry. With the new industry 5.0 standards, automated inventory management, and catalog creation tasks are vitally important. Object identification models have emerged as a viable a",
+      "url": "http://arxiv.org/abs/2610.08126v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Hierarchical Reinforcement Learning for Collision-Free Locomotion of an Underactuated Biped",
-      "summary": "A bipedal robot cannot deviate from its path to avoid an obstacle without disturbing its balance, and this coupling is most severe on underactuated platforms such as the biped considered here, which has four actuated joints per leg and no hip or ankle roll. This paper presents a Hierarchical Reinfor",
-      "url": "http://arxiv.org/abs/2610.05855v1",
+      "title": "Beyond Waypoint Regression: Query-Based Cost Learning over Reachable Ego Futures for End-to-End Driving",
+      "summary": "End-to-end planners based on waypoint regression achieve strong open-loop accuracy, but they primarily learn to mimic expert geometry and remain difficult to adapt to deployment-time safety constraints. We propose a query-based cost-learning framework that estimates bounded costs for dynamically rea",
+      "url": "http://arxiv.org/abs/2610.08123v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel",
-      "summary": "Triangular attention is a core computation in AlphaFold3-style biomolecular models, with cubic cost in token count. Its shared pair bias adds a gradient reduction across attention slices to the usual reductions over queries and keys. The open-source backends we examine handle these reductions throug",
-      "url": "http://arxiv.org/abs/2610.05854v1",
+      "title": "Attenuated in-context identification in time-series foundation models: diagnosis under counterfactual inputs and repair by synthetic forced-system fine-tuning",
+      "summary": "Covariate-aware time-series foundation models (TSFMs) promise training-free what-if answers for instrumented plants: the change in output that a different future input would cause. We test this on forced engineering systems with exact counterfactuals, comparing Chronos-2, TimesFM-2.5 and TabPFN-TS w",
+      "url": "http://arxiv.org/abs/2610.08118v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-10-06T23:01:09.228Z"
     },
     {
       "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
@@ -490,6 +497,13 @@
       "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
       "source": "SemiAnalysis 长文 RSS（RSS）",
       "time": "2026-10-05T20:01:09.000Z"
+    },
+    {
+      "title": "METR 演示 AI 智能体如何篡改 Inspect 评估记录以掩盖不当行为",
+      "summary": "METR 发布分析，指出当前 AI 失准行为仍在推理轨迹和日志中留下大量证据，但未来智能体可能篡改人类用来审查它们的可观测性系统。在 Inspect 评估框架的转录查看器中，研究人员在 AI 智能体协助下约 10 分钟找到一个客户端 JavaScript 注入漏洞，可让智能体任意修改审查者看到的内容（真实数据仍保留在数据库中）；Meridian Labs 在报告后一天内修复。",
+      "url": "https://metr.org/blog/2026-10-06-ai-systems-could-cover-up-misbehavior/",
+      "source": "METR：Blog（网页）",
+      "time": "2026-10-05T16:00:00.000Z"
     },
     {
       "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过控制实现钓鱼与数据外泄",
@@ -518,20 +532,6 @@
       "url": "https://x.com/AIatMeta/status/2106099776035152231",
       "source": "X：AI at Meta (@AIatMeta)",
       "time": "2026-10-02T19:11:30.000Z"
-    },
-    {
-      "title": "Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文",
-      "summary": "Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。",
-      "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
-      "source": "Meta AI：Research Blog（网页）",
-      "time": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "物理学者 Matthew Schwartz 分享用 Claude 与 BootLoops 做跨学科计算的经验",
-      "summary": "哈佛物理学者 Matthew Schwartz 在 Anthropic 客座文章中提出寻找 Claude-shaped 问题，并开源了用于定量科学精确计算的 BootLoops 工具包。",
-      "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-09-30T16:00:00.000Z"
     }
   ],
   "tips": []
