@@ -108,9 +108,16 @@
   ],
   "products": [
     {
-      "title": "KernelAI",
-      "summary": "\n            Private, offline AI for iPhone and Android\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kernelai",
+      "title": "Automations in Perplexity Computer",
+      "summary": "\n            Automations that remember, act, and keep work moving\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ReSO AI",
+      "summary": "\n            Get discovered & recommended when customers ask AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/reso",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,18 +136,18 @@
       "time": "今日"
     },
     {
-      "title": "ReSO AI",
-      "summary": "\n            Get discovered & recommended when customers ask AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/reso",
+      "title": "KernelAI",
+      "summary": "\n            Private, offline AI for iPhone and Android\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/kernelai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "AgentSDR",
-      "summary": "\n             Open-source AI SDR\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentsdr",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+      "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
+      "url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "source": "X：Tibo (@thsottiaux)",
+      "time": "2026-10-11T23:45:59.000Z"
     },
     {
       "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
@@ -204,16 +211,30 @@
       "url": "https://x.com/OpenRouter/status/2107929204142874759",
       "source": "X：OpenRouter (@OpenRouter)",
       "time": "2026-10-07T20:21:00.000Z"
-    },
-    {
-      "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
-      "summary": "LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。",
-      "url": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
-      "source": "LangChain：Blog（RSS）",
-      "time": "2026-10-07T18:49:50.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
@@ -246,34 +267,6 @@
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -318,57 +311,43 @@
       "url": "https://x.com/arena/status/2108243026741248348",
       "source": "X：Arena (@arena)",
       "time": "2026-10-08T17:08:01.000Z"
+    },
+    {
+      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+      "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-08T09:24:17.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Build your own decision model",
-      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/\nComments URL: https://news.ycombinator.com/item?id=50037949\nPoints: 103\n# Comments: 18",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "summary": "Article URL: https://github.com/plimsollmark/plimsoll\nComments URL: https://news.ycombinator.com/item?id=50049388\nPoints: 9\n# Comments: 2",
+      "url": "https://github.com/plimsollmark/plimsoll",
       "source": "Hacker News",
-      "time": "Sat, 10 Oct 2026 22:50:10 +0000"
+      "time": "Sun, 11 Oct 2026 23:47:59 +0000"
     },
     {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\nComments URL: https://news.ycombinator.com/item?id=50035886\nPoints: 117\n# Comments: 82",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+      "summary": "In August, I posted here about TeXbrain, a LaTeX editor that runs completely in the browser, with no need for an account or server. (I didn't excpect it to get that much feedback, bug reports and help from here!)This is the same idea for the other half of my studies, the handwritten notes. I take th",
+      "url": "https://github.com/swimmingbrain/brainotes",
       "source": "Hacker News",
-      "time": "Sat, 10 Oct 2026 18:48:35 +0000"
+      "time": "Sun, 11 Oct 2026 23:22:29 +0000"
     },
     {
-      "title": "Bitwarden Dual License Model",
-      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\nComments URL: https://news.ycombinator.com/item?id=50033407\nPoints: 346\n# Comments: 248",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "title": "Google is illegaly cutting forest to build data centers",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment\nComments URL: https://news.ycombinator.com/item?id=50048638\nPoints: 131\n# Comments: 18",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
       "source": "Hacker News",
-      "time": "Sat, 10 Oct 2026 14:32:50 +0000"
+      "time": "Sun, 11 Oct 2026 22:33:30 +0000"
     },
     {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "summary": "Article URL: https://github.com/rociiu/talorys\nComments URL: https://news.ycombinator.com/item?id=50031614\nPoints: 247\n# Comments: 121",
-      "url": "https://github.com/rociiu/talorys",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046\nComments URL: https://news.ycombinator.com/item?id=50047422\nPoints: 250\n# Comments: 402",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
-      "time": "Sat, 10 Oct 2026 10:52:09 +0000"
-    },
-    {
-      "title": "Food processing influences metabolism and brain activity",
-      "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\nComments URL: https://news.ycombinator.com/item?id=50029830\nPoints: 107\n# Comments: 83",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "source": "Hacker News",
-      "time": "Sat, 10 Oct 2026 05:22:30 +0000"
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "summary": "Article URL: https://epoch.ai/publications/innovationeval\nComments URL: https://news.ycombinator.com/item?id=50027257\nPoints: 75\n# Comments: 56",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "source": "Hacker News",
-      "time": "Fri, 09 Oct 2026 22:14:40 +0000"
-    },
-    {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "summary": "Article URL: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/\nComments URL: https://news.ycombinator.com/item?id=50021899\nPoints: 54\n# Comments: 26",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "source": "Hacker News",
-      "time": "Fri, 09 Oct 2026 15:26:33 +0000"
+      "time": "Sun, 11 Oct 2026 20:20:52 +0000"
     },
     {
       "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
@@ -420,67 +399,88 @@
       "time": "2026-10-08T18:17:07.000Z"
     },
     {
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-      "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-10-08T09:24:17.000Z"
+      "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+      "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+      "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "source": "Waymo：Blog（网页）",
+      "time": "2026-10-08T07:00:00.000Z"
+    },
+    {
+      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+      "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+      "url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "source": "X：Tibo (@thsottiaux)",
+      "time": "2026-10-08T03:44:55.000Z"
+    },
+    {
+      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+      "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
+      "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
+      "source": "AIHOT",
+      "time": "2026-10-08T02:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
+      "summary": "OpenAI 于10月7日在 GitHub 发布 openai/math 仓库，收录其未公开内部模型产出的722份数学手稿，归为372个成果组，覆盖数论、代数几何、偏微分方程等方向，每个结果平均花费约3小时 ChatGPT Pro 级别思考算力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-10-08T00:36:00.000Z"
     }
   ],
   "paper": [
     {
-      "title": "CSF: Contextual Safety Filtering for Motion Generators",
-      "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they d",
-      "url": "http://arxiv.org/abs/2610.12467v1",
+      "title": "RESCUE: Is This Alarm Worth Acting On? Counterfactual Evaluation of VLA Runtime Monitors",
+      "summary": "Runtime failure monitors for robot policies are typically evaluated by how accurately they distinguish failed from successful executions. Yet an accurate alarm may arrive too late for recovery, while an unnecessary intervention may disrupt an execution that would otherwise succeed. We introduce RESC",
+      "url": "http://arxiv.org/abs/2610.13516v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumpti",
-      "url": "http://arxiv.org/abs/2610.12466v1",
+      "title": "Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis",
+      "summary": "Clinical prognosis requires integrating structured measurements, physiological waveforms, longitudinal history, and population context. We introduce PRISM (Population-Retrieved Inference for Structured Multimodal Prognosis), a multimodal language model that combines per-feature numerical tokenizatio",
+      "url": "http://arxiv.org/abs/2610.13510v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-      "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards a",
-      "url": "http://arxiv.org/abs/2610.12465v1",
+      "title": "FedPCD: Priority-Constrained Federated Aggregation",
+      "summary": "Federated learning (FL) seeks to optimize a shared global model from decentralized client data. While effective for average performance, this process can produce unfair performance across clients, particularly under statistically heterogeneous data distributions. Existing fairness-aware and multi-ob",
+      "url": "http://arxiv.org/abs/2610.13508v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environme",
-      "url": "http://arxiv.org/abs/2610.12463v1",
+      "title": "Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning",
+      "summary": "Generative Recommenders increasingly use Reinforcement Learning (RL) to optimize outcomes that may appear hundreds or thousands of interactions after a decision. Standard RL propagates reward according to temporal proximity rather than explicit relevance, attenuating the signal assigned to distant b",
+      "url": "http://arxiv.org/abs/2610.13504v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "BrickBench: Evaluating Agentic Brick Design",
-      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reaso",
-      "url": "http://arxiv.org/abs/2610.12452v1",
+      "title": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits",
+      "summary": "Existing LLM-based agent approaches for long-horizon machine learning engineering (MLE) often use context engineering, implemented through custom harnesses that manage tools, skills, and accumulated experience. However, we find that as single-session execution lengthens, the agent's reasoning intens",
+      "url": "http://arxiv.org/abs/2610.13494v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-      "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as ",
-      "url": "http://arxiv.org/abs/2610.12448v1",
+      "title": "Branching On-Policy Distillation",
+      "summary": "On-policy distillation (OPD) provides teacher supervision on student-generated trajectories, but a single trajectory realizes only one continuation at each decision, limiting supervision coverage under a finite sampling budget. We propose BranchOPD (Branching On-Policy Distillation), which selects i",
+      "url": "http://arxiv.org/abs/2610.13481v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying mos",
-      "url": "http://arxiv.org/abs/2610.12449v1",
+      "title": "A Scalable Learned Iterative Solver for Nonlinear MPC via Temporal Decomposition",
+      "summary": "Nonlinear model predictive control (NMPC) can be applied to large nonlinear systems with complex objectives while enforcing constraints, but the cost of solving the underlying optimization problems limits real-time application for systems with fast dynamics or many states. Neural networks can reduce",
+      "url": "http://arxiv.org/abs/2610.13480v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and intro",
-      "url": "http://arxiv.org/abs/2610.12445v1",
+      "title": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
+      "summary": "Generating edge case scenarios is crucial for training, testing and safety assuring autonomous systems. This identifies hazardous failures to increase system reliability and robustness, ensures the system can still function safely on the boundaries of its operational design domain and learns the exp",
+      "url": "http://arxiv.org/abs/2610.13479v1",
       "source": "arXiv",
       "time": "今日"
     },
