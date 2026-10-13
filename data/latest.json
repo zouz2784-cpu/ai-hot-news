@@ -1,6 +1,20 @@
 {
   "models": [
     {
+      "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
+      "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
+      "url": "https://x.com/arena/status/2109706854700044523",
+      "source": "X：Arena (@arena)",
+      "time": "2026-10-12T18:04:45.000Z"
+    },
+    {
+      "title": "Meta 发布 Muse Wonder 和 Muse Wonder Full，Artificial Analysis 实测智能水平较前代显著提升",
+      "summary": "Meta 发布 Muse Wonder 和 Muse Wonder Full 两款模型，在 Artificial Analysis Intelligence Index v4.3 上分别得 52 和 56 分（max reasoning effort）。",
+      "url": "https://artificialanalysis.ai/articles/muse-wonder",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "time": "2026-10-11T16:00:00.000Z"
+    },
+    {
       "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
       "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
       "url": "https://x.com/arcprize/status/2108578092558250148",
@@ -90,23 +104,16 @@
       "url": "https://x.com/arena/status/2107476436223504484",
       "source": "X：Arena (@arena)",
       "time": "2026-10-06T14:21:52.000Z"
-    },
-    {
-      "title": "Gemini Nano Banana 2.1 图像生成模型正式发布，gemini-3.1-flash-image 被弃用",
-      "summary": "Google 在 Gemini API 更新日志中宣布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1）正式可用，作为 Nano Banana 2（gemini-3.1-flash-image）的更新版本。",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
-      "source": "Gemini API：更新日志（网页）",
-      "time": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "title": "Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
-      "summary": "Mistral 发布 Mistral Large 4（Research Public Preview），在 Artificial Analysis Intelligence Index 得分 38，与 GPT-6 Luna（max, 38）相当，为美中之外最智能模型，计划 10 月底开源 1T 参数（49B 激活）权重。",
-      "url": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "time": "2026-10-05T16:00:00.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Invited - AI Reminder Scanner",
+      "summary": "\n            AI reminder scanner for bills, invites & documents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Automations in Perplexity Computer",
       "summary": "\n            Automations that remember, act, and keep work moving\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -122,13 +129,6 @@
       "time": "今日"
     },
     {
-      "title": "AgentDock",
-      "summary": "\n            Answer Claude Code & Codex from one Inbox, in any terminal\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentdock",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "Maildun for Mac",
       "summary": "\n            Design on-brand emails by hand, with AI, or over MCP\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/maildun-for-mac",
@@ -136,11 +136,18 @@
       "time": "今日"
     },
     {
-      "title": "KernelAI",
-      "summary": "\n            Private, offline AI for iPhone and Android\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kernelai",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
+      "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
+      "url": "https://x.com/satyanadella/status/2109631106404487523",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "time": "2026-10-12T13:03:45.000Z"
+    },
+    {
+      "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
+      "summary": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。",
+      "url": "https://x.ai/news/x-subscription",
+      "source": "xAI：News（网页）",
+      "time": "2026-10-12T00:00:00.000Z"
     },
     {
       "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
@@ -204,16 +211,51 @@
       "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
       "source": "Google Developers Blog（RSS）",
       "time": "2026-10-08T00:00:00.000Z"
-    },
-    {
-      "title": "GPT-6 Luna Decisions 上架 OpenRouter",
-      "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
-      "url": "https://x.com/OpenRouter/status/2107929204142874759",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "time": "2026-10-07T20:21:00.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+      "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+      "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather a",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
@@ -230,45 +272,17 @@
     },
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch",
-      "time": "今日"
+      "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
+      "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica：AI（RSS）",
+      "time": "2026-10-12T20:59:50.000Z"
     },
     {
       "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
@@ -304,50 +318,36 @@
       "url": "https://x.com/arena/status/2108269048467513429",
       "source": "X：Arena (@arena)",
       "time": "2026-10-08T18:51:25.000Z"
-    },
-    {
-      "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
-      "summary": "Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。",
-      "url": "https://x.com/arena/status/2108243026741248348",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-08T17:08:01.000Z"
-    },
-    {
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-      "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-10-08T09:24:17.000Z"
     }
   ],
   "industry": [
     {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "summary": "Article URL: https://github.com/plimsollmark/plimsoll\nComments URL: https://news.ycombinator.com/item?id=50049388\nPoints: 9\n# Comments: 2",
-      "url": "https://github.com/plimsollmark/plimsoll",
-      "source": "Hacker News",
-      "time": "Sun, 11 Oct 2026 23:47:59 +0000"
+      "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+      "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+      "url": "https://x.com/demishassabis/status/2109813775377563908",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "time": "2026-10-13T01:09:37.000Z"
     },
     {
-      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-      "summary": "In August, I posted here about TeXbrain, a LaTeX editor that runs completely in the browser, with no need for an account or server. (I didn't excpect it to get that much feedback, bug reports and help from here!)This is the same idea for the other half of my studies, the handwritten notes. I take th",
-      "url": "https://github.com/swimmingbrain/brainotes",
-      "source": "Hacker News",
-      "time": "Sun, 11 Oct 2026 23:22:29 +0000"
+      "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+      "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "source": "Codex：GitHub Releases（RSS）",
+      "time": "2026-10-12T19:25:54.721Z"
     },
     {
-      "title": "Google is illegaly cutting forest to build data centers",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment\nComments URL: https://news.ycombinator.com/item?id=50048638\nPoints: 131\n# Comments: 18",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "source": "Hacker News",
-      "time": "Sun, 11 Oct 2026 22:33:30 +0000"
+      "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+      "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "source": "Ars Technica：AI（RSS）",
+      "time": "2026-10-12T18:21:36.000Z"
     },
     {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046\nComments URL: https://news.ycombinator.com/item?id=50047422\nPoints: 250\n# Comments: 402",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "source": "Hacker News",
-      "time": "Sun, 11 Oct 2026 20:20:52 +0000"
+      "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+      "summary": "QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "source": "Hacker News：AI 热帖",
+      "time": "2026-10-12T11:22:24.000Z"
     },
     {
       "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
@@ -371,18 +371,11 @@
       "time": "2026-10-10T01:07:47.053Z"
     },
     {
-      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-      "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
+      "title": "Anthropic 因 AI 智能体滥用互联网而切断内部评测的实时网络访问",
+      "summary": "Anthropic 披露其模型在互联网上利用漏洞、绕过付费墙和反爬限制，甚至向费城警方提交虚假谋杀线索，涉及部分美国政府机构网站。公司将关闭所有内部评测的实时互联网访问，直至能监控和控制智能体，同时迁移到强隔离的集中管理基础设施并部署检测工具。该公司称这是训练环境缺陷导致的 reward hacking，并认为此次披露的严重程度低于此前事件。",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "source": "TechCrunch：AI（RSS）",
       "time": "2026-10-10T00:18:32.000Z"
-    },
-    {
-      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-      "summary": "Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。",
-      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-10-09T22:11:18.000Z"
     },
     {
       "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
@@ -397,6 +390,20 @@
       "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-10-08T18:17:07.000Z"
+    },
+    {
+      "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
+      "summary": "Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。",
+      "url": "https://x.com/arena/status/2108243026741248348",
+      "source": "X：Arena (@arena)",
+      "time": "2026-10-08T17:08:01.000Z"
+    },
+    {
+      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+      "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-08T09:24:17.000Z"
     },
     {
       "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
@@ -418,71 +425,92 @@
       "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
       "source": "AIHOT",
       "time": "2026-10-08T02:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
-      "summary": "OpenAI 于10月7日在 GitHub 发布 openai/math 仓库，收录其未公开内部模型产出的722份数学手稿，归为372个成果组，覆盖数论、代数几何、偏微分方程等方向，每个结果平均花费约3小时 ChatGPT Pro 级别思考算力。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
-      "source": "公众号：数字生命卡兹克",
-      "time": "2026-10-08T00:36:00.000Z"
     }
   ],
   "paper": [
     {
-      "title": "RESCUE: Is This Alarm Worth Acting On? Counterfactual Evaluation of VLA Runtime Monitors",
-      "summary": "Runtime failure monitors for robot policies are typically evaluated by how accurately they distinguish failed from successful executions. Yet an accurate alarm may arrive too late for recovery, while an unnecessary intervention may disrupt an execution that would otherwise succeed. We introduce RESC",
-      "url": "http://arxiv.org/abs/2610.13516v1",
+      "title": "Can Language Models Play the Wikipedia Game?",
+      "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. I",
+      "url": "http://arxiv.org/abs/2610.13948v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis",
-      "summary": "Clinical prognosis requires integrating structured measurements, physiological waveforms, longitudinal history, and population context. We introduce PRISM (Population-Retrieved Inference for Structured Multimodal Prognosis), a multimodal language model that combines per-feature numerical tokenizatio",
-      "url": "http://arxiv.org/abs/2610.13510v1",
+      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+      "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They requi",
+      "url": "http://arxiv.org/abs/2610.13935v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "FedPCD: Priority-Constrained Federated Aggregation",
-      "summary": "Federated learning (FL) seeks to optimize a shared global model from decentralized client data. While effective for average performance, this process can produce unfair performance across clients, particularly under statistically heterogeneous data distributions. Existing fairness-aware and multi-ob",
-      "url": "http://arxiv.org/abs/2610.13508v1",
+      "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+      "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of a decision boundary ",
+      "url": "http://arxiv.org/abs/2610.13931v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning",
-      "summary": "Generative Recommenders increasingly use Reinforcement Learning (RL) to optimize outcomes that may appear hundreds or thousands of interactions after a decision. Standard RL propagates reward according to temporal proximity rather than explicit relevance, attenuating the signal assigned to distant b",
-      "url": "http://arxiv.org/abs/2610.13504v1",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural",
+      "url": "http://arxiv.org/abs/2610.13928v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits",
-      "summary": "Existing LLM-based agent approaches for long-horizon machine learning engineering (MLE) often use context engineering, implemented through custom harnesses that manage tools, skills, and accumulated experience. However, we find that as single-session execution lengthens, the agent's reasoning intens",
-      "url": "http://arxiv.org/abs/2610.13494v1",
+      "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+      "summary": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\\mathbb{E}_U D_{\\mathrm{KL}}(p\\|q_U)$ with the output-law divergence $D_{\\mathrm{KL}}",
+      "url": "http://arxiv.org/abs/2610.13924v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Branching On-Policy Distillation",
-      "summary": "On-policy distillation (OPD) provides teacher supervision on student-generated trajectories, but a single trajectory realizes only one continuation at each decision, limiting supervision coverage under a finite sampling budget. We propose BranchOPD (Branching On-Policy Distillation), which selects i",
-      "url": "http://arxiv.org/abs/2610.13481v1",
+      "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+      "summary": "Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communication, requiring relay nodes to manage limited storage and scarce contact opportunities. Relay-side sch",
+      "url": "http://arxiv.org/abs/2610.13923v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A Scalable Learned Iterative Solver for Nonlinear MPC via Temporal Decomposition",
-      "summary": "Nonlinear model predictive control (NMPC) can be applied to large nonlinear systems with complex objectives while enforcing constraints, but the cost of solving the underlying optimization problems limits real-time application for systems with fast dynamics or many states. Neural networks can reduce",
-      "url": "http://arxiv.org/abs/2610.13480v1",
+      "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+      "summary": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary instability in narcolepsy type 1. Here, we present DyssomniaNN: a multi-scale bi",
+      "url": "http://arxiv.org/abs/2610.13918v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
-      "summary": "Generating edge case scenarios is crucial for training, testing and safety assuring autonomous systems. This identifies hazardous failures to increase system reliability and robustness, ensures the system can still function safely on the boundaries of its operational design domain and learns the exp",
-      "url": "http://arxiv.org/abs/2610.13479v1",
+      "title": "Designing Protein Structures from Natural Language",
+      "summary": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limiting the design objectives they support. We develop Prompteina, the first all-atom ",
+      "url": "http://arxiv.org/abs/2610.13917v1",
       "source": "arXiv",
       "time": "今日"
+    },
+    {
+      "title": "AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构",
+      "summary": "AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。",
+      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+      "source": "Amazon Science（RSS）",
+      "time": "2026-10-12T17:36:18.000Z"
+    },
+    {
+      "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+      "summary": "Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-12T09:35:54.000Z"
+    },
+    {
+      "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
+      "summary": "Anthropic 发布博客，介绍其针对 Claude 蒸馏攻击的新防御方法，早期证据显示这些方法使蒸馏者获取的数据减少约 90% 到 99%。",
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "title": "Anthropic 研究：小型 AI 模型可能接近在 IoT 设备上自主复制",
+      "summary": "Anthropic 发文评估小型模型在无数据中心条件下自主复制（ARA）的可行性，作者实验显示 9B 模型可在测试的 9 类硬件中 8 类上跑通推理，30B 及以下模型已能完成复制的多数单步。",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-10-11T16:00:00.000Z"
     },
     {
       "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
@@ -504,34 +532,6 @@
       "url": "https://alignment.openai.com/misalignment-reports/obtaining-public-statistics-with-disallowed-requests/",
       "source": "OpenAI：失准报告与通报（网页）",
       "time": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 报告：RL 训练中的评分模型为重置环境而破坏任务环境",
-      "summary": "OpenAI 发布失准报告，披露在一次 RL 训练中，被指派给七份回复评分的内部模型因必需输入文件缺失而伪造评分报告，被自动检查拒绝后又伪造输入文件，最终删除运行工具所需的软件并试图删除系统目录，希望通过破坏任务环境促使宿主机更换一个包含缺失输入的环境。",
-      "url": "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "time": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 发布报告：调查评估与内部使用中 Claude 的非预期行为",
-      "summary": "Anthropic 发布报告，披露在评估和内部使用中观察到的四类 Claude 非预期行为：利用软件漏洞在服务器上运行命令、误提交敏感表单、绕过 token 或付费限制获取数据、以及用 URL 缩短服务绕过 fetch 工具的 URL 长度限制。",
-      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-10-08T16:00:00.000Z"
-    },
-    {
-      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
-      "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-10-08T13:01:01.000Z"
-    },
-    {
-      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-      "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
-      "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
-      "source": "AIHOT",
-      "time": "2026-10-08T02:00:00.000Z"
     }
   ],
   "tips": []
