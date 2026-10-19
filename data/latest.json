@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "source": "X：Arena (@arena)",
+      "time": "2026-10-18T18:56:03.000Z"
+    },
+    {
       "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
       "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
       "url": "https://x.com/arena/status/2111221323217412318",
@@ -97,27 +104,13 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
       "source": "公众号：蚂蚁百灵（Ling）",
       "time": "2026-10-15T01:10:27.000Z"
-    },
-    {
-      "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
-      "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
-      "source": "公众号：昆仑万维（天工）",
-      "time": "2026-10-15T00:00:00.000Z"
     }
   ],
   "products": [
     {
-      "title": "Craft Agents",
-      "summary": "\n            The world's most powerful agents, with the UX they deserve\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/craft-agents",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Notion: Context for your agents",
-      "summary": "\n            Switch AI agents without re-explaining your work\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/notion",
+      "title": "Tomo for ChatGPT",
+      "summary": "\n            Ask anything. Then play it, Duolingo-style.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,23 +122,23 @@
       "time": "今日"
     },
     {
+      "title": "Notion: Context for your agents",
+      "summary": "\n            Switch AI agents without re-explaining your work\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/notion",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Craft Agents",
+      "summary": "\n            The world's most powerful agents, with the UX they deserve\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/craft-agents",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Mermaid",
       "summary": "\n            Tell your Mac what to do. From literally anywhere\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/mermaid",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "GBrain Tools",
-      "summary": "\n            A password manager for AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/gbrain",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Agent Vault",
-      "summary": "\n            Superpowers for your Agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-vault-2",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -211,9 +204,30 @@
       "url": "https://x.com/ClaudeDevs/status/2110825294655562048",
       "source": "X：Claude Devs (@ClaudeDevs)",
       "time": "2026-10-15T20:09:02.000Z"
+    },
+    {
+      "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
+      "summary": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。",
+      "url": "https://x.com/ChatGPT/status/2110823738531037651",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "time": "2026-10-15T20:02:51.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
@@ -271,20 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
       "summary": "路透社援引知情人士消息称，Anthropic 公布最新财务数据后，部分投资者开始考虑下调其 IPO 估值，此前预期 11 月上市时估值约 2 万亿美元，投资者日活动讨论约 1.5 万亿美元。",
       "url": "https://www.ithome.com/1/013/723.htm",
@@ -322,25 +322,39 @@
   ],
   "industry": [
     {
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise\nComments URL: https://news.ycombinator.com/item?id=50133830\nPoints: 56\n# Comments: 65",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\nComments URL: https://news.ycombinator.com/item?id=50145507\nPoints: 6\n# Comments: 2",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "source": "Hacker News",
-      "time": "Sat, 17 Oct 2026 18:45:07 +0000"
+      "time": "Sun, 18 Oct 2026 21:09:12 +0000"
     },
     {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "summary": "Article URL: https://pele.run/\nComments URL: https://news.ycombinator.com/item?id=50132193\nPoints: 210\n# Comments: 24",
-      "url": "https://pele.run/",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5\n\nComments URL: https://news.ycombinator.com/item?id=50145337\nPoints: 178\n# Comments: 109",
+      "url": "https://arxiv.org/abs/2610.18861",
       "source": "Hacker News",
-      "time": "Sat, 17 Oct 2026 15:55:09 +0000"
+      "time": "Sun, 18 Oct 2026 20:48:14 +0000"
     },
     {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "summary": "Article URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 243\n# Comments: 77",
-      "url": "https://llmspeed.dev/",
+      "title": "Namecheap just seized and disabled all my domains",
+      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\nComments URL: https://news.ycombinator.com/item?id=50142866\nPoints: 411\n# Comments: 193",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
       "source": "Hacker News",
-      "time": "Sat, 17 Oct 2026 04:36:53 +0000"
+      "time": "Sun, 18 Oct 2026 16:56:56 +0000"
+    },
+    {
+      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+      "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-18T13:22:26.000Z"
+    },
+    {
+      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+      "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-18T10:52:39.000Z"
     },
     {
       "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
@@ -411,20 +425,6 @@
       "url": "https://www.ithome.com/1/013/160.htm",
       "source": "IT之家·人工智能",
       "time": "2026-10-14T23:39:08.393Z"
-    },
-    {
-      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-      "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-      "url": "https://www.ithome.com/1/013/154.htm",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-14T23:13:18.290Z"
-    },
-    {
-      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-      "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-10-14T18:47:54.000Z"
     }
   ],
   "paper": [
