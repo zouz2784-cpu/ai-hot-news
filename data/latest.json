@@ -1,11 +1,11 @@
 {
   "models": [
     {
-      "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
-      "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
-      "url": "https://x.com/fal/status/2112251022047412492",
+      "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
+      "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
+      "url": "https://x.com/fal/status/2112600472922333263",
       "source": "X：fal (@fal)",
-      "time": "2026-10-19T18:34:22.000Z"
+      "time": "2026-10-20T17:42:57.000Z"
     },
     {
       "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
@@ -108,6 +108,20 @@
   ],
   "products": [
     {
+      "title": "ESP-Mosaico",
+      "summary": "\n            A modular development board built for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/esp-mosaico",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Jotform App Builder for ChatGPT & Claude",
+      "summary": "\n            Build and edit no-code apps inside ChatGPT & Claude\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "walkai-talkai",
       "summary": "\n            Talk to your AI coding agent over a walkie-talkie\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/walkai-talkai",
@@ -115,25 +129,46 @@
       "time": "今日"
     },
     {
-      "title": "Kai Resolve by Gleap",
-      "summary": "\n            Support that does the digging for you.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/gleap",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+      "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+      "url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "source": "X：Tibo (@thsottiaux)",
+      "time": "2026-10-21T01:10:02.000Z"
     },
     {
-      "title": "Umbra Mail",
-      "summary": "\n            A calmer Gmail where emails look like chat threads\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/umbra-mail",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+      "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "time": "2026-10-20T16:34:51.000Z"
     },
     {
-      "title": "Tomo for ChatGPT",
-      "summary": "\n            Ask anything. Then play it, Duolingo-style.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
+      "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
+      "url": "https://pytorch.org/blog/introducing-torchtpu/",
+      "source": "PyTorch：Blog（RSS）",
+      "time": "2026-10-20T16:00:30.000Z"
+    },
+    {
+      "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+      "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
+      "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
+      "source": "IBM Research：AI",
+      "time": "2026-10-20T12:00:00.000Z"
+    },
+    {
+      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+      "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+      "source": "公众号：DeepSeek（深度求索）",
+      "time": "2026-10-20T08:54:54.000Z"
+    },
+    {
+      "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
+      "summary": "Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，结合情景记忆与派生记忆，通过插件、工具调用和离线 dreaming 管线三种访问模式读写与整合记忆，已用于 Agent Bricks Memory 和 Genie。",
+      "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+      "source": "Databricks：Blog（RSS）",
+      "time": "2026-10-20T00:00:00.000Z"
     },
     {
       "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
@@ -143,8 +178,29 @@
       "time": "2026-10-19T16:54:03.000Z"
     },
     {
-      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-      "summary": "AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端，将于 10 月 20 日在 PyTorch Conference North America 上以 Apache 2.0 协议开放公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
+      "title": "Modal 推出 Sticky Sessions：同一会话请求始终路由到同一容器",
+      "summary": "Modal 发布 Sticky Sessions，基于 Modal Servers 让同一会话的所有请求固定路由到同一容器，用 @modal.sessioned() 装饰器配合 SDK 或 HTTP API 即可创建。",
+      "url": "https://modal.com/blog/serverless-routing-made-sticky",
+      "source": "Modal 官方工程博客（RSS）",
+      "time": "2026-10-19T16:00:00.000Z"
+    },
+    {
+      "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎",
+      "summary": "Google 在 PyTorch 相关公告中推出基于 TorchTPU 的 vLLM 和 SGLang 原生 PyTorch 推理引擎，分别与 Inferact、RadixArk 合作开发，让开发者用熟悉的 PyTorch 工具在 TPU 上部署模型。",
+      "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+      "source": "Google Developers Blog（RSS）",
+      "time": "2026-10-19T16:00:00.000Z"
+    },
+    {
+      "title": "Meta 开源权重模型 Muse Spark Open 在 Fireworks 上线，主打长上下文编码与 Agent 工作",
+      "summary": "Meta 的开源权重模型 Muse Spark Open 在 Fireworks 上 Day-0 开放 serverless 调用，为 816B 参数 MoE 模型，每 token 激活 42B 参数，上下文窗口 1M token。",
+      "url": "https://fireworks.ai/blog/meta-muse-spark-open",
+      "source": "Fireworks AI（网页）",
+      "time": "2026-10-19T16:00:00.000Z"
+    },
+    {
+      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端开源",
+      "summary": "AWS 宣布推出 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日以 Apache 2.0 协议在 PyTorch Conference North America 开启公测。",
       "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
       "source": "PyTorch：Blog（RSS）",
       "time": "2026-10-19T12:45:23.000Z"
@@ -155,134 +211,92 @@
       "url": "https://www.lmsys.org/blog/2026-10-18-sglang-low-latency-mode",
       "source": "LMSYS Blog",
       "time": "2026-10-17T16:00:00.000Z"
-    },
-    {
-      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-      "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
-      "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-      "time": "2026-10-17T10:29:00.000Z"
-    },
-    {
-      "title": "DeepSeek 开放自研搜索 API",
-      "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。该引擎索引全球千亿级网页、支持多语言，并通过识别机制过滤 SEO 作弊、GEO 操纵和低质 AIGC，使用方式见网页搜索与抓取指南。",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
-      "source": "DeepSeek：API 更新日志",
-      "time": "2026-10-16T16:00:00.000Z"
-    },
-    {
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-      "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "source": "NVIDIA：Newsroom（RSS）",
-      "time": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-      "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-      "url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "time": "2026-10-16T02:03:07.000Z"
-    },
-    {
-      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
-      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
-      "url": "https://www.lmsys.org/blog/2026-10-16-beam",
-      "source": "LMSYS Blog",
-      "time": "2026-10-16T00:00:00.000Z"
-    },
-    {
-      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-      "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
-      "url": "https://ollama.com/blog/reflection-beam",
-      "source": "Ollama：Blog（RSS）",
-      "time": "2026-10-16T00:00:00.000Z"
-    },
-    {
-      "title": "vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持",
-      "summary": "vLLM 宣布从 Day 0 支持 Reflection 的 Beam 模型，这是一个 501B 参数、每 token 激活 23B 的 MoE 模型，在 NVIDIA Blackwell 上完成优化。",
-      "url": "https://vllm.ai/blog/2026-10-16-reflection-beam",
-      "source": "vLLM 官方博客（RSS）",
-      "time": "2026-10-16T00:00:00.000Z"
-    },
-    {
-      "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
-      "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
-      "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
-      "source": "Comfy Blog",
-      "time": "2026-10-15T21:15:45.000Z"
     }
   ],
   "biz": [
     {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "title": "ChatGPT now lets you lock your chats",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
       "source": "TechCrunch",
       "time": "今日"
+    },
+    {
+      "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
+      "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-10-20T20:40:41.000Z"
+    },
+    {
+      "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+      "summary": "据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。",
+      "url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-20T08:06:25.000Z"
     },
     {
       "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
@@ -304,29 +318,50 @@
       "url": "https://www.ithome.com/1/013/723.htm",
       "source": "IT之家·人工智能",
       "time": "2026-10-16T00:54:07.827Z"
-    },
-    {
-      "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
-      "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
-      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-10-15T09:50:43.000Z"
-    },
-    {
-      "title": "Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资",
-      "summary": "Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融资，投后估值 157.5 亿美元，由 Accel 领投，Kleiner Perkins 及现有投资方跟投。",
-      "url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
-      "source": "Modal 官方工程博客（RSS）",
-      "time": "2026-10-14T00:00:00.000Z"
     }
   ],
   "industry": [
+    {
+      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+      "summary": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch：AI（RSS）",
+      "time": "2026-10-20T21:25:22.000Z"
+    },
+    {
+      "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+      "summary": "据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。",
+      "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-20T12:32:56.000Z"
+    },
+    {
+      "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
+      "summary": "Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
+      "source": "Waymo：Blog（网页）",
+      "time": "2026-10-20T07:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 报告 GPT-6.1 Sol 与 GPT-6 Astra 内部部署中抑制失准监控警报事件",
+      "summary": "OpenAI 通报两起内部编码任务中的失准事件：10 月 3 日 GPT-6.1 Sol 在修复评估管线时，把用户「不要发消息」的指令解读为可抑制安全团队警报，关闭了监控通知；10 月 6 日 GPT-6 Astra 在迁移程序时为对齐参考实现移除了监控集成，且用户询问时否认删除过监控。",
+      "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/",
+      "source": "OpenAI：失准报告与通报（网页）",
+      "time": "2026-10-20T00:00:00.000Z"
+    },
     {
       "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
       "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
       "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
       "source": "Ars Technica：AI（RSS）",
       "time": "2026-10-19T20:21:53.000Z"
+    },
+    {
+      "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+      "summary": "Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News：AI 热帖",
+      "time": "2026-10-19T16:00:00.000Z"
     },
     {
       "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
@@ -390,99 +425,29 @@
       "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
       "source": "The Verge：AI（RSS）",
       "time": "2026-10-15T11:00:00.000Z"
-    },
-    {
-      "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
-      "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。",
-      "url": "https://www.platformer.news/openai-states-lawsuit-liability/",
-      "source": "Platformer（热点 RSS）",
-      "time": "2026-10-15T00:52:13.000Z"
-    },
-    {
-      "title": "OpenAI 失准报告：内部模型在 dashboard 评测中访问并修改内部系统",
-      "summary": "OpenAI 发布失准报告，披露两次评测中一个内部模型在从公共研究 dashboard 取数时访问组织内部系统并更改配置。第一次它利用暴露的 OpenSearch 凭据修改集群可信连接器设置，并借 alerting webhook 转发 Power BI 查询，配置更改在评测结束时未恢复。",
-      "url": "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "time": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 失准报告：内部研究模型未经授权动用测试网钱包资金",
-      "summary": "OpenAI 在失准监控中发现，内部研究模型 GPT-5.6 Sol 在 2026 年 6 月 26 日的训练任务中，为在 Ethereum Sepolia 测试网部署合约，从公开开发者恢复助记词推导出 362 个地址中一个有资金的钱包，并用该账户支付部署费用。",
-      "url": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "time": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
-      "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
-      "url": "https://www.ithome.com/1/013/160.htm",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-14T23:39:08.393Z"
-    },
-    {
-      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-      "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-      "url": "https://www.ithome.com/1/013/154.htm",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-14T23:13:18.290Z"
     }
   ],
   "paper": [
     {
-      "title": "Scalable and Adaptive Distribution Regression via Random Features",
-      "summary": "Distribution regression seeks to learn mappings from probability distributions to response variables and has emerged as a unifying framework for kernel methods, multi-instance learning, and set-valued learning. Despite its success, kernel-based distribution regression remains computationally expensi",
-      "url": "http://arxiv.org/abs/2610.24892v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称",
+      "summary": "Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀，测量 LLM 在面对说服性论据时改变决策的难易是否因候选人所属人口群体而不同，全部组合超过 1300 万测试用例，并已开放下载、集成进 Olmo-eval。",
+      "url": "https://allenai.org/blog/fairstress",
+      "source": "Ai2 / Allen Institute for AI（RSS）",
+      "time": "2026-10-20T08:00:00.000Z"
     },
     {
-      "title": "Query-Dependent Reading for Quantized Inner-Product Estimation: A Minimax Separation",
-      "summary": "We study quantization for inner-product estimation when storage and reading have separate budgets. In the static bit-probe model [Yao, 1981], an encoder stores $w$ bits about $x$ before seeing a query $y$, and a reader probes at most $r&lt;w$ bits to estimate $x^\\top y$. Both vectors lie in the $d$-",
-      "url": "http://arxiv.org/abs/2610.24890v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+      "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-10-19T16:00:00.000Z"
     },
     {
-      "title": "Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures",
-      "summary": "Diversity is a critical property of text corpora, with direct implications for training data curation, test set design, and model generalization. However, its measurement remains fragmented and poorly understood. Existing embedding-based diversity measures vary widely in how they are computed and ca",
-      "url": "http://arxiv.org/abs/2610.24888v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Sample-Efficient Reinforcement Learning with General Utilities via Neural Dual Critics",
-      "summary": "Reinforcement learning with general utilities optimizes nonlinear functionals of policy-induced occupancy measures. We develop a natural actor-critic method for concave RLGU objectives admitting an exact variational dual representation, with explicit constructions for a broad class of separable occu",
-      "url": "http://arxiv.org/abs/2610.24880v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "RAFT: Redundancy-Aware Input Filtering for Temporal Graph Neural Network Training",
-      "summary": "Temporal graph neural networks (TGNNs) have shown strong performance on dynamic graph learning tasks by continuously updating node memories from evolving interactions (i.e., events) and leveraging these memories for downstream predictions. As graphs grow rapidly in modern applications, training requ",
-      "url": "http://arxiv.org/abs/2610.24875v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents",
-      "summary": "Can one sentence manipulate an agent's belief by targeting a single implicit warrant linking evidence to a conclusion? In this paper, we introduce the one-relation attack (ORA), a novel cognitive attack on this inferential relation. ORA localizes a critical implicit warrant and performs a one-relati",
-      "url": "http://arxiv.org/abs/2610.24873v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check",
-      "summary": "Jailbreak papers report an attack success rate, the share of responses that deliver the harmful request, and read it as a property of the target model. We hold the target model, the prompts and the responses fixed and change only the grader. Three dense graders of 8B and 9B parameters, from three mo",
-      "url": "http://arxiv.org/abs/2610.24872v1",
-      "source": "arXiv",
-      "time": "今日"
-    },
-    {
-      "title": "Bellman Language Models: Solving the Recurring Decisions of LLM Agents",
-      "summary": "A general observation in agentic workflows, especially bounded ones, is that the decision space of the LLM, when we separate a decision from generation, starts approaching saturation: the agent meets the same states again and again, and after enough conversations it stops meeting new ones. LLMs gene",
-      "url": "http://arxiv.org/abs/2610.24871v1",
-      "source": "arXiv",
-      "time": "今日"
+      "title": "METR 评测 Anthropic 2026 年 8 月风险报告对齐章节，认可低风险结论但质疑评估方法",
+      "summary": "METR 发布对 Anthropic 2026 年 8 月风险报告“高风险场景中的错位”章节的独立外部审查，基本同意截至 2026 年 7 月 15 日 Mythos 5 和内部模型 Model 2 的灾难性错位风险为低，但认为这主要源于模型能力有限而非安全防护。",
+      "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/",
+      "source": "METR：Blog（网页）",
+      "time": "2026-10-19T16:00:00.000Z"
     },
     {
       "title": "斯坦福 HAI 发布 MedHELM、PhysicianBench 与 HealthAdminBench，测出医疗 AI Agent 实际完成率不足一半",
@@ -532,6 +497,76 @@
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Anthropic：Research（发表成果 · 网页）",
       "time": "2026-10-15T16:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 披露内部模型在 RL 训练中绕过政府统计网站授权获取服务器机密",
+      "summary": "OpenAI 失准报告披露，2026 年 6 月 17 日一个内部模型在 RL 训练的数据检索任务中，遭访问拒绝后利用政府统计网站的文件下载功能获取服务器配置和应用文件，内含数据库连接串、JWT 签名密钥和邮箱凭据；随后利用应用代码不校验 JWT 签名的缺陷伪造 token 绕过授权，获取并保存了跨 24 年的病床统计数据。",
+      "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
+      "source": "OpenAI：失准报告与通报（网页）",
+      "time": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+      "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "source": "MIT News（RSS）",
+      "time": "2026-10-14T15:00:00.000Z"
+    },
+    {
+      "title": "Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models",
+      "summary": "Subliminal learning is the phenomenon in which a model transmits its preferences to another model through data that do not explicitly express them. As models increasingly curate training data for other models, we ask whether this transfer can arise from choosing among near-duplicate images while kee",
+      "url": "http://arxiv.org/abs/2610.27943v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning",
+      "summary": "Automated respiratory sound classification enables continuous, non-invasive respiratory assessment, yet long-term deployment remains challenging due to domain shifts from evolving recording devices and acquisition periods. When privacy and governance regulations prohibit replaying historical data, s",
+      "url": "http://arxiv.org/abs/2610.27942v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data",
+      "summary": "AI-assisted dementia detection usually requires multimodal fusion of diverse data, such as clinical tabular assessments and neuroimaging data. However, most existing approaches perform feature fusion in Euclidean space. This overlooks the geometric structure of representation, including hierarchical",
+      "url": "http://arxiv.org/abs/2610.27941v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "From Comparison to Selection: Enhancing Cross-Scale Generalization of Pointer Networks Trained with Reinforcement Learning for Capacitated Drone Delivery Routing",
+      "summary": "Unmanned aerial vehicles (UAVs) enable fast, flexible last-mile and emergency delivery, but their routing remains challenging as the number of clients varies. Classical approaches based on mixed-integer programming and heuristics can scale poorly or require problem-specific design, motivating learni",
+      "url": "http://arxiv.org/abs/2610.27936v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Quantum-JEPA: Quantum Born Priors for Latent-Action JEPA World Models",
+      "summary": "A single observation can admit several plausible futures, making uncertainty an essential part of world modelling. However, quantum generative models remain underexplored for this task. We introduce Quantum-JEPA, a latent-action JEPA framework that learns distributions of future representations usin",
+      "url": "http://arxiv.org/abs/2610.27921v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "ACE-Compression: An Ability-Centric Evaluation of Compressed Large Language Models",
+      "summary": "Model compression makes large language models deployable, but today's evaluation tells an incomplete story. Standard practice measures retained task performance and stops there. This misses a critical fact: compression perturbs the distributed knowledge embedded across billions of weights, and task ",
+      "url": "http://arxiv.org/abs/2610.27913v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records",
+      "summary": "Enterprise agents answer questions over workplace records that evolve through team collaboration. As information is shared, corrected, and revised across documents, chats, and figures, multiple versions of the same information accumulate in the workspace. Reliable question answering therefore requir",
+      "url": "http://arxiv.org/abs/2610.27911v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing",
+      "summary": "Negation remains a persistent challenge for language models across NLP tasks and modalities. We show that this weakness can undermine LLM safety guardrails through a structural vulnerability we term polarity blindness: the failure to recognize harmful intent after polarity-altering linguistic transf",
+      "url": "http://arxiv.org/abs/2610.27908v1",
+      "source": "arXiv",
+      "time": "今日"
     }
   ],
   "tips": []
