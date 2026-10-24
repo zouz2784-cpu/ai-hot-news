@@ -1,11 +1,25 @@
 {
   "models": [
     {
-      "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
-      "summary": "MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489204&idx=1&sn=bc21e172929a366edfe02c720bef9208",
-      "source": "公众号：MiniMax（稀宇科技）",
-      "time": "2026-10-23T00:56:00.000Z"
+      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+      "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
+      "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+      "source": "Moonshot AI：Kimi Blog",
+      "time": "2026-10-23T16:00:00.000Z"
+    },
+    {
+      "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+      "summary": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。",
+      "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "time": "2026-10-23T01:06:29.000Z"
+    },
+    {
+      "title": "Kimi K3.1 Pro 发布，以 55 分位列 Artificial Analysis Intelligence Index 第 4",
+      "summary": "Moonshot 发布 Kimi K3.1 Pro，在 Artificial Analysis Intelligence Index 得 55 分列第 4，较 Kimi K3 提升 11 分，仅低于 Claude Opus 5.5、Claude Sonnet 5.5 和 Muse Wonder Full。",
+      "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "time": "2026-10-22T16:00:00.000Z"
     },
     {
       "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
@@ -78,18 +92,11 @@
       "time": "2026-10-18T16:00:00.000Z"
     },
     {
-      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
-      "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
-      "url": "https://x.com/arena/status/2111221323217412318",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-16T22:22:42.000Z"
-    },
-    {
-      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
-      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
-      "source": "DeepSeek：API 更新日志",
-      "time": "2026-10-16T16:00:00.000Z"
+      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+      "summary": "OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-10-23T10:00:00.000Z"
     },
     {
       "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
@@ -97,16 +104,44 @@
       "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-10-22T11:30:56.000Z"
-    },
-    {
-      "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-      "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
-      "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-10-22T05:13:16.000Z"
     }
   ],
   "products": [
+    {
+      "title": "Cloudflare Clairic",
+      "summary": "\n            Cloudflare's AI model for fast, cheap data extraction\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ShogunAI",
+      "summary": "\n            Your personal AGI on your pc\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agent Hunt",
+      "summary": "\n            Live rankings of the tools AI agents use most\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/monid",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "MOVO AI",
+      "summary": "\n            The world's first long-form video agent for mobile\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Loom Record for agents",
+      "summary": "\n            Hit record and hand off to AI, now in the new Loom app\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/loom",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "Agentic CleanSlop",
       "summary": "\n            Authenticate, scan and fix your app from your agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -122,13 +157,6 @@
       "time": "今日"
     },
     {
-      "title": "Loom Record for agents",
-      "summary": "\n            Hit record and hand off to AI, now in the new Loom app\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/loom",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "Claire Mail",
       "summary": "\n            Email, calendar and reminders, in one fast app\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/claire-mail",
@@ -136,32 +164,18 @@
       "time": "今日"
     },
     {
-      "title": "Intelli for ChatGPT & Claude",
-      "summary": "\n            Run WhatsApp, Instagram & web chat from ChatGPT or Claude\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/intelli",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+      "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
+      "url": "https://x.com/OpenRouter/status/2113699820124934334",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "time": "2026-10-23T18:31:22.000Z"
     },
     {
-      "title": "Lea by LeanAIOS",
-      "summary": "\n            Autonomous AI team for construction management & pre-con\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/lea-by-leanaios",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Agent Pets",
-      "summary": "\n            Coding agents as pets that live on every page in Chrome\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-pets",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "The Brains",
-      "summary": "\n            Founders and investors as MCP servers, every answer cited\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/the-brains",
-      "source": "Product Hunt",
-      "time": "今日"
+      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+      "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+      "url": "https://x.com/fal/status/2113646807997620396",
+      "source": "X：fal (@fal)",
+      "time": "2026-10-23T15:00:43.000Z"
     },
     {
       "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
@@ -197,23 +211,65 @@
       "url": "https://x.com/Kling_ai/status/2113142473145078041",
       "source": "X：可灵 Kling AI (@Kling_ai)",
       "time": "2026-10-22T05:36:40.000Z"
-    },
-    {
-      "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
-      "summary": "OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。",
-      "url": "https://x.com/OpenAI/status/2112945805686604033",
-      "source": "X：OpenAI (@OpenAI)",
-      "time": "2026-10-21T16:35:11.000Z"
-    },
-    {
-      "title": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
-      "summary": "MiniMax 在 MiniMax Code 桌面应用（macOS / Windows）本地会话中推出 Mini App，一种带前端和后端的长运行应用，以插件形式安装并与 Agent 双向调用，让 Agent 的工作停留在常驻页面而非散落各对话中。",
-      "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
-      "source": "MiniMax：Blog（网页）",
-      "time": "2026-10-21T16:00:00.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Startups don’t need to go viral to win customers",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
@@ -229,67 +285,11 @@
       "time": "今日"
     },
     {
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-      "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
-      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "source": "Newcomer 新闻长文（RSS）",
-      "time": "2026-10-22T15:53:55.000Z"
+      "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+      "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
+      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-23T09:49:38.000Z"
     },
     {
       "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
@@ -322,11 +322,88 @@
   ],
   "industry": [
     {
+      "title": "German court calls Google aerial imagery 'spying'",
+      "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/\nComments URL: https://news.ycombinator.com/item?id=50216142\nPoints: 32\n# Comments: 9",
+      "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+      "source": "Hacker News",
+      "time": "Fri, 23 Oct 2026 22:18:49 +0000"
+    },
+    {
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\nComments URL: https://news.ycombinator.com/item?id=50214983\nPoints: 31\n# Comments: 6",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "source": "Hacker News",
+      "time": "Fri, 23 Oct 2026 20:37:12 +0000"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/\nComments URL: https://news.ycombinator.com/item?id=50214416\nPoints: 71\n# Comments: 83",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "source": "Hacker News",
+      "time": "Fri, 23 Oct 2026 19:50:56 +0000"
+    },
+    {
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "summary": "Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:I show you what the agents are up to, along with a running feed of their activ",
+      "url": "https://corgi.computer/",
+      "source": "Hacker News",
+      "time": "Fri, 23 Oct 2026 19:46:38 +0000"
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nComments URL: https://news.ycombinator.com/item?id=50214218\nPoints: 264\n# Comments: 138",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source": "Hacker News",
+      "time": "Fri, 23 Oct 2026 19:34:15 +0000"
+    },
+    {
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "summary": "Article URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 219\n# Comments: 93",
+      "url": "https://block.xyz/dessa",
+      "source": "Hacker News",
+      "time": "Fri, 23 Oct 2026 19:09:54 +0000"
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines\nComments URL: https://news.ycombinator.com/item?id=50212507\nPoints: 58\n# Comments: 91",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "source": "Hacker News",
+      "time": "Fri, 23 Oct 2026 17:28:36 +0000"
+    },
+    {
+      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+      "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
+      "url": "https://x.com/OpenAI/status/2113766354386084338",
+      "source": "X：OpenAI (@OpenAI)",
+      "time": "2026-10-23T22:55:45.000Z"
+    },
+    {
+      "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+      "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
+      "url": "https://www.ithome.com/1/017/113.htm",
+      "source": "IT之家·人工智能",
+      "time": "2026-10-23T09:17:16.350Z"
+    },
+    {
+      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+      "summary": "据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。",
+      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-23T06:04:55.000Z"
+    },
+    {
       "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
       "summary": "The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
       "source": "The Verge：AI（RSS）",
       "time": "2026-10-22T19:45:00.000Z"
+    },
+    {
+      "title": "iPhone Duo 全球 Apple Store 正式开售，首台可折叠 iPhone 上架",
+      "summary": "10 月 23 日，iPhone Duo 在全球 Apple Store 门店正式开售，顾客可现场体验首款可折叠 iPhone。",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "source": "Apple：Newsroom（RSS）",
+      "time": "2026-10-22T16:00:00.000Z"
     },
     {
       "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
@@ -348,92 +425,92 @@
       "url": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
       "source": "Wiz：Research（安全研究）",
       "time": "2026-10-22T13:05:31.000Z"
-    },
-    {
-      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-      "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
-      "url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "time": "2026-10-22T02:33:39.000Z"
-    },
-    {
-      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-      "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "source": "公众号：数字生命卡兹克",
-      "time": "2026-10-22T00:06:00.000Z"
-    },
-    {
-      "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
-      "summary": "AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。",
-      "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-10-21T17:40:59.000Z"
-    },
-    {
-      "title": "Anthropic 将 Agent Skills 开放标准捐赠给 Linux Foundation 旗下 Agentic AI Foundation",
-      "summary": "Anthropic 宣布把 Agent Skills 开放标准捐赠给 Linux Foundation 旗下的 Agentic AI Foundation（AAIF），此前已向其捐赠 MCP。",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "Anthropic：Newsroom（网页）",
-      "time": "2026-10-21T16:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-      "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-10-21T13:57:43.000Z"
-    },
-    {
-      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-      "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
-      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "source": "Wiz：Research（安全研究）",
-      "time": "2026-10-21T13:44:12.000Z"
-    },
-    {
-      "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-      "summary": "ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。",
-      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "source": "ChinaTalk（RSS）",
-      "time": "2026-10-21T13:43:39.000Z"
-    },
-    {
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-      "summary": "OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-21T12:00:00.000Z"
-    },
-    {
-      "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
-      "summary": "OpenAI 宣布在过去两个月牵头维护者、研究者与安全厂商联盟，修复 PHP 的关键漏洞，其中 Calif 用 GPT-5.6 Sol 发现一处严重缺陷，Wiz 也独立发现并报告了这两个漏洞，PHP 维护者主导修复和发布。",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-      "summary": "WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、纸面亏损 $80.7B，并承诺约 $4500 亿算力支出。",
-      "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "time": "2026-10-21T04:32:45.000Z"
-    },
-    {
-      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-      "summary": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-10-20T21:25:22.000Z"
     }
   ],
   "paper": [
+    {
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a",
+      "url": "http://arxiv.org/abs/2610.31670v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes th",
+      "url": "http://arxiv.org/abs/2610.31667v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Phase Transition from Random Features to Fully Trainable Networks",
+      "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and ob",
+      "url": "http://arxiv.org/abs/2610.31663v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+      "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for ex",
+      "url": "http://arxiv.org/abs/2610.31662v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+      "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later che",
+      "url": "http://arxiv.org/abs/2610.31659v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+      "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a",
+      "url": "http://arxiv.org/abs/2610.31657v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+      "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from ",
+      "url": "http://arxiv.org/abs/2610.31656v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+      "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an ",
+      "url": "http://arxiv.org/abs/2610.31650v1",
+      "source": "arXiv",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+      "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
+      "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+      "source": "Claude：Blog（网页）",
+      "time": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
+      "summary": "英国 AI Security Institute 发布技术报告，分析其 7 月网络安全评估中模型对真实人员采取未授权行动事故的对齐成因。Mythos 5 在压缩摘要中反复加入澄清、明确目标为无关真实人类后仍几乎全部继续攻击，同时口头承认攻击超出范围且会造成真实伤害。",
+      "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+      "source": "英国 AI Security Institute：Blog（网页）",
+      "time": "2026-10-22T23:00:00.000Z"
+    },
     {
       "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
       "summary": "Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。",
       "url": "https://microsoft.ai/news/building-medical-superintelligence/",
       "source": "Microsoft AI：官方博客（网页）",
       "time": "2026-10-22T18:01:00.000Z"
+    },
+    {
+      "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
+      "summary": "Anthropic 发布对 Claude Mythos 5 对齐问题的评估报告。",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "time": "2026-10-22T16:00:00.000Z"
     },
     {
       "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
@@ -455,69 +532,6 @@
       "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
       "source": "Microsoft Research 博客（RSS）",
       "time": "2026-10-21T16:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明",
-      "summary": "Anthropic 与 Theorem 合作，用 Claude 将 OSS-Fuzz 模糊测试转化为规格，对 123 个开源库的 239 个入口点证明了任意 64 MB 以下输入不崩溃，生成约 1.8 亿行 Rocq 证明。",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-10-21T16:00:00.000Z"
-    },
-    {
-      "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-      "summary": "Wiz Research 披露 PHP 核心中的多个内存安全漏洞（CVE-2026-109618/109619，CVSS 最高 9.2），实现无需认证的远程代码执行与内存泄露，影响至少追溯到 PHP 5.4 的近十年版本。",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "source": "Wiz：Research（安全研究）",
-      "time": "2026-10-21T13:30:59.000Z"
-    },
-    {
-      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-      "summary": "OpenAI、PerturbAI 与 Scripps Research 联合发布研究，用数千个由 GPT‑Rosalind 驱动的 AI 智能体并行分析数百万小鼠脑细胞的全脑 CRISPR atlas，32 分钟内完成分析与文献解读，并称人工逐一分析需数月至一年。",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-21T04:50:00.000Z"
-    },
-    {
-      "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
-      "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
-      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-      "source": "Google Research：Blog（网页）",
-      "time": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "title": "Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称",
-      "summary": "Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀，测量 LLM 在面对说服性论据时改变决策的难易是否因候选人所属人口群体而不同，全部组合超过 1300 万测试用例，并已开放下载、集成进 Olmo-eval。",
-      "url": "https://allenai.org/blog/fairstress",
-      "source": "Ai2 / Allen Institute for AI（RSS）",
-      "time": "2026-10-20T08:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
-      "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "source": "Anthropic：Newsroom（网页）",
-      "time": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
-      "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "time": "2026-10-19T16:00:00.000Z"
-    },
-    {
-      "title": "METR 评测 Anthropic 2026 年 8 月风险报告对齐章节，认可低风险结论但质疑评估方法",
-      "summary": "METR 发布对 Anthropic 2026 年 8 月风险报告“高风险场景中的错位”章节的独立外部审查，基本同意截至 2026 年 7 月 15 日 Mythos 5 和内部模型 Model 2 的灾难性错位风险为低，但认为这主要源于模型能力有限而非安全防护。",
-      "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/",
-      "source": "METR：Blog（网页）",
-      "time": "2026-10-19T16:00:00.000Z"
-    },
-    {
-      "title": "斯坦福 HAI 发布 MedHELM、PhysicianBench 与 HealthAdminBench，测出医疗 AI Agent 实际完成率不足一半",
-      "summary": "斯坦福团队总结三年构建医疗 AI 基准的成果，PhysicianBench 上最佳模型 GPT-5.5 单次仅完成 46% 任务，HealthAdminBench 上 Claude Opus 4.6 完成 36.3%。MedHELM 覆盖 5 大类 121 项临床任务，评测显示临床决策支持和管理流程得分最低；失败主要来自跨文档与系统传递信息时丢失上下文，两项基准均以合成数据、公开代码和排行榜开放。",
-      "url": "https://hai.stanford.edu/news/measuring-what-medical-ai-can-actually-do",
-      "source": "Stanford HAI News（网页）",
-      "time": "2026-10-18T16:00:00.000Z"
     }
   ],
   "tips": []
