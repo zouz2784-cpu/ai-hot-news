@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-10-24T02:08:43.000Z"
+    },
+    {
       "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
       "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
       "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
@@ -57,13 +64,6 @@
       "time": "2026-10-19T16:14:30.000Z"
     },
     {
-      "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
-      "summary": "OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-19T12:00:00.000Z"
-    },
-    {
       "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
       "summary": "蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。",
       "url": "https://github.com/inclusionAI/Ming-3.0-tts",
@@ -108,23 +108,30 @@
   ],
   "products": [
     {
-      "title": "Cloudflare Clairic",
-      "summary": "\n            Cloudflare's AI model for fast, cheap data extraction\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/cloudflare",
+      "title": "1Password for Agents",
+      "summary": "\n            Let AI agents sign in for you without seeing your passwords\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/1password",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "ShogunAI",
-      "summary": "\n            Your personal AGI on your pc\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/shogunai",
+      "title": "zCAD AI",
+      "summary": "\n            AI 3D that creates real parts, not just shapes\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/zcad-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Agent Hunt",
-      "summary": "\n            Live rankings of the tools AI agents use most\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/monid",
+      "title": "sideOS.ai",
+      "summary": "\n            Local AI for dictation, meetings, background tasks and more\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AgentValley",
+      "summary": "\n            Every Claude Code agent, at a glance, in your Mac's notch\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentvalley",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -136,16 +143,30 @@
       "time": "今日"
     },
     {
-      "title": "Loom Record for agents",
-      "summary": "\n            Hit record and hand off to AI, now in the new Loom app\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/loom",
+      "title": "Cloudflare Clairic",
+      "summary": "\n            Cloudflare's AI model for fast, cheap data extraction\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cloudflare",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Agentic CleanSlop",
-      "summary": "\n            Authenticate, scan and fix your app from your agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/cleanslop",
+      "title": "Agent Hunt",
+      "summary": "\n            Live rankings of the tools AI agents use most\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/monid",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ShogunAI",
+      "summary": "\n            Your personal AGI on your pc\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Claire Mail",
+      "summary": "\n            Email, calendar and reminders, in one fast app\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/claire-mail",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -157,9 +178,9 @@
       "time": "今日"
     },
     {
-      "title": "Claire Mail",
-      "summary": "\n            Email, calendar and reminders, in one fast app\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/claire-mail",
+      "title": "Loom Record for agents",
+      "summary": "\n            Hit record and hand off to AI, now in the new Loom app\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/loom",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -190,30 +211,44 @@
       "url": "https://x.com/claudeai/status/2113360845409583307",
       "source": "X：Claude (@claudeai)",
       "time": "2026-10-22T20:04:24.000Z"
-    },
-    {
-      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-      "summary": "OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-22T19:00:00.000Z"
-    },
-    {
-      "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
-      "summary": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。",
-      "url": "https://x.com/Kling_ai/status/2113156632134005040",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "time": "2026-10-22T06:32:56.000Z"
-    },
-    {
-      "title": "Kling 4.0 现已上线 OnSolo",
-      "summary": "可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。",
-      "url": "https://x.com/Kling_ai/status/2113142473145078041",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "time": "2026-10-22T05:36:40.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Startups don’t need to go viral to win customers",
       "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
@@ -246,41 +281,6 @@
       "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
       "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
       "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "What some of Anthropic’s backers are worth before its IPO",
-      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
       "source": "TechCrunch",
       "time": "今日"
     },
@@ -322,53 +322,46 @@
   ],
   "industry": [
     {
-      "title": "German court calls Google aerial imagery 'spying'",
-      "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/\nComments URL: https://news.ycombinator.com/item?id=50216142\nPoints: 32\n# Comments: 9",
-      "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+      "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
+      "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/\nComments URL: https://news.ycombinator.com/item?id=50226434\nPoints: 22\n# Comments: 7",
+      "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
       "source": "Hacker News",
-      "time": "Fri, 23 Oct 2026 22:18:49 +0000"
+      "time": "Sat, 24 Oct 2026 23:14:30 +0000"
     },
     {
-      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\nComments URL: https://news.ycombinator.com/item?id=50214983\nPoints: 31\n# Comments: 6",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 64\n# Comments: 30",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News",
-      "time": "Fri, 23 Oct 2026 20:37:12 +0000"
+      "time": "Sat, 24 Oct 2026 23:11:54 +0000"
     },
     {
-      "title": "Securing our frontier model training environment",
-      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/\nComments URL: https://news.ycombinator.com/item?id=50214416\nPoints: 71\n# Comments: 83",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "title": "Argus – a free, open-source agentic security operations platform – MIT",
+      "summary": "Article URL: https://thomasunise.com/argus\nComments URL: https://news.ycombinator.com/item?id=50225748\nPoints: 27\n# Comments: 8",
+      "url": "https://thomasunise.com/argus",
       "source": "Hacker News",
-      "time": "Fri, 23 Oct 2026 19:50:56 +0000"
+      "time": "Sat, 24 Oct 2026 21:54:16 +0000"
     },
     {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "summary": "Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:I show you what the agents are up to, along with a running feed of their activ",
-      "url": "https://corgi.computer/",
+      "title": "No signs of AI payoff outside the tech sector",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\nComments URL: https://news.ycombinator.com/item?id=50224463\nPoints: 457\n# Comments: 439",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News",
-      "time": "Fri, 23 Oct 2026 19:46:38 +0000"
+      "time": "Sat, 24 Oct 2026 19:47:19 +0000"
     },
     {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nComments URL: https://news.ycombinator.com/item?id=50214218\nPoints: 264\n# Comments: 138",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "title": "Neural chip decodes interactions between brain regions",
+      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\nComments URL: https://news.ycombinator.com/item?id=50222525\nPoints: 86\n# Comments: 29",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "source": "Hacker News",
-      "time": "Fri, 23 Oct 2026 19:34:15 +0000"
+      "time": "Sat, 24 Oct 2026 15:57:17 +0000"
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "summary": "Article URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 219\n# Comments: 93",
-      "url": "https://block.xyz/dessa",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/\nComments URL: https://news.ycombinator.com/item?id=50222283\nPoints: 33\n# Comments: 22",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
       "source": "Hacker News",
-      "time": "Fri, 23 Oct 2026 19:09:54 +0000"
-    },
-    {
-      "title": "Air Purifiers as White Noise Machines",
-      "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines\nComments URL: https://news.ycombinator.com/item?id=50212507\nPoints: 58\n# Comments: 91",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "source": "Hacker News",
-      "time": "Fri, 23 Oct 2026 17:28:36 +0000"
+      "time": "Sat, 24 Oct 2026 15:35:17 +0000"
     },
     {
       "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
@@ -425,6 +418,13 @@
       "url": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
       "source": "Wiz：Research（安全研究）",
       "time": "2026-10-22T13:05:31.000Z"
+    },
+    {
+      "title": "Latent Space 梳理 PHP2Shell 漏洞事件：OpenAI Patch the Planet 与 Wiz 各自发现 PHP 核心漏洞",
+      "summary": "Latent Space 的 AINews 汇总梳理了 PHP 核心漏洞 PHP2Shell（CVE-2026-109618、CVE-2026-109619）的披露时间线，研究者在 PHP 引擎的内存溢出和致命错误处理中发现缺陷，演示了对 WordPress、Drupal、Joomla 的预认证 RCE 和远程内存泄露。",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+      "source": "Latent Space（RSS）",
+      "time": "2026-10-22T07:42:44.000Z"
     }
   ],
   "paper": [
@@ -485,6 +485,13 @@
       "time": "今日"
     },
     {
+      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+      "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "source": "The Decoder：AI News（RSS）",
+      "time": "2026-10-24T11:12:36.000Z"
+    },
+    {
       "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
       "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
       "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
@@ -525,13 +532,6 @@
       "url": "https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right",
       "source": "Sierra：Blog（RSS）",
       "time": "2026-10-22T14:02:33.000Z"
-    },
-    {
-      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-      "summary": "Microsoft Research 的 Xinzhi Zhang 与 Zhao Song 证明 1995 年提出的 Kannan–Lovász–Simonovits（KLS）猜想，表明对数凹分布的最优平面切割与任意形状切割的差距不随维度增长，以普适常数为界。",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "source": "Microsoft Research 博客（RSS）",
-      "time": "2026-10-21T16:00:00.000Z"
     }
   ],
   "tips": []
