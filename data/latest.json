@@ -78,20 +78,6 @@
       "time": "2026-10-19T07:00:00.000Z"
     },
     {
-      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-      "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-      "url": "https://x.com/arena/status/2111894091168682086",
-      "source": "X：Arena (@arena)",
-      "time": "2026-10-18T18:56:03.000Z"
-    },
-    {
-      "title": "MiniMax 发布 M3.1 Flash，推理提速近三倍、用量成本降低 70%",
-      "summary": "MiniMax 发布 MiniMax M3.1 Flash，匿名模型 Space Bunny 是其早期版本，曾处理超过 200 万亿 token。",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "source": "MiniMax：Blog（网页）",
-      "time": "2026-10-18T16:00:00.000Z"
-    },
-    {
       "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
       "summary": "OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -104,9 +90,30 @@
       "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
       "source": "The Decoder：AI News（RSS）",
       "time": "2026-10-22T11:30:56.000Z"
+    },
+    {
+      "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
+      "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
+      "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-22T05:13:16.000Z"
+    },
+    {
+      "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
+      "summary": "AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。",
+      "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "time": "2026-10-21T17:40:59.000Z"
     }
   ],
   "products": [
+    {
+      "title": "AgentGrid.io",
+      "summary": "\n            Shared workspace for humans and agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
     {
       "title": "1Password for Agents",
       "summary": "\n            Let AI agents sign in for you without seeing your passwords\n          \n          \n            Discussion\n            |\n            Link\n          ",
@@ -150,13 +157,6 @@
       "time": "今日"
     },
     {
-      "title": "Agent Hunt",
-      "summary": "\n            Live rankings of the tools AI agents use most\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/monid",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "ShogunAI",
       "summary": "\n            Your personal AGI on your pc\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/shogunai",
@@ -164,23 +164,9 @@
       "time": "今日"
     },
     {
-      "title": "Claire Mail",
-      "summary": "\n            Email, calendar and reminders, in one fast app\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/claire-mail",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Concierge by Juniors AI",
-      "summary": "\n            Omni-channel AI-first customer support (6 months free)\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Loom Record for agents",
-      "summary": "\n            Hit record and hand off to AI, now in the new Loom app\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/loom",
+      "title": "Agent Hunt",
+      "summary": "\n            Live rankings of the tools AI agents use most\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/monid",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -211,9 +197,51 @@
       "url": "https://x.com/claudeai/status/2113360845409583307",
       "source": "X：Claude (@claudeai)",
       "time": "2026-10-22T20:04:24.000Z"
+    },
+    {
+      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+      "summary": "OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "time": "2026-10-22T19:00:00.000Z"
+    },
+    {
+      "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+      "summary": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。",
+      "url": "https://x.com/Kling_ai/status/2113156632134005040",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "time": "2026-10-22T06:32:56.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Starlink seems to be working normally again in Ukraine",
       "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
@@ -257,34 +285,6 @@
       "time": "今日"
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
       "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
       "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
       "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
@@ -322,46 +322,32 @@
   ],
   "industry": [
     {
-      "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-      "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/\nComments URL: https://news.ycombinator.com/item?id=50226434\nPoints: 22\n# Comments: 7",
-      "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/\nComments URL: https://news.ycombinator.com/item?id=50236102\nPoints: 114\n# Comments: 135",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "source": "Hacker News",
-      "time": "Sat, 24 Oct 2026 23:14:30 +0000"
+      "time": "Sun, 25 Oct 2026 21:11:31 +0000"
     },
     {
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 64\n# Comments: 30",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer\nComments URL: https://news.ycombinator.com/item?id=50233779\nPoints: 409\n# Comments: 198",
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "Hacker News",
-      "time": "Sat, 24 Oct 2026 23:11:54 +0000"
+      "time": "Sun, 25 Oct 2026 17:15:38 +0000"
     },
     {
-      "title": "Argus – a free, open-source agentic security operations platform – MIT",
-      "summary": "Article URL: https://thomasunise.com/argus\nComments URL: https://news.ycombinator.com/item?id=50225748\nPoints: 27\n# Comments: 8",
-      "url": "https://thomasunise.com/argus",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html\nComments URL: https://news.ycombinator.com/item?id=50233304\nPoints: 195\n# Comments: 276",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "source": "Hacker News",
-      "time": "Sat, 24 Oct 2026 21:54:16 +0000"
+      "time": "Sun, 25 Oct 2026 16:28:26 +0000"
     },
     {
-      "title": "No signs of AI payoff outside the tech sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\nComments URL: https://news.ycombinator.com/item?id=50224463\nPoints: 457\n# Comments: 439",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "title": "JetBrains Thinkrail",
+      "summary": "Article URL: https://github.com/JetBrains/thinkrail\nComments URL: https://news.ycombinator.com/item?id=50233294\nPoints: 176\n# Comments: 118",
+      "url": "https://github.com/JetBrains/thinkrail",
       "source": "Hacker News",
-      "time": "Sat, 24 Oct 2026 19:47:19 +0000"
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\nComments URL: https://news.ycombinator.com/item?id=50222525\nPoints: 86\n# Comments: 29",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "source": "Hacker News",
-      "time": "Sat, 24 Oct 2026 15:57:17 +0000"
-    },
-    {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/\nComments URL: https://news.ycombinator.com/item?id=50222283\nPoints: 33\n# Comments: 22",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "source": "Hacker News",
-      "time": "Sat, 24 Oct 2026 15:35:17 +0000"
+      "time": "Sun, 25 Oct 2026 16:27:12 +0000"
     },
     {
       "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
@@ -425,6 +411,20 @@
       "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
       "source": "Latent Space（RSS）",
       "time": "2026-10-22T07:42:44.000Z"
+    },
+    {
+      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+      "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
+      "url": "https://x.com/Khazix0918/status/2113096414469464281",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "time": "2026-10-22T02:33:39.000Z"
+    },
+    {
+      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+      "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "source": "公众号：数字生命卡兹克",
+      "time": "2026-10-22T00:06:00.000Z"
     }
   ],
   "paper": [
