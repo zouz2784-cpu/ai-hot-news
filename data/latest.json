@@ -1,116 +1,24 @@
 {
-  "models": [
-    {
-      "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
-      "summary": "Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。",
-      "url": "https://x.com/Khazix0918/status/2115898252004622617",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "time": "2026-10-29T20:07:09.000Z"
-    },
-    {
-      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-      "summary": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face 官方团队博客",
-      "time": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-      "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-      "url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "time": "2026-10-28T17:01:48.000Z"
-    },
-    {
-      "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-      "summary": "Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-10-28T17:00:58.000Z"
-    },
-    {
-      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-      "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
-      "url": "https://openmoss.ai/blog/cn/moss-image/",
-      "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-      "time": "2026-10-28T16:00:00.000Z"
-    },
-    {
-      "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-      "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "time": "2026-10-28T11:38:17.000Z"
-    },
-    {
-      "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-      "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "source": "公众号：数字生命卡兹克",
-      "time": "2026-10-28T00:22:00.000Z"
-    },
-    {
-      "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
-      "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "Google DeepMind：Blog（RSS）",
-      "time": "2026-10-27T16:01:38.000Z"
-    },
-    {
-      "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
-      "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
-      "url": "https://www.ithome.com/1/018/203.htm",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-26T23:37:17.237Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-      "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
-      "url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-10-26T19:24:11.000Z"
-    },
-    {
-      "title": "Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型",
-      "summary": "Liquid AI 发布新一代 LFM3 模型家族，以 LFM3-1.7B-Base 为共享骨干，首批开放六个 2B 级模型（文本、视觉、音频、omni 及两个决策模型）的开放权重，可在 Hugging Face、Playground 和 Liquid AI API 获取。",
-      "url": "https://www.liquid.ai/blog/lfm3",
-      "source": "Liquid AI 模型与工程博客（网页）",
-      "time": "2026-10-26T16:00:00.000Z"
-    },
-    {
-      "title": "腾讯混元开源同声传译大模型 Hy-SimulMT，实测效果超主流商用 API",
-      "summary": "10 月 26 日，腾讯混元发布并开源同声传译大模型 Hy-SimulMT，支持中英语音到语音实时翻译，实测响应时间约 3 秒，低于人类专业译员平均的 4-5 秒。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498743&idx=1&sn=3ffbc2e287aaedc8c3814e4c75030b96",
-      "source": "公众号：腾讯混元",
-      "time": "2026-10-26T11:53:45.000Z"
-    },
-    {
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
-      "summary": "OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推理模型，标准 API 定价比 GPT-5.6 Terra 和 GPT-6.1 Sol 低 50%，为每百万输入 token $1、缓存输入 $0.05、输出 $5。",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-26T00:00:00.000Z"
-    },
-    {
-      "title": "Artificial Analysis 评测 GPT-6.1 Terra：以不到三分之一成本推进性价比前沿",
-      "summary": "Artificial Analysis 评测 OpenAI 发布的 GPT-6.1 Terra，称其在低中 effort 下达到智能与成本的 Pareto 前沿，价格为 GPT-5.6 Terra 的一半或更低（$1/$5 每百万输入/输出 token）。",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "time": "2026-10-25T16:00:00.000Z"
-    },
-    {
-      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-      "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
-      "source": "公众号：数字生命卡兹克",
-      "time": "2026-10-24T02:08:43.000Z"
-    }
-  ],
+  "models": [],
   "products": [
     {
-      "title": "SparkBots AI (Powered by Jev)",
-      "summary": "\n            Instantly extract key details and analyze any webpage or PDF\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "title": "AwaitIO",
+      "summary": "\n            Write a TypeScript function, get an admin screen\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/awaitio",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ChainPoints",
+      "summary": "\n            Flight Prices in Your Points, on Google Flights\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chainpoints",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "BaseTab AI",
+      "summary": "\n            Turn your new tab into an AI-powered workspace\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/basetab-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -129,9 +37,9 @@
       "time": "今日"
     },
     {
-      "title": "IFTTT.ai",
-      "summary": "\n            The easiest way to automate anything\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ifttt",
+      "title": "SparkBots AI (Powered by Jev)",
+      "summary": "\n            Instantly extract key details and analyze any webpage or PDF\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -148,72 +56,30 @@
       "url": "https://www.producthunt.com/products/floot",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "TopAgent",
-      "summary": "\n            Drive B2B event attendance with an AI agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/topmessage",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AssemblyAI",
-      "summary": "\n            text-to-speech built for voice agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/assemblyai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-      "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
-      "source": "Figma AI / Agent / Make",
-      "time": "2026-10-31T00:58:00.000Z"
-    },
-    {
-      "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
-      "summary": "Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。",
-      "url": "https://x.com/adocomplete/status/2116224220539883992",
-      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-      "time": "2026-10-30T17:42:26.000Z"
-    },
-    {
-      "title": "Gemini API 的 Computer Use 工具正式开放（GA）",
-      "summary": "Google 于 10 月 30 日宣布 Gemini API 的 Computer Use 工具正式可用（GA），覆盖 Interactions 和 GenerateContent 两套 API。",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog#10-30-2026",
-      "source": "Gemini API：更新日志（网页）",
-      "time": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
-      "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。",
-      "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "time": "2026-10-29T17:00:03.000Z"
-    },
-    {
-      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-      "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
-      "url": "https://x.com/thsottiaux/status/2115850175868727621",
-      "source": "X：Tibo (@thsottiaux)",
-      "time": "2026-10-29T16:56:07.000Z"
-    },
-    {
-      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-      "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-      "url": "https://x.com/GeminiApp/status/2115845164824711247",
-      "source": "X：Gemini (@GeminiApp)",
-      "time": "2026-10-29T16:36:12.000Z"
-    },
-    {
-      "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
-      "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 un",
-      "url": "https://x.com/UnslothAI/status/2115812784189620265",
-      "source": "X：Unsloth (@UnslothAI)",
-      "time": "2026-10-29T14:27:32.000Z"
     }
   ],
   "biz": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
@@ -262,169 +128,50 @@
       "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, ",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "summary": "DoorDash said that it is open to working with third-party agent makers.",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
-      "summary": "据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-10-31T01:20:05.000Z"
-    },
-    {
-      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-      "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-10-30T21:17:40.000Z"
-    },
-    {
-      "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
-      "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
-      "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-      "source": "Sierra：Blog（RSS）",
-      "time": "2026-10-30T12:50:00.000Z"
-    },
-    {
-      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-      "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
-      "url": "https://www.platformer.news/thursday-newsletter-6/",
-      "source": "Platformer（热点 RSS）",
-      "time": "2026-10-30T00:51:00.000Z"
-    },
-    {
-      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
-      "summary": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch：AI（RSS）",
-      "time": "2026-10-29T23:42:22.000Z"
     }
   ],
   "industry": [
     {
-      "title": "AO3 Down for Maintenance",
-      "summary": "Article URL: https://www.otwstatus.org\nComments URL: https://news.ycombinator.com/item?id=50310258\nPoints: 92\n# Comments: 22",
-      "url": "https://www.otwstatus.org",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\nComments URL: https://news.ycombinator.com/item?id=50320995\nPoints: 74\n# Comments: 38",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
       "source": "Hacker News",
-      "time": "Fri, 30 Oct 2026 21:17:23 +0000"
+      "time": "Sat, 31 Oct 2026 22:46:12 +0000"
     },
     {
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\nComments URL: https://news.ycombinator.com/item?id=50309647\nPoints: 207\n# Comments: 123",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "title": "AI text watermarking and quality loss",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality\nComments URL: https://news.ycombinator.com/item?id=50320599\nPoints: 20\n# Comments: 4",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
       "source": "Hacker News",
-      "time": "Fri, 30 Oct 2026 20:23:30 +0000"
+      "time": "Sat, 31 Oct 2026 21:50:13 +0000"
     },
     {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\nComments URL: https://news.ycombinator.com/item?id=50305693\nPoints: 509\n# Comments: 380",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088\nComments URL: https://news.ycombinator.com/item?id=50319358\nPoints: 188\n# Comments: 111",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "source": "Hacker News",
-      "time": "Fri, 30 Oct 2026 15:52:18 +0000"
+      "time": "Sat, 31 Oct 2026 19:39:19 +0000"
     },
     {
-      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-      "summary": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucruHi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been ",
-      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "summary": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try.Entire inference ",
+      "url": "https://github.com/kerlenton/bootgpt",
       "source": "Hacker News",
-      "time": "Fri, 30 Oct 2026 15:23:11 +0000"
+      "time": "Sat, 31 Oct 2026 12:58:29 +0000"
     },
     {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/\nComments URL: https://news.ycombinator.com/item?id=50304122\nPoints: 102\n# Comments: 113",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai\nComments URL: https://news.ycombinator.com/item?id=50314699\nPoints: 303\n# Comments: 149",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "source": "Hacker News",
-      "time": "Fri, 30 Oct 2026 14:08:20 +0000"
+      "time": "Sat, 31 Oct 2026 10:30:11 +0000"
     },
     {
-      "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-      "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "source": "公众号：千问APP（阿里）",
-      "time": "2026-10-31T00:03:47.000Z"
-    },
-    {
-      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
-      "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
-      "url": "https://x.com/_philschmid/status/2116235686445502608",
-      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "time": "2026-10-30T18:28:00.000Z"
-    },
-    {
-      "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
-      "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
-      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "source": "The Decoder：AI News（RSS）",
-      "time": "2026-10-30T17:15:24.000Z"
-    },
-    {
-      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-      "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "Hacker News：AI 热帖",
-      "time": "2026-10-30T14:50:37.797Z"
-    },
-    {
-      "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-      "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge：AI（RSS）",
-      "time": "2026-10-30T13:11:05.000Z"
-    },
-    {
-      "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
-      "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。Cursor 已于当日下午下线扩展市场，与相关提供方合作清除恶意软件并确认无进一步风险后重新上线，建议受影响用户参考博客说明排查，并升级到 Claude Code for VS Code 2.1.314。",
-      "url": "https://x.com/cursor_ai/status/2116074289053175808",
-      "source": "X：Cursor (@cursor_ai)",
-      "time": "2026-10-30T07:46:39.000Z"
-    },
-    {
-      "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
-      "summary": "OpenAI 整理了在《纽约时报》诉讼中提交给法院的多份支持合理使用的法庭之友意见摘要，作者包括图书馆协会、法律学者、独立创作者和美国政府等。各意见书主张 AI 训练具有转换性、不构成版权法认可的市场损害，并警告限缩合理使用将阻碍科研进展与美国经济繁荣；完整文件可在法院公开卷宗查阅。",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
-      "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。",
-      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "source": "Hacker News：AI 热帖",
-      "time": "2026-10-29T21:29:51.580Z"
-    },
-    {
-      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
-      "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
-      "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-      "source": "Timothy B. Lee：Understanding AI（RSS）",
-      "time": "2026-10-29T19:10:41.000Z"
-    },
-    {
-      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-      "summary": "OpenAI 更新其公开的 Model Spec，将指导原则重组为五项核心价值观：忠实于人类意图、最小化伤害、诚实透明、促进人类自主和关怀。更新新增了关于上下文理解、监督和自主性的指导，调整了部分行为默认值，退出了大部分详细风格指南，并将模型称呼从 the assistant 改为 GPT。",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "time": "2026-10-29T17:00:00.000Z"
+      "title": "Serbia just elected the world's brainiest parliament",
+      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament\nComments URL: https://news.ycombinator.com/item?id=50314654\nPoints: 812\n# Comments: 464",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "source": "Hacker News",
+      "time": "Sat, 31 Oct 2026 10:21:30 +0000"
     }
   ],
   "paper": [
@@ -483,55 +230,6 @@
       "url": "http://arxiv.org/abs/2610.40636v1",
       "source": "arXiv",
       "time": "今日"
-    },
-    {
-      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-      "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-      "source": "Wiz：Research（安全研究）",
-      "time": "2026-10-30T22:51:44.000Z"
-    },
-    {
-      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-      "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-      "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "time": "2026-10-30T12:07:16.000Z"
-    },
-    {
-      "title": "OpenAI 详解如何监控前沿模型的失对齐行为",
-      "summary": "OpenAI 在 Alignment 博客介绍其针对前沿模型（如 GPT-6 Astra）的多层失对齐监控系统，覆盖训练、评估、内部使用和部分外部部署。",
-      "url": "https://alignment.openai.com/how-we-detect-frontier-model-misalignment/",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "time": "2026-10-29T16:00:00.000Z"
-    },
-    {
-      "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
-      "summary": "Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。",
-      "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
-      "source": "Wiz：Research（安全研究）",
-      "time": "2026-10-29T14:36:22.000Z"
-    },
-    {
-      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-      "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
-      "url": "https://www.ithome.com/1/019/268.htm",
-      "source": "IT之家·人工智能",
-      "time": "2026-10-28T22:35:25.040Z"
-    },
-    {
-      "title": "Trakkr 研究：追踪 1285 条 AI 引用统计的溯源路径",
-      "summary": "Trakkr Research 向 ChatGPT、Perplexity、Gemini、Claude 和 Google AI Overviews 提出 200 个要求数字的问题，并追踪其中 1285 条统计的引用链路，结果只有 40% 到达说法一致的研究，8% 到达但数字或语境已变，40% 无法核查，11% 无处可溯。",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "source": "Hacker News：AI 热帖",
-      "time": "2026-10-28T08:00:00.000Z"
-    },
-    {
-      "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定",
-      "summary": "Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。",
-      "url": "https://allenai.org/blog/novelty-bench",
-      "source": "Ai2 / Allen Institute for AI（RSS）",
-      "time": "2026-10-27T08:00:00.000Z"
     }
   ],
   "tips": []
