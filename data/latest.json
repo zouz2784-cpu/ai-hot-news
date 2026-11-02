@@ -2,6 +2,34 @@
   "models": [],
   "products": [
     {
+      "title": "agentmash",
+      "summary": "\n            open-source multiplayer AI for teams' coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentmash",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Usage for Claude + ChatGPT 4.0",
+      "summary": "\n            Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/usage-for-claude",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Riverside Agents",
+      "summary": "\n            A team of AI agents for video: produce, edit, clip, post\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/riverside-fm",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "BaseTab AI",
+      "summary": "\n            Turn your new tab into an AI-powered workspace\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "AwaitIO",
       "summary": "\n            Write a TypeScript function, get an admin screen\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/awaitio",
@@ -16,49 +44,28 @@
       "time": "今日"
     },
     {
-      "title": "BaseTab AI",
-      "summary": "\n            Turn your new tab into an AI-powered workspace\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Knocket AI",
-      "summary": "\n            Chat with visitors from your website or link\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/knocket-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
       "title": "SpeakON Agent",
       "summary": "\n            Turn natural speech into real work for an agent to complete\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/speakon",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "SparkBots AI (Powered by Jev)",
-      "summary": "\n            Instantly extract key details and analyze any webpage or PDF\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Polylane for ChatGPT",
-      "summary": "\n            Ask ChatGPT what broke in production\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/polylane",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Floot in ChatGPT",
-      "summary": "\n            Build and publish real apps without leaving ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/floot",
-      "source": "Product Hunt",
-      "time": "今日"
     }
   ],
   "biz": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
@@ -107,71 +114,36 @@
       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch",
-      "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\nComments URL: https://news.ycombinator.com/item?id=50320995\nPoints: 74\n# Comments: 38",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\nComments URL: https://news.ycombinator.com/item?id=50330456\nPoints: 169\n# Comments: 136",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "source": "Hacker News",
-      "time": "Sat, 31 Oct 2026 22:46:12 +0000"
+      "time": "Sun, 01 Nov 2026 22:10:45 +0000"
     },
     {
-      "title": "AI text watermarking and quality loss",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality\nComments URL: https://news.ycombinator.com/item?id=50320599\nPoints: 20\n# Comments: 4",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "title": "Frontier Airlines Likely Breached",
+      "summary": "Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/\nComments URL: https://news.ycombinator.com/item?id=50327266\nPoints: 176\n# Comments: 69",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
       "source": "Hacker News",
-      "time": "Sat, 31 Oct 2026 21:50:13 +0000"
+      "time": "Sun, 01 Nov 2026 16:46:33 +0000"
     },
     {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088\nComments URL: https://news.ycombinator.com/item?id=50319358\nPoints: 188\n# Comments: 111",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "summary": "Article URL: https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/\nComments URL: https://news.ycombinator.com/item?id=50324371\nPoints: 55\n# Comments: 47",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
       "source": "Hacker News",
-      "time": "Sat, 31 Oct 2026 19:39:19 +0000"
+      "time": "Sun, 01 Nov 2026 10:44:20 +0000"
     },
     {
-      "title": "Show HN: A language model that lives in a boot sector",
-      "summary": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try.Entire inference ",
-      "url": "https://github.com/kerlenton/bootgpt",
+      "title": "The AI cost of JavaScript frameworks",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50323088\nPoints: 299\n# Comments: 230",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "source": "Hacker News",
-      "time": "Sat, 31 Oct 2026 12:58:29 +0000"
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai\nComments URL: https://news.ycombinator.com/item?id=50314699\nPoints: 303\n# Comments: 149",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "source": "Hacker News",
-      "time": "Sat, 31 Oct 2026 10:30:11 +0000"
-    },
-    {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament\nComments URL: https://news.ycombinator.com/item?id=50314654\nPoints: 812\n# Comments: 464",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "source": "Hacker News",
-      "time": "Sat, 31 Oct 2026 10:21:30 +0000"
+      "time": "Sun, 01 Nov 2026 06:06:19 +0000"
     }
   ],
   "paper": [
