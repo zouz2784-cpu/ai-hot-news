@@ -2,16 +2,30 @@
   "models": [],
   "products": [
     {
-      "title": "Agent Inbox",
-      "summary": "\n            Give your agent an email address, Slack and Telegram handle\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-inbox",
+      "title": "Teamily AI",
+      "summary": "\n            Your personal agent, agent teams & people in one messenger\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Linkly AI Clipper",
-      "summary": "\n            Save web as an Agent-friendly Markdown browser extension\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "title": "Infino AI",
+      "summary": "\n            Search, vectors and SQL over one Parquet copy, for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/infino-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "MachineMail",
+      "summary": "\n            Email inboxes for humans and bots\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/machinemail",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AgentKit by Scalekit",
+      "summary": "\n            MCP gateway for production agents that acts on your behalf\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/scalekit",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -21,199 +35,185 @@
       "url": "https://www.producthunt.com/products/cedric",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "Usage for Claude + ChatGPT 4.0",
-      "summary": "\n            Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Riverside Agents",
-      "summary": "\n            A team of AI agents for video: produce, edit, clip, post\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/riverside-fm",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "agentmash",
-      "summary": "\n            open-source multiplayer AI for teams' coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentmash",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "BaseTab AI",
-      "summary": "\n            Turn your new tab into an AI-powered workspace\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AwaitIO",
-      "summary": "\n            Write a TypeScript function, get an admin screen\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/awaitio",
-      "source": "Product Hunt",
-      "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
-      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Scaling Git at OpenAI",
-      "summary": "Article URL: https://openai.com/index/scaling-git-at-openai/\nComments URL: https://news.ycombinator.com/item?id=50345924\nPoints: 68\n# Comments: 18",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713\nComments URL: https://news.ycombinator.com/item?id=50358582\nPoints: 249\n# Comments: 42",
+      "url": "https://arxiv.org/abs/2605.29713",
       "source": "Hacker News",
-      "time": "Mon, 02 Nov 2026 23:47:56 +0000"
+      "time": "Tue, 03 Nov 2026 21:40:53 +0000"
     },
     {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "summary": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/\nComments URL: https://news.ycombinator.com/item?id=50344919\nPoints: 240\n# Comments: 174",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months\nComments URL: https://news.ycombinator.com/item?id=50358422\nPoints: 272\n# Comments: 121",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "source": "Hacker News",
-      "time": "Mon, 02 Nov 2026 22:30:47 +0000"
+      "time": "Tue, 03 Nov 2026 21:26:44 +0000"
     },
     {
-      "title": "Egoless Mathematics in the AI Era",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/\nComments URL: https://news.ycombinator.com/item?id=50341736\nPoints: 126\n# Comments: 87",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "summary": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that a",
+      "url": "https://github.com/finic-ai/kairos",
       "source": "Hacker News",
-      "time": "Mon, 02 Nov 2026 18:54:44 +0000"
+      "time": "Tue, 03 Nov 2026 21:16:48 +0000"
     },
     {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "summary": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs.Here’s a demo: https://youtu.be/BFsM-Se1Fh8We’re both software engineers that spent our careers on",
-      "url": "https://momentic.ai/",
+      "title": "How I use AI (Oct 2026)",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/\nComments URL: https://news.ycombinator.com/item?id=50355767\nPoints: 95\n# Comments: 83",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "source": "Hacker News",
-      "time": "Mon, 02 Nov 2026 17:05:25 +0000"
+      "time": "Tue, 03 Nov 2026 18:11:11 +0000"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/\nComments URL: https://news.ycombinator.com/item?id=50355251\nPoints: 501\n# Comments: 155",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Hacker News",
+      "time": "Tue, 03 Nov 2026 17:40:00 +0000"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370\nComments URL: https://news.ycombinator.com/item?id=50354960\nPoints: 1055\n# Comments: 347",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "time": "Tue, 03 Nov 2026 17:22:37 +0000"
+    },
+    {
+      "title": "There is no posttraining data commons",
+      "summary": "Article URL: https://openathena.ai/blog/there-is-no-posttraining-data-commons/\nComments URL: https://news.ycombinator.com/item?id=50352641\nPoints: 33\n# Comments: 7",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "source": "Hacker News",
+      "time": "Tue, 03 Nov 2026 14:45:47 +0000"
     }
   ],
   "paper": [
     {
-      "title": "Accelerating posterior sampling in Bayesian inverse problems with diffusion models: an online-offline perspective",
-      "summary": "Bayesian inverse problems require both informative prior models and computationally feasible posterior inference. Score-based diffusion models provide expressive learned priors, but their use for inversion introduces a conditioning problem: the score of a noised posterior is generally unavailable fr",
-      "url": "http://arxiv.org/abs/2611.01300v1",
+      "title": "Nearly Linear-Time Follow-the-Perturbed-Leader for Weakly Observable Graph Bandits",
+      "summary": "We study online learning with directed weakly observable feedback graphs and propose a Follow-the-Perturbed-Leader (FTPL) policy that achieves best-of-both-worlds guarantee with nearly linear expected time complexity. To preserve the simple structure of FTPL, we develop a novel graph-based loss esti",
+      "url": "http://arxiv.org/abs/2611.04307v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Best-of-Both-Worlds FTRL for Linear Bandits: The Interplay of Information Acquisition, Corruption, and Geometry",
-      "summary": "We study \\textit{best-of-both-worlds} (BOBW) algorithms for linear bandits, which aim to simultaneously guarantee $\\gO(\\sqrt T)$ regret in the adversarial regime and $\\gO(\\log T)$ regret in the stochastic regime over $T$ rounds. For finite action sets, we introduce \\emph{information-acquisition foll",
-      "url": "http://arxiv.org/abs/2611.01299v1",
+      "title": "FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing",
+      "summary": "In-image machine translation (IIMT) replaces text in an image with its translation while preserving the surrounding visual context. Existing task-specific models achieve convincing performance but require massive paired training images before and after translation. As advanced text-to-image (T2I) mo",
+      "url": "http://arxiv.org/abs/2611.04303v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "[Re] Pure Noise to the Rescue of Insufficient Data",
-      "summary": "We examine the main claims of Zada, Benou, and Irani (2021), which states that in an image classification task with imbalanced training data, (i) using pure noise to augment minority-class images encourages generalization by improving minority-class accuracy. This method is paired with (ii) a new ba",
-      "url": "http://arxiv.org/abs/2611.01295v1",
+      "title": "OSGR: Observation-Support Graph Reasoning for Earth Observation Question Answering",
+      "summary": "Answering geographic queries over Earth observation (EO) archives requires solving a joint retrieval-and-derivation problem under strict spatiotemporal constraints. Existing LLM agents fail to ground observation items or suffer from search-space explosion. We propose OSGR, a two-stage framework that",
+      "url": "http://arxiv.org/abs/2611.04301v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Character-Name Concentration in LLM Fiction: Measuring Displacement and Mitigating Repetition",
-      "summary": "Character names in large language model (LLM) fiction concentrate on a handful of recurrent names such as 'Elara' and 'Elias', a measurable face of AI slop. Existing fixes either require logit access or retraining, or operate per request and cannot control concentration across a corpus. How much pro",
-      "url": "http://arxiv.org/abs/2611.01284v1",
+      "title": "SEAM: Situated Executable Associative Memory for a Co-located Community",
+      "summary": "In groups, knowledge is distributed among individuals, and how it is brought together depends on social ties. Taking inspiration from how a single mind recalls and reacts to memories and current stimulus, we build a shared memory that does this for a community, prototyped as a social app, SEAM. Memb",
+      "url": "http://arxiv.org/abs/2611.04296v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "OntoDoc: Automatically Generating Ontology Resource Descriptions",
-      "summary": "Knowledge graphs and ontologies form the backbone of structured, machine-readable knowledge representation, yet ontology terms often lack natural language descriptions, limiting their accessibility and reuse. Existing ontology verbalization approaches tend to rely on rule-based or template-driven te",
-      "url": "http://arxiv.org/abs/2611.01276v1",
+      "title": "Reciprocity Can Erase Direction:tructural Boundaries and Controlled Utility of Magnetic Graph Networks",
+      "summary": "Magnetic graph networks encode direction through phase, but a learned graph can erase the intended directional mechanism before prediction. We characterize this failure for support-based magnetic Laplacians. Exact identities relate imaginary energy and distance from zero phase to amplitude-weighted ",
+      "url": "http://arxiv.org/abs/2611.04295v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Geometry of Confabulation and Refusal in Small Language Models",
-      "summary": "Faced with an unanswerable question, small language models can either refuse or confabulate: confidently produce a wrong answer. Can the hidden state before the first generated token provide a clue? Can we flip confabulations into refusals? I introduce ConfabQA, a 784-item benchmark whose obscure-pr",
-      "url": "http://arxiv.org/abs/2611.01272v1",
+      "title": "How Risky Is Your Data-Driven Policy?",
+      "summary": "Data-driven algorithms are ubiquitous across industries, and there is an extensive literature on analyzing their \\emph{average} performance. The risk profile of such algorithms, while critical, is much less understood. This paper quantifies the risk of data-driven policies and isolates its sources. ",
+      "url": "http://arxiv.org/abs/2611.04292v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Learning momenta for Hamiltonian-based models",
-      "summary": "There has been increasing interest in methodologies that incorporate physics priors into neural network architectures to enhance their modeling capabilities. Among these methodologies, Hamiltonian neural networks (HNNs) and their variants have gained considerable attention. These architectures expli",
-      "url": "http://arxiv.org/abs/2611.01269v1",
+      "title": "When Debate Amplifies Risk: Social-Bias Vulnerabilities in Multi-Agent Safety Deliberation",
+      "summary": "Retrieval-augmented Web applications increasingly employ multi-agent debate (MAD) to aggregate conflicting, noisy, and heterogeneous information, yet deliberation is fundamentally a social process susceptible to interpersonal dynamics. When retrieved Web sources contain latent hazards alongside safe",
+      "url": "http://arxiv.org/abs/2611.04289v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Toward Bounding Coding-Agent Autonomy in Software Maintenance: A Pilot Study of Boundary Contracts",
-      "summary": "As coding agents gain greater autonomy to modify software repositories, relevant context alone does not define their operational authority. An artifact may be relevant to a maintenance task while being inappropriate to edit; conversely, another artifact may be required even when it is not explicitly",
-      "url": "http://arxiv.org/abs/2611.01265v1",
+      "title": "Predicting protein structures at any folding stage from sequence",
+      "summary": "Protein structure predictors reliably identify native conformations, but do not describe the continuum connecting unfolded ensembles to folded states. Here we present FoldScape, a sequence-conditioned deep learning framework that generates C$α$ conformational ensembles at a specified folding fractio",
+      "url": "http://arxiv.org/abs/2611.04287v1",
       "source": "arXiv",
       "time": "今日"
     }
