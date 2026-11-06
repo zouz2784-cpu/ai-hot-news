@@ -2,16 +2,37 @@
   "models": [],
   "products": [
     {
-      "title": "LiveReacting for ChatGPT",
-      "summary": "\n            Run 24/7 and pre-recorded live streams from ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/livereacting",
+      "title": "AI Employees by Easy-Peasy.AI",
+      "summary": "\n            Hire an AI team that splits the work and asks before sending\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/easy-peasy-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "KREV AI",
-      "summary": "\n            An AI team that runs your ecommerce brand\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/krev",
+      "title": "Living Brain",
+      "summary": "\n            Interoperable, efficient memory layer for agentic AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chatandbuild",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "FounderMail",
+      "summary": "\n            Mail for you and your agents, on your Cloudflare domain\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/foundermail-2",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Stitch.ai",
+      "summary": "\n            Your AI workspace for mail, calendar, notes, tasks and more\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/stitch-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Rainbrand",
+      "summary": "\n            The brand layer for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/rainbrand",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -23,197 +44,190 @@
       "time": "今日"
     },
     {
-      "title": "Teamily AI",
-      "summary": "\n            Your personal agent, agent teams & people in one messenger\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AgentKit by Scalekit",
-      "summary": "\n            MCP gateway for production agents that acts on your behalf\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/scalekit",
+      "title": "LiveReacting for ChatGPT",
+      "summary": "\n            Run 24/7 and pre-recorded live streams from ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/livereacting",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra\nComments URL: https://news.ycombinator.com/item?id=50370654\nPoints: 108\n# Comments: 46",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\nComments URL: https://news.ycombinator.com/item?id=50385870\nPoints: 131\n# Comments: 59",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "source": "Hacker News",
-      "time": "Wed, 04 Nov 2026 19:55:14 +0000"
+      "time": "Thu, 05 Nov 2026 23:09:57 +0000"
     },
     {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "summary": "Article URL: https://www.ricursive.com/ripple\nComments URL: https://news.ycombinator.com/item?id=50369925\nPoints: 234\n# Comments: 80",
-      "url": "https://www.ricursive.com/ripple",
+      "title": "Claude Code sends your email address to websites",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 599\n# Comments: 199",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
       "source": "Hacker News",
-      "time": "Wed, 04 Nov 2026 18:53:29 +0000"
+      "time": "Thu, 05 Nov 2026 22:17:15 +0000"
     },
     {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "summary": "Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with re",
-      "url": "https://news.ycombinator.com/item?id=50368804",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844\nComments URL: https://news.ycombinator.com/item?id=50384233\nPoints: 343\n# Comments: 127",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
       "source": "Hacker News",
-      "time": "Wed, 04 Nov 2026 17:31:53 +0000"
+      "time": "Thu, 05 Nov 2026 20:43:42 +0000"
     },
     {
-      "title": "Progress on provable inference for large language models",
-      "summary": "Article URL: https://www.anthropic.com/research/provable-inference\nComments URL: https://news.ycombinator.com/item?id=50368626\nPoints: 179\n# Comments: 87",
-      "url": "https://www.anthropic.com/research/provable-inference",
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "summary": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\nComments URL: https://news.ycombinator.com/item?id=50383963\nPoints: 89\n# Comments: 3",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
       "source": "Hacker News",
-      "time": "Wed, 04 Nov 2026 17:17:46 +0000"
+      "time": "Thu, 05 Nov 2026 20:21:43 +0000"
     },
     {
-      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham\nComments URL: https://news.ycombinator.com/item?id=50367653\nPoints: 69\n# Comments: 159",
-      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "summary": "Article URL: https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed\nComments URL: https://news.ycombinator.com/item?id=50383163\nPoints: 168\n# Comments: 37",
+      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
       "source": "Hacker News",
-      "time": "Wed, 04 Nov 2026 16:11:33 +0000"
+      "time": "Thu, 05 Nov 2026 19:16:34 +0000"
     },
     {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro\nComments URL: https://news.ycombinator.com/item?id=50366999\nPoints: 400\n# Comments: 108",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "summary": "Hey HN, this is Nathan and Nicholas from Rivet (https://rivet.dev) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.Actors provide a long-lived process ",
+      "url": "https://github.com/rivet-dev/rivet",
       "source": "Hacker News",
-      "time": "Wed, 04 Nov 2026 15:30:30 +0000"
+      "time": "Thu, 05 Nov 2026 17:17:42 +0000"
     },
     {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "summary": "https://twitter.com/pierrecomputer/status/211799903617518818...\n\nComments URL: https://news.ycombinator.com/item?id=50366863\nPoints: 198\n# Comments: 62",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs\nComments URL: https://news.ycombinator.com/item?id=50381512\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
       "source": "Hacker News",
-      "time": "Wed, 04 Nov 2026 15:21:21 +0000"
+      "time": "Thu, 05 Nov 2026 17:01:23 +0000"
     }
   ],
   "paper": [
     {
-      "title": "FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation",
-      "summary": "Short-interval wireless schedulers must return a complete, feasible beam-and-resource allocation before each execution deadline, and a late or invalid output gives no utility in the current control cycle. Searching longer can increase transmitted traffic, but it may also miss the deadline or leave o",
-      "url": "http://arxiv.org/abs/2611.06491v1",
+      "title": "Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction",
+      "summary": "It is well established that molecular substructures can contribute unequally to chemical and physical properties, with specific motifs or side chains often playing dominant roles. Fragment-based representations have therefore emerged as an effective strategy for incorporating chemically meaningful i",
+      "url": "http://arxiv.org/abs/2611.07998v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Risk-Sensitive Non-Parametric and Kernel Bandits",
-      "summary": "We study non-parametric bandits in which arms are evaluated using Cumulative Prospect Theory (CPT) rather than expected reward. We consider continuous action spaces with arm-dependent noise and propose Non-Parametric CPT Bandits ($\\mathtt{NPCB}$), an optimistic algorithm that decouples mean estimati",
-      "url": "http://arxiv.org/abs/2611.06489v1",
+      "title": "Technohybridism: Recursive Semantic Normalization in AI-Mediated Societies",
+      "summary": "Language-generating AI systems are no longer only objects of linguistic interaction: their outputs increasingly re-enter the communicative and institutional practices from which their training material was drawn. Drawing on social theory, social epistemology, and the philosophy of language, this art",
+      "url": "http://arxiv.org/abs/2611.07984v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Model Merging Does Not Require Uniform LoRA Ranks",
-      "summary": "Model merging combines separately fine-tuned experts into a single model without retraining. Standard practice trains every expert at the same LoRA rank, which couples the rank choice across experts even though each domain has its own best rank. We show this coupling is a property of the merge metho",
-      "url": "http://arxiv.org/abs/2611.06486v1",
+      "title": "QRAE: Query-Relevant Attention Entropy for Context Compression in DeepSearch Agents",
+      "summary": "DeepSearch LLM agents repeatedly search and carry retrieved sources into subsequent reasoning steps. This expanding context increases token consumption and latency, although many results do not contribute to later reasoning. We propose Query-Relevant Attention Entropy (QRAE), an online context compr",
+      "url": "http://arxiv.org/abs/2611.07976v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
-      "summary": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth $K$ and interaction depth $T$ via $Pass@(K,T)$, we show that trajectory-level RL advantages depend on suffic",
-      "url": "http://arxiv.org/abs/2611.06483v1",
+      "title": "Tight Asymptotic Bounds on the Maximum Number of Linear Regions of Piecewise-Linear Kolmogorov--Arnold networks",
+      "summary": "Schoots et al.~\\citep{schoots2025relating} (AISTATS 2025) established a generally loose upper bound on the number of linear regions of continuous piecewise-linear (CPWL) Kolmogorov--Arnold networks (KANs), without providing a lower bound. We consider a $T$-layer network with width vector $\\mathbf n=",
+      "url": "http://arxiv.org/abs/2611.07973v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs",
-      "summary": "Graph-based retrieval-augmented generation (GraphRAG) answers questions by retrieving over a knowledge graph built from a corpus. Yet retrieval strategies are designed around the structure their own construction pipeline produces, and whether they survive a change of construction is rarely tested. W",
-      "url": "http://arxiv.org/abs/2611.06481v1",
+      "title": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research",
+      "summary": "Can large language models (LLMs) advance theoretical computer science and resolve its long-standing open conjectures? To study progress toward this goal, we introduce TCSExam, a unified framework and benchmark covering the full range of TCS research. It evaluates theorem proving, solver engineering,",
+      "url": "http://arxiv.org/abs/2611.07962v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "The Alignment Tax Is Graded: Task-Selective Capability Loss Under Length-Normalized DPO with SFT Retention",
-      "summary": "Setting. This is an empirical characterization study; we propose no new method and run no comparisons against alternative objectives. We fine-tune Qwen3.5-4B with sparse LoRA and length-normalized DPO plus an SFT retention term (the RPO objective) on structured financial-filing tasks, and track down",
-      "url": "http://arxiv.org/abs/2611.06476v1",
+      "title": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
+      "summary": "On-policy distillation trains a student on its own rollouts, so states the teacher would reach but the student does not are seldom supervised. We introduce CoRD (coupled-rollout distillation), which keeps the on-policy loss and moves only the distribution of training states toward the teacher, drawi",
+      "url": "http://arxiv.org/abs/2611.07959v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "How many sorted projections determine n points in k dimensions?",
-      "summary": "Let $d_1,\\dots,d_m$ be directions in $\\mathbb{R}^k$, where $k\\ge 2$. A multiset $X$ of $n$ points of $\\mathbb{R}^k$ projects to the $m$ multisets of numbers $\\{\\{x\\cdot d_j : x\\in X\\}\\}$, or equivalently to the $m$ sorted lists of these numbers. How many directions are needed for these projections t",
-      "url": "http://arxiv.org/abs/2611.06470v1",
+      "title": "A Behavioural Framework for Predicting and Understanding Loss of Control in Frontier Artificial Intelligence Systems",
+      "summary": "Frontier artificial intelligence (AI) systems are increasingly operating over longer horizons with diminishing human oversight, raising the risk of loss of control: systems acting beyond effective human control with potentially irreversible consequences. Because such failures may become observable o",
+      "url": "http://arxiv.org/abs/2611.07953v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Microdroplet Generator Surrogate Enhancement and Inverse Design Through an Uncertainty-Guided Framework",
-      "summary": "Microfluidic droplet generation is critical for many applications, yet efficient device design in high-dimensional parameter spaces remains computationally prohibitive due to complex multiphase flow dynamics. This work presents a unified methodology that couples adaptive surrogate enhancement with s",
-      "url": "http://arxiv.org/abs/2611.06464v1",
+      "title": "Invariance before structure: two modes of emergent compression in representation learning",
+      "summary": "Learned representations show striking invariance across biological and artificial neural networks, with different substrates and variations driven by drift, heterogeneity and initialisation. To understand this invariance, we propose Emergent Adaptive Representation Learning (EARL), a framework that ",
+      "url": "http://arxiv.org/abs/2611.07952v1",
       "source": "arXiv",
       "time": "今日"
     }
