@@ -2,56 +2,98 @@
   "models": [],
   "products": [
     {
-      "title": "AI Employees by Easy-Peasy.AI",
-      "summary": "\n            Hire an AI team that splits the work and asks before sending\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/easy-peasy-ai",
+      "title": "Tobira Site Agent",
+      "summary": "\n            Turn your website into an AI agent that sells to AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/tobira-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Living Brain",
-      "summary": "\n            Interoperable, efficient memory layer for agentic AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/chatandbuild",
+      "title": "Translucent AI",
+      "summary": "\n            Test infrastructure for hardware teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/translucent-ai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "FounderMail",
-      "summary": "\n            Mail for you and your agents, on your Cloudflare domain\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/foundermail-2",
+      "title": "Make0 Brain OSS",
+      "summary": "\n            Sync context across all your agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/make0-brain",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Stitch.ai",
-      "summary": "\n            Your AI workspace for mail, calendar, notes, tasks and more\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/stitch-ai",
+      "title": "DALI AI by SupplyzPro",
+      "summary": "\n            The ERP you never need to open\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Rainbrand",
-      "summary": "\n            The brand layer for agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/rainbrand",
+      "title": "Plainmail",
+      "summary": "\n            Real email on every domain you own, for $5 a month flat\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/plainmail",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "OpenMail",
-      "summary": "\n            Give your AI agents an identity through email\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openmail",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "LiveReacting for ChatGPT",
-      "summary": "\n            Run 24/7 and pre-recorded live streams from ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/livereacting",
+      "title": "AgentTM",
+      "summary": "\n            Time-travel debugging for AI coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agenttm",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
@@ -65,169 +107,127 @@
       "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Harbinger raises $240M after expanding into defense",
-      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch",
-      "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\nComments URL: https://news.ycombinator.com/item?id=50385870\nPoints: 131\n# Comments: 59",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/voice-sip\nComments URL: https://news.ycombinator.com/item?id=50399695\nPoints: 44\n# Comments: 29",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
       "source": "Hacker News",
-      "time": "Thu, 05 Nov 2026 23:09:57 +0000"
+      "time": "Fri, 06 Nov 2026 23:03:55 +0000"
     },
     {
-      "title": "Claude Code sends your email address to websites",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 599\n# Comments: 199",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053\nComments URL: https://news.ycombinator.com/item?id=50399569\nPoints: 73\n# Comments: 33",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "source": "Hacker News",
-      "time": "Thu, 05 Nov 2026 22:17:15 +0000"
+      "time": "Fri, 06 Nov 2026 22:50:43 +0000"
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844\nComments URL: https://news.ycombinator.com/item?id=50384233\nPoints: 343\n# Comments: 127",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "title": "AI is dramatically accelerating AI research",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\nComments URL: https://news.ycombinator.com/item?id=50397994\nPoints: 211\n# Comments: 158",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "source": "Hacker News",
-      "time": "Thu, 05 Nov 2026 20:43:42 +0000"
+      "time": "Fri, 06 Nov 2026 20:27:23 +0000"
     },
     {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "summary": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\nComments URL: https://news.ycombinator.com/item?id=50383963\nPoints: 89\n# Comments: 3",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\nComments URL: https://news.ycombinator.com/item?id=50397711\nPoints: 41\n# Comments: 7",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
       "source": "Hacker News",
-      "time": "Thu, 05 Nov 2026 20:21:43 +0000"
+      "time": "Fri, 06 Nov 2026 20:09:14 +0000"
     },
     {
-      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-      "summary": "Article URL: https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed\nComments URL: https://news.ycombinator.com/item?id=50383163\nPoints: 168\n# Comments: 37",
-      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\nComments URL: https://news.ycombinator.com/item?id=50397017\nPoints: 98\n# Comments: 43",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
       "source": "Hacker News",
-      "time": "Thu, 05 Nov 2026 19:16:34 +0000"
+      "time": "Fri, 06 Nov 2026 19:19:27 +0000"
     },
     {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "summary": "Hey HN, this is Nathan and Nicholas from Rivet (https://rivet.dev) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.Actors provide a long-lived process ",
-      "url": "https://github.com/rivet-dev/rivet",
+      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+      "summary": "Article URL: https://halfnarp.events.ccc.de\nComments URL: https://news.ycombinator.com/item?id=50396108\nPoints: 46\n# Comments: 9",
+      "url": "https://halfnarp.events.ccc.de",
       "source": "Hacker News",
-      "time": "Thu, 05 Nov 2026 17:17:42 +0000"
+      "time": "Fri, 06 Nov 2026 18:16:43 +0000"
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs\nComments URL: https://news.ycombinator.com/item?id=50381512\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "summary": "Article URL: https://arxiv.org/abs/2610.21375\nComments URL: https://news.ycombinator.com/item?id=50395919\nPoints: 87\n# Comments: 7",
+      "url": "https://arxiv.org/abs/2610.21375",
       "source": "Hacker News",
-      "time": "Thu, 05 Nov 2026 17:01:23 +0000"
+      "time": "Fri, 06 Nov 2026 18:03:33 +0000"
+    },
+    {
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=50395043\nPoints: 0\n# Comments: 0",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "source": "Hacker News",
+      "time": "Fri, 06 Nov 2026 17:03:33 +0000"
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3...\n\nComments URL: https://news.ycombinator.com/item?id=50394906\nPoints: 237\n# Comments: 493",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "Hacker News",
+      "time": "Fri, 06 Nov 2026 16:54:36 +0000"
     }
   ],
   "paper": [
     {
-      "title": "Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction",
-      "summary": "It is well established that molecular substructures can contribute unequally to chemical and physical properties, with specific motifs or side chains often playing dominant roles. Fragment-based representations have therefore emerged as an effective strategy for incorporating chemically meaningful i",
-      "url": "http://arxiv.org/abs/2611.07998v1",
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embedd",
+      "url": "http://arxiv.org/abs/2611.08487v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Technohybridism: Recursive Semantic Normalization in AI-Mediated Societies",
-      "summary": "Language-generating AI systems are no longer only objects of linguistic interaction: their outputs increasingly re-enter the communicative and institutional practices from which their training material was drawn. Drawing on social theory, social epistemology, and the philosophy of language, this art",
-      "url": "http://arxiv.org/abs/2611.07984v1",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must rep",
+      "url": "http://arxiv.org/abs/2611.08483v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "QRAE: Query-Relevant Attention Entropy for Context Compression in DeepSearch Agents",
-      "summary": "DeepSearch LLM agents repeatedly search and carry retrieved sources into subsequent reasoning steps. This expanding context increases token consumption and latency, although many results do not contribute to later reasoning. We propose Query-Relevant Attention Entropy (QRAE), an online context compr",
-      "url": "http://arxiv.org/abs/2611.07976v1",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea",
+      "url": "http://arxiv.org/abs/2611.08478v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Tight Asymptotic Bounds on the Maximum Number of Linear Regions of Piecewise-Linear Kolmogorov--Arnold networks",
-      "summary": "Schoots et al.~\\citep{schoots2025relating} (AISTATS 2025) established a generally loose upper bound on the number of linear regions of continuous piecewise-linear (CPWL) Kolmogorov--Arnold networks (KANs), without providing a lower bound. We consider a $T$-layer network with width vector $\\mathbf n=",
-      "url": "http://arxiv.org/abs/2611.07973v1",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1",
+      "url": "http://arxiv.org/abs/2611.08472v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research",
-      "summary": "Can large language models (LLMs) advance theoretical computer science and resolve its long-standing open conjectures? To study progress toward this goal, we introduce TCSExam, a unified framework and benchmark covering the full range of TCS research. It evaluates theorem proving, solver engineering,",
-      "url": "http://arxiv.org/abs/2611.07962v1",
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. W",
+      "url": "http://arxiv.org/abs/2611.08469v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
-      "summary": "On-policy distillation trains a student on its own rollouts, so states the teacher would reach but the student does not are seldom supervised. We introduce CoRD (coupled-rollout distillation), which keeps the on-policy loss and moves only the distribution of training states toward the teacher, drawi",
-      "url": "http://arxiv.org/abs/2611.07959v1",
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residua",
+      "url": "http://arxiv.org/abs/2611.08465v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A Behavioural Framework for Predicting and Understanding Loss of Control in Frontier Artificial Intelligence Systems",
-      "summary": "Frontier artificial intelligence (AI) systems are increasingly operating over longer horizons with diminishing human oversight, raising the risk of loss of control: systems acting beyond effective human control with potentially irreversible consequences. Because such failures may become observable o",
-      "url": "http://arxiv.org/abs/2611.07953v1",
+      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+      "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step ",
+      "url": "http://arxiv.org/abs/2611.08457v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Invariance before structure: two modes of emergent compression in representation learning",
-      "summary": "Learned representations show striking invariance across biological and artificial neural networks, with different substrates and variations driven by drift, heterogeneity and initialisation. To understand this invariance, we propose Emergent Adaptive Representation Learning (EARL), a framework that ",
-      "url": "http://arxiv.org/abs/2611.07952v1",
+      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+      "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relat",
+      "url": "http://arxiv.org/abs/2611.08453v1",
       "source": "arXiv",
       "time": "今日"
     }
