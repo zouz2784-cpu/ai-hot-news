@@ -2,30 +2,23 @@
   "models": [],
   "products": [
     {
-      "title": "Tobira Site Agent",
-      "summary": "\n            Turn your website into an AI agent that sells to AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/tobira-ai",
+      "title": "GPT‑6 Cyber",
+      "summary": "\n            OpenAI’s cyber model, with vetted access for defenders\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Translucent AI",
-      "summary": "\n            Test infrastructure for hardware teams\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/translucent-ai",
+      "title": "ChatGPT Images 2.6",
+      "summary": "\n            Create, edit, and animate images with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Make0 Brain OSS",
-      "summary": "\n            Sync context across all your agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/make0-brain",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "DALI AI by SupplyzPro",
-      "summary": "\n            The ERP you never need to open\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "title": "ClarifierAI for Chrome",
+      "summary": "\n            Use AI for writing & translating in your Chrome\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -37,9 +30,9 @@
       "time": "今日"
     },
     {
-      "title": "AgentTM",
-      "summary": "\n            Time-travel debugging for AI coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agenttm",
+      "title": "Make0 Brain OSS",
+      "summary": "\n            Sync context across all your agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/make0-brain",
       "source": "Product Hunt",
       "time": "今日"
     }
@@ -86,92 +79,36 @@
       "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch",
-      "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Outbound SIP calling is now available to all organizations",
-      "summary": "Article URL: https://developers.openai.com/api/docs/guides/voice-sip\nComments URL: https://news.ycombinator.com/item?id=50399695\nPoints: 44\n# Comments: 29",
-      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "summary": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am alr",
+      "url": "https://eyesrhythm.com/",
       "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 23:03:55 +0000"
+      "time": "Sat, 07 Nov 2026 21:47:47 +0000"
     },
     {
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053\nComments URL: https://news.ycombinator.com/item?id=50399569\nPoints: 73\n# Comments: 33",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\nComments URL: https://news.ycombinator.com/item?id=50407882\nPoints: 184\n# Comments: 126",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 22:50:43 +0000"
+      "time": "Sat, 07 Nov 2026 20:45:32 +0000"
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\nComments URL: https://news.ycombinator.com/item?id=50397994\nPoints: 211\n# Comments: 158",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "summary": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft...\n\nComments URL: https://news.ycombinator.com/item?id=50406563\nPoints: 389\n# Comments: 226",
+      "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 20:27:23 +0000"
+      "time": "Sat, 07 Nov 2026 18:02:17 +0000"
     },
     {
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\nComments URL: https://news.ycombinator.com/item?id=50397711\nPoints: 41\n# Comments: 7",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "title": "How Long Can Life Wait?",
+      "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait\nComments URL: https://news.ycombinator.com/item?id=50405789\nPoints: 129\n# Comments: 78",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
       "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 20:09:14 +0000"
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\nComments URL: https://news.ycombinator.com/item?id=50397017\nPoints: 98\n# Comments: 43",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 19:19:27 +0000"
-    },
-    {
-      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-      "summary": "Article URL: https://halfnarp.events.ccc.de\nComments URL: https://news.ycombinator.com/item?id=50396108\nPoints: 46\n# Comments: 9",
-      "url": "https://halfnarp.events.ccc.de",
-      "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 18:16:43 +0000"
-    },
-    {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "summary": "Article URL: https://arxiv.org/abs/2610.21375\nComments URL: https://news.ycombinator.com/item?id=50395919\nPoints: 87\n# Comments: 7",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 18:03:33 +0000"
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-      "summary": "Article URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=50395043\nPoints: 0\n# Comments: 0",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 17:03:33 +0000"
-    },
-    {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3...\n\nComments URL: https://news.ycombinator.com/item?id=50394906\nPoints: 237\n# Comments: 493",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "source": "Hacker News",
-      "time": "Fri, 06 Nov 2026 16:54:36 +0000"
+      "time": "Sat, 07 Nov 2026 16:22:59 +0000"
     }
   ],
   "paper": [
