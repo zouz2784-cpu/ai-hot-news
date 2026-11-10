@@ -2,16 +2,44 @@
   "models": [],
   "products": [
     {
-      "title": "Agent Clan",
-      "summary": "\n            Command your Claude Code and Codex agents with gestures\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agent-clan",
+      "title": "Arcjet AI security models",
+      "summary": "\n            A family of custom-trained security models for coding agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/arcjet",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "ClarifierAI for Chrome",
-      "summary": "\n            Use AI for writing & translating in your Chrome\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "title": "Egoist AI Passport",
+      "summary": "\n            Secure and share your personal data with AI tools.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/egoist-ai-passport",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Dageno AI 2.0",
+      "summary": "\n            See why AI recommends your competitors instead of you\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Cardboard AI",
+      "summary": "\n            Best way to edit videos with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cardboard-3",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Pawse.ai",
+      "summary": "\n            Sound engineered for dogs, not humans\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agent Clan",
+      "summary": "\n            Command your Claude Code and Codex agents with gestures\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agent-clan",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -21,136 +49,157 @@
       "url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "ChatGPT Images 2.6",
-      "summary": "\n            Create, edit, and animate images with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Make0 Brain OSS",
-      "summary": "\n            Sync context across all your agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/make0-brain",
-      "source": "Product Hunt",
-      "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "I'm Not Convinced the AI Bubble Exists",
-      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists\nComments URL: https://news.ycombinator.com/item?id=50418975\nPoints: 29\n# Comments: 12",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html\nComments URL: https://news.ycombinator.com/item?id=50435660\nPoints: 42\n# Comments: 9",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "Hacker News",
-      "time": "Sun, 08 Nov 2026 23:44:36 +0000"
+      "time": "Tue, 10 Nov 2026 03:20:06 +0000"
     },
     {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\nComments URL: https://news.ycombinator.com/item?id=50418016\nPoints: 364\n# Comments: 384",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2\nComments URL: https://news.ycombinator.com/item?id=50431144\nPoints: 313\n# Comments: 230",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "source": "Hacker News",
-      "time": "Sun, 08 Nov 2026 22:20:09 +0000"
+      "time": "Mon, 09 Nov 2026 20:04:55 +0000"
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry\nComments URL: https://news.ycombinator.com/item?id=50416363\nPoints: 157\n# Comments: 130",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "summary": "Article URL: https://github.com/thisisme6598/gemini_files/\nComments URL: https://news.ycombinator.com/item?id=50429426\nPoints: 477\n# Comments: 113",
+      "url": "https://github.com/thisisme6598/gemini_files/",
       "source": "Hacker News",
-      "time": "Sun, 08 Nov 2026 19:37:42 +0000"
+      "time": "Mon, 09 Nov 2026 18:24:38 +0000"
     },
     {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\nComments URL: https://news.ycombinator.com/item?id=50416158\nPoints: 252\n# Comments: 188",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2\nComments URL: https://news.ycombinator.com/item?id=50429068\nPoints: 316\n# Comments: 668",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "source": "Hacker News",
-      "time": "Sun, 08 Nov 2026 19:20:32 +0000"
+      "time": "Mon, 09 Nov 2026 18:01:10 +0000"
     },
     {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\nComments URL: https://news.ycombinator.com/item?id=50415628\nPoints: 614\n# Comments: 361",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "summary": "Article URL: https://research.meta.ai/blog/muse-ember\nComments URL: https://news.ycombinator.com/item?id=50429024\nPoints: 266\n# Comments: 111",
+      "url": "https://research.meta.ai/blog/muse-ember",
       "source": "Hacker News",
-      "time": "Sun, 08 Nov 2026 18:16:07 +0000"
+      "time": "Mon, 09 Nov 2026 17:58:46 +0000"
     },
     {
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "summary": "Article URL: https://goldstein.lol/posts/deno-security/\nComments URL: https://news.ycombinator.com/item?id=50413769\nPoints: 86\n# Comments: 44",
-      "url": "https://goldstein.lol/posts/deno-security/",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy\nComments URL: https://news.ycombinator.com/item?id=50427362\nPoints: 490\n# Comments: 272",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "source": "Hacker News",
-      "time": "Sun, 08 Nov 2026 14:42:38 +0000"
+      "time": "Mon, 09 Nov 2026 16:00:45 +0000"
     }
   ],
   "paper": [
     {
-      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-      "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embedd",
-      "url": "http://arxiv.org/abs/2611.08487v1",
+      "title": "TID System for Speech-COSER Challenge 2026: ASR Track",
+      "summary": "We describe the system submitted by Telefónica Innovación Digital to the Speech-COSER Challenge 2026, which features spontaneous speech from elderly speakers recorded in rural Spain. For ASR, we perform CTC-based pseudo-forced alignment scores audio-text match quality to guide a two-stage LoRA curri",
+      "url": "http://arxiv.org/abs/2611.11497v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must rep",
-      "url": "http://arxiv.org/abs/2611.08483v1",
+      "title": "Regret without Optimal-Arm Feedback under Reward-Dependent Delays",
+      "summary": "We study stochastic bandits with reward-dependent delays, possibly infinite, whose reports omit the originating round. For each $c\\in[0,1)$, Balanced Historical Optimism (BHO) has a delay term controlled by the largest suboptimal-arm quantile at level $1-cΔ_i$, without requiring optimal-arm reports.",
+      "url": "http://arxiv.org/abs/2611.11494v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Scientist World: Grow a Research World for AI-Scientists",
-      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea",
-      "url": "http://arxiv.org/abs/2611.08478v1",
+      "title": "Learning through Capacity Awareness to Minimize Hospital Readmissions",
+      "summary": "Predictive algorithms are increasingly used to guide hospital discharge decisions, yet these models can exhibit censoring bias for vulnerable patients due to insufficient historical data or past discharge decisions. When biased readmission risk predictors are used to inform discharges, the training ",
+      "url": "http://arxiv.org/abs/2611.11493v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "XStack: A Benchmark for ML Repo Migration",
-      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1",
-      "url": "http://arxiv.org/abs/2611.08472v1",
+      "title": "CallCleaner: Lightweight Bioacoustic Denoising from an Audio Foundation Model",
+      "summary": "Many studies of animal vocalizations require clean recordings, but animals are usually recorded in the field, with background noise from weather, vehicles, and other animals. Animal vocalization denoising is challenged by the scarcity of clean training data and the extreme diversity of animal vocali",
+      "url": "http://arxiv.org/abs/2611.11491v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-      "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. W",
-      "url": "http://arxiv.org/abs/2611.08469v1",
+      "title": "MicroSim: Contrastive Graph Neural Networks for Binary Code Similarity Detection",
+      "summary": "We present MicroSim, a system for binary code similarity detection that represents each function as a graph built from IDA Pro Hex-Rays microcode and compares such graphs with a contrastive Siamese graph neural network (GNN). We evaluate on the TREX cross-optimization benchmark, a corpus of 849,072 ",
+      "url": "http://arxiv.org/abs/2611.11486v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
-      "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residua",
-      "url": "http://arxiv.org/abs/2611.08465v1",
+      "title": "One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis",
+      "summary": "In multi-institutional biomedical data analysis, comprehensive disease profiles are often fragmented across different data silos. Furthermore, local data distributions typically exhibit varying levels of granularity or even complex nested structures. Although Hierarchical Clustering (HC) is a powerf",
+      "url": "http://arxiv.org/abs/2611.11481v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
-      "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step ",
-      "url": "http://arxiv.org/abs/2611.08457v1",
+      "title": "Robust and Private Swarm Learning via Zero-Knowledge Validator Admission and Consensus Aggregation",
+      "summary": "Swarm Learning improves resilience and removes the need for a single trusted coordinator by distributing model aggregation and validation across participating nodes. However, it also delegates the validation of model updates to peers whose private data may be biased, unrepresentative, or adversarial",
+      "url": "http://arxiv.org/abs/2611.11477v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
-      "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relat",
-      "url": "http://arxiv.org/abs/2611.08453v1",
+      "title": "GOPR-CAD: Graph-of-Operations Progressive Reasoning for CAD Generation",
+      "summary": "Generating accurate CAD models requires substantial engineering expertise and careful control of geometry, topology, and mechanical constraints. Text-to-CAD aims to simplify this process, but current LLM-based methods often generate CAD programs directly. Language models remain unreliable when produ",
+      "url": "http://arxiv.org/abs/2611.11470v1",
       "source": "arXiv",
       "time": "今日"
     }
