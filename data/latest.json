@@ -2,6 +2,34 @@
   "models": [],
   "products": [
     {
+      "title": "ScroogeFrog AI",
+      "summary": "\n            AI ad fraud detection that protects your marketing budget \n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Kippy AI",
+      "summary": "\n            Learn languages while having fun!\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/kippy-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Padrail",
+      "summary": "\n            Turn your MacBook trackpad edges into controls\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/padrail",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "ForAgent",
+      "summary": "\n            Private phone numbers so AI agents can call each other\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/foragent",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Latch.ai",
       "summary": "\n            Automate complex accounting work without a single prompt\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/latch-ai-2",
@@ -14,23 +42,58 @@
       "url": "https://www.producthunt.com/products/lottiefiles",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "ForAgent",
-      "summary": "\n            Private phone numbers so AI agents can call each other\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/foragent",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "HitPay Agentic Discovery",
-      "summary": "\n            Make your store findable and buyable by AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/hitpay-agentic-discovery",
-      "source": "Product Hunt",
-      "time": "今日"
     }
   ],
   "biz": [
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
@@ -51,162 +114,99 @@
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-      "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "summary": "Article URL: https://tis-100.wincon.dev/\nComments URL: https://news.ycombinator.com/item?id=50448340\nPoints: 7\n# Comments: 0",
-      "url": "https://tis-100.wincon.dev/",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 212\n# Comments: 30",
+      "url": "https://www.mcmillen.dev/sigbovik/",
       "source": "Hacker News",
-      "time": "Wed, 11 Nov 2026 00:37:05 +0000"
+      "time": "Wed, 11 Nov 2026 22:34:23 +0000"
     },
     {
-      "title": "AI is an information gateway. Audiences still don't want it making their news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/\nComments URL: https://news.ycombinator.com/item?id=50448174\nPoints: 11\n# Comments: 1",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html\nComments URL: https://news.ycombinator.com/item?id=50459321\nPoints: 275\n# Comments: 294",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
       "source": "Hacker News",
-      "time": "Wed, 11 Nov 2026 00:15:33 +0000"
+      "time": "Wed, 11 Nov 2026 22:03:58 +0000"
     },
     {
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update\nComments URL: https://news.ycombinator.com/item?id=50447074\nPoints: 260\n# Comments: 109",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\nComments URL: https://news.ycombinator.com/item?id=50458900\nPoints: 429\n# Comments: 412",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "Hacker News",
-      "time": "Tue, 10 Nov 2026 22:17:56 +0000"
+      "time": "Wed, 11 Nov 2026 21:24:35 +0000"
     },
     {
-      "title": "$30M Raised to Redo the CPU",
-      "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised\nComments URL: https://news.ycombinator.com/item?id=50447036\nPoints: 35\n# Comments: 22",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "summary": "Hi HN, we’re Alan and Akshay from Pomerado (https://pomerado.ai/). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airli",
+      "url": "https://news.ycombinator.com/item?id=50455811",
       "source": "Hacker News",
-      "time": "Tue, 10 Nov 2026 22:14:03 +0000"
+      "time": "Wed, 11 Nov 2026 17:11:56 +0000"
     },
     {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/\nComments URL: https://news.ycombinator.com/item?id=50443824\nPoints: 302\n# Comments: 166",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/\nComments URL: https://news.ycombinator.com/item?id=50453637\nPoints: 194\n# Comments: 75",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
       "source": "Hacker News",
-      "time": "Tue, 10 Nov 2026 18:02:02 +0000"
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "source": "Hacker News",
-      "time": "Tue, 10 Nov 2026 18:01:15 +0000"
-    },
-    {
-      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-      "summary": "Article URL: https://tinyvalencia.com/\nComments URL: https://news.ycombinator.com/item?id=50441518\nPoints: 199\n# Comments: 50",
-      "url": "https://tinyvalencia.com/",
-      "source": "Hacker News",
-      "time": "Tue, 10 Nov 2026 15:12:16 +0000"
+      "time": "Wed, 11 Nov 2026 14:10:46 +0000"
     }
   ],
   "paper": [
     {
-      "title": "Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation",
-      "summary": "Diabetic retinopathy (DR) lesions vary widely in shape, and microaneurysms (MAs) span only a few pixels. We hypothesize that modeling the spatial organization of lesion regions, with global context and shape-adaptive scanning, improves the segmentation of such small and irregular lesions. To test th",
-      "url": "http://arxiv.org/abs/2611.13514v1",
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whos",
+      "url": "http://arxiv.org/abs/2611.14519v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Evidential Deep Learning with conditional entropy for glaucoma detection",
-      "summary": "We propose a novel conditional entropy function as a basis for quantifying predictive uncertainty in Evidential Deep Learning (EDL) for glaucoma detection from retinal fundus images. Using the EyePACS-AIROGS-light-V2 and RIM-ONE-DL datasets for validation, we found that our proposed EDL model regula",
-      "url": "http://arxiv.org/abs/2611.13513v1",
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and th",
+      "url": "http://arxiv.org/abs/2611.14518v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Nepali-English Code-Mixed Speech Recognition: Data Preparation and Adaptation of a Speech Foundation Model",
-      "summary": "Nepali speakers regularly mix English words into conversation, but multilingual speech recognisers often struggle with language switches and the writing script used for English words. We study how to adapt SraVaani, a 449M-parameter hybrid TDT-CTC model, using a 172.8-hour corpus covering six Nepali",
-      "url": "http://arxiv.org/abs/2611.13512v1",
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curv",
+      "url": "http://arxiv.org/abs/2611.14516v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Distribution Shift Detection in Remote Sensing Imagery using Machine Learning Models",
-      "summary": "Remote sensing imagery acquired by Unmanned Aerial Vehicles (UAVs) supports wide range of applications; however, deploying machine learning (ML) models on resource-constrained aerial platforms introduces challenges beyond predictive accuracy, particularly when deployment data differ from the distrib",
-      "url": "http://arxiv.org/abs/2611.13510v1",
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way",
+      "url": "http://arxiv.org/abs/2611.14515v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Dark Matters: VAE-Aware HDR Encoding for SDR-to-HDR Video Reconstruction",
-      "summary": "SDR-to-HDR reconstruction is an ill-posed problem in which clipped highlights, crushed shadows, and quantization artifacts must be recovered while preserving the original content. Latent diffusion models provide powerful generative priors for restoring missing detail, but their effectiveness is cons",
-      "url": "http://arxiv.org/abs/2611.13504v1",
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternati",
+      "url": "http://arxiv.org/abs/2611.14514v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Evaluating Compositional Generalization in Transformers: The Role of Composition Equivalence and Module Coverage",
-      "summary": "Compositional generalization is an important form of out-of-distribution generalization, defined as the ability to train on some combinations of modules (e.g., functions such as sort, filter) and then generalize to unseen combinations. Despite substantial empirical work evaluating compositional gene",
-      "url": "http://arxiv.org/abs/2611.13498v1",
+      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across ",
+      "url": "http://arxiv.org/abs/2611.14511v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Reasoning-Aware Relational Representation Learning for Open-Vocabulary Scene Graph Generation",
-      "summary": "Open-Vocabulary Scene Graph Generation (OV-SGG) requires models to recognize visual relationships beyond the training vocabulary, yet existing methods often rely on dataset-specific object--predicate co-occurrence patterns. Under long-tailed distributions and noisy object localization, such reliance",
-      "url": "http://arxiv.org/abs/2611.13496v1",
+      "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the models are tuned: a connectome fixes who connects to whom, not the excitability, ga",
+      "url": "http://arxiv.org/abs/2611.14508v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Simultaneous Near-Optimal Region Identification in Continuous Simulation Optimization: Minimax Complexity and Adaptive Sampling",
-      "summary": "Simulation optimization typically returns a single estimated optimal point. When decisions also depend on criteria evaluated independently of simulation, such as resource cost, the decision maker instead needs the set of designs whose expected performance lies within a tolerance of the optimum, ofte",
-      "url": "http://arxiv.org/abs/2611.13489v1",
+      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so m",
+      "url": "http://arxiv.org/abs/2611.14505v1",
       "source": "arXiv",
       "time": "今日"
     }
