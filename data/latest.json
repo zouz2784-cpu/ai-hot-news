@@ -2,9 +2,30 @@
   "models": [],
   "products": [
     {
-      "title": "Plurai Simulation",
-      "summary": "\n            A simulated world that makes your agent improve on every run\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/plurai",
+      "title": "Templify AI",
+      "summary": "\n            Powerful content editor for people who aren’t editors\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/templify",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Kairos",
+      "summary": "\n            Personal analytics engine across health, finances, & social\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/kairos-18",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Aven App Agent",
+      "summary": "\n            AI that guides users through your app\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/aven-app-agent",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Trainn MCP",
+      "summary": "\n            Create product videos and courses from any AI chat\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/trainn",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -23,28 +44,56 @@
       "time": "今日"
     },
     {
-      "title": "AirWave",
-      "summary": "\n            Internet radio, at home on every Apple device\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/airwave-2",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Kippy AI",
-      "summary": "\n            Learn languages while having fun!\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kippy-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "ScroogeFrog AI",
-      "summary": "\n            AI ad fraud detection that protects your marketing budget \n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "title": "Plurai Simulation",
+      "summary": "\n            A simulated world that makes your agent improve on every run\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/plurai",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Jensen Huang was having a third affair, Reuters reports",
       "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
@@ -58,162 +107,106 @@
       "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "Microsoft’s Outlook email hit by new outage",
-      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
-      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "summary": "This is the investment firm's largest fund to date.",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "source": "TechCrunch",
-      "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\nComments URL: https://news.ycombinator.com/item?id=50475713\nPoints: 78\n# Comments: 18",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html\nComments URL: https://news.ycombinator.com/item?id=50492456\nPoints: 150\n# Comments: 39",
+      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
       "source": "Hacker News",
-      "time": "Thu, 12 Nov 2026 23:06:17 +0000"
+      "time": "Sat, 14 Nov 2026 01:10:22 +0000"
     },
     {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics\nComments URL: https://news.ycombinator.com/item?id=50474883\nPoints: 186\n# Comments: 52",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "summary": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free\nComments URL: https://news.ycombinator.com/item?id=50492141\nPoints: 40\n# Comments: 26",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
       "source": "Hacker News",
-      "time": "Thu, 12 Nov 2026 21:56:11 +0000"
+      "time": "Sat, 14 Nov 2026 00:28:11 +0000"
     },
     {
-      "title": "Foundation Models framework",
-      "summary": "Article URL: https://developer.apple.com/foundation-models-framework/\nComments URL: https://news.ycombinator.com/item?id=50474361\nPoints: 141\n# Comments: 18",
-      "url": "https://developer.apple.com/foundation-models-framework/",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "summary": "Article URL: https://orcasairband.com/\nComments URL: https://news.ycombinator.com/item?id=50490593\nPoints: 219\n# Comments: 51",
+      "url": "https://orcasairband.com/",
       "source": "Hacker News",
-      "time": "Thu, 12 Nov 2026 21:13:26 +0000"
+      "time": "Fri, 13 Nov 2026 22:04:24 +0000"
     },
     {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html\nComments URL: https://news.ycombinator.com/item?id=50474311\nPoints: 114\n# Comments: 110",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "title": "All US airports are currently ground stopped",
+      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605\nComments URL: https://news.ycombinator.com/item?id=50489652\nPoints: 169\n# Comments: 33",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
       "source": "Hacker News",
-      "time": "Thu, 12 Nov 2026 21:09:49 +0000"
+      "time": "Fri, 13 Nov 2026 21:06:52 +0000"
     },
     {
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag....It includes what we originally built for our own agent harness:- Self-improving agents \n- Web-grounded ",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "summary": "Article URL: https://atg.science/careers\nComments URL: https://news.ycombinator.com/item?id=50489589\nPoints: 0\n# Comments: 0",
+      "url": "https://atg.science/careers",
       "source": "Hacker News",
-      "time": "Thu, 12 Nov 2026 18:15:48 +0000"
+      "time": "Fri, 13 Nov 2026 21:01:11 +0000"
     },
     {
-      "title": "I'm making LLMs work on small and old devices",
-      "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/\nComments URL: https://news.ycombinator.com/item?id=50468888\nPoints: 287\n# Comments: 98",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider\nComments URL: https://news.ycombinator.com/item?id=50488464\nPoints: 101\n# Comments: 21",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
       "source": "Hacker News",
-      "time": "Thu, 12 Nov 2026 15:23:10 +0000"
+      "time": "Fri, 13 Nov 2026 19:24:47 +0000"
     }
   ],
   "paper": [
     {
-      "title": "Learning a calibrated decision head from logged bandit feedback",
-      "summary": "A decision head reads a state and a list of options and returns a probability per option in one forward pass. Once deployed, it usually observes only whether the option it chose was right: logged bandit feedback. We adapt such a head, LoRA on Qwen3-0.6B-Base and 1.7B-Base, from that feedback and rep",
-      "url": "http://arxiv.org/abs/2611.15572v1",
+      "title": "Unbundling Multimodal Vision Encoding",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior f",
+      "url": "http://arxiv.org/abs/2611.17334v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-Language Models",
-      "summary": "Reasoning vision-language models (VLMs) impose substantial KV cache demands from both large multimodal contexts and growing reasoning traces. Low-rank KV compression has emerged as a promising paradigm that stores low-dimensional latents of KV states and can be combined with quantization. However, e",
-      "url": "http://arxiv.org/abs/2611.15569v1",
+      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document",
+      "url": "http://arxiv.org/abs/2611.17332v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Observations Drift, Structures Remain: Structural Pretraining with Time Alignment for Electromagnetic Signals",
-      "summary": "Electromagnetic signal modeling is increasingly moving toward self-supervised pretraining on heterogeneous I/Q observations. However, an observed waveform is jointly shaped by signal generation, propagation environments, and acquisition processes, which mix reusable structural regularities with obse",
-      "url": "http://arxiv.org/abs/2611.15566v1",
+      "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+      "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuit",
+      "url": "http://arxiv.org/abs/2611.17329v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "What Conformal Selection Can Certify in CRISPR Off-Target Design:Benchmark Leakage, Free Baselines, and a Finite-Sample Cohort Requirement",
-      "summary": "Conformal selection promises distribution-free, finite-sample control of the error rate of a decision, and has been proposed as a safety layer for machine-learning CRISPR guide design. We ask whether such a certificate is attainable from the validated off-target data that exist. The constraint is ar",
-      "url": "http://arxiv.org/abs/2611.15555v1",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested ",
+      "url": "http://arxiv.org/abs/2611.17323v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detecting Silent Information Loss",
-      "summary": "LLM applications increasingly rely on translators and compatibility layers to move conversations across APIs. Yet a translated request can be accepted by the target API while silently losing information about instruction roles, tool interactions, error states, or generation controls. We introduce is",
-      "url": "http://arxiv.org/abs/2611.15543v1",
+      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting o",
+      "url": "http://arxiv.org/abs/2611.17316v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition",
-      "summary": "Retrieval-augment generation is a prevalent strategy to mitigate hallucinations of LLMs. The attributable RAG (RAGQ) generates quotes for its answers. The quotes indicate which input contexts support the RAG to derive the answers, enhancing the answer's verifiability and trustworthiness. However, ex",
-      "url": "http://arxiv.org/abs/2611.15538v1",
+      "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neural networks that have been optimized via meta-learning, a technique that exposes",
+      "url": "http://arxiv.org/abs/2611.17314v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Analysis choices decide whether untrained networks beat trained ones at V1: a multiverse analysis of model-brain RSA",
-      "summary": "Untrained convolutional networks have been reported to rival trained networks as models of visual cortex, and we had reported an untrained-network advantage over backpropagation at V1 in THINGS fMRI, together with a dependence on evaluation resolution. Under a pre-specified ridge readout, the untrai",
-      "url": "http://arxiv.org/abs/2611.15533v1",
+      "title": "Sketching Language Models for Context Attribution",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorit",
+      "url": "http://arxiv.org/abs/2611.17313v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "MAGIC: Modality-Aware Gini Inspection for Clinical Hallucination Detection in LMMs",
-      "summary": "Recent advances in medical large multimodal models (LMMs) have brought promising progress to clinical decision support, yet hallucination, the generation of confident but clinically unverifiable outputs, poses a critical threat to the reliability demanded in high-stakes medical settings. Existing ha",
-      "url": "http://arxiv.org/abs/2611.15530v1",
+      "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigate",
+      "url": "http://arxiv.org/abs/2611.17309v1",
       "source": "arXiv",
       "time": "今日"
     }
