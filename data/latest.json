@@ -2,16 +2,16 @@
   "models": [],
   "products": [
     {
-      "title": "Templify AI",
-      "summary": "\n            Powerful content editor for people who aren’t editors\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/templify",
+      "title": "Businesses in ChatGPT",
+      "summary": "\n            Help customers discover your business through ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Kairos",
-      "summary": "\n            Personal analytics engine across health, finances, & social\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kairos-18",
+      "title": "Templify AI",
+      "summary": "\n            Powerful content editor for people who aren’t editors\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/templify",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -30,16 +30,9 @@
       "time": "今日"
     },
     {
-      "title": "Insight7 Voice AI Agents",
-      "summary": "\n            AI voice agents that call your customers for you\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/insight7",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Adobe AI Assistant",
-      "summary": "\n            Create and edit faster with AI across Adobe apps\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "title": "Kairos",
+      "summary": "\n            Personal analytics engine across health, finances, & social\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/kairos-18",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -52,6 +45,13 @@
     }
   ],
   "biz": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
@@ -93,64 +93,29 @@
       "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch",
-      "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html\nComments URL: https://news.ycombinator.com/item?id=50492456\nPoints: 150\n# Comments: 39",
-      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/\nComments URL: https://news.ycombinator.com/item?id=50499017\nPoints: 655\n# Comments: 279",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
       "source": "Hacker News",
-      "time": "Sat, 14 Nov 2026 01:10:22 +0000"
+      "time": "Sat, 14 Nov 2026 17:43:10 +0000"
     },
     {
-      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "summary": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free\nComments URL: https://news.ycombinator.com/item?id=50492141\nPoints: 40\n# Comments: 26",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again\nComments URL: https://news.ycombinator.com/item?id=50496602\nPoints: 468\n# Comments: 175",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
       "source": "Hacker News",
-      "time": "Sat, 14 Nov 2026 00:28:11 +0000"
+      "time": "Sat, 14 Nov 2026 12:45:45 +0000"
     },
     {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "summary": "Article URL: https://orcasairband.com/\nComments URL: https://news.ycombinator.com/item?id=50490593\nPoints: 219\n# Comments: 51",
-      "url": "https://orcasairband.com/",
+      "title": "500 Lines or Less A 3D Modeller",
+      "summary": "Article URL: https://aosabook.org/en/500L/a-3d-modeller.html\nComments URL: https://news.ycombinator.com/item?id=50483431\nPoints: 8\n# Comments: 0",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
       "source": "Hacker News",
-      "time": "Fri, 13 Nov 2026 22:04:24 +0000"
-    },
-    {
-      "title": "All US airports are currently ground stopped",
-      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605\nComments URL: https://news.ycombinator.com/item?id=50489652\nPoints: 169\n# Comments: 33",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "source": "Hacker News",
-      "time": "Fri, 13 Nov 2026 21:06:52 +0000"
-    },
-    {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "summary": "Article URL: https://atg.science/careers\nComments URL: https://news.ycombinator.com/item?id=50489589\nPoints: 0\n# Comments: 0",
-      "url": "https://atg.science/careers",
-      "source": "Hacker News",
-      "time": "Fri, 13 Nov 2026 21:01:11 +0000"
-    },
-    {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider\nComments URL: https://news.ycombinator.com/item?id=50488464\nPoints: 101\n# Comments: 21",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "source": "Hacker News",
-      "time": "Fri, 13 Nov 2026 19:24:47 +0000"
+      "time": "Fri, 13 Nov 2026 13:47:42 +0000"
     }
   ],
   "paper": [
