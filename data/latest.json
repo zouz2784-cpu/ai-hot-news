@@ -2,190 +2,211 @@
   "models": [],
   "products": [
     {
-      "title": "Canvas by AgentGrid.io",
-      "summary": "\n            Agentic Design Canvas - A visual way to collaborate with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "title": "ChatGPT Wallet",
+      "summary": "\n            Let ChatGPT agents buy things without seeing your card\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/chatgpt",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Degla AI",
+      "summary": "\n            Your intent. Onboard Autonomous Execution.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/degla-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AgentWatch",
+      "summary": "\n            Monitor AI shopping agent sales and visibility on Shopify\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Boost.space AgentOS",
+      "summary": "\n            One operating system for all your AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/boost-space",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "OffiAI",
+      "summary": "\n            Office, with its last two letters swapped for AI.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/offiai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Agentic Canvas",
+      "summary": "\n            Free Agentic Design Canvas - A visual way to work with AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/agentgrid-io",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "ByteAsk Cloud Agents",
-      "summary": "\n            Find the fix in big codebases. Ship it from Slack.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Businesses in ChatGPT",
-      "summary": "\n            Help customers discover your business through ChatGPT\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Templify AI",
-      "summary": "\n            Powerful content editor for people who aren’t editors\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/templify",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "summary": "Article URL: https://www.hntrends.com/2026/november.html\nComments URL: https://news.ycombinator.com/item?id=50512950\nPoints: 44\n# Comments: 11",
-      "url": "https://www.hntrends.com/2026/november.html",
+      "title": "Running coding agents without handing them my credentials",
+      "summary": "Article URL: https://blog.antonio.cx/running-agents-with-lend\nComments URL: https://news.ycombinator.com/item?id=50526152\nPoints: 65\n# Comments: 27",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
       "source": "Hacker News",
-      "time": "Mon, 16 Nov 2026 01:31:30 +0000"
+      "time": "Tue, 17 Nov 2026 01:18:56 +0000"
     },
     {
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454\nComments URL: https://news.ycombinator.com/item?id=50512441\nPoints: 28\n# Comments: 6",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+      "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/\nComments URL: https://news.ycombinator.com/item?id=50525658\nPoints: 77\n# Comments: 22",
+      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
       "source": "Hacker News",
-      "time": "Mon, 16 Nov 2026 00:21:54 +0000"
+      "time": "Tue, 17 Nov 2026 00:23:21 +0000"
     },
     {
-      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch\nComments URL: https://news.ycombinator.com/item?id=50510442\nPoints: 120\n# Comments: 67",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 379\n# Comments: 236",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
       "source": "Hacker News",
-      "time": "Sun, 15 Nov 2026 20:37:28 +0000"
+      "time": "Mon, 16 Nov 2026 22:58:20 +0000"
     },
     {
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "summary": "Article URL: https://baron.by.dai.studio/\nComments URL: https://news.ycombinator.com/item?id=50510296\nPoints: 95\n# Comments: 12",
-      "url": "https://baron.by.dai.studio/",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "summary": "https://news.ycombinator.com/item?id=50524260\n\nComments URL: https://news.ycombinator.com/item?id=50524165\nPoints: 213\n# Comments: 109",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
       "source": "Hacker News",
-      "time": "Sun, 15 Nov 2026 20:20:05 +0000"
+      "time": "Mon, 16 Nov 2026 22:14:38 +0000"
     },
     {
-      "title": "A short explainer on how El Niño works [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8\nComments URL: https://news.ycombinator.com/item?id=50509308\nPoints: 179\n# Comments: 81",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "title": "Spamhaus new email sender requirements in November",
+      "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/\nComments URL: https://news.ycombinator.com/item?id=50523784\nPoints: 81\n# Comments: 77",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
       "source": "Hacker News",
-      "time": "Sun, 15 Nov 2026 18:23:21 +0000"
+      "time": "Mon, 16 Nov 2026 21:47:19 +0000"
     }
   ],
   "paper": [
     {
-      "title": "More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology",
-      "summary": "Spatial transcriptomics (ST) prediction from histology aims to infer spatially resolved gene expression profiles directly from tissue images. This is a challenging problem that is currently often addressed with complicated model architectures, additional inputs, and complicated training procedures, ",
-      "url": "http://arxiv.org/abs/2611.17899v1",
+      "title": "A Matrix with Steps: An Episodic and Procedural Memory Method for Tool-Using Agents and Robots",
+      "summary": "Agents that call tools and robots that execute tasks are challenged by two shortcomings: they repeat what failed before, and they learn from runs that they only believe succeeded. We describe the construction of a memory that addresses both, built for a production agent platform. Every run is record",
+      "url": "http://arxiv.org/abs/2611.20230v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Hierarchical Bayesian physics-augmented neural networks for populations of hyperelastic laws: specimen variability and uncertainty from scarce, noisy data",
-      "summary": "The hyperelastic law of a material such as soft tissue differs between specimens, and often only a few specimens can be tested. Physics-augmented neural networks (PANNs) learn such laws from data without a prescribed functional form while keeping them physically admissible, and Bayesian versions of ",
-      "url": "http://arxiv.org/abs/2611.17892v1",
+      "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+      "summary": "A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 development assignments across 101 real repositories, 11 programming languages, and 12 application domains",
+      "url": "http://arxiv.org/abs/2611.20218v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Quantum Graph Neural Networks: Architectures, Trainability, and Applications",
-      "summary": "Quantum graph neural networks (QGNNs) apply parametrized quantum circuits to graph-structured data, with the aim of overcoming limits of classical graph neural networks in scalability, expressivity, and long-range information flow. Since the first Hamiltonian-based model in 2019, the field has produ",
-      "url": "http://arxiv.org/abs/2611.17886v1",
+      "title": "Paying Creators for Training Data Can Increase AI Displacement",
+      "summary": "Generative AI increasingly competes with creators while using their content as training data. In response, policymakers have called for platforms to compensate creators for training data use and allow opting out. We study how such policies affect creator displacement in a model of a platform where c",
+      "url": "http://arxiv.org/abs/2611.20204v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Securing Multi-Agent Systems by Design",
-      "summary": "Multi-agent systems solve complex tasks by decomposing them into subtasks, delegating the subtasks to agents, and aggregating the agents' responses using an aggregation rule. Malicious agents can manipulate the final solution by providing malicious responses to their assigned subtasks. In this paper",
-      "url": "http://arxiv.org/abs/2611.17883v1",
+      "title": "Radar Panoptic Transformer: Semantic-Guided Mask Queries for Dynamic Scene Understanding",
+      "summary": "Automotive radar provides long-range sensing and direct Doppler velocity measurements, but its sparse and non-uniformly sampled point clouds pose significant challenges for panoptic segmentation. Dynamic objects often yield only a few detections amid a dominant static background, providing limiting ",
+      "url": "http://arxiv.org/abs/2611.20203v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Photogrammetric 3D Model-Based Animal Behavior Classification",
-      "summary": "Video-based behavior estimation is often implemented end-to-end from image sequences. We advocate a two-stage alternative: reconstruct 3D body and object geometry before classifying behavior. This makes ambiguities of the ill-posed 2D-to-3D inverse problem explicit and potentially correctable. We de",
-      "url": "http://arxiv.org/abs/2611.17881v1",
+      "title": "DoF-Query Transformer for Adaptive Fusion of Egocentric Vision and Forearm HD-sEMG in Continuous Hand Kinematics",
+      "summary": "Continuous and accurate estimation of human hand kinematics is important not only for intuitive human-machine interaction, but also for capturing fine-grained human manipulation demonstrations that can provide action supervision for embodied-intelligence datasets and dexterous robot learning. Howeve",
+      "url": "http://arxiv.org/abs/2611.20196v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents",
-      "summary": "LLM agents that execute multi-step tool calls must satisfy two objectives simultaneously: completing the user's task (utility) and conforming to domain policies and correctness constraints (safety). These objectives are in tension -- blocking an unsafe action prevents a violation but can leave the a",
-      "url": "http://arxiv.org/abs/2611.17880v1",
+      "title": "How Specification Explicitness Shapes Failure in LLM-Generated Code",
+      "summary": "When LLMs turn requirements into code, every underspecified constraint becomes behavior that the model must decide during generation. We test when specifications move beyond structure and begin to control generated behavior. In a controlled experiment, 72 participants implemented and revised Python ",
+      "url": "http://arxiv.org/abs/2611.20195v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
-      "summary": "Mixture-of-experts (MoE) models can share experts across layers or computational steps, pooling training information from different contexts. This can reduce local prediction error, but multi-step systems are ultimately evaluated by their final outputs. We study when these local gains survive compos",
-      "url": "http://arxiv.org/abs/2611.17879v1",
+      "title": "Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project",
+      "summary": "The CAPSARII project advances a cyber-secure, ultra-low-power wearable platform and Internet of Battlefield Things (IoBT) framework to support real-time monitoring of military personnel and data-driven decision support. The architecture integrates smart-textile sensing, a body/squad area mesh, edge-",
+      "url": "http://arxiv.org/abs/2611.20187v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery",
-      "summary": "Cities account for over two-thirds of the world's energy and more than 70% of global carbon dioxide emissions. City energy is essential for achieving the 2050 net-zero target and the UN's Sustainable Development Goals 7 and 11. Although existing studies have made progress, they are limited by data a",
-      "url": "http://arxiv.org/abs/2611.17878v1",
+      "title": "RoboKit: Accelerating Parallel Differentiable Optimization for Robot Learning",
+      "summary": "We present RoboKit, a high-performance, general-purpose toolkit for parallel differentiable optimization in robotics, built on three principles: (i) Performance and flexibility: GPU-parallel multi-seed solvers pair sampling with versatile optimizers, running 2-60$\\times$ faster than task-specific ba",
+      "url": "http://arxiv.org/abs/2611.20185v1",
       "source": "arXiv",
       "time": "今日"
     }
