@@ -2,154 +2,267 @@
   "models": [],
   "products": [
     {
+      "title": "GPT-6.2 Astra and Sol",
+      "summary": "\n            Two new OpenAI models: frontier Astra and efficient Sol\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Mermaid Flow",
+      "summary": "\n            The visual builder for agentic workflows\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mermaid-chart",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "KaDeep AI",
+      "summary": "\n            Agentic QA, localization & accessibility: know when to ship\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/kadeep-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Ody Ai Business Phone",
+      "summary": "\n            Shared workspace + manageable AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ody-ai-business-phone",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Incredible Agents",
+      "summary": "\n            Fast Voice AI that sees your screen and runs your agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/incredible",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AI Canvas",
+      "summary": "\n            A design system for AI agents to design badass interfaces\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ai-canvas-2",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AssemblyAI-STT-3.7",
+      "summary": "\n            Speech-to-Text for live calls, voice agents, and recordings\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "GatherHQ Agent Research",
       "summary": "\n            Let your agent take surveys for you\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/gatherhq-agent-research",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AI Visibility by TruLata",
-      "summary": "\n            Find out if ChatGPT names your business when buyers ask\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/trulata",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "infaiw",
-      "summary": "\n            Delegate work to sidecar agents that pass an approval script\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/infaiw",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Trading Agents",
-      "summary": "\n            An equity research desk that argues with itself\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/alpha-vantage",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Agents API by Recall.ai",
-      "summary": "\n            Send your agent to meetings\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/recall-ai",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "AI will not make you rich (2025)",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/\nComments URL: https://news.ycombinator.com/item?id=50555093\nPoints: 64\n# Comments: 40",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "source": "Hacker News",
+      "time": "Thu, 19 Nov 2026 01:51:28 +0000"
+    },
+    {
+      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "summary": "Article URL: https://github.com/Ri4dH/failtrace\nComments URL: https://news.ycombinator.com/item?id=50554941\nPoints: 10\n# Comments: 0",
+      "url": "https://github.com/Ri4dH/failtrace",
+      "source": "Hacker News",
+      "time": "Thu, 19 Nov 2026 01:30:43 +0000"
+    },
+    {
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29378\nComments URL: https://news.ycombinator.com/item?id=50554908\nPoints: 17\n# Comments: 5",
+      "url": "https://arxiv.org/abs/2607.29378",
+      "source": "Hacker News",
+      "time": "Thu, 19 Nov 2026 01:27:02 +0000"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering\nComments URL: https://news.ycombinator.com/item?id=50553843\nPoints: 120\n# Comments: 91",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 23:30:09 +0000"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering\nComments URL: https://news.ycombinator.com/item?id=50553225\nPoints: 94\n# Comments: 28",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 22:29:13 +0000"
+    },
+    {
+      "title": "DaisyRose-27B",
+      "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b\nComments URL: https://news.ycombinator.com/item?id=50551046\nPoints: 153\n# Comments: 45",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 19:39:16 +0000"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\nComments URL: https://news.ycombinator.com/item?id=50550415\nPoints: 203\n# Comments: 146",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 18:49:51 +0000"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/\nComments URL: https://news.ycombinator.com/item?id=50549493\nPoints: 169\n# Comments: 109",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 17:45:47 +0000"
+    },
+    {
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime (https://maritime.sh). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.Demo: https://www.youtube.com/watch?v=lCWMdBQ96rYThere’s been an explosion of sandbox companies comin",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 17:26:28 +0000"
+    },
+    {
+      "title": "Seven new models at scalable price-performance",
+      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 470\n# Comments: 327",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 16:08:24 +0000"
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 387\n# Comments: 170",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "source": "Hacker News",
+      "time": "Wed, 18 Nov 2026 15:49:34 +0000"
+    }
+  ],
   "paper": [
     {
-      "title": "Know When to Zoom: How Small Is Too Small for Vision-Language Models?",
-      "summary": "Online vision-language models often miss small details in large images, because the service shrinks the image, or rejects it, before the model ever sees it. A car 20 pixels wide in an 8000 by 6000 drone photo reaches Claude about 6 pixels wide, and OpenAI's default rejects the photo outright. We mea",
-      "url": "http://arxiv.org/abs/2611.22709v1",
+      "title": "RSIBench-Infra: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?",
+      "summary": "Improving the efficiency of training and inference infrastructure is a practical component of recursive self-improvement. Existing benchmarks for agent-driven optimization largely focus on individual software layers such as kernel, leaving unclear whether agents can deliver end-to-end performance ga",
+      "url": "http://arxiv.org/abs/2611.24395v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Cross-cultural Adaptation of Recipes for Low-Resource Languages: A Benchmark and Multilingual Culinary Lexicon for Hausa, Yorùbá, and Igbo",
-      "summary": "Recent multilingual large language models (LLMs) have improved machine translation, yet culturally adaptive translation for low-resource languages (LRLs) remains underexplored. This is particularly challenging for recipes, where ingredients, cooking tools, measurements, and procedures may require ad",
-      "url": "http://arxiv.org/abs/2611.22708v1",
+      "title": "Temporal Rank in Recurrent Neural Networks",
+      "summary": "Recurrent Neural Networks (RNNs) are a natural framework for temporal modelling, yet are often dismissed due to their sequential, non-parallelisable computation and difficulty in capturing long-range dependencies, typically attributed to vanishing and exploding gradients. We identify a distinct and ",
+      "url": "http://arxiv.org/abs/2611.24394v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Social Signal Bench: Evidence-Weighted Evaluation of Co-occurring Social Signals in Video and Audio",
-      "summary": "Recognizing social signals such as interest and hesitation requires interpreting context-dependent behaviors that may co-occur in conversation. Existing affective computing benchmarks rarely evaluate such co-occurring signals, and conventional multi-label F1 overlooks semantic relationships and anno",
-      "url": "http://arxiv.org/abs/2611.22704v1",
+      "title": "Enhancing Active Learning Performance with Initial Data Selection Based on Foundation Models",
+      "summary": "In active object detection, selecting the initial labeled pool is essential, especially in complex datasets with expensive labeling and low resource budget. This study presents an active learning framework designed to optimize the initial training cycle of active learning for the object detection ta",
+      "url": "http://arxiv.org/abs/2611.24384v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Remembered as Brief: Stored Preferences SilentlyRemove Decision-Critical Information",
-      "summary": "People increasingly learn what they need for decisions about health, money, law and safety from AI assistants, and what an assistant leaves out the user never sees. An answer with a warning removed can be true in every sentence, so fact-checks pass it, and an assistant with memory applies a preferen",
-      "url": "http://arxiv.org/abs/2611.22697v1",
+      "title": "How to Turn an Attention Neural Network into an Interpretable Hard-Logic Predicate Circuit: Truth-Table Predicate Extraction and State-Machine Merging under Ship-of-Theseus Replacement",
+      "summary": "We convert a trained attention network as a whole, attention included, into a hard-logic predicate circuit that runs in its place. Every unit of the circuit is a 0/1 predicate on tokens, and every map between predicates is a minimised truth table. Short tables, such as the product of a query code an",
+      "url": "http://arxiv.org/abs/2611.24381v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving",
-      "summary": "World models (WMs) generate driving scenarios beyond recorded logs, enabling the training and evaluation of autonomous driving systems in unseen interactions. However, existing WMs struggle to ensure both behavioral realism and visual fidelity, since they overlook the relationship between vehicle in",
-      "url": "http://arxiv.org/abs/2611.22691v1",
+      "title": "MoE-Context: Show the Model Only What It Needs",
+      "summary": "AI agents read their whole history at every step. People do not work like that: we keep what the moment needs and hold the rest as a rough note we can recall. MoE-Context applies this to language models. The context is split into blocks. Before each step a fast yes or no pass decides which blocks th",
+      "url": "http://arxiv.org/abs/2611.24379v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "CULypso: A Clustered Federated Unlearning paradigm for Vehicular Ad-Hoc Networks",
-      "summary": "Unlearning has emerged as an essential security and privacy-preserving solution in Machine Learning, enabling networks to support their clients' rights for data erasure, as mandated by data protection regulations. Introducing such a non-trivial task to an edge, highly mobile and time-sensitive vehic",
-      "url": "http://arxiv.org/abs/2611.22682v1",
+      "title": "LLM-Assisted Multi-Fidelity Bayesian Optimization: Fusing Expert Knowledge with Numerical Data",
+      "summary": "Multi-fidelity Bayesian optimization (MFBO) reduces engineering design cost by combining inexpensive low-fidelity (LF) models with a few accurate high-fidelity (HF) evaluations and sequentially selecting designs to evaluate. However, when HF data are scarce, the LF-HF discrepancy is difficult to lea",
+      "url": "http://arxiv.org/abs/2611.24377v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
-      "summary": "We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language metrics, yet aligning their scores with human judgments and tracing them to specific temporal viola",
-      "url": "http://arxiv.org/abs/2611.22673v1",
+      "title": "VAFL: A Vertical Analytic Federated Learning Mechanism for Efficient Crowdsourced Services via Closed-Form Solutions",
+      "summary": "Intelligent services often rely on complementary information held by different organizations, motivating Vertical Federated Learning without centralized raw-data pooling. We propose VAFL, a Vertical Analytic Federated Learning framework that fits classification and regression heads on fixed local re",
+      "url": "http://arxiv.org/abs/2611.24367v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Worldviews in Large Language Models",
-      "summary": "Large language models (LLMs) are often described in terms of personas and this framing has become central to alignment research. In this paper, we argue that there is a deeper level of description that lies in the agent's worldviews, i.e., its beliefs about what reality is and how it works. Treating",
-      "url": "http://arxiv.org/abs/2611.22670v1",
+      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+      "summary": "Large language model (LLM) agents routinely interact with untrusted external data, exposing them to indirect prompt injection (IPI) attacks that hijack agents into executing attacker-chosen tasks. To uncover these vulnerabilities at scale, automated red-teaming methods often leverage reinforcement l",
+      "url": "http://arxiv.org/abs/2611.24362v1",
       "source": "arXiv",
       "time": "今日"
     }
