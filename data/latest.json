@@ -2,23 +2,23 @@
   "models": [],
   "products": [
     {
-      "title": "GPT-6.2 Astra and Sol",
-      "summary": "\n            Two new OpenAI models: frontier Astra and efficient Sol\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/openai",
+      "title": "Stripo Email Widgets",
+      "summary": "\n            Put a game, quiz or survey in your next email. No coding\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/stripo-email",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Mermaid Flow",
-      "summary": "\n            The visual builder for agentic workflows\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mermaid-chart",
+      "title": "Room AI",
+      "summary": "\n            Talk to it like a designer. Your room, one change at a time\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/room-ai-2",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "KaDeep AI",
-      "summary": "\n            Agentic QA, localization & accessibility: know when to ship\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/kadeep-ai",
+      "title": "Ableten Hybrid AI Travel Planner",
+      "summary": "\n            Get your group on the same map.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ableten-source-library",
       "source": "Product Hunt",
       "time": "今日"
     },
@@ -28,241 +28,178 @@
       "url": "https://www.producthunt.com/products/ody-ai-business-phone",
       "source": "Product Hunt",
       "time": "今日"
-    },
-    {
-      "title": "Incredible Agents",
-      "summary": "\n            Fast Voice AI that sees your screen and runs your agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/incredible",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AI Canvas",
-      "summary": "\n            A design system for AI agents to design badass interfaces\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ai-canvas-2",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AssemblyAI-STT-3.7",
-      "summary": "\n            Speech-to-Text for live calls, voice agents, and recordings\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/assemblyai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "GatherHQ Agent Research",
-      "summary": "\n            Let your agent take surveys for you\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/gatherhq-agent-research",
-      "source": "Product Hunt",
-      "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "AI will not make you rich (2025)",
-      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/\nComments URL: https://news.ycombinator.com/item?id=50555093\nPoints: 64\n# Comments: 40",
-      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase\nComments URL: https://news.ycombinator.com/item?id=50568643\nPoints: 20\n# Comments: 5",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
       "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 01:51:28 +0000"
+      "time": "Fri, 20 Nov 2026 00:37:31 +0000"
     },
     {
-      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
-      "summary": "Article URL: https://github.com/Ri4dH/failtrace\nComments URL: https://news.ycombinator.com/item?id=50554941\nPoints: 10\n# Comments: 0",
-      "url": "https://github.com/Ri4dH/failtrace",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "summary": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 213\n# Comments: 126",
+      "url": "https://git-aarvin.github.io/mei/",
       "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 01:30:43 +0000"
+      "time": "Thu, 19 Nov 2026 23:35:35 +0000"
     },
     {
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29378\nComments URL: https://news.ycombinator.com/item?id=50554908\nPoints: 17\n# Comments: 5",
-      "url": "https://arxiv.org/abs/2607.29378",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o\nComments URL: https://news.ycombinator.com/item?id=50564366\nPoints: 86\n# Comments: 154",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 01:27:02 +0000"
+      "time": "Thu, 19 Nov 2026 18:47:16 +0000"
     },
     {
-      "title": "Anthropic prices initial public offering",
-      "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering\nComments URL: https://news.ycombinator.com/item?id=50553843\nPoints: 120\n# Comments: 91",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\nComments URL: https://news.ycombinator.com/item?id=50564159\nPoints: 223\n# Comments: 121",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
       "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 23:30:09 +0000"
+      "time": "Thu, 19 Nov 2026 18:35:17 +0000"
     },
     {
-      "title": "LLM assisted reverse engineering",
-      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering\nComments URL: https://news.ycombinator.com/item?id=50553225\nPoints: 94\n# Comments: 28",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 421\n# Comments: 188",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 22:29:13 +0000"
+      "time": "Thu, 19 Nov 2026 17:30:44 +0000"
     },
     {
-      "title": "DaisyRose-27B",
-      "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b\nComments URL: https://news.ycombinator.com/item?id=50551046\nPoints: 153\n# Comments: 45",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "title": "Anthropic’s Nasdaq debut",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 981\n# Comments: 1908",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 19:39:16 +0000"
-    },
-    {
-      "title": "Genie 4 is now available",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\nComments URL: https://news.ycombinator.com/item?id=50550415\nPoints: 203\n# Comments: 146",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 18:49:51 +0000"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/\nComments URL: https://news.ycombinator.com/item?id=50549493\nPoints: 169\n# Comments: 109",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 17:45:47 +0000"
-    },
-    {
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime (https://maritime.sh). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.Demo: https://www.youtube.com/watch?v=lCWMdBQ96rYThere’s been an explosion of sandbox companies comin",
-      "url": "https://news.ycombinator.com/item?id=50549188",
-      "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 17:26:28 +0000"
-    },
-    {
-      "title": "Seven new models at scalable price-performance",
-      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 470\n# Comments: 327",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 16:08:24 +0000"
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 387\n# Comments: 170",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "source": "Hacker News",
-      "time": "Wed, 18 Nov 2026 15:49:34 +0000"
+      "time": "Thu, 19 Nov 2026 17:02:40 +0000"
     }
   ],
   "paper": [
     {
-      "title": "RSIBench-Infra: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?",
-      "summary": "Improving the efficiency of training and inference infrastructure is a practical component of recursive self-improvement. Existing benchmarks for agent-driven optimization largely focus on individual software layers such as kernel, leaving unclear whether agents can deliver end-to-end performance ga",
-      "url": "http://arxiv.org/abs/2611.24395v1",
+      "title": "When Do Rankings Beat Signs? Gradient Direction Recovery under Even Nuisance",
+      "summary": "Can ranking a batch of antipodal query pairs recover a gradient direction with fewer evaluations than using within-pair signs alone? We study fixed-center recovery in $d$ dimensions for a linear signal plus an unknown differentiable even nuisance, counting function evaluations and feedback rounds se",
+      "url": "http://arxiv.org/abs/2611.26055v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Temporal Rank in Recurrent Neural Networks",
-      "summary": "Recurrent Neural Networks (RNNs) are a natural framework for temporal modelling, yet are often dismissed due to their sequential, non-parallelisable computation and difficulty in capturing long-range dependencies, typically attributed to vanishing and exploding gradients. We identify a distinct and ",
-      "url": "http://arxiv.org/abs/2611.24394v1",
+      "title": "Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning",
+      "summary": "Humanoid locomotion research has advanced rapidly on walking and running, but \\emph {object-mediated} locomotion, in which a robot must coordinate its body with a passive external object, remains difficult. One challenging task is skateboarding, which requires simultaneous interaction with the groun",
+      "url": "http://arxiv.org/abs/2611.26054v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Enhancing Active Learning Performance with Initial Data Selection Based on Foundation Models",
-      "summary": "In active object detection, selecting the initial labeled pool is essential, especially in complex datasets with expensive labeling and low resource budget. This study presents an active learning framework designed to optimize the initial training cycle of active learning for the object detection ta",
-      "url": "http://arxiv.org/abs/2611.24384v1",
+      "title": "Studying AI Act Mentions: A first look at the impact of the European Union's AI regulation on Hugging Face",
+      "summary": "The European Union's Artificial Intelligence Act (AI Act) entered into force in August 2024, and its obligations apply in stages. Obligations for providers of general-purpose AI models have applied since August 2025, and transparency rules since August 2026. These obligations affect developers who s",
+      "url": "http://arxiv.org/abs/2611.26050v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "How to Turn an Attention Neural Network into an Interpretable Hard-Logic Predicate Circuit: Truth-Table Predicate Extraction and State-Machine Merging under Ship-of-Theseus Replacement",
-      "summary": "We convert a trained attention network as a whole, attention included, into a hard-logic predicate circuit that runs in its place. Every unit of the circuit is a 0/1 predicate on tokens, and every map between predicates is a minimised truth table. Short tables, such as the product of a query code an",
-      "url": "http://arxiv.org/abs/2611.24381v1",
+      "title": "Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data",
+      "summary": "Roadside LiDAR detectors are expensive to train on real labels, and digital twins promise to replace these labels, but a detector trained on a twin meets a different sensor, different objects and different annotation conventions on the real site. We describe the pipeline that placed first in the LUM",
+      "url": "http://arxiv.org/abs/2611.26035v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "MoE-Context: Show the Model Only What It Needs",
-      "summary": "AI agents read their whole history at every step. People do not work like that: we keep what the moment needs and hold the rest as a rough note we can recall. MoE-Context applies this to language models. The context is split into blocks. Before each step a fast yes or no pass decides which blocks th",
-      "url": "http://arxiv.org/abs/2611.24379v1",
+      "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines",
+      "summary": "Camera-equipped glasses can convert an examination page into a query to a vision-language model (VLM). Device detection addresses possession; a complementary question is whether an examination document can reduce the usefulness of an unauthorized capture. We present SEOYUN, an application-specific f",
+      "url": "http://arxiv.org/abs/2611.26033v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "LLM-Assisted Multi-Fidelity Bayesian Optimization: Fusing Expert Knowledge with Numerical Data",
-      "summary": "Multi-fidelity Bayesian optimization (MFBO) reduces engineering design cost by combining inexpensive low-fidelity (LF) models with a few accurate high-fidelity (HF) evaluations and sequentially selecting designs to evaluate. However, when HF data are scarce, the LF-HF discrepancy is difficult to lea",
-      "url": "http://arxiv.org/abs/2611.24377v1",
+      "title": "The Delayed Societal Cost of Unfairness",
+      "summary": "Fair machine learning typically evaluates the societal costs of a decision policy -- the loss incurred by the decision-maker (DM) and the unfair distribution of costs among demographic groups of decision-subjects (DS) -- on static data, where reducing one often comes at the expense of the other. Yet",
+      "url": "http://arxiv.org/abs/2611.26030v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "VAFL: A Vertical Analytic Federated Learning Mechanism for Efficient Crowdsourced Services via Closed-Form Solutions",
-      "summary": "Intelligent services often rely on complementary information held by different organizations, motivating Vertical Federated Learning without centralized raw-data pooling. We propose VAFL, a Vertical Analytic Federated Learning framework that fits classification and regression heads on fixed local re",
-      "url": "http://arxiv.org/abs/2611.24367v1",
+      "title": "Serialization Tax in Shared-Latent Exchangeable Decisions",
+      "summary": "Accurate item probabilities can produce inaccurate group-level decisions. A system may score each item separately, yet act on whether enough hidden items succeed: show a slate, defer a panel decision, or inspect a batch. When items share an uncertain latent state, independent marginalization preserv",
+      "url": "http://arxiv.org/abs/2611.26029v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
-      "summary": "Large language model (LLM) agents routinely interact with untrusted external data, exposing them to indirect prompt injection (IPI) attacks that hijack agents into executing attacker-chosen tasks. To uncover these vulnerabilities at scale, automated red-teaming methods often leverage reinforcement l",
-      "url": "http://arxiv.org/abs/2611.24362v1",
+      "title": "ForeSeek: Foresight-Driven Reasoning for Long-Form Video Understanding",
+      "summary": "Long-form video understanding, as a fundamental yet crucial vision task, is being revolutionized by multimodal large language model (MLLM)-based video agents. However, the retrieval-driven nature inherent to these agents creates a significant bottleneck, forcing them to reactively fetch clips based ",
+      "url": "http://arxiv.org/abs/2611.26024v1",
       "source": "arXiv",
       "time": "今日"
     }
