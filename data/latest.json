@@ -2,35 +2,77 @@
   "models": [],
   "products": [
     {
-      "title": "Stripo Email Widgets",
-      "summary": "\n            Put a game, quiz or survey in your next email. No coding\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/stripo-email",
+      "title": "Mailpipe",
+      "summary": "\n            Draft Apple Mail replies with your local AI agent CLI\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Room AI",
-      "summary": "\n            Talk to it like a designer. Your room, one change at a time\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/room-ai-2",
+      "title": "aiteam.space",
+      "summary": "\n            An AI team where every agent has its own computer\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/aiteam-space",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Ableten Hybrid AI Travel Planner",
-      "summary": "\n            Get your group on the same map.\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ableten-source-library",
+      "title": "Inkrail",
+      "summary": "\n            A cozy, nostalgic typewriter experience built for deep work.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/inkrail",
       "source": "Product Hunt",
       "time": "今日"
     },
     {
-      "title": "Ody Ai Business Phone",
-      "summary": "\n            Shared workspace + manageable AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ody-ai-business-phone",
+      "title": "greatai Review",
+      "summary": "\n            Free AI + human code review for open source & nonprofits\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "AI Gateway",
+      "summary": "\n            Manage your company's AI from one place\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ai-gateway-6",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
+    {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
@@ -65,141 +107,85 @@
       "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "source": "TechCrunch",
       "time": "今日"
-    },
-    {
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "source": "TechCrunch",
-      "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-      "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase\nComments URL: https://news.ycombinator.com/item?id=50568643\nPoints: 20\n# Comments: 5",
-      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes\nComments URL: https://news.ycombinator.com/item?id=50584429\nPoints: 7\n# Comments: 0",
+      "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
       "source": "Hacker News",
-      "time": "Fri, 20 Nov 2026 00:37:31 +0000"
+      "time": "Sat, 21 Nov 2026 00:33:40 +0000"
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "summary": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 213\n# Comments: 126",
-      "url": "https://git-aarvin.github.io/mei/",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "summary": "Article URL: https://ninlive.com/\nComments URL: https://news.ycombinator.com/item?id=50583274\nPoints: 155\n# Comments: 37",
+      "url": "https://ninlive.com/",
       "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 23:35:35 +0000"
+      "time": "Fri, 20 Nov 2026 22:30:47 +0000"
     },
     {
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o\nComments URL: https://news.ycombinator.com/item?id=50564366\nPoints: 86\n# Comments: 154",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\nComments URL: https://news.ycombinator.com/item?id=50583117\nPoints: 21\n# Comments: 8",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
       "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 18:47:16 +0000"
-    },
-    {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\nComments URL: https://news.ycombinator.com/item?id=50564159\nPoints: 223\n# Comments: 121",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 18:35:17 +0000"
-    },
-    {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 421\n# Comments: 188",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 17:30:44 +0000"
-    },
-    {
-      "title": "Anthropic’s Nasdaq debut",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 981\n# Comments: 1908",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "source": "Hacker News",
-      "time": "Thu, 19 Nov 2026 17:02:40 +0000"
+      "time": "Fri, 20 Nov 2026 22:18:20 +0000"
     }
   ],
   "paper": [
     {
-      "title": "When Do Rankings Beat Signs? Gradient Direction Recovery under Even Nuisance",
-      "summary": "Can ranking a batch of antipodal query pairs recover a gradient direction with fewer evaluations than using within-pair signs alone? We study fixed-center recovery in $d$ dimensions for a linear signal plus an unknown differentiable even nuisance, counting function evaluations and feedback rounds se",
-      "url": "http://arxiv.org/abs/2611.26055v1",
+      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+      "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that",
+      "url": "http://arxiv.org/abs/2611.26627v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning",
-      "summary": "Humanoid locomotion research has advanced rapidly on walking and running, but \\emph {object-mediated} locomotion, in which a robot must coordinate its body with a passive external object, remains difficult. One challenging task is skateboarding, which requires simultaneous interaction with the groun",
-      "url": "http://arxiv.org/abs/2611.26054v1",
+      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+      "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its",
+      "url": "http://arxiv.org/abs/2611.26624v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Studying AI Act Mentions: A first look at the impact of the European Union's AI regulation on Hugging Face",
-      "summary": "The European Union's Artificial Intelligence Act (AI Act) entered into force in August 2024, and its obligations apply in stages. Obligations for providers of general-purpose AI models have applied since August 2025, and transparency rules since August 2026. These obligations affect developers who s",
-      "url": "http://arxiv.org/abs/2611.26050v1",
+      "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+      "summary": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for",
+      "url": "http://arxiv.org/abs/2611.26619v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data",
-      "summary": "Roadside LiDAR detectors are expensive to train on real labels, and digital twins promise to replace these labels, but a detector trained on a twin meets a different sensor, different objects and different annotation conventions on the real site. We describe the pipeline that placed first in the LUM",
-      "url": "http://arxiv.org/abs/2611.26035v1",
+      "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+      "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for",
+      "url": "http://arxiv.org/abs/2611.26617v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines",
-      "summary": "Camera-equipped glasses can convert an examination page into a query to a vision-language model (VLM). Device detection addresses possession; a complementary question is whether an examination document can reduce the usefulness of an unauthorized capture. We present SEOYUN, an application-specific f",
-      "url": "http://arxiv.org/abs/2611.26033v1",
+      "title": "Bio-PM-Guided Synthetic IMU Generation",
+      "summary": "Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals. Even with balanced data, classifiers struggle to distinguish dynamically similar activity classe",
+      "url": "http://arxiv.org/abs/2611.26607v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "The Delayed Societal Cost of Unfairness",
-      "summary": "Fair machine learning typically evaluates the societal costs of a decision policy -- the loss incurred by the decision-maker (DM) and the unfair distribution of costs among demographic groups of decision-subjects (DS) -- on static data, where reducing one often comes at the expense of the other. Yet",
-      "url": "http://arxiv.org/abs/2611.26030v1",
+      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-fra",
+      "url": "http://arxiv.org/abs/2611.26603v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Serialization Tax in Shared-Latent Exchangeable Decisions",
-      "summary": "Accurate item probabilities can produce inaccurate group-level decisions. A system may score each item separately, yet act on whether enough hidden items succeed: show a slate, defer a panel decision, or inspect a batch. When items share an uncertain latent state, independent marginalization preserv",
-      "url": "http://arxiv.org/abs/2611.26029v1",
+      "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+      "summary": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports an",
+      "url": "http://arxiv.org/abs/2611.26601v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "ForeSeek: Foresight-Driven Reasoning for Long-Form Video Understanding",
-      "summary": "Long-form video understanding, as a fundamental yet crucial vision task, is being revolutionized by multimodal large language model (MLLM)-based video agents. However, the retrieval-driven nature inherent to these agents creates a significant bottleneck, forcing them to reactively fetch clips based ",
-      "url": "http://arxiv.org/abs/2611.26024v1",
+      "title": "Active Feature Acquisition by Distilling an Oracle Teacher",
+      "summary": "Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy that decides, per instance, which features to acquire under a budget. Existing AFA methods train thi",
+      "url": "http://arxiv.org/abs/2611.26598v1",
       "source": "arXiv",
       "time": "今日"
     }
