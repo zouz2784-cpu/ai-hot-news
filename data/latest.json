@@ -2,197 +2,176 @@
   "models": [],
   "products": [
     {
+      "title": "Gauth Personal Study Agent",
+      "summary": "\n            An AI study agent that remembers where you struggle\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "MAI Image 2.7",
+      "summary": "\n            Microsoft's image model with precise edits and Canvas\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mai-image-2-3",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Mobile Agent Testers",
+      "summary": "\n            Free open-source AI agents that beta-test your app on phones\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/mobile-agent-testers",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Othor AI",
+      "summary": "\n            Your Head of Intelligence. Know what your numbers are hiding\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/othor-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Webless Agents",
       "summary": "\n            Agents you want to put in front of customers\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/webless",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Glassmail",
-      "summary": "\n            A fast Mac email app with AI that never leaves your Mac\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/glassmail",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AI Context Flow MCP",
-      "summary": "\n            Memory you control, synced to every agent, tool and team\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/ai-context-flow",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "WaitFeed",
-      "summary": "\n            Tech feed inside agent wait time\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/waitfeed-2",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "SuperMailbox",
-      "summary": "\n            Your email in one inbox, ready for AI\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/supermailbox",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
     {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch",
-      "time": "今日"
-    },
-    {
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "summary": "Article URL: https://0rwx.com/\nComments URL: https://news.ycombinator.com/item?id=50605445\nPoints: 25\n# Comments: 6",
-      "url": "https://0rwx.com/",
+      "title": "Declare is a UI language for you and your AI",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/\nComments URL: https://news.ycombinator.com/item?id=50622854\nPoints: 33\n# Comments: 16",
+      "url": "https://davidtemkin.github.io/declarelang/",
       "source": "Hacker News",
-      "time": "Sun, 22 Nov 2026 23:53:00 +0000"
+      "time": "Tue, 24 Nov 2026 02:36:56 +0000"
     },
     {
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "summary": "Article URL: https://github.com/mjwsolo/localcode\nComments URL: https://news.ycombinator.com/item?id=50604540\nPoints: 32\n# Comments: 11",
-      "url": "https://github.com/mjwsolo/localcode",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "summary": "Article URL: https://arxiv.org/abs/2602.20031\nComments URL: https://news.ycombinator.com/item?id=50620328\nPoints: 51\n# Comments: 4",
+      "url": "https://arxiv.org/abs/2602.20031",
       "source": "Hacker News",
-      "time": "Sun, 22 Nov 2026 22:18:48 +0000"
+      "time": "Mon, 23 Nov 2026 22:29:48 +0000"
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\nComments URL: https://news.ycombinator.com/item?id=50603845\nPoints: 290\n# Comments: 124",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "summary": "Article URL: https://openai.com/index/introducing-shirudo/\nComments URL: https://news.ycombinator.com/item?id=50619630\nPoints: 62\n# Comments: 16",
+      "url": "https://openai.com/index/introducing-shirudo/",
       "source": "Hacker News",
-      "time": "Sun, 22 Nov 2026 21:01:16 +0000"
+      "time": "Mon, 23 Nov 2026 21:30:41 +0000"
     },
     {
-      "title": "Harvard CS 2881R AI Safety",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/\nComments URL: https://news.ycombinator.com/item?id=50602153\nPoints: 50\n# Comments: 7",
-      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "title": "Kagi Mail (public beta)",
+      "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta\nComments URL: https://news.ycombinator.com/item?id=50615481\nPoints: 393\n# Comments: 303",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
       "source": "Hacker News",
-      "time": "Sun, 22 Nov 2026 18:01:54 +0000"
+      "time": "Mon, 23 Nov 2026 17:17:01 +0000"
+    },
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 1479\n# Comments: 832",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "source": "Hacker News",
+      "time": "Mon, 23 Nov 2026 17:07:26 +0000"
     }
   ],
   "paper": [
     {
-      "title": "LingSante-Pulse: Unified Physiological Pretraining through Random-Feature Prediction and Cross-Modal Alignment",
-      "summary": "Clinical monitoring and wearable devices capture complementary physiological signals, but their partially overlapping modality coverage makes within-signal information and cross-modal relationships difficult to exploit jointly. We introduce LingSante-Pulse, a unified, general-purpose and flexible ph",
-      "url": "http://arxiv.org/abs/2611.27206v1",
+      "title": "TrialAgentBench: Evaluating AI Agents for Clinical-Trial Analysis and Long-Horizon Drug-Development Decisions",
+      "summary": "Clinical drug development is a long-horizon, high-stakes process requiring sequential decisions based on information that costs money and time to acquire. AI agents have demonstrated capabilities for scientific analysis, but there is no established way to evaluate them on these decisions, as real tr",
+      "url": "http://arxiv.org/abs/2611.30916v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Improved Accuracy Scaling with Problem Complexity in LLM Arithmetic Reasoning Using Executable Symbolic Representations",
-      "summary": "High accuracy on mathematical benchmarks does not establish whether reasoning remains reliable as problem complexity increases. We examine how executable symbolic representations change accuracy scaling in large language models compared with natural-language reasoning. To address this limitation, we",
-      "url": "http://arxiv.org/abs/2611.27203v1",
+      "title": "Replay Before You Reply: Second-Look Prompting for Unified Multimodal Encoding",
+      "summary": "Solving multimodal tasks requires Vision-Language Models (VLMs) to form a unified understanding of the image and the question text. However, under causal attention in current VLMs, a token can attend only to what precedes it. Whichever modality comes first is therefore encoded under partial observat",
+      "url": "http://arxiv.org/abs/2611.30909v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Backbone-Specific LoRA Geometry: Orthogonality, Superposition, and Provenance",
-      "summary": "Sharing one low-rank adaptation (LoRA) update across pretrained models simplifies deployment. Composition methods typically combine updates from a common backbone, while cross-model transfer transforms updates for a target backbone. The conditions for sharing updates across backbones while preservin",
-      "url": "http://arxiv.org/abs/2611.27201v1",
+      "title": "DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation",
+      "summary": "World models facilitate planning and control in robotic manipulation by enabling agents to anticipate the consequences of their actions. However, they typically rely on action-labelled interaction data that is costly to acquire and difficult to scale. These models are also often tied to the specific",
+      "url": "http://arxiv.org/abs/2611.30907v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "DepthMSA: Combinatorial Training and Budget-Aware Depth Allocation for Multimodal Sentiment Analysis",
-      "summary": "State-of-the-art multimodal sentiment analysis (MSA) models rely on large pretrained encoders, yet typically process every modality to its full depth, regardless of its computational cost or predictive contribution. This raises a fundamental question: how should limited computation be allocated acro",
-      "url": "http://arxiv.org/abs/2611.27198v1",
+      "title": "World Models as Native Latent Action Models",
+      "summary": "Large and diverse video sources, such as egocentric human video and heterogeneous robot recordings, carry rich dynamics but come either without actions or without a shared action space. Latent action models (LAMs) can recover these dynamics, but they train their inverse- and forward-dynamics models ",
+      "url": "http://arxiv.org/abs/2611.30898v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "EDAGoat: An EDA-Aware Agent for Project-Level GPU Optimization",
-      "summary": "GPU acceleration has transformed electronic design automation (EDA), yet further improving expert-engineered GPU tools still demands substantial manual effort. Automating this work calls for coding agents that can trace bottlenecks across host and device code while preserving correctness and design ",
-      "url": "http://arxiv.org/abs/2611.27196v1",
+      "title": "Predicting Rare-Mode Collapse in Recursive Generative Training from Single-Generation Calibration",
+      "summary": "Recursive generative training can preserve sample counts in a rare region while silently eroding its characteristic core. Mapping this finite-horizon collapse across real-data quotas, rare prevalences, and feedback perturbations via exhaustive multi-generation chains is computationally prohibitive. ",
+      "url": "http://arxiv.org/abs/2611.30897v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
-      "summary": "Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doubly stochastic matrices. In this work, we investigate how to effectively mix resid",
-      "url": "http://arxiv.org/abs/2611.27193v1",
+      "title": "Speak When You See It: Proactive Task Assistants Should Wait for Evidence, Not the Clock",
+      "summary": "Proactive assistants that guide people through physical tasks must decide, every few seconds, whether a step is complete and whether a mistake has occurred. We find that two benchmarks for this task largely reward knowing when rather than seeing what: a timer that never looks at the video, raising a",
+      "url": "http://arxiv.org/abs/2611.30895v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Lift Out, Kick In: Decoupling Event Effects for Time Series Forecasting",
-      "summary": "Real-world time series are often shaped by exogenous events whose effects are superimposed on the system's underlying temporal dynamics. Historical observations therefore entangle persistent dynamics with event-induced deviations, making it difficult to determine which patterns should be extrapolate",
-      "url": "http://arxiv.org/abs/2611.27191v1",
+      "title": "AeroJEPA: A Two-Stage Framework for Aerosol Forecasting with Joint-Embedding Predictive Learning",
+      "summary": "Aerosol forecasting requires integrating sparse ground observations and modeling meteorologically driven concentration evolution and spatial structure. However, analysis-initialized forecasts make limited explicit use of historical observations, while pointwise regression tends to smooth local varia",
+      "url": "http://arxiv.org/abs/2611.30891v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "A Frugal AI Framework for India: Responsible and Right-sized AI",
-      "summary": "India's AI debate often swings between two insufficient options: replicating the compute-intensive, capital-heavy foundation-model programmes of the United States or China, or remaining a downstream adopter of foreign AI with localised interfaces and safeguards. Neither serves a country that must de",
-      "url": "http://arxiv.org/abs/2611.27189v1",
+      "title": "Vitrify Exact Learning: exact differential equations, changes of variable and closed forms from numerical data",
+      "summary": "Symbolic regression searches a space of expression trees for a formula that fits data. Many functions of the sciences have no finite expression over the usual operations and still satisfy a linear differential equation with polynomial coefficients. Vitrify Exact Learning takes nu- merical values of ",
+      "url": "http://arxiv.org/abs/2611.30886v1",
       "source": "arXiv",
       "time": "今日"
     }
