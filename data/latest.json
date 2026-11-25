@@ -2,176 +2,204 @@
   "models": [],
   "products": [
     {
+      "title": "Cullman",
+      "summary": "\n            Faster voice agent evals, from simulation to production\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/cullman",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Ohhai",
+      "summary": "\n            Type messy, send clean: an AI keyboard for iPhone\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/ohhai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Clam AI",
+      "summary": "\n            Your inbox, safely shared with AI agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/clam-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Gauth Personal Study Agent",
       "summary": "\n            An AI study agent that remembers where you struggle\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/gauth-ai-course",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "MAI Image 2.7",
-      "summary": "\n            Microsoft's image model with precise edits and Canvas\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mai-image-2-3",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Mobile Agent Testers",
-      "summary": "\n            Free open-source AI agents that beta-test your app on phones\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/mobile-agent-testers",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Othor AI",
-      "summary": "\n            Your Head of Intelligence. Know what your numbers are hiding\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/othor-ai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Webless Agents",
-      "summary": "\n            Agents you want to put in front of customers\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/webless",
       "source": "Product Hunt",
       "time": "今日"
     }
   ],
   "biz": [
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
       "source": "TechCrunch",
       "time": "今日"
     },
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source": "TechCrunch",
+      "time": "今日"
+    },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
       "source": "TechCrunch",
       "time": "今日"
     }
   ],
   "industry": [
     {
-      "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/\nComments URL: https://news.ycombinator.com/item?id=50622854\nPoints: 33\n# Comments: 16",
-      "url": "https://davidtemkin.github.io/declarelang/",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50638220\nPoints: 28\n# Comments: 5",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "source": "Hacker News",
-      "time": "Tue, 24 Nov 2026 02:36:56 +0000"
+      "time": "Wed, 25 Nov 2026 03:47:42 +0000"
     },
     {
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "summary": "Article URL: https://arxiv.org/abs/2602.20031\nComments URL: https://news.ycombinator.com/item?id=50620328\nPoints: 51\n# Comments: 4",
-      "url": "https://arxiv.org/abs/2602.20031",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "summary": "Article URL: https://www.proofatlas.ai/open-problems/\nComments URL: https://news.ycombinator.com/item?id=50637871\nPoints: 13\n# Comments: 3",
+      "url": "https://www.proofatlas.ai/open-problems/",
       "source": "Hacker News",
-      "time": "Mon, 23 Nov 2026 22:29:48 +0000"
+      "time": "Wed, 25 Nov 2026 03:01:36 +0000"
     },
     {
-      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-      "summary": "Article URL: https://openai.com/index/introducing-shirudo/\nComments URL: https://news.ycombinator.com/item?id=50619630\nPoints: 62\n# Comments: 16",
-      "url": "https://openai.com/index/introducing-shirudo/",
+      "title": "Network Researchers Nail Down Theory of 'Perfect Resilience'",
+      "summary": "Article URL: https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/\nComments URL: https://news.ycombinator.com/item?id=50637866\nPoints: 7\n# Comments: 0",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
       "source": "Hacker News",
-      "time": "Mon, 23 Nov 2026 21:30:41 +0000"
+      "time": "Wed, 25 Nov 2026 03:00:39 +0000"
     },
     {
-      "title": "Kagi Mail (public beta)",
-      "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta\nComments URL: https://news.ycombinator.com/item?id=50615481\nPoints: 393\n# Comments: 303",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "summary": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being\nComments URL: https://news.ycombinator.com/item?id=50637686\nPoints: 73\n# Comments: 29",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "source": "Hacker News",
-      "time": "Mon, 23 Nov 2026 17:17:01 +0000"
+      "time": "Wed, 25 Nov 2026 02:34:21 +0000"
     },
     {
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 1479\n# Comments: 832",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/\nComments URL: https://news.ycombinator.com/item?id=50637056\nPoints: 139\n# Comments: 24",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
       "source": "Hacker News",
-      "time": "Mon, 23 Nov 2026 17:07:26 +0000"
+      "time": "Wed, 25 Nov 2026 00:54:49 +0000"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 214\n# Comments: 65",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "source": "Hacker News",
+      "time": "Tue, 24 Nov 2026 21:02:22 +0000"
     }
   ],
   "paper": [
     {
-      "title": "TrialAgentBench: Evaluating AI Agents for Clinical-Trial Analysis and Long-Horizon Drug-Development Decisions",
-      "summary": "Clinical drug development is a long-horizon, high-stakes process requiring sequential decisions based on information that costs money and time to acquire. AI agents have demonstrated capabilities for scientific analysis, but there is no established way to evaluate them on these decisions, as real tr",
-      "url": "http://arxiv.org/abs/2611.30916v1",
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how dif",
+      "url": "http://arxiv.org/abs/2611.33158v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Replay Before You Reply: Second-Look Prompting for Unified Multimodal Encoding",
-      "summary": "Solving multimodal tasks requires Vision-Language Models (VLMs) to form a unified understanding of the image and the question text. However, under causal attention in current VLMs, a token can attend only to what precedes it. Whichever modality comes first is therefore encoded under partial observat",
-      "url": "http://arxiv.org/abs/2611.30909v1",
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "summary": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that",
+      "url": "http://arxiv.org/abs/2611.33151v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation",
-      "summary": "World models facilitate planning and control in robotic manipulation by enabling agents to anticipate the consequences of their actions. However, they typically rely on action-labelled interaction data that is costly to acquire and difficult to scale. These models are also often tied to the specific",
-      "url": "http://arxiv.org/abs/2611.30907v1",
+      "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+      "summary": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to tr",
+      "url": "http://arxiv.org/abs/2611.33141v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "World Models as Native Latent Action Models",
-      "summary": "Large and diverse video sources, such as egocentric human video and heterogeneous robot recordings, carry rich dynamics but come either without actions or without a shared action space. Latent action models (LAMs) can recover these dynamics, but they train their inverse- and forward-dynamics models ",
-      "url": "http://arxiv.org/abs/2611.30898v1",
+      "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+      "summary": "Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra edit 131,072 of the model's weights without gradients and reported MATH-500 rising f",
+      "url": "http://arxiv.org/abs/2611.33133v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Predicting Rare-Mode Collapse in Recursive Generative Training from Single-Generation Calibration",
-      "summary": "Recursive generative training can preserve sample counts in a rare region while silently eroding its characteristic core. Mapping this finite-horizon collapse across real-data quotas, rare prevalences, and feedback perturbations via exhaustive multi-generation chains is computationally prohibitive. ",
-      "url": "http://arxiv.org/abs/2611.30897v1",
+      "title": "Exploratory Midtraining for Robot Policies",
+      "summary": "Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can be used to build coverage over diverse low-level behaviors that connect challengi",
+      "url": "http://arxiv.org/abs/2611.33130v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Speak When You See It: Proactive Task Assistants Should Wait for Evidence, Not the Clock",
-      "summary": "Proactive assistants that guide people through physical tasks must decide, every few seconds, whether a step is complete and whether a mistake has occurred. We find that two benchmarks for this task largely reward knowing when rather than seeing what: a timer that never looks at the video, raising a",
-      "url": "http://arxiv.org/abs/2611.30895v1",
+      "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
+      "summary": "Large language models (LLMs) can generate parallel programs, but their correctness and performance depend strongly on the instructions that guide generation. We present \\textsc{MetaFORGE}, an execution-grounded meta-learning framework that iteratively optimizes persistent natural-language skill spec",
+      "url": "http://arxiv.org/abs/2611.33119v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "AeroJEPA: A Two-Stage Framework for Aerosol Forecasting with Joint-Embedding Predictive Learning",
-      "summary": "Aerosol forecasting requires integrating sparse ground observations and modeling meteorologically driven concentration evolution and spatial structure. However, analysis-initialized forecasts make limited explicit use of historical observations, while pointwise regression tends to smooth local varia",
-      "url": "http://arxiv.org/abs/2611.30891v1",
+      "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+      "summary": "Speculative decoding accelerates large language model (LLM) inference by employing a lightweight draft model to propose draft tokens and allowing the target model to verify the new tokens in parallel to improve inference-time compute utilization. The speedup relies on the acceptance probability of d",
+      "url": "http://arxiv.org/abs/2611.33111v1",
       "source": "arXiv",
       "time": "今日"
     },
     {
-      "title": "Vitrify Exact Learning: exact differential equations, changes of variable and closed forms from numerical data",
-      "summary": "Symbolic regression searches a space of expression trees for a formula that fits data. Many functions of the sciences have no finite expression over the usual operations and still satisfy a linear differential equation with polynomial coefficients. Vitrify Exact Learning takes nu- merical values of ",
-      "url": "http://arxiv.org/abs/2611.30886v1",
+      "title": "Temporal Conditioning for Human Behavioral Cloning in Chess",
+      "summary": "Behavioral cloning models in chess typically predict human moves from board states while ignoring temporal inputs such as the remaining clock. However, time pressure is a major determinant of human decision-making quality, and temporal state is a missing dimension of human behavioral modeling. This ",
+      "url": "http://arxiv.org/abs/2611.33106v1",
       "source": "arXiv",
       "time": "今日"
     }
