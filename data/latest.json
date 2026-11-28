@@ -2,6 +2,27 @@
   "models": [],
   "products": [
     {
+      "title": "Prosed AI 2.0 + MCP",
+      "summary": "\n            Your company's words, assembled into a book\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Spark AI",
+      "summary": "\n            AI-native permitting & diligence services for data centers\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
+      "title": "Depost AI",
+      "summary": "\n            The LinkedIn AI agent that learns what works for your brand\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "source": "Product Hunt",
+      "time": "今日"
+    },
+    {
       "title": "Transept AI",
       "summary": "\n            Translate your book in your own voice and prove authorship \n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/transept-ai",
@@ -12,41 +33,6 @@
       "title": "Kagi Mail",
       "summary": "\n            Private email that puts people who need you first\n          \n          \n            Discussion\n            |\n            Link\n          ",
       "url": "https://www.producthunt.com/products/kagi",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "MusicProductionAI",
-      "summary": "\n            Make music from a prompt or a hum, right in your browser\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/musicproductionai",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "AgentDE",
-      "summary": "\n            Put all your coding agents in one native Mac window\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/agentde",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Fairwind",
-      "summary": "\n            Let a teacher or coach confirm your activities list\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/fairwind",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Hai",
-      "summary": "\n            Your AI assistant that actually makes the phone call\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/hai-4",
-      "source": "Product Hunt",
-      "time": "今日"
-    },
-    {
-      "title": "Airbot",
-      "summary": "\n            The AI chief of staff that texts you first\n          \n          \n            Discussion\n            |\n            Link\n          ",
-      "url": "https://www.producthunt.com/products/airbots",
       "source": "Product Hunt",
       "time": "今日"
     }
@@ -111,32 +97,39 @@
   ],
   "industry": [
     {
-      "title": "Google will show solo Android developers' phone numbers and addresses",
-      "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en\nComments URL: https://news.ycombinator.com/item?id=50662322\nPoints: 53\n# Comments: 21",
-      "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai\nComments URL: https://news.ycombinator.com/item?id=50673521\nPoints: 97\n# Comments: 78",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
       "source": "Hacker News",
-      "time": "Fri, 27 Nov 2026 03:11:41 +0000"
+      "time": "Sat, 28 Nov 2026 01:32:56 +0000"
     },
     {
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/\nComments URL: https://news.ycombinator.com/item?id=50661218\nPoints: 43\n# Comments: 20",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/\nComments URL: https://news.ycombinator.com/item?id=50672565\nPoints: 202\n# Comments: 67",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News",
-      "time": "Fri, 27 Nov 2026 00:03:18 +0000"
+      "time": "Fri, 27 Nov 2026 23:06:29 +0000"
     },
     {
-      "title": "AI made self-hosting fun again",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting\nComments URL: https://news.ycombinator.com/item?id=50660180\nPoints: 437\n# Comments: 235",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "summary": "Article URL: https://sessiongraph.ai/\nComments URL: https://news.ycombinator.com/item?id=50671651\nPoints: 37\n# Comments: 17",
+      "url": "https://sessiongraph.ai/",
       "source": "Hacker News",
-      "time": "Thu, 26 Nov 2026 21:47:45 +0000"
+      "time": "Fri, 27 Nov 2026 21:07:34 +0000"
     },
     {
-      "title": "An introduction to uncertainty in machine learning",
-      "summary": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/\nComments URL: https://news.ycombinator.com/item?id=50658498\nPoints: 36\n# Comments: 0",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "summary": "Article URL: https://github.com/skeeto/prospero\nComments URL: https://news.ycombinator.com/item?id=50671275\nPoints: 44\n# Comments: 9",
+      "url": "https://github.com/skeeto/prospero",
       "source": "Hacker News",
-      "time": "Thu, 26 Nov 2026 19:04:50 +0000"
+      "time": "Fri, 27 Nov 2026 20:23:14 +0000"
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "summary": "Article URL: https://neuralnetworksanddeeplearning.com/\nComments URL: https://news.ycombinator.com/item?id=50670757\nPoints: 437\n# Comments: 277",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "source": "Hacker News",
+      "time": "Fri, 27 Nov 2026 19:31:01 +0000"
     }
   ],
   "paper": [
